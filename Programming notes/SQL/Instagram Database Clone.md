@@ -59,3 +59,21 @@ created_at TIMESTAMP DEFAULT NOW()
 7. PRIMARY KEY(follower_id, followee_id) #imp 
 8. );
 ```
+
+### Tags
+
+```
+1. CREATE TABLE tags (
+2. id INTEGER AUTO_INCREMENT PRIMARY KEY,
+3. tag_name VARCHAR(255) UNIQUE,
+4. created_at TIMESTAMP DEFAULT NOW()
+5. );
+6. 
+7. CREATE TABLE photo_tags (
+8. photo_id INTEGER NOT NULL,
+9. tag_id INTEGER NOT NULL,
+10. FOREIGN KEY(photo_id) REFERENCES photos(id),
+11. FOREIGN KEY(tag_id) REFERENCES tags(id),
+12. PRIMARY KEY(photo_id, tag_id)
+13. );
+```
