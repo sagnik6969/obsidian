@@ -97,3 +97,14 @@
 
 ```
 ![[Pasted image 20231204112942.png]]
+## SQL modes basics
+
+```
+1. -- To View Modes:
+2. SELECT @@GLOBAL.sql_mode;
+3. SELECT @@SESSION.sql_mode;
+
+5. -- To Set Them:
+6. SET GLOBAL sql_mode = 'modes';
+7. SET SESSION sql_mode = 'modes';
+```
