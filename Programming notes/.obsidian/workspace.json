@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/section 15 Views, Modes, & more.md",
+                "file": "SQL/section 16 window function.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,13 +78,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6d8efcf62552782e",
@@ -100,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/section 15 Views, Modes, & more.md",
+                "file": "SQL/section 16 window function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/section 15 Views, Modes, & more.md",
+                "file": "SQL/section 16 window function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/section 15 Views, Modes, & more.md"
+                "file": "SQL/section 16 window function.md"
               }
             }
           }
@@ -163,8 +161,9 @@
   },
   "active": "ceac6c394f11319b",
   "lastOpenFiles": [
-    "Pasted image 20231203212927.png",
     "SQL/section 15 Views, Modes, & more.md",
+    "SQL/section 16 window function.md",
+    "Pasted image 20231203212927.png",
     "Pasted image 20231204114035.png",
     "Pasted image 20231204112942.png",
     "SQL/section 12 Constraints & alter table.md",

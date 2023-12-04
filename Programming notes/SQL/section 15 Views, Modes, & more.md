@@ -117,5 +117,5 @@
 2. `STRICT_TRANS_TABLES` => if disabled we can insert a string value into int  column and 0 will be inserted with a warning.
 3. `ONLY_FULL_GROUP_BY` => if enables in case of `group by` i am only allowed to select columns that are either aggregate (`MIN MAX AVG etc`) or columns which I have names in `group by` clause . #imp  If disabled only the first row will be shown.
 4. `NO_ZERO_IN_DATE,NO_ZERO_DATE` => not allowed to have 0s in date e.g. `2010-01-00`
-5. `STRICT_TRANS_TABLES` => manages invalid inserts and updates.
-6. 
+5. `STRICT_TRANS_TABLES` => manages invalid inserts and updates. It controls behavior's of other modes.
+
