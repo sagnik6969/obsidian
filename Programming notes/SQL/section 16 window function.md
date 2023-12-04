@@ -102,3 +102,4 @@
 12. salary - LAG(salary) OVER(PARTITION BY department ORDER BY salary DESC) as dept_salary_diff
 13. FROM employees;
 ```
+

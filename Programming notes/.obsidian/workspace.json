@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ee8c282deb0cab5b",
+        "id": "dfc7c62f470b79f7",
         "type": "tabs",
         "children": [
           {
-            "id": "dacfa1aef70e9836",
+            "id": "f895b2881a607925",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/section 12 Constraints & alter table.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ceac6c394f11319b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/section 16 window function.md",
+                "file": "SQL/Instagram Database Clone.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 200
   },
   "right": {
     "id": "6d8efcf62552782e",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/section 16 window function.md",
+                "file": "SQL/Instagram Database Clone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/section 16 window function.md",
+                "file": "SQL/Instagram Database Clone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/section 16 window function.md"
+                "file": "SQL/Instagram Database Clone.md"
               }
             }
           }
@@ -159,30 +146,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ceac6c394f11319b",
+  "active": "f895b2881a607925",
   "lastOpenFiles": [
-    "SQL/section 12 Constraints & alter table.md",
-    "Pasted image 20231204124340.png",
-    "Pasted image 20231204121543.png",
-    "Pasted image 20231204121320.png",
-    "Pasted image 20231204121158.png",
-    "SQL/section 15 Views, Modes, & more.md",
     "SQL/section 16 window function.md",
-    "Pasted image 20231203212927.png",
-    "Pasted image 20231204114035.png",
-    "Pasted image 20231204112942.png",
+    "SQL/Instagram Database Clone.md",
+    "attachments/Pasted image 20231204124340.png",
+    "attachments/Pasted image 20231204121158.png",
+    "attachments/Pasted image 20231204184944.png",
+    "SQL/section 12 Constraints & alter table.md",
+    "attachments/Pasted image 20231203212927.png",
+    "attachments",
+    "SQL/Pasted image 20231204184742.png",
+    "Pasted image 20231204184702.png",
+    "attachments/Pasted image 20231204121543.png",
+    "attachments/Pasted image 20231204121320.png",
+    "SQL/section 15 Views, Modes, & more.md",
+    "attachments/Pasted image 20231204114035.png",
+    "attachments/Pasted image 20231204112942.png",
     "SQL/section 14 Many to many.md",
     "SQL/Micellenius.md",
     "Pasted image 20231203212821.png.md",
-    "Pasted image 20231203212821.png",
-    "Pasted image 20231203212706.png",
     "SQL/section 13 One to many joins.md",
     "SQL/section 11 Comparison and logical operators.md",
     "Untitled.md",
     "Untitled 2.md",
     "Untitled 3.md",
     "Untitled 1.md",
-    "Pasted image 20231203104654.png",
     "SQL"
   ]
 }
