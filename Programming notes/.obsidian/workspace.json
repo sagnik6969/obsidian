@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,6 +161,7 @@
   },
   "active": "ceac6c394f11319b",
   "lastOpenFiles": [
+    "Pasted image 20231204112942.png",
     "SQL/section 12 Constraints & alter table.md",
     "SQL/section 15 Views, Modes, & more.md",
     "SQL/section 14 Many to many.md",

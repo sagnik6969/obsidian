@@ -74,7 +74,7 @@
 
 ## With rollup
 
-> Similar to normal `group by` except 1 extra row is added with  
+> Similar to normal `group by` except 1 extra row is added with avg of entire column.
 
 ```
 1. SELECT
@@ -82,3 +82,18 @@
 3. FROM
 4. full_reviews
 5. GROUP BY title WITH ROLLUP;
+
+8. SELECT
+9. title, COUNT(rating)
+10. FROM
+11. full_reviews
+12. GROUP BY title WITH ROLLUP;
+
+15. SELECT
+16. first_name, released_year, genre, AVG(rating)
+17. FROM
+18. full_reviews
+19. GROUP BY released_year , genre , first_name WITH ROLLUP;
+
+```
+![[Pasted image 20231204112942.png]]
