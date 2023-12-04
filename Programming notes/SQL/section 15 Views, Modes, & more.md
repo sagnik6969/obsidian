@@ -60,7 +60,7 @@
 - used with `group by`
 - refine based on aggregation functions. 
 - used to filter the groups which we get on `group by`
--  In case of group by if all the rows with in a group has same value then there is no problem. However if rows have different values in a group and that row is selected then MySql will give an error. 
+-  In case of group by if all the rows with in a group has same value then there is no problem. However if rows have different values in a group and that row is selected then MySql will give an error. #imp
 ```sql
 1. SELECT
 2. title,
