@@ -42,5 +42,6 @@
 
 > Only used in case of partition
 
-1. RANK => ` select  *,rank() over(partition by department order by salary)  from employees;` displays salary rank of each employee on the department. lowest salary has rank 1.
-2. 
+1. `RANK()` => ` select  *,rank() over(partition by department order by salary)  from employees;` displays salary rank of each employee on the department. lowest salary has rank 1.
+2. `ROW-NUMBER()` => similar to rank => rank allows for ties but row number does not allow tie. If 2 employees have same salary with in a department then their rank will be same (we end up skipping ranks) but row number will be different.
+3. `DENSE_RANK()` => works similar to rank() => in rank in case of tie ranks are skipped => in dense rank rands are not 
