@@ -76,7 +76,7 @@
 
 > Similar to normal `group by` except 1 extra row is added with avg of entire column.
 
-```
+```sql
 1. SELECT
 2. title, AVG(rating)
 3. FROM
@@ -111,4 +111,7 @@
 ![[Pasted image 20231204114035.png]]
 - SQL modes are sql settings.
 - session modes are applicable to current session.
-- Global modes are applicable to all th
+- Global modes are applicable all the time.
+### Different sql modes
+1. `ERROR_FOR_DIVISION_BY_ZERO` => shows warning when we divide by 0.
+2. `STRICT_TRANS_TABLES`
