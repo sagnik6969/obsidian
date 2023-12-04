@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Instagram Database Clone.md",
+                "file": "SQL/Micellenius.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Instagram Database Clone.md",
+                "file": "SQL/Micellenius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Instagram Database Clone.md",
+                "file": "SQL/Micellenius.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Instagram Database Clone.md"
+                "file": "SQL/Micellenius.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "f895b2881a607925",
   "lastOpenFiles": [
+    "SQL/Instagram Database Clone.md",
+    "SQL/Micellenius.md",
     "attachments/Pasted image 20231204192959.png",
     "attachments/Pasted image 20231204185805.png",
     "SQL/section 16 window function.md",
-    "SQL/Instagram Database Clone.md",
     "attachments/Pasted image 20231204124340.png",
     "attachments/Pasted image 20231204121158.png",
     "attachments/Pasted image 20231204184944.png",
@@ -163,9 +164,7 @@
     "attachments/Pasted image 20231204121543.png",
     "attachments/Pasted image 20231204121320.png",
     "SQL/section 15 Views, Modes, & more.md",
-    "attachments/Pasted image 20231204114035.png",
     "SQL/section 14 Many to many.md",
-    "SQL/Micellenius.md",
     "Pasted image 20231203212821.png.md",
     "SQL/section 13 One to many joins.md",
     "SQL/section 11 Comparison and logical operators.md",

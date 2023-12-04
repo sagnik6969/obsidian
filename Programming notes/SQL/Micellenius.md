@@ -6,3 +6,5 @@ round(1.12345,2) => 1.12
 2. 'ACTIVE',
 3. 'INACTIVE') AS status
 ```
+`dayname(created_at)` => returns Monday, Tuesdays,  etc
+`weekday(created_at)` => returns 0,1,2,3,4,5,6,7 etc
