@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#imp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6d8efcf62552782e",
@@ -160,7 +161,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b954b9ba2bad1429",
+  "active": "ceac6c394f11319b",
   "lastOpenFiles": [
     "SQL/section 12 Constraints & alter table.md",
     "SQL/section 15 Views, Modes, & more.md",
