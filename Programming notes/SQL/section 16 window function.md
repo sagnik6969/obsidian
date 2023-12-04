@@ -20,4 +20,22 @@
 ```
 
 
-## Or
+## Order by with window
+
+-  Change the order of rows within the window (PARTITION)
+- `select  *,sum(salary) over(partition by department order by salary)  from employees;` => display the rolling sum over a department.
+- `select  *,avg(salary) over(partition by department order by salary)  from employees;` => display the rolling average.
+- `select  *,max(salary) over(partition by department order by salary)  from employees;` => display the rolling max
+
+![[Pasted image 20231204124340.png]]
+```
+1. SELECT
+2. emp_no,
+3. department,
+4. salary,
+5. SUM(salary) OVER(PARTITION BY department ORDER BY salary) AS rolling_dept_salary,
+6. SUM(salary) OVER(PARTITION BY department) AS total_dept_salary
+7. FROM employees;
+```
+
+## Solly 
