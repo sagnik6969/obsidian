@@ -38,4 +38,9 @@
 7. FROM employees;
 ```
 
-## Solly 
+## Solely window functions
+
+> Only used in case of partition
+
+1. RANK => ` select  *,rank() over(partition by department order by salary)  from employees;` displays salary rank of each employee on the department. lowest salary has rank 1.
+2. 
