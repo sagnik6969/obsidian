@@ -34,3 +34,15 @@ created_at TIMESTAMP DEFAULT NOW()
 8. FOREIGN KEY(user_id) REFERENCES users(id)
 9. );
 ```
+### Likes
+
+```
+1. CREATE TABLE likes (
+2. user_id INTEGER NOT NULL,
+3. photo_id INTEGER NOT NULL,
+4. created_at TIMESTAMP DEFAULT NOW(),
+5. FOREIGN KEY(user_id) REFERENCES users(id),
+6. FOREIGN KEY(photo_id) REFERENCES photos(id),
+7. PRIMARY KEY(user_id, photo_id)
+8. );
+```
