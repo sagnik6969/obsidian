@@ -61,7 +61,7 @@
 - refine based on aggregation functions. 
 - used to filter the groups which we get on `group by`
 -  In case of group by if all the rows with in a group has same value then there is no problem. However if rows have different values in a group and that row is selected then MySql will give an error. #imp
-- where selects the rows before grouping. having selects th
+- `where` selects the rows before grouping. `having` selects the rows after grouping.
 
 ```sql
 1. SELECT
@@ -71,3 +71,14 @@
 5. FROM full_reviews
 6. GROUP BY title HAVING COUNT(rating) > 1;
 ```
+
+## With rollup
+
+> Similar to normal `group by` except 1 extra row is added with  
+
+```
+1. SELECT
+2. title, AVG(rating)
+3. FROM
+4. full_reviews
+5. GROUP BY title WITH ROLLUP;
