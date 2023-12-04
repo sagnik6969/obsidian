@@ -10,3 +10,27 @@ created_at TIMESTAMP DEFAULT NOW()
 ```
 
 
+### Photos schema
+
+```
+1. CREATE TABLE photos (
+2. id INTEGER AUTO_INCREMENT PRIMARY KEY,
+3. image_url VARCHAR(255) NOT NULL,
+4. user_id INTEGER NOT NULL,
+5. created_at TIMESTAMP DEFAULT NOW(),
+6. FOREIGN KEY(user_id) REFERENCES users(id)
+7. );
+```
+### Comments
+
+```
+1. CREATE TABLE comments (
+2. id INTEGER AUTO_INCREMENT PRIMARY KEY,
+3. comment_text VARCHAR(255) NOT NULL,
+4. photo_id INTEGER NOT NULL,
+5. user_id INTEGER NOT NULL,
+6. created_at TIMESTAMP DEFAULT NOW(),
+7. FOREIGN KEY(photo_id) REFERENCES photos(id),
+8. FOREIGN KEY(user_id) REFERENCES users(id)
+9. );
+```
