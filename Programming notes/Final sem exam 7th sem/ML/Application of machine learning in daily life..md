@@ -10,3 +10,7 @@ AI is quickly becoming the future of advertising. Advertisers are already using 
 Machine learning has so far proven to be the most effective and the favored approach for spam detection by email providers. A typical spam filter has a number of rules and algorithms that minimize the amount of spam that can reach us.
 ### SURVEILLANCE
 It is nearly impossible for a human being to keep a constant eye on too many monitors of a CCTV network at the same time. AI is used to automate this process and automatically detect potential threats.
+### GOOGLE MAPS 
+AI is a critical part of what makes Google Maps so helpful. Google trained its AI using machine learning models on data sets containing information from phones using Google Maps. Then it uses the trained model to determine the best route between two locations.
+### SELF-DRIVING CARS 
+Artificial intelligence powers self-driving vehicle frameworks. Engineers of selfdriving vehicles utilize immense information from image recognition systems, alongside AI and neural networks, to assemble frameworks that can drive self-sufficiently.
