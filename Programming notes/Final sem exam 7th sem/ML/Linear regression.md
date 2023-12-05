@@ -43,7 +43,12 @@ response.
 3. Improve 𝑤⃗⃗ by using: 𝑤⃗⃗ (𝑘+1) = 𝑤⃗⃗ (𝑘) − 𝛼∇𝑤⃗⃗ 𝐽(𝑘) in the 𝑘th iteration.
    ![[Pasted image 20231206002117.png]]
    ![[Pasted image 20231206002213.png]]
+
+
+   4. If stopping criterion is met, stop. Otherwise, go to Step 3.
+   ![[Pasted image 20231206002831.png]]
    
+
 
 ### Model Evaluation:
 
