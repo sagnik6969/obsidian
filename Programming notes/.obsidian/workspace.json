@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final sem exam 7th sem/Biology.md",
+                "file": "Final sem exam 7th sem/ML/Application of machine learning in daily life..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final sem exam 7th sem/Biology.md",
+                "file": "Final sem exam 7th sem/ML/Application of machine learning in daily life..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final sem exam 7th sem/Biology.md",
+                "file": "Final sem exam 7th sem/ML/Application of machine learning in daily life..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final sem exam 7th sem/Biology.md"
+                "file": "Final sem exam 7th sem/ML/Application of machine learning in daily life..md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "f895b2881a607925",
   "lastOpenFiles": [
-    "SQL/Micellenius.md",
     "Final sem exam 7th sem/Biology.md",
+    "Final sem exam 7th sem/ML/Application of machine learning in daily life..md",
+    "Final sem exam 7th sem/ML",
+    "SQL/Micellenius.md",
     "Final sem exam 7th sem",
     "SQL/Instagram Database Clone.md",
     "attachments/Pasted image 20231204192959.png",
