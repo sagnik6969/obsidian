@@ -30,6 +30,21 @@ The bias a represents the prediction baseline when all the features have  values
 - Each b represents a numeric value that describes the intensity of the relationship to the  
 response.
 
+### Gradient decent algorithm / Iterative linear regression
+
+1. Take decision on  
+        a. 𝛼, the learning rate  
+        b. 𝜖, the precision (threshold)  
+        c. Stopping criterion
+2. Initialize the weight vector 𝑤⃗⃗ (0) prior to the first iteration:  
+        i. Usually initialized with 0’s or close to 0’s  
+        OR  
+        ii. May be done randomly
+3. Improve 𝑤⃗⃗ by using: 𝑤⃗⃗ (𝑘+1) = 𝑤⃗⃗ (𝑘) − 𝛼∇𝑤⃗⃗ 𝐽(𝑘) in the 𝑘th iteration.
+   ![[Pasted image 20231206002117.png]]
+   ![[Pasted image 20231206002213.png]]
+   
+
 ### Model Evaluation:
 
 To assess how well the model fits the data, various metrics such as the coefficient of determination (R2) can be used. �2R2 measures the proportion of the variance in the dependent variable that is predictable from the independent variable(s).
