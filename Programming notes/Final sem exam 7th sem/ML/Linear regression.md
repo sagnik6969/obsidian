@@ -7,20 +7,28 @@ Here's a detailed explanation of linear regression:
 
 In simple linear regression, with one independent variable, the equation of the regression line is given by:
 
-![[Pasted image 20231205234623.png]]
-
+`Y = bx + a`
 
 where:
 
 - Y is the dependent variable.
 - X is the independent variable.
-- β0​ is the intercept (the value of Y when X is 0).
-- β1​ is the slope (the change in Y for a one-unit change in X).
-- ϵ is the error term, representing the unobserved factors that affect Y but are not accounted for in the model.
+- β​ is the intercept (the value of Y when X is 0).
+- a​ is the slope (the change in Y for a one-unit change in X).
 
 ### Objective:
 
-The objective in linear regression is to find the values of β0​ and β1​ that minimize the sum of squared differences between the observed values (Yi​) and the values predicted by the regression line (Yi​). This is often referred to as the least squares method.
+The objective in linear regression is to find the values of b​ and a​ that minimize the sum of squared differences between the observed values (Yi​) and the values predicted by the regression line (Yi​) using `gradient decent algorithm`. This is often referred to as the least squares method.
+
+![[Pasted image 20231206000457.png]]
+
+
+### Example
+Suppose the response vector y represents the sales of a product  
+ `sales = advertising * badv + shops * bshop + price * bprice + a`  
+The bias a represents the prediction baseline when all the features have  values of zero.
+- Each b represents a numeric value that describes the intensity of the relationship to the  
+response.
 
 ### Model Evaluation:
 

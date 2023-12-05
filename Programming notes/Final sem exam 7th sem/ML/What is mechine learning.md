@@ -1,0 +1,2 @@
+- The central idea is that you can represent reality using a mathematical function.  
+- The machine learning algorithm does not know this function in advance but can  guess it after having seen some data.     
