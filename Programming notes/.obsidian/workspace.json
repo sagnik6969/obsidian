@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Micellenius.md",
+                "file": "Final sem exam 7th sem/Biology.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Micellenius.md",
+                "file": "Final sem exam 7th sem/Biology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Micellenius.md",
+                "file": "Final sem exam 7th sem/Biology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Micellenius.md"
+                "file": "Final sem exam 7th sem/Biology.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "f895b2881a607925",
   "lastOpenFiles": [
-    "SQL/Instagram Database Clone.md",
     "SQL/Micellenius.md",
+    "Final sem exam 7th sem/Biology.md",
+    "Final sem exam 7th sem",
+    "SQL/Instagram Database Clone.md",
     "attachments/Pasted image 20231204192959.png",
     "attachments/Pasted image 20231204185805.png",
     "SQL/section 16 window function.md",
