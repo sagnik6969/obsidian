@@ -54,25 +54,23 @@ response.
 
 To assess how well the model fits the data, various metrics such as the coefficient of determination (R2) can be used. �2R2 measures the proportion of the variance in the dependent variable that is predictable from the independent variable(s).
 
-### Assumptions of Linear Regression:
+### Types of gradient descent
 
-Linear regression makes several assumptions, including:
-
-1. **Linearity:** The relationship between the variables is linear.
-2. **Independence:** Observations are independent.
-3. **Homoscedasticity:** Residuals have constant variance.
-4. **Normality:** Residuals are normally distributed.
-5. **No or little multicollinearity:** Independent variables are not highly correlated.
-
-### Multiple Linear Regression:
-
-Linear regression can be extended to multiple independent variables (features) with the equation:
-
-![[Pasted image 20231205235006.png]]
-
-
-### Practical Application:
-
-Linear regression is widely used in various fields, including economics, finance, biology, and social sciences, to model and analyze relationships between variables.
-
-In summary, linear regression is a powerful statistical tool for modeling and analyzing the relationship between variables, providing insights into the underlying patterns in the data and making predictions based on those patterns.
+1. **Batch Gradient Descent:** This is a type of gradient descent which processes all the  
+training examples for each iteration of gradient descent. But if the number of training  
+examples is large, then batch gradient descent is computationally very expensive.  
+Hence if the number of training examples is large, then batch gradient descent is not  
+preferred. Instead, we prefer to use stochastic gradient descent or mini-batch gradient  
+descent.  
+2. **Stochastic Gradient Descent:** This is a type of gradient descent which processes 1  
+training example per iteration. Hence, the parameters are being updated even after one  
+iteration in which only a single example has been processed. Hence this is quite faster  
+than batch gradient descent. But again, when the number of training examples is large,  
+even then it processes only one example which can be additional overhead for the  
+system as the number of iterations will be quite large.  
+3. **Mini Batch gradient descent:** This is a type of gradient descent which works faster  
+than both batch gradient descent and stochastic gradient descent. Here 𝑏 examples  
+where 𝑏 < 𝑚 are processed per iteration, 𝑚 being the total number of examples in the  
+dataset. So even if the number of training examples is large, it is processed in batches  
+of 𝑏 training examples in one go. Thus, it works for larger training examples and that  
+too with lesser number of iterations.
