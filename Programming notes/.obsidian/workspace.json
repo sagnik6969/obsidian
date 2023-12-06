@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Micellenius.md",
-                "mode": "source",
+                "file": "SQL/section 11 Comparison and logical operators.md",
+                "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "eea5070eb5314f69",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 339.5
   },
   "right": {
     "id": "6d8efcf62552782e",
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Micellenius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Micellenius.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SQL/Micellenius.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +151,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f895b2881a607925",
+  "active": "eea5070eb5314f69",
   "lastOpenFiles": [
+    "SQL/section 11 Comparison and logical operators.md",
+    "SQL/Micellenius.md",
     "Final sem exam 7th sem/ML/Linear regression.md",
     "attachments/Pasted image 20231206002831.png",
     "attachments/Pasted image 20231206002213.png",
@@ -159,7 +166,6 @@
     "attachments/Pasted image 20231205234623.png",
     "Final sem exam 7th sem/Biology.md",
     "Final sem exam 7th sem/ML",
-    "SQL/Micellenius.md",
     "Final sem exam 7th sem",
     "SQL/Instagram Database Clone.md",
     "attachments/Pasted image 20231204192959.png",
@@ -173,7 +179,6 @@
     "SQL/section 14 Many to many.md",
     "Pasted image 20231203212821.png.md",
     "SQL/section 13 One to many joins.md",
-    "SQL/section 11 Comparison and logical operators.md",
     "Untitled.md",
     "Untitled 2.md",
     "Untitled 3.md",
