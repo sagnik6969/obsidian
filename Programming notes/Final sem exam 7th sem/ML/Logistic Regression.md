@@ -10,3 +10,7 @@
 1. A solution for classification leads to logistic regression.  
 2. Instead of fitting a straight line or hyperplane, the logistic regression model uses the logistic function to squeeze the output of a linear equation between 0 and 1.  The logistic function is defined as:  The dependent variable y is transformed to logistic(y). Here it is 𝜂.  
 4. 𝑙𝑜𝑔𝑖𝑠𝑡𝑖𝑐(𝜂) = 1  / 1 + 𝑒𝑥𝑝(−𝜂) = 1 / 1 + exp(-(bx + a))
+
+![[Pasted image 20231206173316.png]]
+![[Pasted image 20231206173502.png]]
+![[Pasted image 20231206173826.png]]
