@@ -78,7 +78,7 @@
 
 ## Deleting columns
 
-> Remember drop keyword
+> Remember **drop** keyword
 
 ```
 1. ALTER TABLE companies DROP COLUMN phone;

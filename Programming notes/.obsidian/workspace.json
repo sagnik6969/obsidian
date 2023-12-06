@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/section 11 Comparison and logical operators.md",
+                "file": "SQL/section 13 One to many joins.md",
                 "mode": "preview",
                 "source": false
               }
@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SQL/section 13 One to many joins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SQL/section 13 One to many joins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SQL/section 13 One to many joins.md"
+              }
             }
           }
         ]
@@ -151,8 +154,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eea5070eb5314f69",
+  "active": "f895b2881a607925",
   "lastOpenFiles": [
+    "SQL/section 12 Constraints & alter table.md",
     "SQL/section 11 Comparison and logical operators.md",
     "SQL/Micellenius.md",
     "Final sem exam 7th sem/ML/Linear regression.md",
@@ -173,7 +177,6 @@
     "SQL/section 16 window function.md",
     "attachments/Pasted image 20231204124340.png",
     "attachments/Pasted image 20231204121158.png",
-    "SQL/section 12 Constraints & alter table.md",
     "attachments",
     "SQL/section 15 Views, Modes, & more.md",
     "SQL/section 14 Many to many.md",
