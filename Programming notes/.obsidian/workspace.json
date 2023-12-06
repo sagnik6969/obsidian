@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/section 16 window function.md",
-                "mode": "preview",
+                "file": "Final sem exam 7th sem/ML/Logistic Regression.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/section 16 window function.md",
+                "file": "Final sem exam 7th sem/ML/Logistic Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/section 16 window function.md",
+                "file": "Final sem exam 7th sem/ML/Logistic Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/section 16 window function.md"
+                "file": "Final sem exam 7th sem/ML/Logistic Regression.md"
               }
             }
           }
@@ -156,6 +156,9 @@
   },
   "active": "f895b2881a607925",
   "lastOpenFiles": [
+    "Final sem exam 7th sem/ML/Linear regression.md",
+    "Final sem exam 7th sem/ML/Logistic Regression.md",
+    "SQL/section 16 window function.md",
     "SQL/section 15 Views, Modes, & more.md",
     "SQL/section 14 Many to many.md",
     "SQL/section 13 One to many joins.md",
@@ -163,8 +166,6 @@
     "SQL/section 11 Comparison and logical operators.md",
     "SQL/Micellenius.md",
     "SQL/Instagram Database Clone.md",
-    "SQL/section 16 window function.md",
-    "Final sem exam 7th sem/ML/Linear regression.md",
     "attachments/Pasted image 20231206002831.png",
     "attachments/Pasted image 20231206002213.png",
     "attachments/Pasted image 20231206002117.png",
