@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Logistic Regression.md",
+                "file": "SQL/Micellenius.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Logistic Regression.md",
+                "file": "SQL/Micellenius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Logistic Regression.md",
+                "file": "SQL/Micellenius.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Logistic Regression.md"
+                "file": "SQL/Micellenius.md"
               }
             }
           }
@@ -156,6 +156,8 @@
   },
   "active": "f895b2881a607925",
   "lastOpenFiles": [
+    "SQL/section 16 window function.md",
+    "Final sem exam 7th sem/ML/Logistic Regression.md",
     "attachments/Pasted image 20231206174502.png",
     "attachments/Pasted image 20231206174254.png",
     "attachments/Pasted image 20231206173939.png",
@@ -163,8 +165,6 @@
     "attachments/Pasted image 20231206173502.png",
     "attachments/Pasted image 20231206173316.png",
     "Final sem exam 7th sem/ML/Linear regression.md",
-    "Final sem exam 7th sem/ML/Logistic Regression.md",
-    "SQL/section 16 window function.md",
     "SQL/section 15 Views, Modes, & more.md",
     "SQL/section 14 Many to many.md",
     "SQL/section 13 One to many joins.md",
@@ -178,7 +178,6 @@
     "attachments/Pasted image 20231206000457.png",
     "Final sem exam 7th sem/ML/Application of machine learning in daily life..md",
     "Final sem exam 7th sem/ML/What is mechine learning.md",
-    "attachments/Pasted image 20231205235006.png",
     "Final sem exam 7th sem/Biology.md",
     "Final sem exam 7th sem/ML",
     "Final sem exam 7th sem",

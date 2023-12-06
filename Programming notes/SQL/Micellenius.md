@@ -18,6 +18,7 @@ CONCAT_WS ⇒ concatinate with separator. separator should be the first argument
 
 => `id INT(10) UNSIGNED NOT NULL AUTO_INCREMENT`
 => different datatypes in sql.
+=> order by and limit is faster then subquery.
 
 
 
