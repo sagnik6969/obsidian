@@ -19,4 +19,12 @@
 
 ### Steps of principal component analysis
 
+![[Pasted image 20231206223942.png]]
+Stop thr process when slop does not change.
+![[Pasted image 20231206224035.png]]
+![[Pasted image 20231206224232.png]]
+
+![[Pasted image 20231206224257.png]]
+
+
 
