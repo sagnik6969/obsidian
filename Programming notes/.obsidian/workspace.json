@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/section 15 Views, Modes, & more.md",
+                "file": "SQL/section 16 window function.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/section 15 Views, Modes, & more.md",
+                "file": "SQL/section 16 window function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/section 15 Views, Modes, & more.md",
+                "file": "SQL/section 16 window function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/section 15 Views, Modes, & more.md"
+                "file": "SQL/section 16 window function.md"
               }
             }
           }
@@ -156,6 +156,8 @@
   },
   "active": "f895b2881a607925",
   "lastOpenFiles": [
+    "SQL/section 15 Views, Modes, & more.md",
+    "SQL/section 16 window function.md",
     "SQL/section 14 Many to many.md",
     "SQL/section 13 One to many joins.md",
     "SQL/section 12 Constraints & alter table.md",
@@ -176,11 +178,9 @@
     "SQL/Instagram Database Clone.md",
     "attachments/Pasted image 20231204192959.png",
     "attachments/Pasted image 20231204185805.png",
-    "SQL/section 16 window function.md",
     "attachments/Pasted image 20231204124340.png",
     "attachments/Pasted image 20231204121158.png",
     "attachments",
-    "SQL/section 15 Views, Modes, & more.md",
     "Pasted image 20231203212821.png.md",
     "Untitled.md",
     "Untitled 2.md",
