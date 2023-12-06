@@ -13,4 +13,5 @@
 - supervised learning algorithm
 - Based on base theorem
 - Naive stands for all the variables are independent.
-- 
+![[Pasted image 20231206191126.png]]
+![[Pasted image 20231206191502.png]]
