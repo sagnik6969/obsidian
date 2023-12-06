@@ -10,3 +10,9 @@ round(1.12345,2) => 1.12
 `weekday(created_at)` => returns 0,1,2,3,4,5,6,7 etc
 
 => where clause goes before group by telling what data you want to group.
+=>= is case insensitive.
+=> UPDATE cats SET breed='Shorthair' WHERE breed='Tabby'; => **no into keyword in update**
+=> DELETE FORM
+=> 1. `SELECT CONCAT_WS('-',title, author_fname, author_lname) FROM books;`
+CONCAT_WS ⇒ concatinate with separator. separator should be the first argument.
+
