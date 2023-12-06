@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Micellenius.md",
-                "mode": "source",
+                "file": "SQL/section 11 Comparison and logical operators.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Micellenius.md",
+                "file": "SQL/section 11 Comparison and logical operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Micellenius.md",
+                "file": "SQL/section 11 Comparison and logical operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Micellenius.md"
+                "file": "SQL/section 11 Comparison and logical operators.md"
               }
             }
           }
@@ -156,13 +156,14 @@
   },
   "active": "f895b2881a607925",
   "lastOpenFiles": [
+    "SQL/Micellenius.md",
+    "SQL/Instagram Database Clone.md",
     "SQL/section 16 window function.md",
     "SQL/section 15 Views, Modes, & more.md",
     "SQL/section 14 Many to many.md",
     "SQL/section 13 One to many joins.md",
     "SQL/section 12 Constraints & alter table.md",
     "SQL/section 11 Comparison and logical operators.md",
-    "SQL/Micellenius.md",
     "Final sem exam 7th sem/ML/Linear regression.md",
     "attachments/Pasted image 20231206002831.png",
     "attachments/Pasted image 20231206002213.png",
@@ -175,7 +176,6 @@
     "Final sem exam 7th sem/Biology.md",
     "Final sem exam 7th sem/ML",
     "Final sem exam 7th sem",
-    "SQL/Instagram Database Clone.md",
     "attachments/Pasted image 20231204192959.png",
     "attachments/Pasted image 20231204185805.png",
     "attachments/Pasted image 20231204124340.png",
