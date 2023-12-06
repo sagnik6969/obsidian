@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Overfitting.md",
+                "file": "Final sem exam 7th sem/ML/Principal component analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Overfitting.md",
+                "file": "Final sem exam 7th sem/ML/Principal component analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Overfitting.md",
+                "file": "Final sem exam 7th sem/ML/Principal component analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Overfitting.md"
+                "file": "Final sem exam 7th sem/ML/Principal component analysis.md"
               }
             }
           }
@@ -156,11 +156,12 @@
   },
   "active": "f895b2881a607925",
   "lastOpenFiles": [
+    "Final sem exam 7th sem/ML/Overfitting.md",
+    "Final sem exam 7th sem/ML/Principal component analysis.md",
     "attachments/Pasted image 20231206195958.png",
     "attachments/Pasted image 20231206194600.png",
     "attachments/Pasted image 20231206194337.png",
     "Final sem exam 7th sem/ML/Bayesian learning.md",
-    "Final sem exam 7th sem/ML/Overfitting.md",
     "attachments/Pasted image 20231206191502.png",
     "attachments/Pasted image 20231206191126.png",
     "attachments/Pasted image 20231206185540.png",
@@ -173,7 +174,6 @@
     "attachments/Pasted image 20231206174254.png",
     "attachments/Pasted image 20231206173939.png",
     "attachments/Pasted image 20231206173826.png",
-    "attachments/Pasted image 20231206173502.png",
     "SQL/section 15 Views, Modes, & more.md",
     "SQL/section 14 Many to many.md",
     "SQL/section 13 One to many joins.md",
