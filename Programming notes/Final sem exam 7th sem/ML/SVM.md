@@ -1,0 +1,3 @@
+- Supervised learning
+- Used in classification and regression
+- 
