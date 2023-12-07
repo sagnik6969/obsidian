@@ -11,11 +11,14 @@ o Value of the example, i.e., probability, score
 > Goal is to construct the smallest decision tree possible
 > Features of small decision tree is 1. Smaller no of nodes 2. smaller depth
 
-> In each decision node we calculate the information gain for different attributes and choose the attribute with the highest information gain. This process continues untill we reach a leaf node.
->
+> In each decision node we calculate the information gain for different attributes and choose the attribute with the highest information gain. This process continues until we reach a leaf node.
+
+> To create the topmost node  Which attribute should be tested first. Algorithm determines the information gain for each candidate attribute. Outlook, Temperature, Humidity, Wind. Select that one with highest information gain.
+
+> If all the outputs are same returner the output.
+> If attribute set is empty return the most common output.
 ### Algorithm
 https://www.youtube.com/watch?v=CWzpomtLqqs
-
 
 ### Entropy
 ###### Entropy: 
