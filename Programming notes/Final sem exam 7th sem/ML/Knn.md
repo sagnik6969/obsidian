@@ -21,9 +21,7 @@
 * **For majority vote:** Determine the most frequent class among the K nearest neighbors. Assign the new data point to this class. 
 * **For weighted vote:** Assign weights to the neighbors based on their distance to the new data point. Classify the new data point based on the weighted average of its neighbors' classes. 
 * **Regression:** 
-* **Calculate the average or weighted average of the values of the K nearest neighbors.** This average becomes the predicted value for the new data point.
-
-**4. Evaluation:** * **Evaluate the performance of the KNN model using appropriate metrics.** Common metrics for classification include accuracy, precision, recall, and F1 score. For regression, the mean squared error (MSE) or the R-squared coefficient are typically used.
+* Calculate the average or weighted average of the values of the K nearest neighbors. This average becomes the predicted value for the new data point.
 
 **Advantages of KNN:**
 
