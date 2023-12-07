@@ -5,9 +5,19 @@ Characteristics of ANN
 → Activation functions
 
 ### Design a hebb net for AND Function
+=> Bipolar inputs => inputs where both +ve and -ve values are there
 ![[Pasted image 20231207113539.png]]
 ![[Pasted image 20231207113654.png]]
 ![[Pasted image 20231207113805.png]]
+
+
+### Implement AND function using Mc Culloch-Pitts
+![[Pasted image 20231207115050.png]]
+![[Pasted image 20231207115104.png]]
+https://www.youtube.com/watch?v=-rxxIeYcZzU
+
+
+
 
 A neural network is a computational model inspired by the structure and functioning of the human brain. It is composed of interconnected nodes, often referred to as neurons or artificial neurons, organized into layers. Neural networks are a fundamental component of the field of machine learning and artificial intelligence.
 
