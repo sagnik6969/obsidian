@@ -8,23 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f895b2881a607925",
+            "id": "eea5070eb5314f69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Clustering.md",
+                "file": "SQL/section 11 Comparison and logical operators.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "eea5070eb5314f69",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Clustering.md",
+                "file": "SQL/section 11 Comparison and logical operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Clustering.md",
+                "file": "SQL/section 11 Comparison and logical operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Clustering.md"
+                "file": "SQL/section 11 Comparison and logical operators.md"
               }
             }
           }
@@ -154,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f895b2881a607925",
+  "active": "eea5070eb5314f69",
   "lastOpenFiles": [
+    "Final sem exam 7th sem/ML/Clustering.md",
     "Final sem exam 7th sem/ML/Principal component analysis.md",
     "Final sem exam 7th sem/ML/Neural networks.md",
     "Final sem exam 7th sem/ML/Bayesian learning.md",
@@ -165,7 +158,6 @@
     "Final sem exam 7th sem/ML/Overfitting.md",
     "Final sem exam 7th sem/ML/Linear regression.md",
     "Final sem exam 7th sem/ML/Application of machine learning in daily life..md",
-    "Final sem exam 7th sem/ML/Clustering.md",
     "Final sem exam 7th sem/ML/K mean.md",
     "Final sem exam 7th sem/ML/Knn.md",
     "attachments/Pasted image 20231207130447.png",
