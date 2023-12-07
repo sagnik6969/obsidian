@@ -1,5 +1,8 @@
 - Supervised learning
-- Used in classification and regression
+- Used in classification 
+- Face detection
+- Text Classification
+- classifing images etc
 
 ## Support Vector Machine Algorithm Explained in Steps:
 
@@ -11,6 +14,7 @@
 **2. Choosing the Kernel Function:**
 
 - The kernel function determines how the data is mapped to a higher-dimensional space.
+- Essential for non linear decision boundery
 - Common kernel functions include linear, polynomial, and radial basis function (RBF).
 
 **3. Identifying Support Vectors:**
