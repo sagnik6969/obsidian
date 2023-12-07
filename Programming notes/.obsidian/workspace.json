@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final sem exam 7th sem/ML/SVM.md",
+                "file": "Final sem exam 7th sem/ML/Knn.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final sem exam 7th sem/ML/SVM.md",
+                "file": "Final sem exam 7th sem/ML/Knn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final sem exam 7th sem/ML/SVM.md",
+                "file": "Final sem exam 7th sem/ML/Knn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final sem exam 7th sem/ML/SVM.md"
+                "file": "Final sem exam 7th sem/ML/Knn.md"
               }
             }
           }
@@ -157,8 +157,11 @@
   },
   "active": "f895b2881a607925",
   "lastOpenFiles": [
-    "Final sem exam 7th sem/ML/Neural networks.md",
+    "attachments/Pasted image 20231207130447.png",
+    "attachments/Pasted image 20231207130351.png",
     "Final sem exam 7th sem/ML/SVM.md",
+    "Final sem exam 7th sem/ML/Knn.md",
+    "Final sem exam 7th sem/ML/Neural networks.md",
     "attachments/Pasted image 20231207115104.png",
     "attachments/Pasted image 20231207115050.png",
     "attachments/Pasted image 20231207114928.png",
@@ -177,7 +180,6 @@
     "Final sem exam 7th sem/Biology.md",
     "attachments/Pasted image 20231207100209.png",
     "attachments/Pasted image 20231207095347.png",
-    "attachments/Pasted image 20231207095329.png",
     "Final sem exam 7th sem/ML/What is mechine learning.md",
     "SQL/Micellenius.md",
     "SQL/section 16 window function.md",
@@ -194,7 +196,6 @@
     "Untitled.md",
     "Untitled 2.md",
     "Untitled 3.md",
-    "Untitled 1.md",
     "SQL"
   ]
 }
