@@ -13,3 +13,18 @@ The random sampling of data and features during the construction of each tree in
 
 **Improved Accuracy:**
 Random Forests generally provide higher accuracy compared to individual decision trees. By aggregating predictions from multiple trees, the ensemble approach helps to reduce overfitting and variance, resulting in a more robust and accurate model.
+
+
+### Bagging
+is the process of sampling with replacement (sample drawn at random, are stored separately and its copy is put back to the dataset so that the dataset maintains its original size).
+
+### Disadvantages:  
+Random forests are slow in generating predictions due to multiple decision trees.
+
+
+### Write the decision tree algo.
+1. Why needed
+2. Algo
+3. How output is calculated
+4. advantages
+5. disadvantages
