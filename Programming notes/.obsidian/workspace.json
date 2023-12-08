@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Principal component analysis.md",
+                "file": "Final sem exam 7th sem/ML/Random Forest.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Principal component analysis.md",
+                "file": "Final sem exam 7th sem/ML/Random Forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Principal component analysis.md",
+                "file": "Final sem exam 7th sem/ML/Random Forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Principal component analysis.md"
+                "file": "Final sem exam 7th sem/ML/Random Forest.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "eea5070eb5314f69",
   "lastOpenFiles": [
+    "Final sem exam 7th sem/ML/Decision tree.md",
+    "Final sem exam 7th sem/ML/Principal component analysis.md",
     "Final sem exam 7th sem/ML/Overfitting.md",
     "Final sem exam 7th sem/ML/Bayesian learning.md",
     "Final sem exam 7th sem/ML/Logistic Regression.md",
@@ -167,9 +169,7 @@
     "SQL/section 12 Constraints & alter table.md",
     "SQL/section 11 Comparison and logical operators.md",
     "SQL/Micellenius.md",
-    "Final sem exam 7th sem/ML/Principal component analysis.md",
     "Final sem exam 7th sem/ML/Neural networks.md",
-    "Final sem exam 7th sem/ML/Decision tree.md",
     "Final sem exam 7th sem/ML/K mean.md",
     "Final sem exam 7th sem/ML/Knn.md",
     "attachments/Pasted image 20231207130447.png",
