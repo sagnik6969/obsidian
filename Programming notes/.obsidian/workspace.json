@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Features.md",
+                "file": "Final sem exam 7th sem/ML/Overfitting.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Features.md",
+                "file": "Final sem exam 7th sem/ML/Overfitting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Features.md",
+                "file": "Final sem exam 7th sem/ML/Overfitting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Features.md"
+                "file": "Final sem exam 7th sem/ML/Overfitting.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "eea5070eb5314f69",
   "lastOpenFiles": [
+    "Final sem exam 7th sem/ML/Bayesian learning.md",
+    "Final sem exam 7th sem/ML/Logistic Regression.md",
+    "Final sem exam 7th sem/ML/What is mechine learning.md",
+    "Final sem exam 7th sem/ML/Linear regression.md",
+    "Final sem exam 7th sem/ML/Application of machine learning in daily life..md",
     "Final sem exam 7th sem/ML/Supervised and Unsupervised learning.md",
     "Final sem exam 7th sem/ML/Features.md",
     "Final sem exam 7th sem/ML/DB scan.md",
@@ -161,11 +166,6 @@
     "Final sem exam 7th sem/ML/Decision tree.md",
     "Final sem exam 7th sem/ML/Principal component analysis.md",
     "Final sem exam 7th sem/ML/Overfitting.md",
-    "Final sem exam 7th sem/ML/Bayesian learning.md",
-    "Final sem exam 7th sem/ML/Logistic Regression.md",
-    "Final sem exam 7th sem/ML/What is mechine learning.md",
-    "Final sem exam 7th sem/ML/Linear regression.md",
-    "Final sem exam 7th sem/ML/Application of machine learning in daily life..md",
     "SQL/Instagram Database Clone.md",
     "SQL/section 16 window function.md",
     "SQL/section 15 Views, Modes, & more.md",

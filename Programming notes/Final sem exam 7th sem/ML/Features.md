@@ -31,8 +31,8 @@ y expensive and prone to overfitting.
 
 - **Forward selection:** Starts with an empty set of features and adds the feature that improves the model performance the most at each step.
 - **Backward elimination:** Starts with all features and removes the feature that hurts the model performance the least at each step.
-- **Stepwise selection:** Combines forward selection and backward elimination.
-- 
+- **Stepwise selection:** Combines forward selection and backward elimination. 
+ 
 **3. Embedded Methods:**
 
 These methods incorporate feature selection into the learning process of the model itself. They can be more efficient than wrapper methods and are less prone to overfitting.
