@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final sem exam 7th sem/ML/K mean.md",
+                "file": "Final sem exam 7th sem/ML/Clustering.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final sem exam 7th sem/ML/K mean.md",
+                "file": "Final sem exam 7th sem/ML/Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final sem exam 7th sem/ML/K mean.md",
+                "file": "Final sem exam 7th sem/ML/Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final sem exam 7th sem/ML/K mean.md"
+                "file": "Final sem exam 7th sem/ML/Clustering.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "eea5070eb5314f69",
   "lastOpenFiles": [
+    "Final sem exam 7th sem/ML/K mean.md",
     "Final sem exam 7th sem/ML/Knn.md",
     "Final sem exam 7th sem/ML/SVM.md",
     "Final sem exam 7th sem/ML/Neural networks.md",
@@ -173,7 +174,6 @@
     "SQL/section 12 Constraints & alter table.md",
     "SQL/section 11 Comparison and logical operators.md",
     "SQL/Micellenius.md",
-    "Final sem exam 7th sem/ML/K mean.md",
     "attachments/Pasted image 20231207130447.png",
     "attachments/Pasted image 20231207130351.png",
     "attachments/Pasted image 20231207115104.png",
