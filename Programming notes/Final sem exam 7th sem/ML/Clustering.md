@@ -1,3 +1,9 @@
+
+## Defination:
+
+Clustering is an unsupervised machine learning technique that involves grouping data points into clusters based on their similarity. The goal of clustering is to find natural groups of data points that share similar characteristics.
+
+Example: k-mean, db.-scan etc.
 ## Comparative Study of Clustering Methods:
 
 **1. Partitioning Methods:**
