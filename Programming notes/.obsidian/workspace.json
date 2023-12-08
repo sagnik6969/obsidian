@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final sem exam 7th sem/ML/DB scan.md",
+                "file": "Final sem exam 7th sem/ML/Features.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final sem exam 7th sem/ML/DB scan.md",
+                "file": "Final sem exam 7th sem/ML/Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final sem exam 7th sem/ML/DB scan.md",
+                "file": "Final sem exam 7th sem/ML/Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final sem exam 7th sem/ML/DB scan.md"
+                "file": "Final sem exam 7th sem/ML/Features.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "eea5070eb5314f69",
   "lastOpenFiles": [
-    "Final sem exam 7th sem/ML/Deep learning.md",
     "Final sem exam 7th sem/ML/DB scan.md",
+    "Final sem exam 7th sem/ML/Features.md",
+    "Final sem exam 7th sem/ML/Deep learning.md",
     "Final sem exam 7th sem/ML/Clustering.md",
     "SQL/Instagram Database Clone.md",
     "SQL/section 16 window function.md",
@@ -186,7 +187,6 @@
     "Final sem exam 7th sem/ML",
     "Final sem exam 7th sem",
     "attachments",
-    "Pasted image 20231203212821.png.md",
     "SQL"
   ]
 }
