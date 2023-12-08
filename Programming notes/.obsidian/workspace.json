@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final sem exam 7th sem/ML/K mean.md",
+                "file": "Final sem exam 7th sem/ML/DB scan.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final sem exam 7th sem/ML/K mean.md",
+                "file": "Final sem exam 7th sem/ML/DB scan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final sem exam 7th sem/ML/K mean.md",
+                "file": "Final sem exam 7th sem/ML/DB scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final sem exam 7th sem/ML/K mean.md"
+                "file": "Final sem exam 7th sem/ML/DB scan.md"
               }
             }
           }
@@ -146,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b2203708409e049",
+  "active": "eea5070eb5314f69",
   "lastOpenFiles": [
+    "Final sem exam 7th sem/ML/Deep learning.md",
+    "Final sem exam 7th sem/ML/Clustering.md",
+    "Final sem exam 7th sem/ML/K mean.md",
     "Final sem exam 7th sem/ML/Knn.md",
     "Final sem exam 7th sem/ML/SVM.md",
     "Final sem exam 7th sem/ML/Neural networks.md",
@@ -163,9 +166,6 @@
     "Final sem exam 7th sem/ML/Supervised and Unsupervised learning.md",
     "Final sem exam 7th sem/ML/Features.md",
     "Final sem exam 7th sem/ML/DB scan.md",
-    "Final sem exam 7th sem/ML/Deep learning.md",
-    "Final sem exam 7th sem/ML/Clustering.md",
-    "Final sem exam 7th sem/ML/K mean.md",
     "SQL/Instagram Database Clone.md",
     "SQL/section 16 window function.md",
     "SQL/section 15 Views, Modes, & more.md",
