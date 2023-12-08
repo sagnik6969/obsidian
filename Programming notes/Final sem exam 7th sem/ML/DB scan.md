@@ -27,6 +27,7 @@
 - If the point is a core point, find all its neighbors within a distance of ε.
 - If any of these neighbors are not yet processed, mark them as visited and process them recursively.
 - If a neighbor is a core point, expand its cluster by finding its neighbors within ε and repeating the process.
+- If a neighbor is border point  add it to current the cluster.
 - Continue expanding the cluster until all reachable core points and their neighbors are processed.
 
 **4. Noise:**
@@ -39,11 +40,6 @@
 - Continue iterating through unprocessed data points until all points are processed.
 - Each iteration might lead to the formation of a new cluster or the assignment of noise points.
 
-**In summary, DBSCAN works by:**
-
-2. Identifying core points based on their density and proximity to other points.
-4. Expanding clusters by finding the neighbors of core points and recursively processing them.
-6. Labeling any data point not belonging to a cluster as noise.
 
 **Advantages of DBSCAN:**
 
@@ -56,9 +52,3 @@
 - Sensitive to the choice of epsilon and MinPts parameters.
 - Can struggle with high-dimensional data.
 
-**Here are some resources for further understanding of the DBSCAN algorithm:**
-
-- **KDnuggets:** [https://towardsdatascience.com/understanding-dbscan-and-k-nn-with-random-geometric-graphs-ed26cf5e5b71](https://towardsdatascience.com/understanding-dbscan-and-k-nn-with-random-geometric-graphs-ed26cf5e5b71)
-- **GeeksforGeeks:** [https://www.geeksforgeeks.org/dbscan-clustering-in-ml-density-based-clustering/](https://www.geeksforgeeks.org/dbscan-clustering-in-ml-density-based-clustering/)
-- **Analytics Vidhya:** [https://www.analyticsvidhya.com/blog/2020/09/how-dbscan-clustering-works/](https://www.analyticsvidhya.com/blog/2020/09/how-dbscan-clustering-works/)
-- **YouTube Video:** [https://m.youtube.com/watch?v=-p354tQsKrs](https://m.youtube.com/watch?v=-p354tQsKrs)
