@@ -8,7 +8,7 @@ A Digital Audio Workstation (DAW) plays a pivotal role in modern music compositi
     
     - DAWs allow musicians to record audio digitally, replacing traditional analog recording methods.
     - Users can record multiple tracks and easily edit, arrange, and manipulate them with precision.
--
+
 1. **Virtual Instruments and Plugins:**
     
     - DAWs come with a variety of virtual instruments and plugins that simulate real instruments, effects, and processors.

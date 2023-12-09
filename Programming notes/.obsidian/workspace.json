@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Final sem exam 7th sem/Music/How does the Digital Audio Workstation (DAW) contribute to ubiquitous music composition.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 321.5
   },
   "right": {
     "id": "6d8efcf62552782e",
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eea5070eb5314f69",
+  "active": "fea84f889c040fd4",
   "lastOpenFiles": [
     "Final sem exam 7th sem/Music/What is ubiquitous music. What are the key components involved in ubiquitous music composition..md",
     "Final sem exam 7th sem/Music/How do recommendation systems use machine learning algorithms to recommend similar songs based on listeners preferences.md",
