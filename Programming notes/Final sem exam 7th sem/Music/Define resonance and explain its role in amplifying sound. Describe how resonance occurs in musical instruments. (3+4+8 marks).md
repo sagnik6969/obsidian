@@ -37,17 +37,3 @@ Musical instruments rely heavily on the principle of **resonance** to amplify an
 - **Cavity:** The drum's shell or the cymbal's shape acts as a resonator, amplifying the vibrations of the membrane/surface.
 - **Amplification:** The resonating cavity amplifies the sound waves and projects them outwards with a richer tone and longer sustain. The size and shape of the cavity influence the tone and character of the sound.
 
-**Additional factors:**
-
-- **Material:** The material of the instrument's body and components significantly affect resonance. Wood, metal, and even animal skins have different resonant properties, contributing to the unique sound of each instrument.
-- **Construction:** The design of the instrument plays a crucial role in directing and focusing the sound waves. Shape, size, and placement of holes and openings all influence how the instrument resonates and projects sound.
-
-**Overall, resonance is a fundamental principle that underpins the sound production and amplification in musical instruments. By understanding how resonance works, musicians can refine their playing techniques and instrument builders can create instruments with richer tones and greater projection.**
-
-**Word count:** 363
-
-**Marking breakdown:**
-
-- **3 marks:** Described the basic principle of resonance in musical instruments.
-- **4 marks:** Explained how resonance occurs in string, wind, and percussion instruments with specific examples.
-- **8 marks:** Discussed additional factors influencing resonance such as material, construction, and their impact on sound.
