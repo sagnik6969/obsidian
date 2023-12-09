@@ -23,8 +23,12 @@
             "id": "78a383f23661c0c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Final sem exam 7th sem/Music/How does the Digital Audio Workstation (DAW) contribute to ubiquitous music composition.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Final sem exam 7th sem/Music/How does the Digital Audio Workstation (DAW) contribute to ubiquitous music composition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Final sem exam 7th sem/Music/How does the Digital Audio Workstation (DAW) contribute to ubiquitous music composition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Final sem exam 7th sem/Music/How does the Digital Audio Workstation (DAW) contribute to ubiquitous music composition.md"
+              }
             }
           }
         ]
@@ -153,6 +161,7 @@
   },
   "active": "78a383f23661c0c8",
   "lastOpenFiles": [
+    "Final sem exam 7th sem/Music/What is the difference between Indian classical music and western music.md",
     "Final sem exam 7th sem/Music/How does the Digital Audio Workstation (DAW) contribute to ubiquitous music composition.md",
     "Final sem exam 7th sem/Music/What is ubiquitous music. What are the key components involved in ubiquitous music composition..md",
     "Final sem exam 7th sem/Music/How do recommendation systems use machine learning algorithms to recommend similar songs based on listeners preferences.md",
@@ -163,7 +172,6 @@
     "Final sem exam 7th sem/Music/What is LLM. What are its advantages and limitation in the field of music generation..md",
     "Final sem exam 7th sem/ML/Supervised and Unsupervised learning.md",
     "Final sem exam 7th sem/Music/Define raga and mention its classes..md",
-    "Final sem exam 7th sem/Music/What is the difference between Indian classical music and western music.md",
     "Final sem exam 7th sem/Music",
     "Final sem exam 7th sem/ML/Features.md",
     "Final sem exam 7th sem/ML/DB scan.md",
