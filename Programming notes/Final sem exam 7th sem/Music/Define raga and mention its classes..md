@@ -1,4 +1,4 @@
-A "raga" is a melodic framework used in traditional Indian classical music. It serves as a basis for improvisation and composition. Ragas are characterized by specific ascending and descending patterns of musical notes, known as arohana and avarohana, and may also include certain rules for ornamentation, grace notes, and specific phrases. Each raga is associated with a particular mood, time of day, and season.
+A **raga** is the foundational element of Indian classical music, both in the Hindustani and Carnatic traditions. It is a melodic framework that guides improvisation and composition, and literally translates to "color" or "passion" in Sanskrit.
 
 There are two main classes of ragas in Indian classical music:
 
