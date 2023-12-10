@@ -1,5 +1,4 @@
 
-Laya, also known as Tempo in Hindustani Classical Music, is a fundamental aspect that governs the rhythmic structure and timing of musical compositions. It plays a crucial role in creating the rhythmic framework of a performance and is an integral part of the overall aesthetic experience in Indian classical music. Here are five key points regarding Laya:
 
 1. **Definition and Significance:**
    Laya refers to the speed or tempo at which a musical composition is performed. It is a measure of the pace of the rhythmic cycles (Tala) and is essential in shaping the mood and expression of a musical piece. Laya determines the division of time within a Tala and influences the overall feel and energy of the performance.
