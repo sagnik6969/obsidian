@@ -19,21 +19,21 @@ Here are some specific examples of how resonance amplifies sound:
 
 Musical instruments rely heavily on the principle of **resonance** to amplify and project sound. Here's a detailed breakdown of how resonance occurs in various instruments:
 
-**1. String instruments (Guitar, Violin):**
-
-- **Strings:** When a string is plucked or bowed, it vibrates at its natural frequency, creating sound waves.
-- **Body:** The hollow body of the instrument acts as a resonator. It is designed with specific dimensions and materials to resonate with the natural frequencies of the strings.
-- **Amplification:** As the string vibrates, it transmits energy to the body through the bridge. This causes the body to vibrate sympathetically, amplifying the sound waves and projecting them outwards with a richer tone.
-
-**2. Wind instruments (Flute, Trumpet):**
-
-- **Air column:** The air column inside the instrument acts as the primary resonator. Its length and diameter determine its natural frequencies.
-- **Playing mechanism**: When a player blows air into the instrument, it excites the air column to vibrate at specific frequencies depending on the fingering and blowing technique.
-- **Amplification:** The resonating air column amplifies the sound waves and produces the characteristic tone of the instrument. Different fingering combinations change the effective length of the air column, allowing for different pitches.
-
-**3. Percussion instruments (Drum, Cymbal):**
-
-- **Membrane/surface:** The drumhead or cymbal vibrates when struck with a beater or mallet.
-- **Cavity:** The drum's shell or the cymbal's shape acts as a resonator, amplifying the vibrations of the membrane/surface.
-- **Amplification:** The resonating cavity amplifies the sound waves and projects them outwards with a richer tone and longer sustain. The size and shape of the cavity influence the tone and character of the sound.
-
+1. **Natural Frequency:**
+    - Every object or system has a natural frequency at which it tends to vibrate.
+    - In the case of a sound-producing object (e.g., a musical instrument or a speaker), this natural frequency is determined by its physical characteristics, such as size, shape, and material.
+2. **Forced Vibration:**
+    
+    - When an external force, such as a sound wave, is applied to the object at or near its natural frequency, the object starts to vibrate.
+    - If the frequency of the external force matches the natural frequency of the object, resonance occurs, and the vibrations are amplified.
+3. **Amplification of Sound:**
+    
+    - As the object vibrates at its natural frequency, the amplitude of the vibrations increases.
+    - In the context of a musical instrument, this means that the sound waves produced by the instrument are amplified, resulting in a louder and more pronounced sound.
+4. **Selective Resonance:**
+    
+    - Resonance is selective in nature; it amplifies only the frequencies that are close to the natural frequency of the vibrating object.
+    - This selectivity is why different musical instruments produce distinct sounds even when playing the same musical note. Each instrument selectively amplifies certain frequencies based on its design and construction.
+5. **Enhanced Sound Output:**
+    
+    - In speakers and amplification systems, resonance is utilized to enhance the reproduction of sound. The speaker components are designed to resonate at specific frequencies, leading to a more efficient conversion of electrical signals into audible sound.

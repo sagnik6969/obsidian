@@ -13,7 +13,7 @@ Large language models, such as GPT-3 (Generative Pre-trained Transformer 3), are
 5. Cost effective
 6. High speed.
 
-7. **Speed and Efficiency:** Large language models can generate music quickly, making them efficient tools for composers who may need inspiration or want to explore various ideas rapidly. This speed can enhance the creative workflow for musicians.
+8. **Speed and Efficiency:** Large language models can generate music quickly, making them efficient tools for composers who may need inspiration or want to explore various ideas rapidly. This speed can enhance the creative workflow for musicians.
 
 **Limitations in Music Generation:**
 
