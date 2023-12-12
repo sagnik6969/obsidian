@@ -18,3 +18,4 @@
 ### LED (Light Emitting Diode)
 1. **Inventor:** Nick Holonyak jr.
 2. **Inspiration:** The invention of Led was based upon the natural phenomenon of bio luminescence observed in fireflies. 
+3. **Present status:** LEDs have revolutionized the lighting industry offering energy efficient , long lasting and ecofriendly lighting solution.
