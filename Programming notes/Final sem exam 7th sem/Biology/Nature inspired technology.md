@@ -9,8 +9,12 @@
 3. **Present status :** Spider glasses has become popular architectural choices in modern buildings enabling the creation of stunning glass designs.
 ### Bullet train
 1. **Inventor:** Hideo Shima (Japan 1964)
-2. **Inspiration:** The bullet train or shinkansen was inspired by kingfisher bird 
-
-
-## The Kingfisher And The Bullet Train
-## LED
+2. **Inspiration:** The bullet train or shinkansen was inspired by kingfisher bird. It streamlines beak and body to reduce air resistance while diving into water. This lead engineers to design high speed trains with similar shapes for efficient movement.
+3. **Present status:** Bullet trains are now integral part of japan's transport system.
+### Bio-Inspired Robotics: RoboBees
+1. **Inventor:** Harvard University's Wyss Institute researchers, led by Dr. Robert Wood.
+2. **Inspiration:** The development of RoboBees was inspired by the complex flight mechanisms of bees. Researchers sought to mimic the agility and versatility of bees in flight, leading to the creation of small, lightweight robotic bees with applications in pollination and environmental monitoring.
+3. **Present Status:** As of the last update, RoboBees have demonstrated controlled flight and collaborative behaviors in laboratory settings. Ongoing research focuses on refining their capabilities and addressing challenges such as power supply and navigation for real-world applications.
+### LED (Light Emitting Diode)
+1. **Inventor:** Nick Holonyak jr.
+2. **Inspiration:** The invention of Led was based upon the natural phenomenon of bio luminescence observed in fireflies. 
