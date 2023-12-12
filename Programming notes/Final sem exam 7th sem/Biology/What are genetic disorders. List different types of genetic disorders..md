@@ -12,5 +12,5 @@ Example: X-Linked Disorders
 These are caused by abnormalities in the structure or number of chromosomes. Examples of chromosomal disorders include: Down syndrome, Turner syndrome.
 
 **Multifactorial inheritance disorders:**
-These are caused by a combination of genetic and environmental factors. Examples of multifactorial inheritance disorders include: Heart disease, cancer, 
+These are caused by a combination of genetic and environmental factors. Examples of multifactorial inheritance disorders include: Heart disease, cancer, Diabetes
 
