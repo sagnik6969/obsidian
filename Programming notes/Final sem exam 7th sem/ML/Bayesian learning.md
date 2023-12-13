@@ -6,7 +6,18 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VIj6xS937E4?si=KPOKOcuOgmj5tlbX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ![[Pasted image 20231213132336.png]]
 ![[Pasted image 20231213132535.png]]
+![[Pasted image 20231213132853.png]]
+![[Pasted image 20231213133151.png]]
 
+$P(Y) == P(Sunny | yes)$
+
+![[Pasted image 20231213133458.png]]
+![[Pasted image 20231213133640.png]]
+> We ignore  denominator  because it is always constant
+![[Pasted image 20231213133813.png]]
+
+![[Pasted image 20231213133910.png]]
+![[Pasted image 20231213134021.png]]
 ### Base theorem
 ![[Pasted image 20231206185540.png]]
 - P(h/d) => probability of h given d
