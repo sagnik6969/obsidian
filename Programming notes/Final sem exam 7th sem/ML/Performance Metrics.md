@@ -17,11 +17,10 @@
 
 ### Accuracy
 $$
-
 Formula = (Tp + Tn) /  (Tp + Tn + Fp + Fn)
-
 $$
 ### Precession
+
 1. Used when dataset is imbalanced. For example suppose 90% of the dataset is true and 10% is false. Then if we output true for all cases we will get 90% accuracy. 
 1. This is a common metric used in machine learning, especially for classification tasks. It measures the proportion of positive predictions that are actually correct. This can be calculated as follows:
 
@@ -29,8 +28,18 @@ $$
 Precision = True Positives / (True Positives + False Positives)
 $$
 ### Recall
+
 1. Used in the same cases where precession is used
 2. The choice between precession and recall depends upon specific application, Whether we want to reduce false positive or false negative.
 $$
 Recall = True Positives / (True Positives + False Negative)
 $$
+### F beta score
+1. Used when both precession and recall are important.
+
+$$
+ F beta score = ((1 + B^2) * precession * Recall)/(B^2 * (precession + Recall))
+$$
+- If false `+ve` and false `-ve` both important then $B = 1$ 
+-  If false `+ve` is more important then false `-ve` both important then $B = 0.5$ 
+- If false `+ve` is less important then false `-ve` both important then $B = 2$ 
