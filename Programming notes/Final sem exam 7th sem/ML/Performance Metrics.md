@@ -1,4 +1,6 @@
+ 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5vqk6HnITko?si=rVL7GYmX0IVMYWit" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ##  Confusion Matrix
 
 - A table that summarizes the results of a classification model's predictions on a set of test data.
@@ -34,7 +36,8 @@ $$
 $$
 Recall = True Positives / (True Positives + False Negative)
 $$
-### F beta score
+### F beta score / F measure
+
 1. Used when both precession and recall are important.
 
 $$

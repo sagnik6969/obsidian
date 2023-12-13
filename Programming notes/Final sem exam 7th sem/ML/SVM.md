@@ -1,8 +1,10 @@
 - Supervised learning
-- Used in classification 
+- Used in classification as well as regression
 - Face detection
 - Text Classification
 - classifing images etc
+
+> In case of logistic regression we create only one dession boundery 
 
 ## Support Vector Machine Algorithm Explained in Steps:
 
