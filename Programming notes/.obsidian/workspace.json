@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Features.md",
-                "mode": "preview",
+                "file": "Final sem exam 7th sem/ML/Performance Metrics.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "right": {
     "id": "6d8efcf62552782e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Features.md",
+                "file": "Final sem exam 7th sem/ML/Performance Metrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Features.md",
+                "file": "Final sem exam 7th sem/ML/Performance Metrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Features.md"
+                "file": "Final sem exam 7th sem/ML/Performance Metrics.md"
               }
             }
           }
@@ -148,6 +149,9 @@
   },
   "active": "78a383f23661c0c8",
   "lastOpenFiles": [
+    "Final sem exam 7th sem/ML/Supervised and Unsupervised learning.md",
+    "Final sem exam 7th sem/ML/Performance Metrics.md",
+    "Final sem exam 7th sem/ML/Features.md",
     "Final sem exam 7th sem/ML/DB scan.md",
     "Final sem exam 7th sem/ML/Deep learning.md",
     "Final sem exam 7th sem/ML/Clustering.md",
@@ -172,9 +176,6 @@
     "Final sem exam 7th sem/Biology/Write the characteristics of model organisms..md",
     "Final sem exam 7th sem/Biology/Why do living systems need energy. Why there are more producers than consumers in an  ecosystem.md",
     "Final sem exam 7th sem/Biology",
-    "Final sem exam 7th sem/Biology.md",
-    "Final sem exam 7th sem/Music/What are the machine learning techniques commonly used in music composition (8 Marks).md",
-    "Final sem exam 7th sem/Music/Explain the significance of frequency ratios in pitch perception. Provide examples of how different frequency ratios contribute to distinct musical qualities. (8 Marks).md",
     "Final sem exam 7th sem/Music",
     "attachments/Pasted image 20231207130447.png",
     "attachments/Pasted image 20231207130351.png",
