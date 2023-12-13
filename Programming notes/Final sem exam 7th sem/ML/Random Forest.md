@@ -30,3 +30,4 @@ Random forests are slow in generating predictions due to multiple decision trees
 5. disadvantages
 
 ![[Pasted image 20231207112405.png]]
+![[Pasted image 20231213222259.png]]
