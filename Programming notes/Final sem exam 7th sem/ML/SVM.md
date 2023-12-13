@@ -4,7 +4,9 @@
 - Text Classification
 - classifing images etc
 
-> In case of logistic regression we create only one dession boundery 
+> In case of logistic regression we create only one decision boundary. In case of svm we create 3 lines (1 hipper plane and 2 marginal planes) 
+> Try to maximize distance between marginal planes.
+> 
 
 ## Support Vector Machine Algorithm Explained in Steps:
 
