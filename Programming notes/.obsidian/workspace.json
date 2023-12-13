@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final sem exam 7th sem/ML/K mean.md",
+                "file": "Final sem exam 7th sem/ML/Clustering.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final sem exam 7th sem/ML/K mean.md",
+                "file": "Final sem exam 7th sem/ML/Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final sem exam 7th sem/ML/K mean.md",
+                "file": "Final sem exam 7th sem/ML/Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final sem exam 7th sem/ML/K mean.md"
+                "file": "Final sem exam 7th sem/ML/Clustering.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "78a383f23661c0c8",
   "lastOpenFiles": [
+    "Final sem exam 7th sem/ML/Deep learning.md",
+    "Final sem exam 7th sem/ML/Clustering.md",
+    "Final sem exam 7th sem/ML/K mean.md",
     "Final sem exam 7th sem/ML/Knn.md",
     "Final sem exam 7th sem/ML/SVM.md",
     "Final sem exam 7th sem/ML/Neural networks.md",
@@ -172,9 +175,6 @@
     "Final sem exam 7th sem/Music/What are the machine learning techniques commonly used in music composition (8 Marks).md",
     "Final sem exam 7th sem/Music/Explain the significance of frequency ratios in pitch perception. Provide examples of how different frequency ratios contribute to distinct musical qualities. (8 Marks).md",
     "Final sem exam 7th sem/Music/Define rhythm in context of music.md",
-    "Final sem exam 7th sem/Music/What is Laya (Tempo) in Hindustani Classical Music.md",
-    "Final sem exam 7th sem/Music/Concept of Swara and Shruti in Indian classical music.md",
-    "Final sem exam 7th sem/Music/Define resonance and explain its role in amplifying sound. Describe how resonance occurs in musical instruments. (3+4+8 marks).md",
     "Final sem exam 7th sem/Music",
     "attachments/Pasted image 20231207130447.png",
     "attachments/Pasted image 20231207130351.png",
