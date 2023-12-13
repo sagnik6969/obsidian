@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Overfitting.md",
+                "file": "Final sem exam 7th sem/ML/Decision tree.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Overfitting.md",
+                "file": "Final sem exam 7th sem/ML/Decision tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Overfitting.md",
+                "file": "Final sem exam 7th sem/ML/Decision tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Overfitting.md"
+                "file": "Final sem exam 7th sem/ML/Decision tree.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "78a383f23661c0c8",
   "lastOpenFiles": [
+    "Final sem exam 7th sem/ML/Principal component analysis.md",
+    "Final sem exam 7th sem/ML/Overfitting.md",
     "Final sem exam 7th sem/ML/Bayesian learning.md",
     "Final sem exam 7th sem/ML/Logistic Regression.md",
     "Final sem exam 7th sem/ML/What is mechine learning.md",
@@ -173,9 +175,7 @@
     "Final sem exam 7th sem/Music/What is the difference between Indian classical music and western music.md",
     "Final sem exam 7th sem/Music/What is ubiquitous music. What are the key components involved in ubiquitous music composition..md",
     "Final sem exam 7th sem/Music/How do recommendation systems use machine learning algorithms to recommend similar songs based on listeners preferences.md",
-    "Final sem exam 7th sem/ML/Supervised and Unsupervised learning.md",
     "Final sem exam 7th sem/Music",
-    "Final sem exam 7th sem/ML/Features.md",
     "attachments/Pasted image 20231207130447.png",
     "attachments/Pasted image 20231207130351.png",
     "attachments/Pasted image 20231207115104.png",

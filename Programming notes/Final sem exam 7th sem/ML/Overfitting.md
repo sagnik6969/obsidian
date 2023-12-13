@@ -16,9 +16,8 @@ occurs when the model is too simple; both training and test errors are high.
 Preventing overfitting in machine learning involves employing various techniques and strategies to ensure that the model generalizes well to new, unseen data. Here are several approaches to prevent overfitting:
 
 1. **Cross-Validation:**
-    
-    - Implement cross-validation techniques, such as k-fold cross-validation, to evaluate the model's performance on different subsets of the data. This helps assess how well the model generalizes to diverse datasets.
--![[Pasted image 20231206195958.png]]
+- Implement cross-validation techniques, such as k-fold cross-validation, to evaluate the model's performance on different subsets of the data. This helps assess how well the model generalizes to diverse datasets.
+![[Pasted image 20231206195958.png]]
 
 1. **Regularization:**
     
