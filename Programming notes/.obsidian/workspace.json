@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Micellenius.md",
-                "mode": "source",
+                "file": "Final sem exam 7th sem/ML/Application of machine learning in daily life..md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Micellenius.md",
+                "file": "Final sem exam 7th sem/ML/Application of machine learning in daily life..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Micellenius.md",
+                "file": "Final sem exam 7th sem/ML/Application of machine learning in daily life..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Micellenius.md"
+                "file": "Final sem exam 7th sem/ML/Application of machine learning in daily life..md"
               }
             }
           }
@@ -156,6 +156,7 @@
   },
   "active": "78a383f23661c0c8",
   "lastOpenFiles": [
+    "SQL/Micellenius.md",
     "Final sem exam 7th sem/ML/Random Forest.md",
     "Final sem exam 7th sem/ML/Cross validation.md",
     "Final sem exam 7th sem/ML/Boosting technique.md",
@@ -191,7 +192,6 @@
     "Final sem exam 7th sem/Biology/Nature inspired technology.md",
     "Final sem exam 7th sem/Biology/Write basic similarities and differences between prokaryotes and eukaryote.md",
     "Final sem exam 7th sem/Biology/Discuss emergence of biological organization. What is Simon’s Hierarchical principle, explain with example..md",
-    "Final sem exam 7th sem/Biology/What are genetic disorders. List different types of genetic disorders..md",
     "Final sem exam 7th sem/Biology",
     "Final sem exam 7th sem/Music",
     "Final sem exam 7th sem/ML",
