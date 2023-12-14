@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Features.md",
+                "file": "Final sem exam 7th sem/ML/Bayesian learning.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Features.md",
+                "file": "Final sem exam 7th sem/ML/Bayesian learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Features.md",
+                "file": "Final sem exam 7th sem/ML/Bayesian learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Features.md"
+                "file": "Final sem exam 7th sem/ML/Bayesian learning.md"
               }
             }
           }
@@ -156,6 +156,11 @@
   },
   "active": "78a383f23661c0c8",
   "lastOpenFiles": [
+    "Final sem exam 7th sem/ML/Logistic Regression.md",
+    "Final sem exam 7th sem/ML/What is mechine learning.md",
+    "Final sem exam 7th sem/ML/Linear regression.md",
+    "Final sem exam 7th sem/ML/Application of machine learning in daily life..md",
+    "Final sem exam 7th sem/ML/Features.md",
     "Final sem exam 7th sem/ML/Deep learning.md",
     "Final sem exam 7th sem/ML/Clustering.md",
     "Final sem exam 7th sem/ML/Knn.md",
@@ -164,7 +169,6 @@
     "Final sem exam 7th sem/ML/K mean.md",
     "Final sem exam 7th sem/ML/Principal component analysis.md",
     "Final sem exam 7th sem/ML/Supervised and Unsupervised learning.md",
-    "Final sem exam 7th sem/ML/Features.md",
     "Final sem exam 7th sem/ML/DB scan.md",
     "Final sem exam 7th sem/ML/SVM.md",
     "Final sem exam 7th sem/ML/Neural networks.md",
@@ -172,10 +176,6 @@
     "Final sem exam 7th sem/ML/Decision tree.md",
     "Final sem exam 7th sem/ML/Bayesian learning.md",
     "Final sem exam 7th sem/ML/Overfitting.md",
-    "Final sem exam 7th sem/ML/Logistic Regression.md",
-    "Final sem exam 7th sem/ML/What is mechine learning.md",
-    "Final sem exam 7th sem/ML/Linear regression.md",
-    "Final sem exam 7th sem/ML/Application of machine learning in daily life..md",
     "attachments/Pasted image 20231213222259.png",
     "attachments/Pasted image 20231213134021.png",
     "attachments/Pasted image 20231213133910.png",
