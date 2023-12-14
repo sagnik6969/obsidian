@@ -22,7 +22,7 @@ is the process of sampling with replacement (sample drawn at random, are stored 
 Random forests are slow in generating predictions due to multiple decision trees.
 
 
-### Write the decision tree algo.
+### Write the Random forest algo.
 1. Why needed
 2. Algo
 3. How output is calculated
