@@ -2,10 +2,11 @@
 - Used in classification as well as regression
 - Face detection
 - Text Classification
-- classifing images etc
+- classifying images etc.
 
 > In case of logistic regression we create only one decision boundary. In case of svm we create 3 lines (1 hipper plane and 2 marginal planes) 
 > Try to maximize distance between marginal planes.
+> Hard margin and soft margin
 > 
 
 ## Support Vector Machine Algorithm Explained in Steps:
