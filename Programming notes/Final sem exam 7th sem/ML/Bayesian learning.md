@@ -4,6 +4,8 @@
 ![[Pasted image 20231213131621.png]]
 ![[Pasted image 20231213131737.png]]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VIj6xS937E4?si=KPOKOcuOgmj5tlbX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ![[Pasted image 20231213132336.png]]
 ![[Pasted image 20231213132535.png]]
 ![[Pasted image 20231213132853.png]]
