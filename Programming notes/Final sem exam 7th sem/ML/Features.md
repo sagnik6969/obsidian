@@ -1,6 +1,5 @@
 ### Definition
 Feature selection is the process of identifying and selecting a subset of relevant features from a larger set of features.
-
 ### Why Feature selection is important
 
 Feature selection is a crucial step in machine learning, as it helps improve model performance by:

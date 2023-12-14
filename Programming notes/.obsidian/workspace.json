@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Clustering.md",
+                "file": "Final sem exam 7th sem/ML/Features.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Clustering.md",
+                "file": "Final sem exam 7th sem/ML/Features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Clustering.md",
+                "file": "Final sem exam 7th sem/ML/Features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Clustering.md"
+                "file": "Final sem exam 7th sem/ML/Features.md"
               }
             }
           }
@@ -156,6 +156,9 @@
   },
   "active": "78a383f23661c0c8",
   "lastOpenFiles": [
+    "Final sem exam 7th sem/ML/DB scan.md",
+    "Final sem exam 7th sem/ML/Deep learning.md",
+    "Final sem exam 7th sem/ML/Clustering.md",
     "Final sem exam 7th sem/ML/K mean.md",
     "Final sem exam 7th sem/ML/Knn.md",
     "Final sem exam 7th sem/ML/SVM.md",
@@ -182,9 +185,6 @@
     "attachments/Pasted image 20231213132336.png",
     "Final sem exam 7th sem/ML/Supervised and Unsupervised learning.md",
     "Final sem exam 7th sem/ML/Features.md",
-    "Final sem exam 7th sem/ML/DB scan.md",
-    "Final sem exam 7th sem/ML/Deep learning.md",
-    "Final sem exam 7th sem/ML/Clustering.md",
     "Final sem exam 7th sem/Music/How does the Digital Audio Workstation (DAW) contribute to ubiquitous music composition.md",
     "Final sem exam 7th sem/Biology/Nature inspired technology.md",
     "Final sem exam 7th sem/Biology/Write basic similarities and differences between prokaryotes and eukaryote.md",
