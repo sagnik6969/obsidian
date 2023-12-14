@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Principal component analysis.md",
+                "file": "Final sem exam 7th sem/ML/K mean.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Principal component analysis.md",
+                "file": "Final sem exam 7th sem/ML/K mean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Principal component analysis.md",
+                "file": "Final sem exam 7th sem/ML/K mean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Principal component analysis.md"
+                "file": "Final sem exam 7th sem/ML/K mean.md"
               }
             }
           }
@@ -156,6 +156,7 @@
   },
   "active": "78a383f23661c0c8",
   "lastOpenFiles": [
+    "Final sem exam 7th sem/ML/Principal component analysis.md",
     "Final sem exam 7th sem/ML/Boosting technique.md",
     "Final sem exam 7th sem/ML/Performance Metrics.md",
     "Final sem exam 7th sem/ML/Supervised and Unsupervised learning.md",
@@ -169,7 +170,6 @@
     "Final sem exam 7th sem/ML/Neural networks.md",
     "Final sem exam 7th sem/ML/Random Forest.md",
     "Final sem exam 7th sem/ML/Decision tree.md",
-    "Final sem exam 7th sem/ML/Principal component analysis.md",
     "Final sem exam 7th sem/ML/Bayesian learning.md",
     "Final sem exam 7th sem/ML/Overfitting.md",
     "Final sem exam 7th sem/ML/Logistic Regression.md",
