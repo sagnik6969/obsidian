@@ -1,2 +1,3 @@
 Lasso regression
 regfit
+bagging
