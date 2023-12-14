@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Random Forest.md",
+                "file": "SQL/Micellenius.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Random Forest.md",
+                "file": "SQL/Micellenius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Random Forest.md",
+                "file": "SQL/Micellenius.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Random Forest.md"
+                "file": "SQL/Micellenius.md"
               }
             }
           }
@@ -156,6 +156,7 @@
   },
   "active": "78a383f23661c0c8",
   "lastOpenFiles": [
+    "Final sem exam 7th sem/ML/Random Forest.md",
     "Final sem exam 7th sem/ML/Cross validation.md",
     "Final sem exam 7th sem/ML/Boosting technique.md",
     "attachments/Pasted image 20231214174912.png",
@@ -172,7 +173,6 @@
     "Final sem exam 7th sem/ML/Knn.md",
     "Final sem exam 7th sem/ML/SVM.md",
     "Final sem exam 7th sem/ML/Neural networks.md",
-    "Final sem exam 7th sem/ML/Random Forest.md",
     "Final sem exam 7th sem/ML/Decision tree.md",
     "Final sem exam 7th sem/ML/Overfitting.md",
     "Final sem exam 7th sem/ML/Bayesian learning.md",
