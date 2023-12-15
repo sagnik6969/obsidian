@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Performance Metrics.md",
+                "file": "Final sem exam 7th sem/ML/Principal component analysis.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Performance Metrics.md",
+                "file": "Final sem exam 7th sem/ML/Principal component analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Performance Metrics.md",
+                "file": "Final sem exam 7th sem/ML/Principal component analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,15 +133,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Performance Metrics.md"
+                "file": "Final sem exam 7th sem/ML/Principal component analysis.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,8 +157,14 @@
   },
   "active": "78a383f23661c0c8",
   "lastOpenFiles": [
-    "Final sem exam 7th sem/ML/Cross validation.md",
+    "Final sem exam 7th sem/ML/Overfitting.md",
+    "Final sem exam 7th sem/ML/Bayesian learning.md",
+    "Final sem exam 7th sem/ML/Logistic Regression.md",
+    "Final sem exam 7th sem/ML/What is mechine learning.md",
+    "Final sem exam 7th sem/ML/Linear regression.md",
+    "Final sem exam 7th sem/ML/Application of machine learning in daily life..md",
     "Final sem exam 7th sem/ML/Performance Metrics.md",
+    "Final sem exam 7th sem/ML/Cross validation.md",
     "Final sem exam 7th sem/ML/Boosting technique.md",
     "Final sem exam 7th sem/ML/Supervised and Unsupervised learning.md",
     "Final sem exam 7th sem/ML/Features.md",
@@ -170,12 +178,6 @@
     "Final sem exam 7th sem/ML/Random Forest.md",
     "Final sem exam 7th sem/ML/Decision tree.md",
     "Final sem exam 7th sem/ML/Principal component analysis.md",
-    "Final sem exam 7th sem/ML/Overfitting.md",
-    "Final sem exam 7th sem/ML/Bayesian learning.md",
-    "Final sem exam 7th sem/ML/Logistic Regression.md",
-    "Final sem exam 7th sem/ML/What is mechine learning.md",
-    "Final sem exam 7th sem/ML/Linear regression.md",
-    "Final sem exam 7th sem/ML/Application of machine learning in daily life..md",
     "SQL/Micellenius.md",
     "attachments/Pasted image 20231214174912.png",
     "attachments/Pasted image 20231214174731.png",
