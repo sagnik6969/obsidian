@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leraval/Basics.md",
+                "file": "Leraval/routes.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "right": {
     "id": "6d8efcf62552782e",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leraval/Basics.md",
+                "file": "Leraval/routes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leraval/Basics.md",
+                "file": "Leraval/routes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leraval/Basics.md"
+                "file": "Leraval/routes.md"
               }
             }
           }
@@ -158,8 +157,9 @@
   },
   "active": "78a383f23661c0c8",
   "lastOpenFiles": [
-    "Final sem exam 7th sem/ML/Cross validation.md",
     "Leraval/Basics.md",
+    "Leraval/routes.md",
+    "Final sem exam 7th sem/ML/Cross validation.md",
     "Leraval",
     "Final sem exam 7th sem/ML/Boosting technique.md",
     "Final sem exam 7th sem/ML/Performance Metrics.md",
@@ -194,7 +194,6 @@
     "attachments/Pasted image 20231213133458.png",
     "Final sem exam 7th sem/Music/How does the Digital Audio Workstation (DAW) contribute to ubiquitous music composition.md",
     "Final sem exam 7th sem/Biology/Nature inspired technology.md",
-    "Final sem exam 7th sem/Biology/Write basic similarities and differences between prokaryotes and eukaryote.md",
     "Final sem exam 7th sem/Biology",
     "Final sem exam 7th sem/Music",
     "Final sem exam 7th sem/ML",

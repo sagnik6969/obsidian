@@ -76,6 +76,7 @@ Route::get('/', function () {
 1. define all the dependencies for the project
 2. `require` => all the required libraries.
 3. `require-dev` => required only while development.
+4. `scripts` => similar to npm
 ```
  "require": { 
 
@@ -109,3 +110,6 @@ Route::get('/', function () {
 
     },
 ```
+
+#### To start a laravel application
+`php artisan serve`
