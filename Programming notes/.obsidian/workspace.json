@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Cross validation.md",
-                "mode": "preview",
+                "file": "Leraval/Basics.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Cross validation.md",
+                "file": "Leraval/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Cross validation.md",
+                "file": "Leraval/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final sem exam 7th sem/ML/Cross validation.md"
+                "file": "Leraval/Basics.md"
               }
             }
           }
@@ -157,6 +157,9 @@
   },
   "active": "78a383f23661c0c8",
   "lastOpenFiles": [
+    "Final sem exam 7th sem/ML/Cross validation.md",
+    "Leraval/Basics.md",
+    "Leraval",
     "Final sem exam 7th sem/ML/Boosting technique.md",
     "Final sem exam 7th sem/ML/Performance Metrics.md",
     "Final sem exam 7th sem/ML/Supervised and Unsupervised learning.md",
@@ -177,7 +180,6 @@
     "Final sem exam 7th sem/ML/What is mechine learning.md",
     "Final sem exam 7th sem/ML/Linear regression.md",
     "Final sem exam 7th sem/ML/Application of machine learning in daily life..md",
-    "Final sem exam 7th sem/ML/Cross validation.md",
     "SQL/Micellenius.md",
     "attachments/Pasted image 20231214174912.png",
     "attachments/Pasted image 20231214174731.png",
@@ -192,7 +194,6 @@
     "Final sem exam 7th sem/Music/How does the Digital Audio Workstation (DAW) contribute to ubiquitous music composition.md",
     "Final sem exam 7th sem/Biology/Nature inspired technology.md",
     "Final sem exam 7th sem/Biology/Write basic similarities and differences between prokaryotes and eukaryote.md",
-    "Final sem exam 7th sem/Biology/Discuss emergence of biological organization. What is Simon’s Hierarchical principle, explain with example..md",
     "Final sem exam 7th sem/Biology",
     "Final sem exam 7th sem/Music",
     "Final sem exam 7th sem/ML",
