@@ -17,7 +17,7 @@ Route::get('/', function () {
 
 });
 ```
-3. "Main Page is displayed to the user"
+3. "Main Page" is displayed to the user
 
 #### Route example
 ```php
