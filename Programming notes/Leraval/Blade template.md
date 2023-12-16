@@ -32,8 +32,9 @@ Route::get('/', function () {
  <h1>{{ $name }} Jana</h1>
 ```
 
-1. n the blade file the vsriable name will be replaced by 'Sagnik'
-2. Interpolation syntex is similar to vue
+1. In the blade file the variable 'name' will be replaced by 'Sagnik'
+2. Interpolation syntax is similar to vue
+3. You can pass html tags inside the variables
 #### Isset
 ```
 <body>
@@ -46,3 +47,4 @@ Route::get('/', function () {
 
 </body>
 ```
+1. The h1 will only be displayed if $nem is set
