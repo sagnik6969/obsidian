@@ -41,7 +41,31 @@ Route::get('/', function () use ($tasks) {
     @endforelse
 ```
 - if tasks is empty then `    @empty` will be executed.
-- ` <a href="{{ route('tasks.show',['id' => 12]) }}">{{ $task -> title }}</a>` => to use a named route in href in blade
-- 
+- ` <a href="{{ route('tasks.show',['id' => 12]) }}">{{ $task -> title }}</a>` => to use a named route in `href` in blade
+```blade
+<body>
+    @forelse($tasks as $task)
+      <div>
+        <a href="{{ route('tasks.show',['id' => $task->id]) }}">{{ $task -> title}}</a>
+        </div>
+    @empty
+        <div>No task found</div>
+    @endforelse
+</body>
 
+```
+
+```php
+//web.php
+Route::get('/', function () use ($tasks) {
+  return view('index', [
+    'tasks' => $tasks
+  ]);
+}) -> name('tasks.index');
+  
+Route::get('/{id}',function($id){
+   return 'one single task';
+}) -> name('tasks.show') ;
+
+```
 
