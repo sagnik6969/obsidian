@@ -41,5 +41,7 @@ Route::get('/', function () use ($tasks) {
     @endforelse
 ```
 - if tasks is empty then `    @empty` will be executed.
+- ` <a href="{{ route('tasks.show',['id' => 12]) }}">{{ $task -> title }}</a>` => to use a named route in href in blade
+- 
 
 
