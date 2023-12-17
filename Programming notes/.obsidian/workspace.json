@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leraval/Blade diractives.md",
+                "file": "Leraval/Layouts using template inheritance.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leraval/Blade diractives.md",
+                "file": "Leraval/Layouts using template inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leraval/Blade diractives.md",
+                "file": "Leraval/Layouts using template inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leraval/Blade diractives.md"
+                "file": "Leraval/Layouts using template inheritance.md"
               }
             }
           }
@@ -157,8 +157,9 @@
   },
   "active": "78a383f23661c0c8",
   "lastOpenFiles": [
-    "Leraval/Blade template.md",
     "Leraval/Blade diractives.md",
+    "Leraval/Layouts using template inheritance.md",
+    "Leraval/Blade template.md",
     "Leraval/routes.md",
     "Leraval/Basics.md",
     "Final sem exam 7th sem/ML/Cross validation.md",
@@ -183,7 +184,6 @@
     "Final sem exam 7th sem/ML/What is mechine learning.md",
     "Final sem exam 7th sem/ML/Linear regression.md",
     "Final sem exam 7th sem/ML/Application of machine learning in daily life..md",
-    "SQL/Micellenius.md",
     "attachments/Pasted image 20231214174912.png",
     "attachments/Pasted image 20231214174731.png",
     "attachments/Pasted image 20231214174143.png",
