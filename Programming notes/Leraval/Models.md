@@ -11,25 +11,40 @@
 11. run `php artisan migrate` command to apply the migration to the database 
 ```php
 <?php
-
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
-
-return new class extends Migration
-
-{
+  
+return new class extends Migration {
+    /**
+     * Run the migrations.
+     */
     public function up(): void
 
     {
-
         Schema::create('tasks', function (Blueprint $table) {
-        
+            // 1st argument is table name
+            // 2nde argument is a function which gets $table as an input        
+
             $table->id();
+            //creates an id column with auto increment and primary key
+            // laravel's default way of creating id
             $table->timestamps();
+            // create 2 columns created_at and updated at which will automatically get updated.
+            
+            $table->string('title');
+            // varchar(255)
+            $table->string('description');
+            $table->string('long_description')->nullable();
+            // by default columns are not nullable
+            // to make them nullable use the above syntax.
+            $table->boolean('completed')->default(false);
+            // tinyint(1)
         });
     }
-
+    /**
+     * Reverse the migrations.
+     */
     public function down(): void
     {
         Schema::dropIfExists('tasks');
@@ -38,3 +53,5 @@ return new class extends Migration
 ```
 12. migrations are also stored in migrations table in MySQL. In this way laravel wont apply same migration twice.
 13. to rollback the last migration `php artisan migrate:rollback`
+14. models are used to add or delete rows in a table.
+15. migration are used to create , alter, delete a table.
