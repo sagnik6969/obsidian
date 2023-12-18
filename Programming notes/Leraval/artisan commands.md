@@ -7,4 +7,5 @@
 7. `phpartisan make:model model_name -m` => `-m` flag tells laravel to also generate a migration file
 8. to rollback the last migration `php artisan migrate:rollback`
 9. `php artisan route:list` => gives a list of all the routes in the application
+10. `php artisan tinker` => command line interface for laravel application => we can write queries in oop way
 
