@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final sem exam 7th sem/TOC/Languages.md",
+                "file": "Leraval/Layouts using template inheritance.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final sem exam 7th sem/TOC/Languages.md",
+                "file": "Leraval/Layouts using template inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final sem exam 7th sem/TOC/Languages.md",
+                "file": "Leraval/Layouts using template inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final sem exam 7th sem/TOC/Languages.md"
+                "file": "Leraval/Layouts using template inheritance.md"
               }
             }
           }
@@ -158,17 +158,17 @@
   },
   "active": "78a383f23661c0c8",
   "lastOpenFiles": [
+    "Final sem exam 7th sem/TOC/Languages.md",
     "attachments/Pasted image 20231217105432.png",
     "attachments/Pasted image 20231217105339.png",
-    "Final sem exam 7th sem/Leraval/Blade diractives.md",
-    "Final sem exam 7th sem/TOC/Languages.md",
+    "Leraval/Blade diractives.md",
     "Final sem exam 7th sem/TOC",
-    "Final sem exam 7th sem/Leraval/Layouts using template inheritance.md",
-    "Final sem exam 7th sem/Leraval/Blade template.md",
-    "Final sem exam 7th sem/Leraval/routes.md",
-    "Final sem exam 7th sem/Leraval/Basics.md",
+    "Leraval/Layouts using template inheritance.md",
+    "Leraval/Blade template.md",
+    "Leraval/routes.md",
+    "Leraval/Basics.md",
     "Final sem exam 7th sem/ML/Cross validation.md",
-    "Final sem exam 7th sem/Leraval",
+    "Leraval",
     "Final sem exam 7th sem/ML/Boosting technique.md",
     "Final sem exam 7th sem/ML/Performance Metrics.md",
     "Final sem exam 7th sem/ML/Supervised and Unsupervised learning.md",
@@ -195,7 +195,6 @@
     "attachments/Pasted image 20231213134021.png",
     "attachments/Pasted image 20231213133910.png",
     "attachments/Pasted image 20231213133813.png",
-    "attachments/Pasted image 20231213133640.png",
     "Final sem exam 7th sem/Biology",
     "Final sem exam 7th sem/Music",
     "Final sem exam 7th sem/ML",
