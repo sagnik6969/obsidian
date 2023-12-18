@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leraval/Connecting to database.md",
+                "file": "Leraval/Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leraval/Connecting to database.md",
+                "file": "Leraval/Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leraval/Connecting to database.md",
+                "file": "Leraval/Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leraval/Connecting to database.md"
+                "file": "Leraval/Models.md"
               }
             }
           }
@@ -158,8 +158,9 @@
   },
   "active": "78a383f23661c0c8",
   "lastOpenFiles": [
-    "Leraval/Layouts using template inheritance.md",
     "Leraval/Connecting to database.md",
+    "Leraval/Models.md",
+    "Leraval/Layouts using template inheritance.md",
     "Final sem exam 7th sem/TOC/Languages.md",
     "attachments/Pasted image 20231217105432.png",
     "attachments/Pasted image 20231217105339.png",
@@ -187,7 +188,6 @@
     "Final sem exam 7th sem/ML/Overfitting.md",
     "Final sem exam 7th sem/ML/Bayesian learning.md",
     "Final sem exam 7th sem/ML/Logistic Regression.md",
-    "Final sem exam 7th sem/ML/What is mechine learning.md",
     "attachments/Pasted image 20231214174912.png",
     "attachments/Pasted image 20231214174731.png",
     "attachments/Pasted image 20231214174143.png",
