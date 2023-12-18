@@ -3,3 +3,4 @@
 3. factories and seeders can be found inside `database` folder
 4. `php artisan db:seed` => to store the fake records in the database.
 5. To create a new factory `php artisan make:factory TaskFactory --model=Task`
+6. to recreate the migrations along with seeding we need to write `php artisan migrate:refresh --seed`
