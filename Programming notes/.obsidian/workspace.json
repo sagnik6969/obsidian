@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leraval/Models.md",
+                "file": "Leraval/Model factory and seeders.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "right": {
     "id": "6d8efcf62552782e",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leraval/Models.md",
+                "file": "Leraval/Model factory and seeders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leraval/Models.md",
+                "file": "Leraval/Model factory and seeders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leraval/Models.md"
+                "file": "Leraval/Model factory and seeders.md"
               }
             }
           }
@@ -158,8 +157,9 @@
   },
   "active": "78a383f23661c0c8",
   "lastOpenFiles": [
-    "Leraval/Connecting to database.md",
     "Leraval/Models.md",
+    "Leraval/Model factory and seeders.md",
+    "Leraval/Connecting to database.md",
     "Leraval/Layouts using template inheritance.md",
     "Final sem exam 7th sem/TOC/Languages.md",
     "attachments/Pasted image 20231217105432.png",
@@ -187,7 +187,6 @@
     "Final sem exam 7th sem/ML/Principal component analysis.md",
     "Final sem exam 7th sem/ML/Overfitting.md",
     "Final sem exam 7th sem/ML/Bayesian learning.md",
-    "Final sem exam 7th sem/ML/Logistic Regression.md",
     "attachments/Pasted image 20231214174912.png",
     "attachments/Pasted image 20231214174731.png",
     "attachments/Pasted image 20231214174143.png",
