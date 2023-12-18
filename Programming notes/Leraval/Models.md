@@ -36,3 +36,5 @@ return new class extends Migration
     }
 };
 ```
+12. migrations are also stored in migrations table in MySQL. In this way laravel wont apply same migration twice.
+13. to rollback the last migration `php artisan migrate:rollback`
