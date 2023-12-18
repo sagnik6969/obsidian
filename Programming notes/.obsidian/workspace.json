@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leraval/Model factory and seeders.md",
+                "file": "Leraval/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,11 +23,16 @@
             "id": "bcff5ac21b94ce4c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Leraval/Connecting to database.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "artisan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leraval/Model factory and seeders.md",
+                "file": "Leraval/Connecting to database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leraval/Model factory and seeders.md",
+                "file": "Leraval/Connecting to database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leraval/Model factory and seeders.md"
+                "file": "Leraval/Connecting to database.md"
               }
             }
           }
@@ -155,11 +161,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78a383f23661c0c8",
+  "active": "bcff5ac21b94ce4c",
   "lastOpenFiles": [
-    "Leraval/Models.md",
-    "Leraval/Model factory and seeders.md",
+    "Leraval/Basics.md",
     "Leraval/Connecting to database.md",
+    "Leraval/artisan commands.md",
+    "Leraval/Model factory and seeders.md",
+    "Leraval/Models.md",
     "Leraval/Layouts using template inheritance.md",
     "Final sem exam 7th sem/TOC/Languages.md",
     "attachments/Pasted image 20231217105432.png",
@@ -168,7 +176,6 @@
     "Final sem exam 7th sem/TOC",
     "Leraval/Blade template.md",
     "Leraval/routes.md",
-    "Leraval/Basics.md",
     "Final sem exam 7th sem/ML/Cross validation.md",
     "Leraval",
     "Final sem exam 7th sem/ML/Boosting technique.md",
@@ -186,7 +193,6 @@
     "Final sem exam 7th sem/ML/Decision tree.md",
     "Final sem exam 7th sem/ML/Principal component analysis.md",
     "Final sem exam 7th sem/ML/Overfitting.md",
-    "Final sem exam 7th sem/ML/Bayesian learning.md",
     "attachments/Pasted image 20231214174912.png",
     "attachments/Pasted image 20231214174731.png",
     "attachments/Pasted image 20231214174143.png",
