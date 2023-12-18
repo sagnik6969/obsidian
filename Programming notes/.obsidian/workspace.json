@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2c8df382e95eb9e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "php/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -57,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "artisan",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leraval/artisan commands.md",
+                "file": "php/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leraval/artisan commands.md",
+                "file": "php/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leraval/artisan commands.md"
+                "file": "php/Untitled.md"
               }
             }
           }
@@ -157,11 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce4d7c16835fe8f6",
+  "active": "2c8df382e95eb9e1",
   "lastOpenFiles": [
+    "Untitled.md",
+    "php/Untitled.md",
+    "Leraval/artisan commands.md",
+    "php",
     "Leraval/Models.md",
     "Leraval/routes.md",
-    "Leraval/artisan commands.md",
     "Leraval/Model factory and seeders.md",
     "Leraval/Connecting to database.md",
     "Leraval/Basics.md",
@@ -187,8 +201,6 @@
     "Final sem exam 7th sem/ML/Neural networks.md",
     "Final sem exam 7th sem/ML/Random Forest.md",
     "Final sem exam 7th sem/ML/Decision tree.md",
-    "Final sem exam 7th sem/ML/Principal component analysis.md",
-    "Final sem exam 7th sem/ML/Overfitting.md",
     "attachments/Pasted image 20231214174912.png",
     "attachments/Pasted image 20231214174731.png",
     "attachments/Pasted image 20231214174143.png",
