@@ -1,5 +1,4 @@
 
-
 1. **Definition and Significance:**
    Laya is the Sanskrit word for tempo, and it is a crucial concept in Hindustani classical music. It refers to the speed or pace at which a musical composition or performance is played. Laya is not simply about playing faster or slower; it also encompasses the **subtle variations** in tempo that can create a sense of flow, momentum, and excitement in the music.
 
