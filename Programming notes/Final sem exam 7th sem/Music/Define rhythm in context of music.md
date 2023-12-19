@@ -11,8 +11,10 @@ Rhythm in the context of music refers to the pattern of sounds and silences in a
 ## Harmony
 Harmony in music is the beautiful and pleasing combination of multiple pitches played or sung simultaneously. It's like the different colors coming together to create a stunning painting. When different notes, played either one after the other or at the same time, blend seamlessly and create an aesthetically pleasing sound, that's harmony!
 
-There are three main ways to think about harmony:
+THere are key aspects of the concept of harmony in music:
 
-1. **Vertical Harmony:** This refers to the simultaneous combination of notes, known as chords. 
-2. **Horizontal Harmony:** This refers to the progression of chords over time. 
-3. **Melodic Harmony:** This refers to the way multiple melodic lines (individual sequences of notes) interweave and complement each other.
+1. **Chords:** Chords are the building blocks of harmony. A chord is a group of three or more notes played or heard together. 
+    
+2. **Chord Progressions:** Harmony is often expressed through chord progressions, which are sequences of chords that form the harmonic structure of a piece of music. 
+
+Example of Harmony: Consider a simple C major chord played on a piano, which consists of the notes C, E, and G:
