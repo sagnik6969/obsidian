@@ -46,11 +46,7 @@ GNNs are proving to be a promising tool for music generation, offering unique ad
 - **Incorporating Musical Rules and Constraints:** GNNs can be trained on music theory rules and constraints, ensuring that the generated music follows established musical principles.
 - **Flexibility and Adaptability:** GNN architecture can be adapted to different musical styles and genres, making them versatile tools for creative music generation.
 
-**Examples of GNN Applications in Music Generation:**
 
-- **Pianola:** This project utilizes GNNs to generate expressive piano performances from music scores, capturing subtle nuances like dynamics and tempo variations.
-- **Music Transformer with Graph Attention:** This research combines Transformers with GNN attention mechanisms to improve the long-term structure and coherence of generated music.
-- **J. ACM, Vol. XXX, No. XXX, Article XXX:** This study explores GNNs for modeling the expressive aspects of music performance, enabling the generation of emotionally impactful music.
 
 **Challenges and Future Directions:**
 

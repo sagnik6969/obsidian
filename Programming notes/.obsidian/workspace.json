@@ -16,6 +16,18 @@
             }
           },
           {
+            "id": "5991df061fa8c2aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Final sem exam 7th sem/Music/Define rhythm in context of music.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ce4d7c16835fe8f6",
             "type": "leaf",
             "state": {
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,9 +182,10 @@
   },
   "active": "2c8df382e95eb9e1",
   "lastOpenFiles": [
+    "Leraval/artisan commands.md",
     "Final sem exam 7th sem/Music/Define rhythm in context of music.md",
-    "Final sem exam 7th sem/Music/What is Laya (Tempo) in Hindustani Classical Music.md",
     "Final sem exam 7th sem/Music/How GNN can be used for music generation.md",
+    "Final sem exam 7th sem/Music/What is Laya (Tempo) in Hindustani Classical Music.md",
     "Final sem exam 7th sem/Music/Differentiate between pluck and struck strings in music. Provide  examples of each.md",
     "Final sem exam 7th sem/Music/Explain the significance of frequency ratios in pitch perception. Provide examples of how different frequency ratios contribute to distinct musical qualities. (8 Marks).md",
     "Final sem exam 7th sem/Music/Concept of Swara and Shruti in Indian classical music.md",
@@ -188,7 +201,6 @@
     "attachments/Pasted image 20231219132251.png",
     "php/Bascis.md",
     "Untitled.md",
-    "Leraval/artisan commands.md",
     "php",
     "Leraval/Models.md",
     "Leraval/routes.md",
