@@ -32,37 +32,18 @@ c.  (ii) &amp; (iii) both        
 **d.  (i) &amp; (iv) both**        
            
  v)  Sitar is evolved from which of the following instruments?  1      2
-a. Veena
-
-       
-
+**a. Veena**      
 b. Guitar
-
-       
-
 c. Sarod
-
-       
-
 d. Dundubhi
 
        
            
-vi)
- It is said that Tabla was invented accidentally during a stage performance by an
-artist. Name the instrument from which Tabla was believed to be invented…  1      1
+vi) It is said that Tabla was invented accidentally during a stage performance by an
+artist. Name the instrument from which Tabla was believed to be invented…  
 a.  Bongo
-
-       
-
 b. Dholak
-
-       
-
-c. Mridanga
-
-       
-
+**c. Mridanga**
 d. Guitar
 
        
@@ -71,37 +52,23 @@ vii)  MIDI is a format for Digital Transfer. What is the full form of MIDI?  1
 a.  Musical Instrument Data Interface        
 b.  Musical Instructions Digital Interface        
 c.  Musical Information Data Interface        
-d. Musical Instrument Digital Interface        
+**d. Musical Instrument Digital Interface**        
            
 viii)  Which of the following is false about ubiquitous music systems?  1      2
 a.  Distributed and co-operative systems
-
-       
-b.  All the users need to be in a single venue to access musical activities        
+**b.  All the users need to be in a single venue to access musical activities**        
 c.  Multiple users can access musical activities from anywhere        
 d. Multiple devices can be engaged at once        
            
-ix)  Which among the following is an approach of music recommendation?  1      3
-           
+ix)  Which among the following is an approach of music recommendation?     
 a. Collaborative Filtering        
 b.  Content-based Filtering        
 c. Context-aware Recommendation Approach
-
-       
+**d. All of the above**
            
-x)  What is the full form of TMAP  1      3
-
-SIST/PROGRAM (COURSE)/SEM- /PAPER CODE/2022-23
-
-Page 3 of 5
-           
+x)  What is the full form of TMAP  
 a. Technology-Mediated Audience Participation
-
-       
-
 b. Technology-Mapped Audience Participation
-
-       
 c.  Technology-Mediated Auto Participation        
 d. Technology-Mediated Audience psychology
 
