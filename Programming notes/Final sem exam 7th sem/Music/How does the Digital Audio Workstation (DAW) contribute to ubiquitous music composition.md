@@ -1,7 +1,6 @@
 A Digital Audio Workstation (DAW) is a software application used for recording, editing, and producing audio. It allows musicians and music producers to create high-quality audio recordings and projects from start to finish.
 E.g. Logic Pro
 
-
 A Digital Audio Workstation (DAW) plays a pivotal role in modern music composition, production, and recording. Its contribution to ubiquitous music composition is significant due to several key features and functionalities. Here are some ways in which a DAW contributes:
 
 1. **Digital Recording:**
