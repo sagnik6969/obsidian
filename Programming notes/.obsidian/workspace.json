@@ -33,8 +33,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final sem exam 7th sem/Music/What is Laya (Tempo) in Hindustani Classical Music.md",
-                "mode": "source",
+                "file": "Final sem exam 7th sem/Music/Explain the significance of frequency ratios in pitch perception. Provide examples of how different frequency ratios contribute to distinct musical qualities. (8 Marks).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final sem exam 7th sem/Music/What is Laya (Tempo) in Hindustani Classical Music.md",
+                "file": "Final sem exam 7th sem/Music/Explain the significance of frequency ratios in pitch perception. Provide examples of how different frequency ratios contribute to distinct musical qualities. (8 Marks).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final sem exam 7th sem/Music/What is Laya (Tempo) in Hindustani Classical Music.md",
+                "file": "Final sem exam 7th sem/Music/Explain the significance of frequency ratios in pitch perception. Provide examples of how different frequency ratios contribute to distinct musical qualities. (8 Marks).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final sem exam 7th sem/Music/What is Laya (Tempo) in Hindustani Classical Music.md"
+                "file": "Final sem exam 7th sem/Music/Explain the significance of frequency ratios in pitch perception. Provide examples of how different frequency ratios contribute to distinct musical qualities. (8 Marks).md"
               }
             }
           }
@@ -170,8 +170,10 @@
   },
   "active": "2c8df382e95eb9e1",
   "lastOpenFiles": [
-    "Final sem exam 7th sem/Music/Concept of Swara and Shruti in Indian classical music.md",
+    "Final sem exam 7th sem/Music/Define rhythm in context of music.md",
+    "Final sem exam 7th sem/Music/Explain the significance of frequency ratios in pitch perception. Provide examples of how different frequency ratios contribute to distinct musical qualities. (8 Marks).md",
     "Final sem exam 7th sem/Music/What is Laya (Tempo) in Hindustani Classical Music.md",
+    "Final sem exam 7th sem/Music/Concept of Swara and Shruti in Indian classical music.md",
     "Final sem exam 7th sem/Music/Define resonance and explain its role in amplifying sound. Describe how resonance occurs in musical instruments. (3+4+8 marks).md",
     "Final sem exam 7th sem/Music/What is LLM. What are its advantages and limitation in the field of music generation..md",
     "Final sem exam 7th sem/Music/Define raga and mention its classes..md",
@@ -199,8 +201,6 @@
     "Final sem exam 7th sem/ML/Cross validation.md",
     "Leraval",
     "Final sem exam 7th sem/ML/Boosting technique.md",
-    "Final sem exam 7th sem/ML/Performance Metrics.md",
-    "Final sem exam 7th sem/ML/Supervised and Unsupervised learning.md",
     "attachments/Pasted image 20231214174912.png",
     "attachments/Pasted image 20231214174731.png",
     "attachments/Pasted image 20231214174143.png",
