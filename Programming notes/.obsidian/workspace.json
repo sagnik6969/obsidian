@@ -102,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 432.5
   },
   "right": {
     "id": "6d8efcf62552782e",
@@ -180,8 +180,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c8df382e95eb9e1",
+  "active": "fea84f889c040fd4",
   "lastOpenFiles": [
+    "Final sem exam 7th sem/Biology/Discuss emergence of biological organization. What is Simon’s Hierarchical principle, explain with example..md",
+    "Final sem exam 7th sem/Biology/Nature inspired technology.md",
     "Leraval/artisan commands.md",
     "Final sem exam 7th sem/Music/How GNN can be used for music generation.md",
     "Final sem exam 7th sem/Music/Differentiate between pluck and struck strings in music. Provide  examples of each.md",
@@ -208,10 +210,8 @@
     "Leraval/Connecting to database.md",
     "Leraval/Basics.md",
     "Leraval/Layouts using template inheritance.md",
-    "Final sem exam 7th sem/TOC/Languages.md",
     "attachments/Pasted image 20231217105432.png",
     "attachments/Pasted image 20231217105339.png",
-    "Leraval/Blade diractives.md",
     "Final sem exam 7th sem/TOC",
     "Leraval",
     "attachments/Pasted image 20231214174912.png",
