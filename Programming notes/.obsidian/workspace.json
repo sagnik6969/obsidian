@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final sem exam 7th sem/Biology/Why do living systems need energy. Why there are more producers than consumers in an  ecosystem.md",
+                "file": "Final sem exam 7th sem/Biology/Discuss emergence of biological organization. What is Simon’s Hierarchical principle, explain with example..md",
                 "mode": "preview",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Final sem exam 7th sem/Biology/Why do living systems need energy. Why there are more producers than consumers in an  ecosystem.md",
+                "file": "Final sem exam 7th sem/Biology/Discuss emergence of biological organization. What is Simon’s Hierarchical principle, explain with example..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Final sem exam 7th sem/Biology/Why do living systems need energy. Why there are more producers than consumers in an  ecosystem.md",
+                "file": "Final sem exam 7th sem/Biology/Discuss emergence of biological organization. What is Simon’s Hierarchical principle, explain with example..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final sem exam 7th sem/Biology/Why do living systems need energy. Why there are more producers than consumers in an  ecosystem.md"
+                "file": "Final sem exam 7th sem/Biology/Discuss emergence of biological organization. What is Simon’s Hierarchical principle, explain with example..md"
               }
             }
           }
@@ -182,11 +182,13 @@
   },
   "active": "2c8df382e95eb9e1",
   "lastOpenFiles": [
-    "Final sem exam 7th sem/Biology/Write the characteristics of model organisms..md",
     "Final sem exam 7th sem/Biology/What are genetic disorders. List different types of genetic disorders..md",
+    "Final sem exam 7th sem/Biology/Write basic similarities and differences between prokaryotes and eukaryote.md",
+    "Final sem exam 7th sem/Biology/Why do living systems need energy. Why there are more producers than consumers in an  ecosystem.md",
+    "Leraval/artisan commands.md",
+    "Final sem exam 7th sem/Biology/Write the characteristics of model organisms..md",
     "Final sem exam 7th sem/Biology/Discuss emergence of biological organization. What is Simon’s Hierarchical principle, explain with example..md",
     "Final sem exam 7th sem/Biology/Nature inspired technology.md",
-    "Leraval/artisan commands.md",
     "Final sem exam 7th sem/Music/How GNN can be used for music generation.md",
     "Final sem exam 7th sem/Music/Differentiate between pluck and struck strings in music. Provide  examples of each.md",
     "Final sem exam 7th sem/Music/Explain the significance of frequency ratios in pitch perception. Provide examples of how different frequency ratios contribute to distinct musical qualities. (8 Marks).md",
@@ -208,8 +210,6 @@
     "php",
     "Leraval/Models.md",
     "Leraval/routes.md",
-    "Leraval/Model factory and seeders.md",
-    "Leraval/Connecting to database.md",
     "attachments/Pasted image 20231217105432.png",
     "attachments/Pasted image 20231217105339.png",
     "Final sem exam 7th sem/TOC",
