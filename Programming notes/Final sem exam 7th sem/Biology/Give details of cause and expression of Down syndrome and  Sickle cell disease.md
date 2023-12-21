@@ -2,8 +2,7 @@
 
 **Cause:**
 
-Down syndrome occurs due to an extra copy of chromosome 21. This can happen in different ways during cell division:
-
+Down syndrome occurs due to an extra copy of chromosome 21. 
 **Expression:**
 
 The extra genetic material from chromosome 21 disrupts typical development, leading to a wide range of physical and intellectual features. These can include:
