@@ -7,3 +7,6 @@
 Jean Perrin: 
 • Work: In the early 20th century, Perrin conducted precise experiments on Brownian motion. 
 • Contribution: Calculated Avogadro's number and confirmed Einstein's explanation, solidifying the acceptance of the atomic theory
+
+**Archicka :**
+Archaea are tiny, ancient microbes with unique cell structures, often thriving in extreme environments like hot springs and deep oceans.
