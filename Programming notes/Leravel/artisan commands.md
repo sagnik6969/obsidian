@@ -8,4 +8,5 @@
 8. to rollback the last migration `php artisan migrate:rollback`
 9. `php artisan route:list` => gives a list of all the routes in the application
 10. `php artisan tinker` => command line interface for laravel application => we can write queries in oop way
+11. `php artisan make:request request_name` =>to create a from request file. Form request are extracting the form validation rules to one place. 
 
