@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leravel/Extra.md",
+                "file": "Leravel/artisan commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leravel/Extra.md",
+                "file": "Leravel/artisan commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leravel/Extra.md",
+                "file": "Leravel/artisan commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leravel/Extra.md"
+                "file": "Leravel/artisan commands.md"
               }
             }
           }
@@ -170,8 +170,8 @@
   },
   "active": "5991df061fa8c2aa",
   "lastOpenFiles": [
-    "Leravel/artisan commands.md",
     "Leravel/Extra.md",
+    "Leravel/artisan commands.md",
     "Leravel/Model factory and seeders.md",
     "Leravel/Models.md",
     "Leravel/Connecting to database.md",
