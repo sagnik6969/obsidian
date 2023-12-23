@@ -32,7 +32,7 @@ use Illuminate\Routing\Controller as BaseController;
 ```
 6. App namespace prefix is mapped to app directory
 #### bootstrap:
-1. It contains some case files that laravel automatically generates.
+1. It contains some cash files that laravel automatically generates.
 2. no need to know
 #### Config
 1. Contains configurations for vicious aspects of the app
