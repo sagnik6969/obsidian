@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leravel/artisan commands.md",
+                "file": "Leravel/Extra.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leravel/artisan commands.md",
+                "file": "Leravel/Extra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leravel/artisan commands.md",
+                "file": "Leravel/Extra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leravel/artisan commands.md"
+                "file": "Leravel/Extra.md"
               }
             }
           }
@@ -170,6 +170,8 @@
   },
   "active": "5991df061fa8c2aa",
   "lastOpenFiles": [
+    "Leravel/artisan commands.md",
+    "Leravel/Extra.md",
     "Leravel/Model factory and seeders.md",
     "Leravel/Models.md",
     "Leravel/Connecting to database.md",
@@ -179,7 +181,6 @@
     "Leravel/Blade template.md",
     "Leravel/routes.md",
     "Leravel/Basics.md",
-    "Leravel/artisan commands.md",
     "Final sem exam 7th sem/Biology/Micellenuous.md",
     "Final sem exam 7th sem/Biology/What are the events which led to understanding of human genome.md",
     "Final sem exam 7th sem/Biology/Nature inspired technology.md",
@@ -195,7 +196,6 @@
     "Final sem exam 7th sem/Music/What is Laya (Tempo) in Hindustani Classical Music.md",
     "Final sem exam 7th sem/Music/Concept of Swara and Shruti in Indian classical music.md",
     "Final sem exam 7th sem/Music/Define resonance and explain its role in amplifying sound. Describe how resonance occurs in musical instruments. (3+4+8 marks).md",
-    "Final sem exam 7th sem/Music/What is LLM. What are its advantages and limitation in the field of music generation..md",
     "attachments/Pasted image 20231219132251.png",
     "php",
     "attachments/Pasted image 20231217105432.png",
