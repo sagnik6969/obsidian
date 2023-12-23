@@ -47,4 +47,4 @@ Route::get('/', function () {
 
 </body>
 ```
-1. The h1 will only be displayed if $nem is set
+1. The h1 will only be displayed if $name is set

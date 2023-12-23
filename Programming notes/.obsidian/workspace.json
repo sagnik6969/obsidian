@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leravel/routes.md",
-                "mode": "preview",
+                "file": "Leravel/Layouts using template inheritance.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leravel/routes.md",
+                "file": "Leravel/Layouts using template inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leravel/routes.md",
+                "file": "Leravel/Layouts using template inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leravel/routes.md"
+                "file": "Leravel/Layouts using template inheritance.md"
               }
             }
           }
@@ -170,6 +170,9 @@
   },
   "active": "5991df061fa8c2aa",
   "lastOpenFiles": [
+    "Leravel/Blade diractives.md",
+    "Leravel/Blade template.md",
+    "Leravel/routes.md",
     "Leravel/Basics.md",
     "Leravel/artisan commands.md",
     "Final sem exam 7th sem/Biology/Micellenuous.md",
@@ -193,9 +196,6 @@
     "Final sem exam 7th sem/Music/What is the difference between Indian classical music and western music.md",
     "Final sem exam 7th sem/Music/How does the Digital Audio Workstation (DAW) contribute to ubiquitous music composition.md",
     "Final sem exam 7th sem/Music/What is ubiquitous music. What are the key components involved in ubiquitous music composition..md",
-    "Final sem exam 7th sem/Music/How do recommendation systems use machine learning algorithms to recommend similar songs based on listeners preferences.md",
-    "Final sem exam 7th sem/Music/What are the machine learning techniques commonly used in music composition (8 Marks).md",
-    "Final sem exam 7th sem/Music/Mcq.md",
     "attachments/Pasted image 20231219132251.png",
     "php",
     "attachments/Pasted image 20231217105432.png",
