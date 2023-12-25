@@ -17,3 +17,8 @@
 
 https://github.com/barryvdh/laravel-ide-helper?tab=readme-ov-file#model-hooks 
 => the above is required for intellisense for eloquent queries
+
+
+=> The order in which you call the query builder functions does not matter.
+=> but it is not always the case if you use order by the first order by takes precedence over 2nd order by.
+
