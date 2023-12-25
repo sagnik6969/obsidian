@@ -9,4 +9,6 @@
 1. `firstWhere()`
 2. `find(id)
 3. `findOrFail(id)`
-4. 
+
+=> if you use all() or queries to find a single record => get() is not required 
+=> else it is required
