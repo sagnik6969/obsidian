@@ -14,3 +14,6 @@
 => else it is required
 
 => write `->toSql()`in place of get to get the sql query
+
+https://github.com/barryvdh/laravel-ide-helper?tab=readme-ov-file#model-hooks 
+=> the above is required for intellisense for eloquent queries
