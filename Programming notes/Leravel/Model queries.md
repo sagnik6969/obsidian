@@ -12,3 +12,5 @@
 
 => if you use all() or queries to find a single record => get() is not required 
 => else it is required
+
+=> write `->toSql()`in place of get to get the sql query
