@@ -24,3 +24,8 @@ https://github.com/barryvdh/laravel-ide-helper?tab=readme-ov-file#model-hooks
 
 =>  **PHP is partially case-sensitive**. PHP constructs, function names, class names are case-insensitive, whereas variables are case-sensitive.
 
+=> `Book::withCount('reviews')->latest()->limit(3)->get();`
+The `Book::withCount('reviews')` returns an instance of the query builder for the "Book" model. The `latest()` method is then chained onto this query builder instance to modify the order in which the records are retrieved. This method specifically orders the results based on the created_at column in descending order.
+
+So, in this context, `->latest()` is being called on the query builder instance returned by `Book::withCount('reviews')`.
+
