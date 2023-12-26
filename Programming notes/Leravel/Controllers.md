@@ -6,4 +6,6 @@ instead of keeping all the logics in `web.php` in bigger laravel applications lo
 - you can call these actions from the `web.php`
 - laravel works on `mvc` pattern. 
 - m => model => to handle data
-- view => to handle 
+- v => view => to handle user interface
+- c => controller => to handle logic => responsible for gluing together models and views to produce final output.
+- to make a resource controller `--resource` resource controllers are the controllers which has some predefined set of actions. Example: create, update  
