@@ -11,3 +11,4 @@ instead of keeping all the logics in `web.php` in bigger laravel applications lo
 - to make a resource controller `--resource` resource controllers are the controllers which has some predefined set of actions. Example
 ![[Pasted image 20231226105648.png]]
 - Resource controller will automatically implement these methods
+- custom Query builders in models need not to return anything but it is considered a good proactive to return an instance of query builder
