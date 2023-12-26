@@ -10,3 +10,4 @@ instead of keeping all the logics in `web.php` in bigger laravel applications lo
 - c => controller => to handle logic => responsible for gluing together models and views to produce final output.
 - to make a resource controller `--resource` resource controllers are the controllers which has some predefined set of actions. Example
 ![[Pasted image 20231226105648.png]]
+- Resource controller will automatically implement these methods
