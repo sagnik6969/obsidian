@@ -22,3 +22,5 @@ https://github.com/barryvdh/laravel-ide-helper?tab=readme-ov-file#model-hooks
 => The order in which you call the query builder functions does not matter.
 => but it is not always the case if you use order by the first order by takes precedence over 2nd order by.
 
+=>  **PHP is partially case-sensitive**. PHP constructs, function names, class names are case-insensitive, whereas variables are case-sensitive.
+
