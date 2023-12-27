@@ -11,5 +11,6 @@
 11. `php artisan make:request request_name` =>to create a from request file. Form request are extracting the form validation rules to one place. 
 12. `php artisan make:component StarRating` => to make a star rating component.
 13. `php artisan cache:clear` => to clear cache
-14. 
+14. `php artisan make:controller Api/AttendeeController --api` => to make a controller for api s.
+15. 
 
