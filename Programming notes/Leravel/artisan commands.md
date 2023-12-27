@@ -12,5 +12,5 @@
 12. `php artisan make:component StarRating` => to make a star rating component.
 13. `php artisan cache:clear` => to clear cache
 14. `php artisan make:controller Api/AttendeeController --api` => to make a controller for api s.
-15. 
+15. `php artisan make:seeder AttendeeSeeder` => to make a seeder
 
