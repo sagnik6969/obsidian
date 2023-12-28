@@ -13,5 +13,5 @@
 13. `php artisan cache:clear` => to clear cache
 14. `php artisan make:controller Api/AttendeeController --api` => to make a controller for api s.
 15. `php artisan make:seeder AttendeeSeeder` => to make a seeder
-16. 
+16. `php artisan make:resource AttendeeResource` => to make a resource => converts model to json for api response.
 
