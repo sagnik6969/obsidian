@@ -1,0 +1,3 @@
+- workspace => saves configurations etc.
+- collections => group requests into n=meaning full groups
+- 
