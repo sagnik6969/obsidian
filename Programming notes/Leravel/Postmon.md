@@ -2,4 +2,4 @@
 - collections => group requests into n=meaning full groups
 - we can also create variables in postmon
 - collections and environments are particular to a workspace
-- 
+- collections are like folders
