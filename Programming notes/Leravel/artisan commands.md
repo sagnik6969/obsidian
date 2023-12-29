@@ -14,4 +14,5 @@
 14. `php artisan make:controller Api/AttendeeController --api` => to make a controller for api s.
 15. `php artisan make:seeder AttendeeSeeder` => to make a seeder
 16. `php artisan make:resource AttendeeResource` => to make a resource => converts model to json for api response.
+17. `php artisan vendor:publish --provider="Laravel\Sanctum\SanctumServiceProvider` => for publishing (copying some code from vendor to codebase).
 
