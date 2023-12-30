@@ -16,4 +16,6 @@
 16. `php artisan make:resource AttendeeResource` => to make a resource => converts model to json for api response.
 17. `php artisan vendor:publish --provider="Laravel\Sanctum\SanctumServiceProvider` => for publishing (copying some code from vendor to codebase).
 18. To create a policy `php artisan make:policy EventPolicy --model=Event`
+19. To make a custom artisan command `php artisan make:command SendEventReminder`
+20. 
 
