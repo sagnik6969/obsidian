@@ -17,7 +17,8 @@
 17. `php artisan vendor:publish --provider="Laravel\Sanctum\SanctumServiceProvider` => for publishing (copying some code from vendor to codebase).
 18. To create a policy `php artisan make:policy EventPolicy --model=Event`
 19. To make a custom artisan command `php artisan make:command SendEventReminder`
-20. To run the scheduled tasks `php artisan schedule:work`
+20. To run the scheduled tasks (in kernal.php) `php artisan schedule:work`
 21. `php artisan make:notification EventReminderNotification` => to make a notification.
-22. 
+22. to run queue `php artisan queue work`
+23. 
 
