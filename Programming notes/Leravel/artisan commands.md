@@ -21,5 +21,6 @@
 21. `php artisan make:notification EventReminderNotification` => to make a notification.
 22. to run queue `php artisan queue:work`
 23. To create a livewire component `php artisan make:livewire CreatePoll`
-24. 
+24. `php artisan make:model Job -mf` => to create a Model with migration and factory.
+25. 
 
