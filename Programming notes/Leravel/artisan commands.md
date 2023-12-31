@@ -19,6 +19,7 @@
 19. To make a custom artisan command `php artisan make:command SendEventReminder`
 20. To run the scheduled tasks (in kernal.php) `php artisan schedule:work`
 21. `php artisan make:notification EventReminderNotification` => to make a notification.
-22. to run queue `php artisan queue work`
-23. 
+22. to run queue `php artisan queue:work`
+23. To create a livewire component `php artisan make:livewire CreatePoll`
+24. 
 
