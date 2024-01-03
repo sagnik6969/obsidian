@@ -23,5 +23,5 @@
 23. To create a livewire component `php artisan make:livewire CreatePoll`
 24. `php artisan make:model Job -mf` => to create a Model with migration and factory.
 25. `php artisan make:component Layout --view` to create a blade component without corresponding `php` class.
-26. 
+26. `php artisan db:wipe` => to delete all the tables in the database
 
