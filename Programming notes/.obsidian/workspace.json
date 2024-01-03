@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/section 12 Constraints & alter table.md",
+                "file": "SQL/Micellenius.md",
                 "mode": "preview",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/section 12 Constraints & alter table.md",
+                "file": "SQL/Micellenius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/section 12 Constraints & alter table.md",
+                "file": "SQL/Micellenius.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/section 12 Constraints & alter table.md"
+                "file": "SQL/Micellenius.md"
               }
             }
           }
@@ -170,9 +170,10 @@
   },
   "active": "5991df061fa8c2aa",
   "lastOpenFiles": [
+    "SQL/section 14 Many to many.md",
     "SQL/section 13 One to many joins.md",
-    "SQL/section 15 Views, Modes, & more.md",
     "SQL/section 12 Constraints & alter table.md",
+    "SQL/section 15 Views, Modes, & more.md",
     "SQL/section 11 Comparison and logical operators.md",
     "Leravel/Extra.md",
     "Leravel/artisan commands.md",
@@ -196,7 +197,6 @@
     "Final sem exam 7th sem/Biology/What are genetic disorders. List different types of genetic disorders..md",
     "Final sem exam 7th sem/Biology/Write the characteristics of model organisms..md",
     "Final sem exam 7th sem/Biology/Why do living systems need energy. Why there are more producers than consumers in an  ecosystem.md",
-    "Final sem exam 7th sem/Biology/Write basic similarities and differences between prokaryotes and eukaryote.md",
     "attachments/Pasted image 20231219132251.png",
     "php",
     "attachments/Pasted image 20231217105432.png",
