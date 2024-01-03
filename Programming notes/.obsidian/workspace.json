@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leravel/Extra.md",
-                "mode": "source",
+                "file": "SQL/section 12 Constraints & alter table.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leravel/Extra.md",
+                "file": "SQL/section 12 Constraints & alter table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leravel/Extra.md",
+                "file": "SQL/section 12 Constraints & alter table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leravel/Extra.md"
+                "file": "SQL/section 12 Constraints & alter table.md"
               }
             }
           }
@@ -170,8 +170,12 @@
   },
   "active": "5991df061fa8c2aa",
   "lastOpenFiles": [
-    "Leravel/artisan commands.md",
+    "SQL/section 13 One to many joins.md",
+    "SQL/section 15 Views, Modes, & more.md",
+    "SQL/section 12 Constraints & alter table.md",
+    "SQL/section 11 Comparison and logical operators.md",
     "Leravel/Extra.md",
+    "Leravel/artisan commands.md",
     "Leravel/Postmon.md",
     "Leravel/Model queries.md",
     "Leravel/Controllers.md",
@@ -193,10 +197,6 @@
     "Final sem exam 7th sem/Biology/Write the characteristics of model organisms..md",
     "Final sem exam 7th sem/Biology/Why do living systems need energy. Why there are more producers than consumers in an  ecosystem.md",
     "Final sem exam 7th sem/Biology/Write basic similarities and differences between prokaryotes and eukaryote.md",
-    "Final sem exam 7th sem/Music/Define rhythm in context of music.md",
-    "Final sem exam 7th sem/Music/How GNN can be used for music generation.md",
-    "Final sem exam 7th sem/Music/Differentiate between pluck and struck strings in music. Provide  examples of each.md",
-    "Final sem exam 7th sem/Music/Explain the significance of frequency ratios in pitch perception. Provide examples of how different frequency ratios contribute to distinct musical qualities. (8 Marks).md",
     "attachments/Pasted image 20231219132251.png",
     "php",
     "attachments/Pasted image 20231217105432.png",
