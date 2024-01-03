@@ -9,4 +9,5 @@ https://tyrrrz.me/projects
 https://aakash-sharma.netlify.app/
 https://www.abdusamad.uz/articles
 
-### https://aelarassi.com/
+### https://abdulrahman.id/
+### https://ahmedzougari.com/#contact
