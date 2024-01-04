@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portfolio.md",
+                "file": "Leravel/Extra.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Portfolio.md",
+                "file": "Leravel/Extra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Portfolio.md",
+                "file": "Leravel/Extra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Portfolio.md"
+                "file": "Leravel/Extra.md"
               }
             }
           }
@@ -182,10 +182,11 @@
   },
   "active": "6c245ef85c2d727e",
   "lastOpenFiles": [
-    "Leravel/artisan commands.md",
+    "Leravel/Controllers.md",
     "Leravel/Postmon.md",
-    "SQL/section 16 window function.md",
     "Portfolio.md",
+    "Leravel/artisan commands.md",
+    "SQL/section 16 window function.md",
     "SQL/section 15 Views, Modes, & more.md",
     "SQL/Micellenius.md",
     "SQL/section 14 Many to many.md",
@@ -195,7 +196,6 @@
     "SQL/Instagram Database Clone.md",
     "Leravel/Extra.md",
     "Leravel/Model queries.md",
-    "Leravel/Controllers.md",
     "attachments/Pasted image 20231226105648.png",
     "Leravel/Model factory and seeders.md",
     "Leravel/Models.md",
