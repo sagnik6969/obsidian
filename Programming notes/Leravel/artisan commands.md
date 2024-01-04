@@ -24,4 +24,6 @@
 24. `php artisan make:model Job -mf` => to create a Model with migration and factory.
 25. `php artisan make:component Layout --view` to create a blade component without corresponding `php` class.
 26. `php artisan db:wipe` => to delete all the tables in the database
+27. `php artisan make:controller asdf --resource` => to make a resource controller
+28. auth controller is also a resource controller.
 
