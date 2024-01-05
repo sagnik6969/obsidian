@@ -33,3 +33,5 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 });
 ```
 
+
+1. Add al the custom logics associated with a model to the model file itself
