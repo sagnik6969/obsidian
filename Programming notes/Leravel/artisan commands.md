@@ -26,4 +26,5 @@
 26. `php artisan db:wipe` => to delete all the tables in the database
 27. `php artisan make:controller asdf --resource` => to make a resource controller
 28. auth controller is also a resource controller.
+29. `php artisan make:middlewire abcdnjh` => to make a middleware
 
