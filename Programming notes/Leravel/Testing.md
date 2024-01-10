@@ -12,6 +12,15 @@ Feature tests may test a larger portion of your code, including how several obje
 ### phpunit.xml
 All the environment variables are defined in `phpunit.xml`.
 
-### Environment
-When running tests, Laravel will automatically set the [configuration environment](https://laravel.com/docs/10.x/configuration#environment-configuration) to `testing` because of the environment variables defined in the `phpunit.xml` file. Laravel also automatically configures the session and cache to the `array` driver while testing, meaning no session or cache data will be persisted while testing.
+### `config:clear`
 
+> make sure to clear your configuration cache using the `config:clear` Artisan command before running your tests!
+
+### To make a feature test
+```
+php artisan make:test UserTest
+```
+### To make a unit test
+```
+php artisan make:test UserTest --unit
+```
