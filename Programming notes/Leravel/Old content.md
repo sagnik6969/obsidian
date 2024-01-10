@@ -4,3 +4,4 @@
 4. Use where keyword to validate route params
 ![[Pasted image 20240110170419.png]]
 if the regex does not match a 404 not found page will be returned. 
+5. Isset => same as php
