@@ -37,6 +37,8 @@ php artisan test --profile
 `use Illuminate\Foundation\Testing\RefreshDatabase;` => trait
 `use RefreshDatabase;`
 
+> note this will remove all the data from database. so make sure to use seperate database for testing.
+
 ### Sqlite
 1. it is a small filesystem based database. 
 2. `<env name="DB_DATABASE" value=":memory:"/>` => `:memory:` means database will not be stored in the disk instead it will be stored in the ram tempurarily
