@@ -45,3 +45,7 @@ php artisan test --profile
 2. `<env name="DB_DATABASE" value=":memory:"/>` => `:memory:` means database will not be stored in the disk instead it will be stored in the ram temporarily.
 
 > Laravel test functions must start with `test` prefix.
+
+> Each test must not make more than 1 http request
+
+> Unlike cookies the local and session storage items are not sent automatically with request. Session storage data is deleted when browser tab is closed while local storage data persists indefinitely. (Can be deleted manually through javascript). 
