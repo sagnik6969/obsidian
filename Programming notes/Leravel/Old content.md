@@ -6,3 +6,4 @@
 if the regex does not match a 404 not found page will be returned. 
 5. Isset, empty, count => same as php
 6. @include directive => will inherit all the variables from the parent template. You can also pass the variables manually through an associative array..
+
