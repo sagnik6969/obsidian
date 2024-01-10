@@ -24,3 +24,11 @@ php artisan make:test UserTest
 ```
 php artisan make:test UserTest --unit
 ```
+### To check How much application code is covered by testcases
+```
+php artisan test --coverage
+```
+### To check which test cases taking most time
+```
+php artisan test --profile
+```
