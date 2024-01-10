@@ -37,7 +37,7 @@ php artisan test --profile
 `use Illuminate\Foundation\Testing\RefreshDatabase;` => trait
 `use RefreshDatabase;`
 
-> note this will remove all the data from database. so make sure to use seperate database for testing.
+> note this will remove all the data from database. so make sure to use separate database for testing.
 
 ### Sqlite
 1. it is a small filesystem based database. 
