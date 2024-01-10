@@ -32,3 +32,7 @@ php artisan test --coverage
 ```
 php artisan test --profile
 ```
+### Resetting database after each test
+
+`use Illuminate\Foundation\Testing\RefreshDatabase;` => trait
+`use RefreshDatabase;`
