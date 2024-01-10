@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portfolio.md",
+                "file": "Leravel/Old content.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Portfolio.md",
+                "file": "Leravel/Old content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Portfolio.md",
+                "file": "Leravel/Old content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Portfolio.md"
+                "file": "Leravel/Old content.md"
               }
             }
           }
@@ -182,11 +182,12 @@
   },
   "active": "6c245ef85c2d727e",
   "lastOpenFiles": [
+    "Leravel/Postmon.md",
+    "Leravel/Old content.md",
+    "Portfolio.md",
     "Leravel/artisan commands.md",
     "Leravel/Extra.md",
     "Leravel/Controllers.md",
-    "Leravel/Postmon.md",
-    "Portfolio.md",
     "SQL/section 16 window function.md",
     "SQL/section 15 Views, Modes, & more.md",
     "SQL/Micellenius.md",
@@ -208,7 +209,6 @@
     "Leravel/Basics.md",
     "Final sem exam 7th sem/Biology/Micellenuous.md",
     "Final sem exam 7th sem/Biology/What are the events which led to understanding of human genome.md",
-    "Final sem exam 7th sem/Biology/Nature inspired technology.md",
     "attachments/Pasted image 20231219132251.png",
     "php",
     "attachments/Pasted image 20231217105432.png",
