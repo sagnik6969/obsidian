@@ -53,3 +53,5 @@ php artisan test --profile
 > Each test must not make more than 1 http request
 
 > Unlike cookies the local and session storage items are not sent automatically with request. Session storage data is deleted when browser tab is closed while local storage data persists indefinitely. (Can be deleted manually through javascript). 
+
+
