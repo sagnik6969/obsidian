@@ -43,6 +43,7 @@ php artisan test --profile
 
 >  Any records added to the database by test cases that do not use this trait may still exist in the database.  
 
+> In each function the database is refreshed
 ### Sqlite
 1. it is a small filesystem based database. 
 2. `<env name="DB_DATABASE" value=":memory:"/>` => `:memory:` means database will not be stored in the disk instead it will be stored in the ram temporarily.
