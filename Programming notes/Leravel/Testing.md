@@ -39,6 +39,9 @@ php artisan test --profile
 
 > note this will remove all the data from database. so make sure to use separate
 > database for testing.
+>  does not migrate your database if your schema is up to date but clears all the data.
+
+>  Any records added to the database by test cases that do not use this trait may still exist in the database.  
 
 ### Sqlite
 1. it is a small filesystem based database. 
