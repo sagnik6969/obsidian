@@ -17,3 +17,9 @@ doesnothave => opposite to has
 ### Typr Hinting
 
 add `?` before type to make the variable nullable
+
+> find($id) takes an id and returns a single model. If no matching model exist, it returns null.
+    
+>   findOrFail($id) takes an id and returns a single model. If no matching model exist, it throws an error1.
+
+
