@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leravel/Documentation.md",
+                "file": "Leravel/Need to study.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leravel/Documentation.md",
+                "file": "Leravel/Need to study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leravel/Documentation.md",
+                "file": "Leravel/Need to study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leravel/Documentation.md"
+                "file": "Leravel/Need to study.md"
               }
             }
           }
@@ -182,10 +182,11 @@
   },
   "active": "6c245ef85c2d727e",
   "lastOpenFiles": [
+    "Leravel/Documentation.md",
+    "Leravel/Need to study.md",
     "attachments/Pasted image 20240112130318.png",
     "attachments/Pasted image 20240112125811.png",
     "Leravel/Testing.md",
-    "Leravel/Documentation.md",
     "Leravel/Old content.md",
     "attachments/Pasted image 20240110170419.png",
     "Leravel/Postmon.md",
@@ -220,7 +221,6 @@
     "attachments/Pasted image 20231214174912.png",
     "attachments/Pasted image 20231214174731.png",
     "attachments/Pasted image 20231214174143.png",
-    "attachments/Pasted image 20231214173419.png",
     "Final sem exam 7th sem/Biology",
     "Final sem exam 7th sem/Music",
     "Final sem exam 7th sem/ML",
