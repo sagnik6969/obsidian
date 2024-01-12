@@ -14,12 +14,21 @@ has => only loads the rows which has a specific attribute / relation set.
 doesnothave => opposite to has
 ![[Pasted image 20240112130318.png]]
 
-### Typr Hinting
+### Type Hinting
 
 add `?` before type to make the variable nullable
 
 > find($id) takes an id and returns a single model. If no matching model exist, it returns null.
     
 >   findOrFail($id) takes an id and returns a single model. If no matching model exist, it throws an error1.
+
+### Cache
+```
+ $cacheKey = 'books:' . $filter . ':' . $title;
+
+        $books = cache()->remember($cacheKey, 3600, fn() => $books->paginate());
+```
+To delete cache
+`cache()->forget('book:' . $review->book_id))`
 
 
