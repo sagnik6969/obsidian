@@ -5,3 +5,11 @@
 5. service container https://youtu.be/aQw7t0r9Vc8?si=abpEqc9Vz7u0YY5H
 ### Service containers
 $app->make() === resolve() =>resolves the dependency
+
+### Elloquest
+has => only loads the rows which has a specific attribute / relation set.
+![[Pasted image 20240112125811.png]]
+=>also check conditions
+
+doesnothave => opposite to has
+![[Pasted image 20240112130318.png]]
