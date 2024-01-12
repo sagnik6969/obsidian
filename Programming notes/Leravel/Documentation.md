@@ -13,3 +13,7 @@ has => only loads the rows which has a specific attribute / relation set.
 
 doesnothave => opposite to has
 ![[Pasted image 20240112130318.png]]
+
+### Typr Hinting
+
+add `?` before type to make the variable nullable
