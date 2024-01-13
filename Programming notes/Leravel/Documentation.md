@@ -31,4 +31,6 @@ add `?` before type to make the variable nullable
 To delete cache
 `cache()->forget('book:' . $review->book_id))`
 
-
+### Resource
+1. guarded => wont be automatically serialized when converting to json.
+2. 
