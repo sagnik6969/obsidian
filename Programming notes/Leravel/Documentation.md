@@ -42,3 +42,5 @@ To delete cache
 4. expiration time of a token can be set in sangtom.php
 
 ### Gates / Policies
+### Make artisan command
+
