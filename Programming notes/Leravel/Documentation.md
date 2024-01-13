@@ -35,4 +35,7 @@ To delete cache
 1. guarded => wont be automatically serialized when converting to json.
 2. whenLoaded ......
 ### Traits
-
+### User Authentication
+`Hash::check($request->password, $user->password)`
+`$token = $user->createToken('api-token')->plainTextToken;`
+ 
