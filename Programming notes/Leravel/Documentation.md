@@ -34,4 +34,5 @@ To delete cache
 ### Resource
 1. guarded => wont be automatically serialized when converting to json.
 2. whenLoaded ......
-3. 
+### Traits
+
