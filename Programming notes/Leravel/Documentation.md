@@ -36,6 +36,9 @@ To delete cache
 2. whenLoaded ......
 ### Traits
 ### User Authentication
-`Hash::check($request->password, $user->password)`
-`$token = $user->createToken('api-token')->plainTextToken;`
- 
+1. `Hash::check($request->password, $user->password)`
+2. `$token = $user->createToken('api-token')->plainTextToken;`
+3. $request->user()->tokens()->delete()
+4. expiration time of a token can be set in sangtom.php
+
+### Gates / Policies
