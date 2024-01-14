@@ -51,3 +51,15 @@ To delete cache
 2. orWhere
 3. orWhereHas
 4. where also accepts function 
+### Login
+```
+if (Auth::attempt($credentials, $remember)) {
+
+            return redirect()->intended('/');
+
+        } else {
+
+            return redirect()->back()->with('error', 'Invalid email or password');
+
+        }
+```
