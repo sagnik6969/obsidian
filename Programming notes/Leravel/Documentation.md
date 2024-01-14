@@ -65,3 +65,4 @@ if (Auth::attempt($credentials, $remember)) {
 ```
 ### File Upload
 ### Custom middlewire
+### Soft Delete
