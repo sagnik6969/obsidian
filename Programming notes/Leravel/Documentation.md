@@ -63,3 +63,4 @@ if (Auth::attempt($credentials, $remember)) {
 
         }
 ```
+### File Upload
