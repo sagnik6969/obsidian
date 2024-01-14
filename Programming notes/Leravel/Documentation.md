@@ -46,3 +46,8 @@ To delete cache
 ### Task scheduling
 ### Notification
 ### Queues
+### Queries
+1. whereHas
+2. orWhere
+3. orWhereHas
+4. where also accepts function 
