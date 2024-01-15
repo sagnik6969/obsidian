@@ -122,3 +122,5 @@ public function handle(Request $request, Closure $next): Response
 ```
 
 ### Log
+### DB
+
