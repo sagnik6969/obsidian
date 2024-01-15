@@ -12,18 +12,18 @@
 12. one to many => done
 13. Quiring database => done
 14. Factories => done
-15. User authentication (both using cookies and tokens) => done
+15. **User authentication (both using cookies and tokens) => done**
 16. Database Seeders
-17. Soft Deletes
+17. **Soft Deletes**
 18. Authorization using policies and gates
 19. local query scope (queries which are defined inside model with scope prefix)
 20. blade components
-21. caching
+21. **caching**
 22. many to many relations (belongs To Many)
-23. File Storage and updating & returning download response
+23. **File Storage and updating & returning download response**
 24. **polymorphic Eloquent relationships**
-25. sending emails
-26. queues 
+25. **sending emails**
+26. **queues** 
 27. **Event & listener & subscriber**
 28. **Service Container & Facades & Contracts**  
 29. Model serialization  & guarded properties
