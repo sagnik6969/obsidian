@@ -64,7 +64,29 @@ if (Auth::attempt($credentials, $remember)) {
         }
 ```
 ### File Upload
+```
+        $file = $request->file('cv');
+
+        $path = $file->store('cvs', 'private');
+```
 ### Custom middlewire
+```
+public function handle(Request $request, Closure $next): Response
+
+    {
+
+        if ($request->user() === null || $request->user()->employer === null)
+
+            return redirect()->route('employer.create')
+
+                ->with('error', 'You have to register as an employer to create a job application.');
+
+  
+
+        return $next($request); // calls the next middlewire / function
+
+    }
+```
 ### Soft Delete
 ### Events
 
