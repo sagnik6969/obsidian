@@ -20,4 +20,13 @@
 20. blade components
 21. caching
 22. many to many relations (belongs To Many)
-23. 
+23. File Storage and updating & returning download response
+24. **polymorphic Eloquent relationships**
+25. sending emails
+26. queues 
+27. **Event & listener & subscriber**
+28. **Service Container & Facades & Contracts**  
+29. Model serialization  & guarded properties
+30. api resources 
+31. api route 
+32. api controllers
