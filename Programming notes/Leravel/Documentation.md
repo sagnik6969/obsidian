@@ -89,6 +89,19 @@ public function handle(Request $request, Closure $next): Response
 ```
 ### Soft Delete
 ### Events
+`implements ShouldQueue`
+##### To run a queue
+`php artisan queue:work`
+  
+1. Queues allow some time consuming tasks to run in background
+2. Good example of using queues is sending emails
+3. in production environment redis or amazon sqs is used to store the queue
+4. locally to just see how queue works we will use mysql
+5. `php artisan queue:table , php artisan migrate`  => to create a queue table
+6. QUEUE_CONNECTION=sync => to run every job in the queue synchronously without using the queue
+7. QUEUE_CONNECTION=database => to use database to store the queue
+8. `php artisan queue:work` to run all the works inside the queue. This command => process should be always
+9. running in the background in the production environment.
 ### Match
 ```
  $books = match ($filter) {
