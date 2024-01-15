@@ -44,8 +44,13 @@ To delete cache
 
 ### Gates / Policies
 ### Make artisan command
+`php artisan make:command command_name`
 ### Task scheduling
+`console/kernal.php`
 ### Notification
+`php artisan make:notification Notification_name`
+`Notifiable trait`
+`user->notify(new EventReminder())`
 ### Queues
 ### Queries
 1. whereHas
