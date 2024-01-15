@@ -64,6 +64,8 @@ if (Auth::attempt($credentials, $remember)) {
 
         }
 ```
+### Logout
+`Auth::logout()`
 ### File Upload
 ```
         $file = $request->file('cv');
@@ -90,6 +92,7 @@ public function handle(Request $request, Closure $next): Response
 ```
 ### Soft Delete
 ### Events
+### Queues
 `implements ShouldQueue`
 ##### To run a queue
 `php artisan queue:work`
