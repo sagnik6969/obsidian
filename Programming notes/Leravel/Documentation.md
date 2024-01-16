@@ -35,6 +35,70 @@ To delete cache
 1. guarded => wont be automatically serialized when converting to json.
 2. whenLoaded ......
 ### Traits
+
+```
+  
+
+trait CanLoadRelationships
+
+{
+
+    public function loadRelationships(
+
+        Model|QueryBuilder|EloquentBuilder $for,
+
+        ?array $relations = null
+
+    ): Model|QueryBuilder|EloquentBuilder {
+
+  
+
+        $relations = $relations ?? $this->relations ?? [];
+
+  
+
+        foreach ($relations as $relation) {
+
+            $for->when($this->shouldIncludeRelation($relation),
+
+                fn($query) =>
+
+                $for instanceof Model ? $for->load($relation) : $query->with($relation));
+
+        }
+
+        return $for;
+
+    }
+
+  
+
+    protected function shouldIncludeRelation(string $relation): bool
+
+    {
+
+        $include = request()->query('include');
+
+  
+
+        if (!$include) {
+
+            return false;
+
+        }
+
+  
+
+        $relations = array_map('trim', explode(',', $include));
+
+  
+
+        return in_array($relation, $relations);
+
+    }
+
+}
+```
 ### User Authentication
 1. `Hash::check($request->password, $user->password)`
 2. `Hash::make('')`
