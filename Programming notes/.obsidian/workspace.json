@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/section 12 Constraints & alter table.md",
+                "file": "SQL/section 16 window function.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/section 12 Constraints & alter table.md",
+                "file": "SQL/section 16 window function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/section 12 Constraints & alter table.md",
+                "file": "SQL/section 16 window function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/section 12 Constraints & alter table.md"
+                "file": "SQL/section 16 window function.md"
               }
             }
           }
@@ -182,6 +182,12 @@
   },
   "active": "6c245ef85c2d727e",
   "lastOpenFiles": [
+    "SQL/section 15 Views, Modes, & more.md",
+    "SQL/section 16 window function.md",
+    "SQL/Micellenius.md",
+    "SQL/section 14 Many to many.md",
+    "SQL/section 13 One to many joins.md",
+    "SQL/section 12 Constraints & alter table.md",
     "SQL/section 11 Comparison and logical operators.md",
     "Leravel/Documentation.md",
     "Leravel/Topics.md",
@@ -196,12 +202,6 @@
     "Leravel/artisan commands.md",
     "Leravel/Extra.md",
     "Leravel/Controllers.md",
-    "SQL/section 16 window function.md",
-    "SQL/section 15 Views, Modes, & more.md",
-    "SQL/Micellenius.md",
-    "SQL/section 14 Many to many.md",
-    "SQL/section 13 One to many joins.md",
-    "SQL/section 12 Constraints & alter table.md",
     "SQL/Instagram Database Clone.md",
     "Leravel/Model queries.md",
     "attachments/Pasted image 20231226105648.png",
