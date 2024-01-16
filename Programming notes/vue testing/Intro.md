@@ -13,3 +13,11 @@
 
 > Vtestconfig.js => `vtest` configuration file
 
+> `vue-i18n` => library for supporting international languages.
+
+> `npm i -D @testing-library/vue @testing-library/user-event @testing-library/jest-dom`
+
+> `npm i -D msw` => to create a fake backend for api testing
+
+
+
