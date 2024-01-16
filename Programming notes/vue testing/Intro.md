@@ -8,3 +8,8 @@
 ### 2 type of tests
 1. unit tests
 2. integration tests
+
+> Vite is alternative to webpack
+
+> Vtestconfig.js => `vtest` configuration file
+
