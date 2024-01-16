@@ -111,6 +111,20 @@ trait CanLoadRelationships
 `php artisan make:command command_name`
 ### Task scheduling
 `console/kernal.php`
+```
+  protected function schedule(Schedule $schedule): void
+
+    {
+
+        // $schedule->command('inspire')->hourly();
+
+        $schedule->command('app:send-event-reminder')->daily();
+
+        // To run the scheduled tasks `php artisan schedule:work`
+
+    }
+```
+
 ### Notification
 `php artisan make:notification Notification_name`
 `Notifiable trait`
@@ -196,4 +210,10 @@ public function handle(Request $request, Closure $next): Response
 
 ### Log
 ### DB
+
+### COmmands
+1. to run scheduled tasks `php artisan schedule:work`
+2. to run queue `php artisan queue:work`
+3. to make the queue table in database `php artisan queue:table php artisan migrate`
+4. 
 
