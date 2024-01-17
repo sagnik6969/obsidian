@@ -103,4 +103,6 @@ public function handle(OrderShipped $event): void
 #### Dispatching Events
 1. `OrderShipped::dispatch($order);` => `$order` will be passed to the event constructor.
 2. `dispatch` method is made available by the `Dispatchable` trait.
-3. 
+
+#### Dispatch event after database transaction
+1. implement `ShouldDispatchAfterCommit` interface
