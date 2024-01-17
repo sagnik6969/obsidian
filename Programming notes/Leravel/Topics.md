@@ -31,6 +31,7 @@
 31. api route 
 32. api controllers
 33. Blade components
+34. wherehas
 
 
 ### Extras
