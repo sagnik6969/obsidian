@@ -106,3 +106,65 @@ public function handle(OrderShipped $event): void
 
 #### Dispatch event after database transaction
 1. implement `ShouldDispatchAfterCommit` interface
+
+#### Subscribers
+1. Subscribers can listen to multiple events.
+
+```php
+<?php
+
+namespace App\Listeners;
+use Illuminate\Auth\Events\Login;
+use Illuminate\Auth\Events\Logout;
+use Illuminate\Events\Dispatcher;
+
+class UserEventSubscriber
+{
+
+/**
+* Handle user login events.
+*/
+
+public function handleUserLogin(Login $event): void {}
+
+/**
+* Handle user logout events.
+*/
+
+public function handleUserLogout(Logout $event): void {}
+
+/**
+* Register the listeners for the subscriber.
+*
+* @return array<string, string>
+*/
+
+public function subscribe(Dispatcher $events): array
+{
+return [
+     Login::class => 'handleUserLogin',
+    Logout::class => 'handleUserLogout',
+];
+
+//OR
+
+$events->listen(
+Login::class,
+[UserEventSubscriber::class, 'handleUserLogin']
+);
+
+$events->listen(
+Logout::class,
+[UserEventSubscriber::class, 'handleUserLogout']
+);
+
+}
+
+}
+```
+2. To register subscribers in `eventServiceProvider.php`
+```
+protected $subscribe = [
+       UserEventSubscriber::class,
+];
+```
