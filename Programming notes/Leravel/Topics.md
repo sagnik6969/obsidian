@@ -30,6 +30,8 @@
 30. api resources 
 31. api route 
 32. api controllers
+33. Blade components
+
 
 ### Extras
 1. what is csrf attacks
