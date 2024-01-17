@@ -20,4 +20,5 @@
 > `npm i -D @testing-library/vue @testing-library/user-event @testing-library/jest-dom`
 
 > `npm i -D msw` => to create a fake backend for api testing
-> 
+
+![[Pasted image 20240117095349.png]]
