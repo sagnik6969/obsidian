@@ -30,3 +30,35 @@ public function shouldDiscoverEvents(): bool
     }
 ```
 
+#### Event discovery in Production
+1. It is not very efficient for the framework to scan all of your listeners on every request
+2. run `php artisan event:cache` to cache the event discovery
+3. `php artisan event:clear` to destroy the cache.
+
+#### Creating Events
+1. Event class is essentially a data container which holds information / objects related to an event. These information/objects will be used by the listeners to perform different actions.
+
+```php
+<?php
+
+namespace App\Events;
+use App\Models\Order;
+use Illuminate\Broadcasting\InteractsWithSockets;
+use Illuminate\Foundation\Events\Dispatchable;
+use Illuminate\Queue\SerializesModels;
+
+class OrderShipped
+{
+
+use Dispatchable, InteractsWithSockets, SerializesModels;
+
+/**
+* Create a new event instance.
+*/
+
+public function __construct(
+public Order $order,
+) {}
+
+}
+```
