@@ -30,3 +30,7 @@
 30. api resources 
 31. api route 
 32. api controllers
+
+### Extras
+1. what is csrf attacks
+2. 
