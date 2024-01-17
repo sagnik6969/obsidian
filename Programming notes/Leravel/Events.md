@@ -62,3 +62,45 @@ public Order $order,
 
 }
 ```
+#### Creating Listeners
+1. Listeners receive the event object in their handle method
+2. For automatic event discovery you must type hint the Appropriate event class in the handle method.
+3. The handle method contains all the logic of the Listener.
+
+```php
+<?php
+
+namespace App\Listeners;
+use App\Events\OrderShipped;
+
+class SendShipmentNotification
+{
+
+/**
+* Create the event listener.
+*/
+
+public function __construct()
+{
+// ...
+}
+
+/**
+* Handle the event.
+*/
+
+public function handle(OrderShipped $event): void
+{
+// Access the order using $event->order...
+}
+
+}
+```
+#### Queued Event Listeners
+1. add `ShouldQueue` interface to the listener class
+2. Example. `class SendShipmentNotification implements ShouldQueue`
+
+#### Dispatching Events
+1. `OrderShipped::dispatch($order);` => `$order` will be passed to the event constructor.
+2. `dispatch` method is made available by the `Dispatchable` trait.
+3. 
