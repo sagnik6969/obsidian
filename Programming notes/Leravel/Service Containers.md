@@ -28,3 +28,18 @@ return new Transistor($app->make(PodcastParser::class));
 #### To resolve the service containers
 1. inside the service providers `$app->make(PodcastParser::class)`
 2. other places `App::make(PodcastParser::class)`
+
+
+### Facades
+1. resolves a specific service container binding.
+2. the methods of the returned object by the binding can be accessed as static `::` methods of the Facade.
+
+```
+class Cache extends Facade
+{
+    protected static function getFacadeAccessor()
+    {
+        return 'cache';
+    }
+}
+```

@@ -21,38 +21,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/section 15 Views, Modes, & more.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c245ef85c2d727e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Leravel/Service Containers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c8df382e95eb9e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Final sem exam 7th sem/Biology/Give details of cause and expression of Down syndrome and  Sickle cell disease.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,15 +156,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c245ef85c2d727e",
+  "active": "5991df061fa8c2aa",
   "lastOpenFiles": [
-    "Leravel/Events.md",
+    "attachments/Pasted image 20240118090039.png",
+    "attachments/Pasted image 20240118090036.png",
+    "SQL/section 15 Views, Modes, & more.md",
+    "Final sem exam 7th sem/Biology/Give details of cause and expression of Down syndrome and  Sickle cell disease.md",
+    "attachments/Pasted image 20240118085719.png",
+    "attachments/Pasted image 20240118085636.png",
+    "attachments/Pasted image 20240117095349.png",
+    "attachments/Pasted image 20231203212927.png",
     "Leravel/Service Containers.md",
+    "Leravel/Events.md",
     "Leravel/Topics.md",
     "Leravel/Need to study.md",
-    "SQL/section 15 Views, Modes, & more.md",
     "vue testing/Intro.md",
-    "attachments/Pasted image 20240117095349.png",
     "Leravel/Documentation.md",
     "vue testing",
     "SQL/Instagram Database Clone.md",
@@ -212,16 +194,10 @@
     "attachments/Pasted image 20231226105648.png",
     "Leravel/Model factory and seeders.md",
     "Leravel/Models.md",
-    "Leravel/Connecting to database.md",
-    "Leravel/Layouts using template inheritance.md",
     "attachments/Pasted image 20231219132251.png",
     "php",
-    "attachments/Pasted image 20231217105432.png",
-    "attachments/Pasted image 20231217105339.png",
     "Final sem exam 7th sem/TOC",
     "Leravel",
-    "attachments/Pasted image 20231214174912.png",
-    "attachments/Pasted image 20231214174731.png",
     "Final sem exam 7th sem/Biology",
     "Final sem exam 7th sem/Music",
     "Final sem exam 7th sem/ML",
