@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leravel/Events.md",
+                "file": "Leravel/Service Containers.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leravel/Events.md",
+                "file": "Leravel/Service Containers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leravel/Events.md",
+                "file": "Leravel/Service Containers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leravel/Events.md"
+                "file": "Leravel/Service Containers.md"
               }
             }
           }
@@ -182,8 +182,9 @@
   },
   "active": "6c245ef85c2d727e",
   "lastOpenFiles": [
-    "Leravel/Topics.md",
     "Leravel/Events.md",
+    "Leravel/Service Containers.md",
+    "Leravel/Topics.md",
     "Leravel/Need to study.md",
     "SQL/section 15 Views, Modes, & more.md",
     "vue testing/Intro.md",
@@ -213,7 +214,6 @@
     "Leravel/Models.md",
     "Leravel/Connecting to database.md",
     "Leravel/Layouts using template inheritance.md",
-    "Final sem exam 7th sem/Biology/Give details of cause and expression of Down syndrome and  Sickle cell disease.md",
     "attachments/Pasted image 20231219132251.png",
     "php",
     "attachments/Pasted image 20231217105432.png",
