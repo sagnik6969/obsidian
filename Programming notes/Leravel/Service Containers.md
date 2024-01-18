@@ -43,3 +43,9 @@ class Cache extends Facade
     }
 }
 ```
+
+### Contracts
+1. Contracts are a `php interface` 
+2. are created manually without using artisan command
+3. interfaces only contain method signature.
+4. to use a cotract
