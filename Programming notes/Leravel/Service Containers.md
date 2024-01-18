@@ -48,4 +48,10 @@ class Cache extends Facade
 1. Contracts are a `php interface` 
 2. are created manually without using artisan command
 3. interfaces only contain method signature.
-4. to use a cotract
+4. to use a  Contract we need to bind then in any service provider to a class or an object. same way we bind other services.
+5. the class we are binding to the contract must implement the contract interface.
+6. To use a contract we need to type hint the contract in the method/ constructor defination.
+
+### Contracts vs Fecades
+1. contracts are used through dependency injection facades are imported directly.
+2. 
