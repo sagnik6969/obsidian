@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue testing/Intro.md",
+                "file": "Leravel/Queues.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vue testing/Intro.md",
+                "file": "Leravel/Queues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vue testing/Intro.md",
+                "file": "Leravel/Queues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vue testing/Intro.md"
+                "file": "Leravel/Queues.md"
               }
             }
           }
@@ -159,6 +159,9 @@
   "active": "5991df061fa8c2aa",
   "lastOpenFiles": [
     "Leravel/Service Containers.md",
+    "Leravel/Queues.md",
+    "Leravel/Events.md",
+    "vue testing/Intro.md",
     "attachments/Pasted image 20240118090039.png",
     "attachments/Pasted image 20240118090036.png",
     "SQL/section 15 Views, Modes, & more.md",
@@ -167,10 +170,8 @@
     "attachments/Pasted image 20240118085636.png",
     "attachments/Pasted image 20240117095349.png",
     "attachments/Pasted image 20231203212927.png",
-    "Leravel/Events.md",
     "Leravel/Topics.md",
     "Leravel/Need to study.md",
-    "vue testing/Intro.md",
     "Leravel/Documentation.md",
     "vue testing",
     "SQL/Instagram Database Clone.md",
