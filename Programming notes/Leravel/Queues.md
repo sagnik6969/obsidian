@@ -28,4 +28,8 @@ ProcessPodcast::dispatch()->onQueue('emails');
 1. `php artisan queue:work --queue=high,default`
 2. `high` has higher priority than `default`.
 3. to put a job to high queue `ProcessPodcast::dispatch()->onQueue('high');`
-4. 
+4. we don't need to create queues separately laravel will automatically do that for us. 
+
+#### Dealing with failed jobs
+1. `php artisan queue:failed-table php artisan migrate` => to create a table for storing failed jobs.
+2. 
