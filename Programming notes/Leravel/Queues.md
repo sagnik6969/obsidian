@@ -24,3 +24,8 @@ ProcessPodcast::dispatch();
 // This job is sent to the default connection's "emails" queue...
 ProcessPodcast::dispatch()->onQueue('emails');
 ```
+#### To give priority to queues
+1. `php artisan queue:work --queue=high,default`
+2. `high` has higher priority than `default`.
+3. to put a job to high queue `ProcessPodcast::dispatch()->onQueue('high');`
+4. 
