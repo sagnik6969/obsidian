@@ -41,4 +41,4 @@ ProcessPodcast::dispatch()->onQueue('emails');
 3. They can be `dispatched` like events.
 4. and they have `handle` method like `listeners` which is called when the job is `dispatched`.
 5. arguments to `dispatch` method are passed to job constructor.
-6. 
+#### Rate 
