@@ -34,4 +34,11 @@ ProcessPodcast::dispatch()->onQueue('emails');
 1. `php artisan queue:failed-table php artisan migrate` => to create a table for storing failed jobs.
 2. `php artisan queue:failed` => to see list of failed jobs.
 3. `php artisan queue:work --tries=3` => During the execution of a job if it fails laravel retry 3 times after that the job will be added to failed jobs table.
-4. 
+4. `php artisan queue:retry <id>` => to retry a job with id = `id`  We can get id from `php artisan queue failed
+#### Creating and dispatching custom jobs`
+1. to create a job `php artisan make:job <job name>`
+2. jobs are like events and listeners bundled in a single file. 
+3. They can be `dispatched` like events.
+4. and they have `handle` method like `listeners` which is called when the job is `dispatched`.
+5. arguments to `dispatch` method are passed to job constructor.
+6. 
