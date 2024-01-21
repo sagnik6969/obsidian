@@ -32,4 +32,6 @@ ProcessPodcast::dispatch()->onQueue('emails');
 
 #### Dealing with failed jobs
 1. `php artisan queue:failed-table php artisan migrate` => to create a table for storing failed jobs.
-2. 
+2. `php artisan queue:failed` => to see list of failed jobs.
+3. `php artisan queue:work --tries=3` => During the execution of a job if it fails laravel retry 3 times after that the job will be added to failed jobs table.
+4. 
