@@ -59,4 +59,12 @@ public function middleware(): array
 ```
 3. Each time the job exceeds the rate limit, this middleware will release the job back to the queue with an appropriate delay based on the rate limit duration.
 4. If you do not want a job to be retried when it is rate limited, you may use the `dontRelease` method: `new RateLimited('backups')->dontRelease()`
-5. 
+
+#### Tries
+1. How many times a job should be retried before sending it to failed jobs.  
+2. In the terminal `php artisan queue:work --tries=3` 
+3. alternatively you can specify `public $tries = 3;` in the jobs file. this will override whatever specified in the terminal.
+#### Timeout
+1. How many seconds a job should run before it also times out.
+2. In the terminal `php artisan queue:work --timeout=3`
+3. alternatively you can specify `public $timeout = 3;` in the jobs file. this will override whatever specified in the terminal.
