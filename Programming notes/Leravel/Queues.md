@@ -41,4 +41,21 @@ ProcessPodcast::dispatch()->onQueue('emails');
 3. They can be `dispatched` like events.
 4. and they have `handle` method like `listeners` which is called when the job is `dispatched`.
 5. arguments to `dispatch` method are passed to job constructor.
-#### Rate 
+#### Rate Limiter for queues
+1. In `AppServiceProvider.php`
+```php
+RateLimiter::for('backups', function (object $job) {
+return $job->user->vipCustomer()
+? Limit::none()
+: Limit::perHour(1)->by($job->user->id);
+});
+```
+2. in the job file
+```php
+public function middleware(): array
+{
+     return [new RateLimited('backups')];
+}
+```
+3. Each time the job exceeds the rate limit, this middleware will release the job back to the queue with an appropriate delay based on the rate limit duration.
+4. 
