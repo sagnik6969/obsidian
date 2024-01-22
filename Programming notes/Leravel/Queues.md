@@ -58,4 +58,5 @@ public function middleware(): array
 }
 ```
 3. Each time the job exceeds the rate limit, this middleware will release the job back to the queue with an appropriate delay based on the rate limit duration.
-4. 
+4. If you do not want a job to be retried when it is rate limited, you may use the `dontRelease` method: `new RateLimited('backups')->dontRelease()`
+5. 
