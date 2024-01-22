@@ -169,3 +169,6 @@ protected $subscribe = [
        UserEventSubscriber::class,
 ];
 ```
+
+#### Model observers
+https://laravel.com/docs/10.x/eloquent#observers
