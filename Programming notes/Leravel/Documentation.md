@@ -210,6 +210,7 @@ public function handle(Request $request, Closure $next): Response
 
 ### Log
 ### DB
+`all paginate first` => don't require `get()`
 
 ### COmmands
 1. to run scheduled tasks `php artisan schedule:work`
