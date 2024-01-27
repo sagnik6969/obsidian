@@ -83,6 +83,7 @@ $this->assertDatabaseHas('blog_posts', [
 'title' => 'New title'
 ]);
 $this->assertDatabaseMissing('blog_posts', $post->toArray());
+$this->assertSoftDeleted('blog_posts', $post->toArray());
 ```
 
 
