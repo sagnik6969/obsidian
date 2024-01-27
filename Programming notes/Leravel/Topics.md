@@ -34,7 +34,7 @@
 34. wherehas
 35. file handeling
 36. Query builders.
-37. 
+37. Template inheritance (include & extend)
 
 ### Extras
 1. what is csrf attacks
