@@ -33,7 +33,8 @@
 33. Blade components
 34. wherehas
 35. file handeling
-
+36. Query builders.
+37. 
 
 ### Extras
 1. what is csrf attacks
