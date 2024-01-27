@@ -48,8 +48,12 @@ php artisan make:test UserTest --unit
 
 ### Http tests
 1. check my portfolio backend tests
-#### Cookies
+
+```php
+$this->put("/posts/{$post->id}", $params)
 ```
+#### Cookies
+```php
 $response = $this->withCookies([
 'color' => 'blue',
 'name' => 'Taylor',
@@ -78,6 +82,7 @@ $response = $this->actingAs($user)->get('/')
 $this->assertDatabaseHas('blog_posts', [
 'title' => 'New title'
 ]);
+$this->assertDatabaseMissing('blog_posts', $post->toArray());
 ```
 
 
