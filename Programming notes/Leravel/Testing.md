@@ -24,14 +24,6 @@ php artisan make:test UserTest
 ```
 php artisan make:test UserTest --unit
 ```
-### To check How much application code is covered by testcases
-```
-php artisan test --coverage
-```
-### To check which test cases taking most time
-```
-php artisan test --profile
-```
 ### Resetting database after each test
 
 `use Illuminate\Foundation\Testing\RefreshDatabase;` => trait
@@ -68,9 +60,11 @@ $response = $this->withCookies([
 $this->withSession(['banned' => false])->get('/');
 ```
 #### Authentication
--> note this method will only 
+-> note this method will only work in case of session based authentication. wont work in case of cooky based authentication.
 ```
-$response = $this->actingAs($user)
+$response = $this->actingAs($user)->get('/')
 ```
+#### database
+
 
 
