@@ -56,15 +56,28 @@ $response = $this->withCookies([
 ])->get('/');
 ```
 #### Sessions
-```
+```php
 $this->withSession(['banned' => false])->get('/');
+
+$this->post('/posts', $params)
+->assertStatus(302)
+->assertSessionHas('status');
+$this->assertEquals(session('status'), 'Blog post was created!');
+
+$messages = session('errors')->getMessages();
+$this->assertEquals($messages['title'][0], 'The title must be at least 5 characters.');
+$this->assertEquals($messages['content'][0], 'The content must be at least 10 characters.');
 ```
 #### Authentication
 -> note this method will only work in case of session based authentication. wont work in case of cooky based authentication.
-```
+```php
 $response = $this->actingAs($user)->get('/')
 ```
 #### database
-
+```php
+$this->assertDatabaseHas('blog_posts', [
+'title' => 'New title'
+]);
+```
 
 
