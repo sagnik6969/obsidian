@@ -54,4 +54,23 @@ php artisan test --profile
 
 > Unlike cookies the local and session storage items are not sent automatically with request. Session storage data is deleted when browser tab is closed while local storage data persists indefinitely. (Can be deleted manually through javascript). 
 
+### Http tests
+1. check my portfolio backend tests
+#### Cookies
+```
+$response = $this->withCookies([
+'color' => 'blue',
+'name' => 'Taylor',
+])->get('/');
+```
+#### Sessions
+```
+$this->withSession(['banned' => false])->get('/');
+```
+#### Authentication
+-> note this method will only 
+```
+$response = $this->actingAs($user)
+```
+
 
