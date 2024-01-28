@@ -103,7 +103,7 @@ WHERE released_year != 2017;
 
 
 ## Case Operator
-```
+```sql
 1. SELECT title, released_year,
 2. CASE
 3. 	WHEN released_year >= 2000 THEN 'modern lit'
