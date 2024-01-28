@@ -174,6 +174,9 @@ public function handle(Request $request, Closure $next): Response
     }
 ```
 ### Soft Delete
+` $table->softDeletes();`
+`$table->dropSoftDeletes();`
+`->withTrashed()`
 ### Events
 ### Queues
 `implements ShouldQueue`
