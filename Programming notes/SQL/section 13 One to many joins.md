@@ -65,7 +65,6 @@
 8. ORDER BY total;
 ```
 
-
 ## Left Join
 
 >All the rows from the left table will be selected and only matching rows from the right table will be selected.

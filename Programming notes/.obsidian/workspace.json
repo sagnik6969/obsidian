@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/section 12 Constraints & alter table.md",
+                "file": "SQL/section 13 One to many joins.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/section 12 Constraints & alter table.md",
+                "file": "SQL/section 13 One to many joins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/section 12 Constraints & alter table.md",
+                "file": "SQL/section 13 One to many joins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/section 12 Constraints & alter table.md"
+                "file": "SQL/section 13 One to many joins.md"
               }
             }
           }
@@ -162,6 +162,7 @@
   },
   "active": "5991df061fa8c2aa",
   "lastOpenFiles": [
+    "SQL/section 12 Constraints & alter table.md",
     "SQL/section 11 Comparison and logical operators.md",
     "Leravel/Documentation.md",
     "Leravel/Service Containers.md",
@@ -189,7 +190,6 @@
     "SQL/Micellenius.md",
     "SQL/section 14 Many to many.md",
     "SQL/section 13 One to many joins.md",
-    "SQL/section 12 Constraints & alter table.md",
     "attachments/Pasted image 20240112130318.png",
     "attachments/Pasted image 20240112125811.png",
     "attachments/Pasted image 20240110170419.png",
