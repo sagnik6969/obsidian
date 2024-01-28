@@ -1,5 +1,5 @@
 where => group by => having => order by => limit
-round(1.12345,2) => 1.12
+round(1.12345,2) => `1.12`
 `ifnull()`
 ```
 1. IF(COUNT(rating) > 0,
