@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Micellenius.md",
+                "file": "SQL/Instagram Database Clone.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Micellenius.md",
+                "file": "SQL/Instagram Database Clone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Micellenius.md",
+                "file": "SQL/Instagram Database Clone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Micellenius.md"
+                "file": "SQL/Instagram Database Clone.md"
               }
             }
           }
@@ -162,6 +162,9 @@
   },
   "active": "5991df061fa8c2aa",
   "lastOpenFiles": [
+    "SQL/section 16 window function.md",
+    "SQL/section 15 Views, Modes, & more.md",
+    "SQL/Micellenius.md",
     "SQL/section 14 Many to many.md",
     "SQL/section 13 One to many joins.md",
     "SQL/section 12 Constraints & alter table.md",
@@ -179,7 +182,6 @@
     "vue testing/Intro.md",
     "attachments/Pasted image 20240118090039.png",
     "attachments/Pasted image 20240118090036.png",
-    "SQL/section 15 Views, Modes, & more.md",
     "Final sem exam 7th sem/Biology/Give details of cause and expression of Down syndrome and  Sickle cell disease.md",
     "attachments/Pasted image 20240118085719.png",
     "attachments/Pasted image 20240118085636.png",
@@ -188,8 +190,6 @@
     "Leravel/Need to study.md",
     "vue testing",
     "SQL/Instagram Database Clone.md",
-    "SQL/section 16 window function.md",
-    "SQL/Micellenius.md",
     "attachments/Pasted image 20240112130318.png",
     "attachments/Pasted image 20240112125811.png",
     "attachments/Pasted image 20240110170419.png",
