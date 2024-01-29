@@ -172,3 +172,11 @@ protected $subscribe = [
 
 #### Model observers
 https://laravel.com/docs/10.x/eloquent#observers
+
+`eventServiceProvider.php`
+```
+public function boot(): void
+{
+    User::observe(UserObserver::class);
+}
+```
