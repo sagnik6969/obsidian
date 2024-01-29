@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Instagram Database Clone.md",
+                "file": "Leravel/Documentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Instagram Database Clone.md",
+                "file": "Leravel/Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Instagram Database Clone.md",
+                "file": "Leravel/Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Instagram Database Clone.md"
+                "file": "Leravel/Documentation.md"
               }
             }
           }
@@ -160,8 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5991df061fa8c2aa",
+  "active": "fea84f889c040fd4",
   "lastOpenFiles": [
+    "Leravel/Testing.md",
+    "Leravel/Old content.md",
+    "Leravel/Postmon.md",
+    "SQL/Instagram Database Clone.md",
     "SQL/section 16 window function.md",
     "SQL/section 15 Views, Modes, & more.md",
     "SQL/Micellenius.md",
@@ -173,8 +177,6 @@
     "Leravel/Service Containers.md",
     "Leravel/Events.md",
     "Leravel/Topics.md",
-    "Leravel/Testing.md",
-    "Leravel/Old content.md",
     "Leravel/Queues.md",
     "Leravel/Middleware.md",
     "Leravel/Untitled.md",
@@ -189,11 +191,9 @@
     "attachments/Pasted image 20231203212927.png",
     "Leravel/Need to study.md",
     "vue testing",
-    "SQL/Instagram Database Clone.md",
     "attachments/Pasted image 20240112130318.png",
     "attachments/Pasted image 20240112125811.png",
     "attachments/Pasted image 20240110170419.png",
-    "Leravel/Postmon.md",
     "Portfolio.md",
     "Leravel/artisan commands.md",
     "Leravel/Extra.md",
