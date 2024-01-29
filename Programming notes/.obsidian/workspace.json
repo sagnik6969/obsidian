@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leravel/Queues.md",
+                "file": "Leravel/Middleware.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leravel/Queues.md",
+                "file": "Leravel/Middleware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leravel/Queues.md",
+                "file": "Leravel/Middleware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leravel/Queues.md"
+                "file": "Leravel/Middleware.md"
               }
             }
           }
@@ -162,6 +162,7 @@
   },
   "active": "5991df061fa8c2aa",
   "lastOpenFiles": [
+    "Leravel/Queues.md",
     "Leravel/Service Containers.md",
     "Leravel/Events.md",
     "Leravel/Untitled.md",
@@ -178,7 +179,6 @@
     "SQL/section 13 One to many joins.md",
     "SQL/section 12 Constraints & alter table.md",
     "SQL/section 11 Comparison and logical operators.md",
-    "Leravel/Queues.md",
     "Leravel/Middleware.md",
     "php/Bascis.md",
     "vue testing/Intro.md",
