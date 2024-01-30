@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leravel/Middleware.md",
+                "file": "SQL/section 11 Comparison and logical operators.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leravel/Middleware.md",
+                "file": "SQL/section 11 Comparison and logical operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leravel/Middleware.md",
+                "file": "SQL/section 11 Comparison and logical operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leravel/Middleware.md"
+                "file": "SQL/section 11 Comparison and logical operators.md"
               }
             }
           }
@@ -162,6 +162,7 @@
   },
   "active": "5991df061fa8c2aa",
   "lastOpenFiles": [
+    "Leravel/Middleware.md",
     "Leravel/Queues.md",
     "Leravel/Service Containers.md",
     "Leravel/Events.md",
@@ -179,7 +180,6 @@
     "SQL/section 13 One to many joins.md",
     "SQL/section 12 Constraints & alter table.md",
     "SQL/section 11 Comparison and logical operators.md",
-    "Leravel/Middleware.md",
     "php/Bascis.md",
     "vue testing/Intro.md",
     "attachments/Pasted image 20240118090039.png",
