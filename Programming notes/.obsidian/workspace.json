@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/section 16 window function.md",
+                "file": "Leravel/Documentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/section 16 window function.md",
+                "file": "Leravel/Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/section 16 window function.md",
+                "file": "Leravel/Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/section 16 window function.md"
+                "file": "Leravel/Documentation.md"
               }
             }
           }
@@ -162,6 +162,10 @@
   },
   "active": "5991df061fa8c2aa",
   "lastOpenFiles": [
+    "Leravel/Testing.md",
+    "Leravel/Extra.md",
+    "php/Bascis.md",
+    "SQL/section 16 window function.md",
     "SQL/Instagram Database Clone.md",
     "SQL/section 15 Views, Modes, & more.md",
     "SQL/Micellenius.md",
@@ -176,11 +180,8 @@
     "Leravel/Untitled.md",
     "Leravel/Topics.md",
     "Leravel/Documentation.md",
-    "Leravel/Testing.md",
     "Leravel/Old content.md",
     "Leravel/Postmon.md",
-    "SQL/section 16 window function.md",
-    "php/Bascis.md",
     "vue testing/Intro.md",
     "attachments/Pasted image 20240118090039.png",
     "attachments/Pasted image 20240118090036.png",
@@ -196,7 +197,6 @@
     "attachments/Pasted image 20240110170419.png",
     "Portfolio.md",
     "Leravel/artisan commands.md",
-    "Leravel/Extra.md",
     "Leravel/Controllers.md",
     "attachments/Pasted image 20231226105648.png",
     "php",
