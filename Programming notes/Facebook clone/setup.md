@@ -3,5 +3,7 @@
 3. `composer require laravel/passport` => to install passport
 4. `php artisan migrate` => to run migrations for passport
 5. `php artisan passport:install` => creates 2 clients => we will discuss them later
-6. 
-7. 
+### JSON api
+1. specifies standards for api creation.
+2. https://jsonapi.org/
+3. 
