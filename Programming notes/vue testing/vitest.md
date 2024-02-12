@@ -26,6 +26,7 @@ expect.extend(matchers);
 4. `expect(screen.queryByLabelText('Password')).toHaveAttribute('type', 'password')`
 5. `expect(signUpButton).toBeDisabled();`
 6.  `expect(axios.post).toHaveBeenCalledWith('api/vi/users', {username: 'test_user'})` => to use this function we first need to `vi.mock('asios')`
+7. `expect(requestBody).toEqual({})`
 
 #### @testing-library/user-event
 1. `import userEvent from '@testing-library/user-event'`
@@ -33,4 +34,32 @@ expect.extend(matchers);
 3.  `await user.type(password, 'asdf')`
 4. `await user.click(signUpButton)`
 
-#### 
+#### Mock-service-worker
+```php
+  
+
+import { setupServer } from 'msw/node'
+import { HttpResponse, http } from 'msw'
+
+ let requestBody
+ const server = setupServer(
+        http.post('/api/vi/users', async ({ request }) => {
+          requestBody = await request.json()
+          return HttpResponse.json({})
+        })
+      )
+      server.listen()
+............
+............
+ await waitFor(() => {
+        expect(requestBody).toEqual({
+          username: 'test_user',
+       })
+  })
+server.close();
+
+```
+
+#### Wait for
+1. by default waits for 1 second before executing the callback.
+2. 
