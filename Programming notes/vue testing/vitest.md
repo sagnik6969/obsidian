@@ -81,6 +81,14 @@ beforeEach(() => {
   server.resetHandlers()
 })
 ```
+=> To return a network error
+```
+server.use(
+          http.post('/api/v1/users', ({ request }) => {
+            return HttpResponse.error()
+          })
+        )
+```
 #### Wait for
 1. by default waits for 1 second before executing the callback.
 
@@ -105,6 +113,7 @@ beforeEach(() => {
 })
 ```
 1. `axios.post.mockResolvedValue({ data: {} })` => when `axios.post` is called it returns a promise which resolves to `{ data: {} }
+2. To mock the implementation of a function `axios.post.mockImplementation(() => {return 'sagnik'})`
 
 
 
