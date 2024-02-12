@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leravel/Documentation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5991df061fa8c2aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "vue testing/vitest.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,10 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5991df061fa8c2aa",
+  "active": "6316cea1987b6a36",
   "lastOpenFiles": [
-    "vue testing/Intro.md",
+    "Leravel/Documentation.md",
+    "SQL/section 11 Comparison and logical operators.md",
     "vue testing/vitest.md",
+    "vue testing/Intro.md",
     "Leravel/Exception.md",
     "Leravel/Middleware.md",
     "Facebook clone/setup.md",
@@ -172,7 +161,6 @@
     "Leravel/Service Containers.md",
     "Leravel/Events.md",
     "Leravel/Topics.md",
-    "Leravel/Documentation.md",
     "Leravel/Testing.md",
     "Leravel/Extra.md",
     "php/Bascis.md",
@@ -183,7 +171,6 @@
     "SQL/section 14 Many to many.md",
     "SQL/section 13 One to many joins.md",
     "SQL/section 12 Constraints & alter table.md",
-    "SQL/section 11 Comparison and logical operators.md",
     "Leravel/Old content.md",
     "Leravel/Postmon.md",
     "attachments/Pasted image 20240118090039.png",

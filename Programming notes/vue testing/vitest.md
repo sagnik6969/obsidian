@@ -15,7 +15,8 @@
 5. `screen.queryByPlaceholderText('Username')`
 6. `expect(screen.queryByRole('status')).not.toBeInTheDocument()`
 7. `const text = await screen.findByText('User create success')`
-8. 
+8. `screen.queryByTestId('form-sign-up')`
+9. 
 #### Expect
 1. `expect(element).toBeTruthy()`
 2. to increase the functionality `expect`
@@ -63,6 +64,23 @@ server.close();
 
 ```
 
+```php
+server.use(
+
+          http.post('/api/v1/users', async ({ request }) => {
+            // if we don't add the delay form will vanish immediately after completion of the request
+            // and we wont be able to capture the loading spinner.
+            await delay('infinite')
+          })
+        )
+```
+=> `msw` will use the given handler for the specific test and use default handler for other tests
+=> to to remove the above handler use the following code. => note 
+```
+beforeEach(() => {
+  server.resetHandlers()
+})
+```
 #### Wait for
 1. by default waits for 1 second before executing the callback.
 
@@ -86,5 +104,9 @@ beforeEach(() => {
   // expect(axios.post).toHaveBeenCalledTimes(1) => this test will fail because axios is called twice in the 2 seperate tests.
 })
 ```
-1. `axios.post.mockResolvedValue({ data: {} })` => when `axios.post` is called it returns a promise which resolves to `{ data: {} }`
+1. `axios.post.mockResolvedValue({ data: {} })` => when `axios.post` is called it returns a promise which resolves to `{ data: {} }
+
+
+
+
 
