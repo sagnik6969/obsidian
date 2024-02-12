@@ -90,6 +90,20 @@ server.use(
           })
         )
 ```
+=> to pass status with response
+
+```
+http.post('/api/v1/users', ({ request }) => {
+            return HttpResponse.json(
+              {
+                validationErrors: {
+                  username: 'Username cannot be null'
+                }
+              },
+              { status: 400 }
+            )
+```
+
 #### Wait for
 1. by default waits for 1 second before executing the callback.
 
@@ -115,6 +129,8 @@ beforeEach(() => {
 ```
 1. `axios.post.mockResolvedValue({ data: {} })` => when `axios.post` is called it returns a promise which resolves to `{ data: {} }
 2. To mock the implementation of a function `axios.post.mockImplementation(() => {return 'sagnik'})`
+3. `axios.post.mockRejectedValueOnce({}).mockResolvedValue({ data: {} })` => first time it will reject the promise after that it will resolve the promise
+4. 
 
 
 
