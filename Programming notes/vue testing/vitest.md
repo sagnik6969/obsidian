@@ -20,6 +20,7 @@ const customRender = (component, options) =>
     ...options
   })
 ```
+=> note the above will add `this.$t`
 #### Screen
 1. `screen.getByText('Hello Vitest');
 2. `const header = screen.getByRole('heading', { name: 'Sign Up' })` => `name` is text inside heading
@@ -132,7 +133,7 @@ server: {
 ```
 
 #### Mocking
-```php
+```js
 beforeEach(() => {
   vi.clearAllMocks()
   // to clear the mock axios before each test.
@@ -143,6 +144,18 @@ beforeEach(() => {
 1. `axios.post.mockResolvedValue({ data: {} })` => when `axios.post` is called it returns a promise which resolves to `{ data: {} }
 2. To mock the implementation of a function `axios.post.mockImplementation(() => {return 'sagnik'})`
 3. `axios.post.mockRejectedValueOnce({}).mockResolvedValue({ data: {} })` => first time it will reject the promise after that it will resolve the promise
+
+```js
+vi.mocked(useI18n).mockReturnValue({
+  t: (key) => en[key]
+})
+// the above and bellow code does exactly same work.
+// to mock a  function we first need to vi.mock('library name/path')
+ useI18n.mockReturnValue({
+  t: (key) => en[key]
+})
+```
+
 
 #### Describe
 ```php
