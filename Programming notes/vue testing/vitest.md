@@ -1,6 +1,5 @@
 #### 1. Functions of vitest
-1. `describe it expect`
-
+1. `describe it expect beforeEach beforeAll afterAll`
 #### 2. @testing-library/vue
 1. `render screen`
 
@@ -14,7 +13,9 @@
 3. `const signUpButton = screen.getByRole('button',{'name':'Sign up'});`
 4. `screen.queryByLabelText('Username')`
 5. `screen.queryByPlaceholderText('Username')`
-6. 
+6. `expect(screen.queryByRole('status')).not.toBeInTheDocument()`
+7. `const text = await screen.findByText('User create success')`
+8. 
 #### Expect
 1. `expect(element).toBeTruthy()`
 2. to increase the functionality `expect`
@@ -26,8 +27,9 @@ expect.extend(matchers);
 4. `expect(screen.queryByLabelText('Password')).toHaveAttribute('type', 'password')`
 5. `expect(signUpButton).toBeDisabled();`
 6.  `expect(axios.post).toHaveBeenCalledWith('api/vi/users', {username: 'test_user'})` => to use this function we first need to `vi.mock('asios')`
-7. `expect(requestBody).toEqual({})`
-8. `expect(counter).toBe(1)`
+7. `expect(axios.post).toHaveBeenCalledTimes(1)`
+8. `expect(requestBody).toEqual({})`
+9. `expect(counter).toBe(1)`
 
 #### @testing-library/user-event
 1. `import userEvent from '@testing-library/user-event'`
@@ -81,7 +83,8 @@ beforeEach(() => {
   vi.clearAllMocks()
   // to clear the mock axios before each test.
   // if we don't clear the mock we will see unexpected results
-  // expect(axios.post).toHaveBeenCalledTimes(1) => this test will fail because axios is called twice in the 2 tests.
+  // expect(axios.post).toHaveBeenCalledTimes(1) => this test will fail because axios is called twice in the 2 seperate tests.
 })
 ```
+1. `axios.post.mockResolvedValue({ data: {} })` => when `axios.post` is called it returns a promise which resolves to `{ data: {} }`
 
