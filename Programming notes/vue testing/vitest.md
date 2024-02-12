@@ -186,7 +186,21 @@ expect(mockSetItem).toHaveBeenCalledWith('app-lang', language);
 5. `const mockNavigatorLanguage = vi.spyOn(window.navigator, 'language', 'get')` => language is getter function.  `get` => tells vi that language is a getter function.
 6. `mockNavigatorLanguage.mockReturnValue(undefined)`
 7. `mockNavigatorLanguage.mockReset()` => `works similar to vi.clearAllMocks()`
-8. 
+8. clear all mocks vs reset all mocks => If you want to test mock function called times, clear before you use If you want to make sure mock return value wouldn't pollute other test case, call reset.
+
+```js
+vi.mock('@/locales/index.js', () => {
+  return {
+    i18n: {
+      global: {
+        locale: 'ab'
+      }
+    }
+  }
+})
+```
+9. the second argument to `vi.mock` is factory to the referred file.
+10. 
 
 
 
