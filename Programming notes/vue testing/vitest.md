@@ -1,5 +1,6 @@
 #### 1. Functions of vitest
 1. `describe it expect beforeEach beforeAll afterAll`
+2. we can add `beforeEach` inside `describe` block also 
 #### 2. @testing-library/vue
 1. `render screen`
 
