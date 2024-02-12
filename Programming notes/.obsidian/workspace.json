@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leravel/Exception.md",
+                "file": "vue testing/vitest.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leravel/Exception.md",
+                "file": "vue testing/vitest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leravel/Exception.md",
+                "file": "vue testing/vitest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leravel/Exception.md"
+                "file": "vue testing/vitest.md"
               }
             }
           }
@@ -162,8 +162,10 @@
   },
   "active": "5991df061fa8c2aa",
   "lastOpenFiles": [
-    "Leravel/Middleware.md",
+    "vue testing/Intro.md",
+    "vue testing/vitest.md",
     "Leravel/Exception.md",
+    "Leravel/Middleware.md",
     "Facebook clone/setup.md",
     "Leravel/Queues.md",
     "Facebook clone",
@@ -184,7 +186,6 @@
     "SQL/section 11 Comparison and logical operators.md",
     "Leravel/Old content.md",
     "Leravel/Postmon.md",
-    "vue testing/Intro.md",
     "attachments/Pasted image 20240118090039.png",
     "attachments/Pasted image 20240118090036.png",
     "Final sem exam 7th sem/Biology/Give details of cause and expression of Down syndrome and  Sickle cell disease.md",
@@ -198,7 +199,6 @@
     "attachments/Pasted image 20240112125811.png",
     "attachments/Pasted image 20240110170419.png",
     "Portfolio.md",
-    "Leravel/artisan commands.md",
     "attachments/Pasted image 20231226105648.png",
     "php",
     "Final sem exam 7th sem/TOC",
