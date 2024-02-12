@@ -25,9 +25,12 @@ expect.extend(matchers);
 3. `expect(element).toBeInTheDocument();` => `toBeInTheDocument` is provided by matches
 4. `expect(screen.queryByLabelText('Password')).toHaveAttribute('type', 'password')`
 5. `expect(signUpButton).toBeDisabled();`
+6.  `expect(axios.post).toHaveBeenCalledWith('api/vi/users', {username: 'test_user'})` => to use this function we first need to `vi.mock('asios')`
 
 #### @testing-library/user-event
-1. import userEvent from '@testing-library/user-event'
+1. `import userEvent from '@testing-library/user-event'`
 2. `const user = userEvent.setup()`
 3.  `await user.type(password, 'asdf')`
-4. 
+4. `await user.click(signUpButton)`
+
+#### 
