@@ -120,7 +120,9 @@ http.post('/api/v1/users', ({ request }) => {
               { status: 400 }
             )
 ```
-
+=> To get request headers in `msw`
+1. `acceptLanguage = request.headers.get('Accept-Language')`
+2. 
 #### Wait for
 1. by default waits for 1 second before executing the callback.
 
