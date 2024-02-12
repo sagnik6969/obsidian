@@ -21,6 +21,9 @@ const customRender = (component, options) =>
   })
 ```
 => note the above will add `this.$t`
+=> it also takes care of `useI18n` function. 
+=> to change `i18n.locale` we have to import the local configuration file which is used in `app.use`
+
 #### Screen
 1. `screen.getByText('Hello Vitest');
 2. `const header = screen.getByRole('heading', { name: 'Sign Up' })` => `name` is text inside heading
@@ -156,6 +159,17 @@ vi.mocked(useI18n).mockReturnValue({
 })
 ```
 
+=> to mock `this.$t`
+```
+ const result = render(SignUp, {
+    global: {
+      mocks: {
+        $t: (key) => en[key]
+      }
+    }
+  })
+```
+
 
 #### Describe
 ```php
@@ -168,6 +182,19 @@ vi.mocked(useI18n).mockReturnValue({
     .........
  })
 ```
+
+#### i18n
+```js
+// the state of language selector is preserved in between tests.
+// in the bellow tests if there are tests after the given tests the value of the
+// language selector will be tr.
+// to solve this issue
+afterEach(() => {
+i18n.global.locale = 'en'
+})
+```
+
+
 
 
 
