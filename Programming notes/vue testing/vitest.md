@@ -27,6 +27,7 @@ expect.extend(matchers);
 5. `expect(signUpButton).toBeDisabled();`
 6.  `expect(axios.post).toHaveBeenCalledWith('api/vi/users', {username: 'test_user'})` => to use this function we first need to `vi.mock('asios')`
 7. `expect(requestBody).toEqual({})`
+8. `expect(counter).toBe(1)`
 
 #### @testing-library/user-event
 1. `import userEvent from '@testing-library/user-event'`
@@ -62,4 +63,25 @@ server.close();
 
 #### Wait for
 1. by default waits for 1 second before executing the callback.
-2. 
+
+
+#### Proxy
+`in vite.config.js`
+```
+server: {
+    proxy: {
+      '/api': 'http://127.0.0.1:8080'
+    }
+  }
+```
+
+#### Mocking
+```php
+beforeEach(() => {
+  vi.clearAllMocks()
+  // to clear the mock axios before each test.
+  // if we don't clear the mock we will see unexpected results
+  // expect(axios.post).toHaveBeenCalledTimes(1) => this test will fail because axios is called twice in the 2 tests.
+})
+```
+
