@@ -49,7 +49,7 @@ expect.extend(matchers);
 8. `expect(requestBody).toEqual({})`
 9. `expect(counter).toBe(1)`
 10. `expect(input).toHaveClass('is-invalid')`
-11. 
+11. `expect(mockSetItem).toHaveBeenCalledWith('app-lang', language)` => this will only work if you add `const mockSetItem = vi.spyOn(Storage.prototype, 'setItem')`  
 #### @testing-library/user-event
 1. `import userEvent from '@testing-library/user-event'`
 2. `const user = userEvent.setup()`
@@ -160,7 +160,7 @@ vi.mocked(useI18n).mockReturnValue({
 ```
 
 => to mock `this.$t`
-```
+```js
  const result = render(SignUp, {
     global: {
       mocks: {
@@ -169,6 +169,20 @@ vi.mocked(useI18n).mockReturnValue({
     }
   })
 ```
+4. `vi.spion()` 
+```js
+const mockSetItem = vi.spyOn(Storage.prototype, 'setItem')
+ // we cant use vi.mock => vi.mocked() here because vi.mock requires a path and Storage.prototype
+ // does not have a path
+ // spy on does not need vi.mock('....)
+ // can mock functions directly
+ // first argument is the object name where function is located
+ // second argument is the name of the function
+expect(mockSetItem).toHaveBeenCalledWith('app-lang', language);
+// toHaveBeenCalledWith => only works with spyon
+```
+
+
 
 
 #### Describe
