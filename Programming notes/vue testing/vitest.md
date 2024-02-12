@@ -227,6 +227,15 @@ afterEach(() => {
 i18n.global.locale = 'en'
 })
 ```
+#### Router
+=> router should be included in `render => global => plugins`
+```js
+ router.push('/users/1')
+ await router.isReady() //Returns a Promise that resolves when
+ //the router has completed the initial navigation
+ render(App)
+```
+
 
 
 
