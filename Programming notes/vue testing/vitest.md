@@ -8,6 +8,18 @@
 1. `render(SignUp)`
 2. To render an element with props `render(HelloWorld,{ props: { msg: 'Hello Vitest' } })`
 3. `const { container } = render(SignUp)` => `container` id equivalent to `document` in vanilla JavaScript . 
+4. To render with global dependencies 
+```php
+
+import { i18n } from '../src/locales/index.js'
+const customRender = (component, options) =>
+  render(component, {
+    global: {
+      plugins: [i18n]
+    },
+    ...options
+  })
+```
 #### Screen
 1. `screen.getByText('Hello Vitest');
 2. `const header = screen.getByRole('heading', { name: 'Sign Up' })` => `name` is text inside heading
@@ -32,7 +44,8 @@ expect.extend(matchers);
 7. `expect(axios.post).toHaveBeenCalledTimes(1)`
 8. `expect(requestBody).toEqual({})`
 9. `expect(counter).toBe(1)`
-
+10. `expect(input).toHaveClass('is-invalid')`
+11. 
 #### @testing-library/user-event
 1. `import userEvent from '@testing-library/user-event'`
 2. `const user = userEvent.setup()`
@@ -130,7 +143,19 @@ beforeEach(() => {
 1. `axios.post.mockResolvedValue({ data: {} })` => when `axios.post` is called it returns a promise which resolves to `{ data: {} }
 2. To mock the implementation of a function `axios.post.mockImplementation(() => {return 'sagnik'})`
 3. `axios.post.mockRejectedValueOnce({}).mockResolvedValue({ data: {} })` => first time it will reject the promise after that it will resolve the promise
-4. 
+
+#### Describe
+```php
+ describe.each([
+      { field: 'username', message: 'username cant be null' },
+      { field: 'email', message: 'E-mail cant be null' },
+      { field: 'password', message: 'Password cant be null' }
+    ])('when $field is invalid', ({ field, message }) => {
+    .........
+    .........
+ })
+```
+
 
 
 
