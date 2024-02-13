@@ -20,6 +20,11 @@ const customRender = (component, options) =>
     ...options
   })
 ```
+5. To re-render with different props 
+```
+const { rerender } = render(ProfileImage,{props:{image:'user-image.png'}})
+await rerender({image:'user-image.png',tempImage:'base64-encoded-file'})
+```
 => note the above will add `this.$t`
 => it also takes care of `useI18n` function. 
 => to change `i18n.locale` we have to import the local configuration file which is used in `app.use`
@@ -52,6 +57,7 @@ expect.extend(matchers);
 11. `expect(mockSetItem).toHaveBeenCalledWith('app-lang', language)` => this will only work if you add `const mockSetItem = vi.spyOn(Storage.prototype, 'setItem')` or equivalent `vi.mock('location')`
 12. `expect(signUp).toHaveBeenCalledTimes(1)`
 13. ` expect(requestBody).toStrictEqual({email: 'text@example.com'})`
+14. `expect(screen.getByAltText('image')).toHaveAttribute('src', 'base64-encoded-file')`
 #### @testing-library/user-event
 1. `import userEvent from '@testing-library/user-event'`
 2. `const user = userEvent.setup()`
@@ -59,6 +65,9 @@ expect.extend(matchers);
 4. `await user.click(signUpButton)`
 5. `user.clear(username) // to clear username input`
 6. `await user.keyboard('{enter}')`
+7. `await user.upload(fileUploadInput,new File(['hello'], 'hello.png', { type: 'image/png' }))`
+8.  `const image = screen.getByAltText('user-image')`
+9. `expect(image).toHaveAttribute('src', 'data:image/png;base64,aGVsbG8=')`
 
 #### Mock-service-worker
 ```php
