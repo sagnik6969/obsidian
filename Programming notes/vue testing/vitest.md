@@ -252,6 +252,7 @@ i18n.global.locale = 'en'
  //the router has completed the initial navigation
  render(App)
 ```
+=> you can use ref and reactive inside `spec.js` file
 
 
 
