@@ -51,6 +51,7 @@ expect.extend(matchers);
 10. `expect(input).toHaveClass('is-invalid')`
 11. `expect(mockSetItem).toHaveBeenCalledWith('app-lang', language)` => this will only work if you add `const mockSetItem = vi.spyOn(Storage.prototype, 'setItem')` or equivalent `vi.mock('location')`
 12. `expect(signUp).toHaveBeenCalledTimes(1)`
+13. ` expect(requestBody).toStrictEqual({email: 'text@example.com'})`
 #### @testing-library/user-event
 1. `import userEvent from '@testing-library/user-event'`
 2. `const user = userEvent.setup()`
