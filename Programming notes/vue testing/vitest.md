@@ -33,7 +33,7 @@ const customRender = (component, options) =>
 6. `expect(screen.queryByRole('status')).not.toBeInTheDocument()`
 7. `const text = await screen.findByText('User create success')`
 8. `screen.queryByTestId('form-sign-up')`
-9. 
+9. `screen.queryByAltText('user1'))`
 #### Expect
 1. `expect(element).toBeTruthy()`
 2. to increase the functionality `expect`
