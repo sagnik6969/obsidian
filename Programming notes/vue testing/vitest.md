@@ -220,6 +220,10 @@ vi.mock('@/views/activation/Activation.vue')
 // in the actual file due to axios the test were
 // failing because in the test we are not returning any response
 ```
+11. `vi.spyOn(window, 'confirm').mockReturnValue(0)` 
+12. `expect(window.confirm).toHaveBeenCalledTimes(1)`
+13. `// we can call the above function only when window.confirm is bound by vi.spyOn()`
+14. 
 
 
 
@@ -258,7 +262,7 @@ i18n.global.locale = 'en'
 #### Local Storage
 1. `localStorage.clear()`
 2. 
-
+3. 
 
 
 
