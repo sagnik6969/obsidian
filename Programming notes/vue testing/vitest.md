@@ -23,7 +23,7 @@ const customRender = (component, options) =>
 => note the above will add `this.$t`
 => it also takes care of `useI18n` function. 
 => to change `i18n.locale` we have to import the local configuration file which is used in `app.use`
-
+=> note these global plugins need to be imported from local directories for example `router` must be imported from local `router.js`
 #### Screen
 1. `screen.getByText('Hello Vitest');
 2. `const header = screen.getByRole('heading', { name: 'Sign Up' })` => `name` is text inside heading
