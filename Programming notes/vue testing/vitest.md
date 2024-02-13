@@ -57,6 +57,8 @@ expect.extend(matchers);
 2. `const user = userEvent.setup()`
 3.  `await user.type(password, 'asdf')`
 4. `await user.click(signUpButton)`
+5. `user.clear(username) // to clear username input`
+6. `await user.keyboard('{enter}')`
 
 #### Mock-service-worker
 ```php
