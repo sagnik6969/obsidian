@@ -255,6 +255,10 @@ i18n.global.locale = 'en'
 ```
 => you can use ref and reactive inside `spec.js` file
 
+#### Local Storage
+1. `localStorage.clear()`
+2. 
+
 
 
 
