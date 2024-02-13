@@ -274,7 +274,11 @@ i18n.global.locale = 'en'
 #### Local Storage
 1. `localStorage.clear()`
 2. 
-3. 
+
+
+#### General rules
+1. each component must have a integration test. Ant it should not mock child dependencies.
+2. 
 
 
 
