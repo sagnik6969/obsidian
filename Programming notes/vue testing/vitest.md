@@ -68,6 +68,7 @@ expect.extend(matchers);
 7. `await user.upload(fileUploadInput,new File(['hello'], 'hello.png', { type: 'image/png' }))`
 8.  `const image = screen.getByAltText('user-image')`
 9. `expect(image).toHaveAttribute('src', 'data:image/png;base64,aGVsbG8=')`
+10. remember base 64 encoded version of the file is returned to the server.
 
 #### Mock-service-worker
 ```php
