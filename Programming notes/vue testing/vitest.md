@@ -123,7 +123,17 @@ http.post('/api/v1/users', ({ request }) => {
 ```
 => To get request headers in `msw`
 1. `acceptLanguage = request.headers.get('Accept-Language')`
-2. 
+=> to access route params in `msw`
+
+```js
+const server = setupServer(
+  http.patch('/api/v1/users/:token/active', ({ params }) => {
+    counter++
+    token = params.token
+  })
+)
+```
+
 #### Wait for
 1. by default waits for 1 second before executing the callback.
 
@@ -201,7 +211,14 @@ vi.mock('@/locales/index.js', () => {
 })
 ```
 9. the second argument to `vi.mock` is factory to the referred file.
-10. 
+10. To mock a vue file 
+```js
+vi.mock('@/views/activation/Activation.vue')
+// The above will mock the functionality of Activation.vue
+// => it will search for mock file in the __mocks__ folder under '@/views/activation'
+// in the actual file due to axios the test were
+// failing because in the test we are not returning any response
+```
 
 
 
