@@ -235,7 +235,7 @@ vi.mock('@/views/activation/Activation.vue')
 11. `vi.spyOn(window, 'confirm').mockReturnValue(0)` 
 12. `expect(window.confirm).toHaveBeenCalledTimes(1)`
 13. `// we can call the above function only when window.confirm is bound by vi.spyOn()`
-14. `vi.fn` => creates a mock function which then can be used in `expect(mockFn).toHaveBeenCalledOnce()`
+14. `vi.fn` => creates a mock function which then can be used in `expect(mockFn).toHaveBeenCalledOnce()`etc.
 Example:
 ```js
 const mockFn = vi.fn().mockResolvedValue("success message");
