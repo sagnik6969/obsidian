@@ -205,7 +205,7 @@ const mockSetItem = vi.spyOn(Storage.prototype, 'setItem')
  // first argument is the object name where function is located
  // second argument is the name of the function
 expect(mockSetItem).toHaveBeenCalledWith('app-lang', language);
-// toHaveBeenCalledWith => only works with spyon
+// toHaveBeenCalledWith => only works with spyon or vi.mock(....)
 ```
 5. `const mockNavigatorLanguage = vi.spyOn(window.navigator, 'language', 'get')` => language is getter function.  `get` => tells vi that language is a getter function.
 6. `mockNavigatorLanguage.mockReturnValue(undefined)`
