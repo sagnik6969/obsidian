@@ -235,7 +235,21 @@ vi.mock('@/views/activation/Activation.vue')
 11. `vi.spyOn(window, 'confirm').mockReturnValue(0)` 
 12. `expect(window.confirm).toHaveBeenCalledTimes(1)`
 13. `// we can call the above function only when window.confirm is bound by vi.spyOn()`
-14. 
+14. `vi.fn` => creates a mock function which then can be used in `expect(mockFn).toHaveBeenCalledOnce()`
+Example:
+```js
+const mockFn = vi.fn().mockResolvedValue("success message");
+vi.mocked(useStore).mockReturnValue({dispatch: mockFn,});
+setUp();
+store.getters.isLoggedIn = true;
+const button = await screen.findByRole("button", { name: "Logout" });
+const user = userEvent.setup();
+await user.click(button);   
+expect(mockFn).toHaveBeenCalledOnce();
+expect(mockFn).toHaveBeenCalledWith("logout");
+```
+
+
 
 
 
