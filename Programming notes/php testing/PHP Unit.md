@@ -159,3 +159,15 @@ $mockMailer
 // with verifies the method arguments.
 ->willReturn(true);
 ```
+##### To throw an exception inside mock function
+1. `$mockMailer->method('sendMessage')->will($this->throwException(new Exception));`
+##### Get mock Builder
+```php
+ $mockMailer = $this->getMockBuilder('Mailer')
+            ->onlyMethods([])
+            ->getMock();
+// if we want to mock some of the methods  while keeping others as it is use getMockBuilder
+->onlyMethods([]) => the methods specified here will only be mocked rest will remain as it is in the original class
+// at last we need to call ->getMock() to get the mock implementation.
+```
+
