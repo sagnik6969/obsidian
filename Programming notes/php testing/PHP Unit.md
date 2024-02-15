@@ -8,4 +8,5 @@
 
 ### Assert
 1. `$this->assertEquals(4, 2 + 2);`
-2. 
+2. the goal of unit testing is to isolate each part of program and check each part of the program works as expected.
+3. 
