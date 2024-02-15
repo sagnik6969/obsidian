@@ -136,4 +136,26 @@ $mailer->method('sendMessage')->willReturn(true);
 $result = $mailer->sendMessage('a@b.com', 'Hi');
 $this->assertTrue($result);
 ```
+##### Passing the mock through dependency injection
+```php
+public function test_notification_is_sent()
+    {
+        $user = new User();
+        $mockMailer = $this->createMock(Mailer::class);
+        $mockMailer->method('sendMessage')->willReturn(true);
+        $user->setMailer($mockMailer);
+        $result = $user->notify('Hi');
+        $this->assertTrue($result);
+    }
+```
 
+##### Assertion on the mock function
+```php
+$mockMailer
+->expects($this->once())
+// expects($this->once()) => tels that sendMessage method must be called once
+->method('sendMessage')
+->with($this->equalTo('a@b.com'), $this->equalTo('Hi'))
+// with verifies the method arguments.
+->willReturn(true);
+```
