@@ -48,7 +48,7 @@ class UserTest extends TestCase
 }
 ```
 ### Autoloading
-```php
+```json
   "autoload": {
         "psr-4": {
             "":"src/"
@@ -56,6 +56,21 @@ class UserTest extends TestCase
     }
 ```
 => `psr4` autoloading => namespace is equal to path to the class file from root directory of the project.
+=> in the above configuration if the class name is not found composer will look inside the `src/` directory.
+
+```json
+"autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Database\\Factories\\": "database/factories/",
+            "Database\\Seeders\\": "database/seeders/"
+        }
+    }
+```
+=> in this example if class's namespace is `App\` then it will look for the class in `app/` and so on.
+=> to generate composer autoload file `composer dump-autoload` => the generated file will be responsible for generating the autoloading the classes.
+=> note by default `php unit` will automatically use `vendor/autoload.php` as auto loader.
+
 
 
 1. 
