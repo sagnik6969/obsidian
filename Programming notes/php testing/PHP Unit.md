@@ -171,3 +171,7 @@ $mockMailer
 // at last we need to call ->getMock() to get the mock implementation.
 ```
 
+##### Mockery
+1.  to install mockery => `composer require mockery/mockery --dev`
+2. to use mockery either we can extend `Mockery\Adapter\Phpunit\MockeryTestCase class`  or we can call `Mockery::close()` in `tearDown()` method;
+3. `use `
