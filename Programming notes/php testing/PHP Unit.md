@@ -69,8 +69,26 @@ class UserTest extends TestCase
 ```
 => in this example if class's namespace is `App\` then it will look for the class in `app/` and so on.
 => to generate composer autoload file `composer dump-autoload` => the generated file will be responsible for generating the autoloading the classes.
+=> for the autoloader to work we need to import it from `vendor/autoload.php`
 => note by default `php unit` will automatically use `vendor/autoload.php` as auto loader.
 
+### Set Up
+```php
+protected function setUp(): void
+    {
+        $this->queue = new Queue;
+        // this function will run before every test
+        // this is called fixture
+    }
+```
+### Tear Down
+```php
+  protected function tearDown(): void
+    {
+        unset($this->queue);
+        // this function will run after every test
+        // don't need to use
+        // only use tearDown method if you are creating lot of objects and need to clear the memory
+    }
+```
 
-
-1. 
