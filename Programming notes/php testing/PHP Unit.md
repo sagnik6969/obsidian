@@ -12,7 +12,11 @@
 
 ### Assert
 1. `$this->assertEquals(4, 2 + 2);`
-
+2. `array_pop` => removes items from the end of an array
+3. `array_shift` => removes the items from the start of the array
+4. `$this->expectException(QueueException::class);`
+5. `$this->expectExceptionMessage('queue is full');`
+6. 
 ### phpunit.xml
 ```xml
 <?xml version="1.0" encoding="UTF-8" ?>
@@ -92,3 +96,30 @@ protected function tearDown(): void
 }
 ```
 
+### Set Up Before Class
+```php
+public static function setUpBeforeClass(): void
+    {
+        // runs before first test is run
+        // equivalent to beforeAll in vitest
+        // should be public static
+    }
+```
+### Tear Down After Class
+```php
+ public static function tearDownAfterClass(): void
+    {
+        // runs after last test is run
+        // equivalent to afterAll in vitest
+        // should be public static
+    }
+```
+
+### Testing for exceptions
+```php
+$this->expectException(QueueException::class);
+$this->expectExceptionMessage('queue is full');
+// to test for exception. 
+$this->queue->push('extra');
+```
+=> note we need to place the expect exception block before the code which results in exception.
