@@ -174,4 +174,13 @@ $mockMailer
 ##### Mockery
 1.  to install mockery => `composer require mockery/mockery --dev`
 2. to use mockery either we can extend `Mockery\Adapter\Phpunit\MockeryTestCase class`  or we can call `Mockery::close()` in `tearDown()` method;
-3. `use `
+3. To create a mock object of a non existent class.
+```php
+       $gateway = Mockery::mock('PaymentGateway');
+       $gateway->shouldReceive('charge') // method name is 'charge'
+               ->once() // the method will be called once
+               ->with(200) // with the argument 200
+               ->andReturn(true); // the method should return true;
+```
+
+##### Returning different values on subsequent method calls
