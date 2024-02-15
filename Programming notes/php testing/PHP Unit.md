@@ -124,3 +124,16 @@ $this->queue->push('extra');
 ```
 => note we need to place the expect exception block before the code which results in exception.
 => to throw an exception `throw new QueueException('queue is full');`
+
+### Mocking
+```php
+$mailer = $this->createMock(Mailer::class);
+//used to create a mock version of the class
+// when we create a mock version of the class it inherits all the methods
+// and properties => all the methods does not do anything and  return null by default in the mock implementation.
+
+$mailer->method('sendMessage')->willReturn(true);
+$result = $mailer->sendMessage('a@b.com', 'Hi');
+$this->assertTrue($result);
+```
+
