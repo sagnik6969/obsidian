@@ -123,3 +123,4 @@ $this->expectExceptionMessage('queue is full');
 $this->queue->push('extra');
 ```
 => note we need to place the expect exception block before the code which results in exception.
+=> to throw an exception `throw new QueueException('queue is full');`
