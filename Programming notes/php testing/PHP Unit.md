@@ -184,3 +184,42 @@ $mockMailer
 ```
 
 ##### Returning different values on subsequent method calls
+###### Using PHPUNIT create Mock
+```php
+public function test_correct_average_is_returned()
+    {
+        $service = $this->createMock(TemperatureService::class);
+        $map = [
+            ['12:00', 20],
+            ['14:00', 26],
+        ];
+        $service
+            ->expects($this->exactly(2)) // will be called twice
+            ->method('getTemperature')
+            ->willReturnMap($map);
+        $weather = new WeatherMonitor($service);
+        $this->assertEquals(23, $weather->getAverageTemperature('12:00', '14:00'));
+    }
+```
+###### Using Mockery
+```php
+ public function test_correct_average_is_returned_mockery()
+    {
+        $service = Mockery::mock(TemperatureService::class);
+        $service->shouldReceive('getTemperature')
+        ->once()
+        ->with("12:00")
+        ->andReturn(20);
+        $service->shouldReceive('getTemperature')
+        ->once()
+        ->with("14:00")
+        ->andReturn(26);
+        $map = [
+            ['12:00', 20],
+            ['14:00', 26],
+        ];
+
+        $weather = new WeatherMonitor($service);
+        $this->assertEquals(23, $weather->getAverageTemperature('12:00', '14:00'));
+    }
+```
