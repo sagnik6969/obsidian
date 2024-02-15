@@ -83,12 +83,12 @@ protected function setUp(): void
 ```
 ### Tear Down
 ```php
-  protected function tearDown(): void
-    {
-        unset($this->queue);
-        // this function will run after every test
-        // don't need to use
-        // only use tearDown method if you are creating lot of objects and need to clear the memory
-    }
+protected function tearDown(): void
+{
+  unset($this->queue);
+ // this function will run after every test
+ // don't need to use
+ // only use tearDown method if you are creating lot of objects and need to clear the memory
+}
 ```
 
