@@ -268,5 +268,20 @@ $property = $reflector->getProperty('product_id');
 $property->setAccessible(true);
 $this->assertIsInt($property->getValue($product));
 ```
+#### Testing abstract classes
+1. abstract class in `php` can contain concrete methods
+2. 1 way is to create a concrete class by inheriting the abstract class and test the child concrete class
+3. 2nd way is to use mock builder
+```php
+  $mock = $this
+            ->getMockBuilder(AbstractPerson::class)
+            ->setConstructorArgs(['Green']) // for setting constructor args
+            ->getMockForAbstractClass();
+  
+            // by default only abstract methods will be mocked
+            // concrete methods wont be mocked.
 
+   $mock->method('getTitle')->willReturn('Dr.');
+   $this->assertEquals('Dr. Green', $mock->getNameAndTitle());
+```
 
