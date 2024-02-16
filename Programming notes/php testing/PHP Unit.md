@@ -296,4 +296,30 @@ $this->assertIsInt($property->getValue($product));
 
 #### PHP Functions
 1. `str_replace(' ', '_', $slug);` => replaces blank with under score.
-2. `preg_replace('/\s+|[^\w]+/', '_', $slug)` => replace the substring whic
+2. `preg_replace('/\s+|[^\w]+/', '_', $slug)` => replace the substring which matches the regular expression with `_`
+
+
+#### Data providers in PHP Unit
+1. Note non static data providers are deprecated in latest version of php unit
+2. Example of data provider
+
+```php
+public static function titleProvider(){
+        return [
+           'space is replaced by under score' => ["a b c","a_b_c"],
+            ["   s ","s"]
+        ];
+    }
+
+    /**
+     * @dataProvider titleProvider
+     */
+    public function test_slug($title, $slug)
+    {
+        $this->article->title = $title;
+        $this->assertSame($this->article->getSlug(), $slug);
+    }
+```
+3. Here return values of `titleProvider` get passed on to the `test_slug` function.
+4. the key of the associative array will be visible in the console while running the tests.
+5. 
