@@ -19,17 +19,18 @@ const customRender = (component, options) =>
     ...options
   })
 ```
+=> note the above will add `this.$t`
+=> it also takes care of `useI18n` function. 
+=> to change `i18n.locale` we have to import the local configuration file which is used in `app.use`
+=> note these global plugins need to be imported from local directories for example `router` must be imported from local `router.js`
 5. To re-render with different props 
 ```
 const { rerender } = render(ProfileImage,{props:{image:'user-image.png'}})
 await rerender({image:'user-image.png',tempImage:'base64-encoded-file'})
 ```
-=> note the above will add `this.$t`
-=> it also takes care of `useI18n` function. 
-=> to change `i18n.locale` we have to import the local configuration file which is used in `app.use`
-=> note these global plugins need to be imported from local directories for example `router` must be imported from local `router.js`
+
 #### Screen
-1. `screen.getByText('Hello Vitest');
+1. `screen.getByText('Hello Vitest');`
 2. `const header = screen.getByRole('heading', { name: 'Sign Up' })` => `name` is text inside heading
 3. `const signUpButton = screen.getByRole('button',{'name':'Sign up'});`
 4. `screen.queryByLabelText('Username')`
@@ -71,8 +72,6 @@ expect.extend(matchers);
 
 #### Mock-service-worker
 ```php
-  
-
 import { setupServer } from 'msw/node'
 import { HttpResponse, http } from 'msw'
 
@@ -122,7 +121,7 @@ server.use(
 ```
 => to pass status with response
 
-```
+```js
 http.post('/api/v1/users', ({ request }) => {
             return HttpResponse.json(
               {
@@ -184,7 +183,7 @@ vi.mocked(useI18n).mockReturnValue({
 })
 ```
 
-=> to mock `this.$t`
+=> to mock `this.$t` (options api)
 ```js
  const result = render(SignUp, {
     global: {
