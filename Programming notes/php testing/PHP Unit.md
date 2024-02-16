@@ -322,4 +322,7 @@ public static function titleProvider(){
 ```
 3. Here return values of `titleProvider` get passed on to the `test_slug` function.
 4. the key of the associative array will be visible in the console while running the tests.
-5. 
+5. for each element of the array returned by `titleProvider` the function `test_slug` will run once.
+
+#### Testing static methods
+1. 
