@@ -17,9 +17,14 @@
 4. `$this->expectException(QueueException::class);`
 5. `$this->expectExceptionMessage('queue is full');`
 6. `$this->assertNotEmpty()`
-7. `$this->assertIsInt()`
-8. ` $this->assertStringStartsWith('example', $result);`
-9. `$this->assertIsString($result);`
+7. `$thts->assertEmpty()`
+8. `$this->assertIsInt()`
+9. ` $this->assertStringStartsWith('example', $result);`
+10. `$this->assertIsString($result);`
+
+###### assert Equals vs assert Same
+1. `assertEquals` => equivalent to `(==)` in `js`
+2. `assertSame` => does strict comparison. => equivalent to `(===)` in `js`
 ### phpunit.xml
 ```xml
 <?xml version="1.0" encoding="UTF-8" ?>
@@ -288,3 +293,7 @@ $this->assertIsInt($property->getValue($product));
 #### Test Driven Development
 > With test driven development we write tests first. the test will fail initially. Then we write code to pass the tests.
 > At first we try to write a bare minimum code to pass the tests. then we try to improuve the code without breaking the tests.
+
+#### PHP Functions
+1. `str_replace(' ', '_', $slug);` => replaces blank with under score.
+2. `preg_replace('/\s+|[^\w]+/', '_', $slug)` => replace the substring whic
