@@ -325,4 +325,19 @@ public static function titleProvider(){
 5. for each element of the array returned by `titleProvider` the function `test_slug` will run once.
 
 #### Testing static methods
-1. 
+1. The problem with testing static methods is  you cant stub static methods with `phpunit` mocking framework.
+2. Option 1 => convert the static method to a instance method `changing the actual code of the class`
+3. Option 2 => pass the dependency as callable
+```php
+// In test file
+ $user = new User('a@b.c');
+        // $user->set_mailer_callable([Mailer::class, 'send']);
+        $user->set_mailer_callable(fn() => true);
+        $result = $user->notify('hi');
+        $this->assertTrue($result);
+
+// in user.php
+return call_user_func($this->mailer_callable, $this->email, $message);
+// call_user_func => first argument is the function name or [class name,function name] , 2nd argument to the callable
+// function are passed as remaining arguments.
+```
