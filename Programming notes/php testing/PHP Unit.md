@@ -16,7 +16,8 @@
 3. `array_shift` => removes the items from the start of the array
 4. `$this->expectException(QueueException::class);`
 5. `$this->expectExceptionMessage('queue is full');`
-6. 
+6. `$this->assertNotEmpty()`
+7. `$this->assertIsInt()`
 ### phpunit.xml
 ```xml
 <?xml version="1.0" encoding="UTF-8" ?>
@@ -223,3 +224,21 @@ public function test_correct_average_is_returned()
         $this->assertEquals(23, $weather->getAverageTemperature('12:00', '14:00'));
     }
 ```
+###### Mockery spies => make assertions after tests
+```php
+public function test_order_is_processed_using_spy()
+    {
+        $order = new Order2(3, 1.99);
+        $this->assertEquals(5.97, $order->amount);
+
+        $gatewayMock = Mockery::spy('PaymentGateway');
+        $order->process($gatewayMock);
+
+        $gatewayMock->shouldHaveReceived('charge')
+            ->once()
+            ->with(5.97);
+        
+    }
+```
+=> with spies you cant specify a return value.
+
