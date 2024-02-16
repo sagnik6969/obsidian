@@ -10,7 +10,6 @@
 3. `const { container } = render(SignUp)` => `container` id equivalent to `document` in vanilla JavaScript . 
 4. To render with global dependencies 
 ```php
-
 import { i18n } from '../src/locales/index.js'
 const customRender = (component, options) =>
   render(component, {
