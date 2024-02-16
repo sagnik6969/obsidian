@@ -258,5 +258,15 @@ public function test_order_is_processed_using_spy()
   $this->assertIsString($result);
 ```
 3. To pass arguments to a reflected method. `$result = $method->invokeArgs($item, ['example']);`
-4. 
+4. private method are part of internal implementation of the class and should not be tested.
+
+#### Test private and protected properties with `php` reflectors
+```php
+$product = new Product;
+$reflector = new ReflectionClass(Product::class);
+$property = $reflector->getProperty('product_id');
+$property->setAccessible(true);
+$this->assertIsInt($property->getValue($product));
+```
+
 
