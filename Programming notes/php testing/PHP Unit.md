@@ -338,6 +338,18 @@ public static function titleProvider(){
 
 // in user.php
 return call_user_func($this->mailer_callable, $this->email, $message);
-// call_user_func => first argument is the function name or [class name,function name] , 2nd argument to the callable
-// function are passed as remaining arguments.
+// call_user_func => first argument is the function name or [class name,function name] ,
+// argument to the callable function are passed as remaining arguments.
+```
+4. Option 4 => using mockery aliases => `Alias` is used to mock public static methods.
+```php
+ // this method is not recommended as it can cause unexpected results.
+        $user = new User('a@b.c');
+        $mock = Mockery::mock('alias:Mailer');
+        //we can mock static methods in mockery using aliases like the above
+        $mock->shouldReceive('send')
+            ->once()
+            ->with($user->email, 'Hello')
+            ->andReturn(true);
+        $this->assertTrue($user->notify('Hello'));
 ```
