@@ -18,6 +18,8 @@
 5. `$this->expectExceptionMessage('queue is full');`
 6. `$this->assertNotEmpty()`
 7. `$this->assertIsInt()`
+8. ` $this->assertStringStartsWith('example', $result);`
+9. `$this->assertIsString($result);`
 ### phpunit.xml
 ```xml
 <?xml version="1.0" encoding="UTF-8" ?>
@@ -241,4 +243,20 @@ public function test_order_is_processed_using_spy()
     }
 ```
 => with spies you cant specify a return value.
+
+#### To Test protected methods
+> Create a dummy child class for the class under test. In the child class create a public function and return the protected method/property of the parent class.
+
+#### To test private methods with `php` reflectors
+1. Reflectors allow us to reverse engineer classes
+2. Example: 
+```php
+  $item = new Item;
+  $reflector = new ReflectionClass(Item::class);
+  $method = $reflector->getMethod('getToken');
+  $result = $method->invoke($item);
+  $this->assertIsString($result);
+```
+3. To pass arguments to a reflected method. `$result = $method->invokeArgs($item, ['example']);`
+4. 
 
