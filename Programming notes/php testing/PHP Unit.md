@@ -4,7 +4,7 @@
 3. to run tests in test directory => `./vendor/bin/phpunit ./tests`
 4. `./vendor/bin/phpunit ./path_to_file  --filter=functionName` => to only run a specific test in a file.
 5. the test file names must end with Test
-6. the test cases inside the test file should start with keyword `test`
+6. the test cases inside the test file must start with keyword `test`
 7. the test class must extend `PHPUnit\Framework\TestCase`
 8. the goal of unit testing is to isolate each part of program and check each part of the program works as expected.
 9. make the test method names as descriptive as possible.
@@ -12,15 +12,13 @@
 
 ### Assert
 1. `$this->assertEquals(4, 2 + 2);`
-2. `array_pop` => removes items from the end of an array
-3. `array_shift` => removes the items from the start of the array
-4. `$this->expectException(QueueException::class);`
-5. `$this->expectExceptionMessage('queue is full');`
-6. `$this->assertNotEmpty()`
-7. `$thts->assertEmpty()`
-8. `$this->assertIsInt()`
-9. ` $this->assertStringStartsWith('example', $result);`
-10. `$this->assertIsString($result);`
+2. `$this->expectException(QueueException::class);`
+3. `$this->expectExceptionMessage('queue is full');`
+4. `$this->assertNotEmpty()`
+5. `$thts->assertEmpty()`
+6. `$this->assertIsInt()`
+7. ` $this->assertStringStartsWith('example', $result);`
+8. `$this->assertIsString($result);`
 
 ###### assert Equals vs assert Same
 1. `assertEquals` => equivalent to `(==)` in `js`
@@ -297,6 +295,8 @@ $this->assertIsInt($property->getValue($product));
 #### PHP Functions
 1. `str_replace(' ', '_', $slug);` => replaces blank with under score.
 2. `preg_replace('/\s+|[^\w]+/', '_', $slug)` => replace the substring which matches the regular expression with `_`
+3. `array_pop` => removes items from the end of an array
+3. `array_shift` => removes the items from the start of the array
 
 
 #### Data providers in PHP Unit
