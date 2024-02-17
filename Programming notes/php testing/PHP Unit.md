@@ -173,7 +173,7 @@ $mockMailer
             ->onlyMethods([])
             ->getMock();
 // if we want to mock some of the methods  while keeping others as it is use getMockBuilder
-->onlyMethods([]) => the methods specified here will only be mocked rest will remain as it is in the original class
+//->onlyMethods([]) => the methods specified here will only be mocked rest will remain as it is in the original class
 // at last we need to call ->getMock() to get the mock implementation.
 ```
 
