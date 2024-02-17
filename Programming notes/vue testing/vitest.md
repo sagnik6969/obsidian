@@ -49,7 +49,7 @@ expect.extend(matchers);
 3. `expect(element).toBeInTheDocument();` => `toBeInTheDocument` is provided by matches
 4. `expect(screen.queryByLabelText('Password')).toHaveAttribute('type', 'password')`
 5. `expect(signUpButton).toBeDisabled();`
-6.  `expect(axios.post).toHaveBeenCalledWith('api/vi/users', {username: 'test_user'})` => to use this function we first need to `vi.mock('asios')`
+6.  `expect(axios.post).toHaveBeenCalledWith('api/vi/users', {username: 'test_user'})` => to use this function we first need to `vi.mock('axios')`
 7. `expect(axios.post).toHaveBeenCalledTimes(1)`
 8. `expect(requestBody).toEqual({})`
 9. `expect(counter).toBe(1)`
@@ -58,6 +58,9 @@ expect.extend(matchers);
 12. `expect(signUp).toHaveBeenCalledTimes(1)`
 13. ` expect(requestBody).toStrictEqual({email: 'text@example.com'})`
 14. `expect(screen.getByAltText('image')).toHaveAttribute('src', 'base64-encoded-file')`
+
+#### `ToBe` vs `ToEqual`
+1. `ToBe` is used for asserting primitive types like string and numbers  `toEqual` is used to 
 #### @testing-library/user-event
 1. `import userEvent from '@testing-library/user-event'`
 2. `const user = userEvent.setup()`
