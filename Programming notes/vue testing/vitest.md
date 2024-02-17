@@ -63,7 +63,22 @@ expect.extend(matchers);
 1. `ToBe` is used for asserting primitive types like string and numbers  `toEqual` is used to assert non primitive types like objects.
 #### `toEqual` vs `toStrictEqual`
 1. in `toStrictEqual` object types are checked to be equal in `toEqual` object types are not checked to Be equal
-2. 
+2. Example
+```js
+import { expect, test } from 'vitest' 
+
+class Stock { 
+constructor(type) {
+    this.type = type 
+  } 
+} 
+test('structurally the same, but semantically different', () => 
+{ 
+	 expect(new Stock('apples')).toEqual({ type: 'apples' })  //pass
+	 expect(new Stock('apples')).not.toStrictEqual({ type: 'apples' }) //pass
+	 })
+```
+3. Keys with `undefined` properties are checked in `toStrictEqual()` while they are not checked in `toEqual.` e.g. `{a: undefined, b: 2}` does not match `{b: 2}` when using `.toStrictEqual`.
 #### @testing-library/user-event
 1. `import userEvent from '@testing-library/user-event'`
 2. `const user = userEvent.setup()`
@@ -75,7 +90,11 @@ expect.extend(matchers);
 8.  `const image = screen.getByAltText('user-image')`
 9. `expect(image).toHaveAttribute('src', 'data:image/png;base64,aGVsbG8=')`
 10. remember base 64 encoded version of the file is returned to the server.
-
+#### `File` class
+1. `const file = new File(['hello'], 'hello.png', { type: 'image/png' })`
+2. The first argument is the data provided as an array of lines of text.
+3. 2nd argument is the name of the file.
+4. 3rd ar
 #### Mock-service-worker
 ```php
 import { setupServer } from 'msw/node'
