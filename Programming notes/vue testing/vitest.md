@@ -94,7 +94,7 @@ test('structurally the same, but semantically different', () =>
 1. `const file = new File(['hello'], 'hello.png', { type: 'image/png' })`
 2. The first argument is the data provided as an array of lines of text.
 3. 2nd argument is the name of the file.
-4. 3rd ar
+4. 3rd argument optional params
 #### Mock-service-worker
 ```php
 import { setupServer } from 'msw/node'
