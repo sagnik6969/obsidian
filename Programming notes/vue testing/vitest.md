@@ -7,7 +7,7 @@
 #### 3. Render
 1. `render(SignUp)`
 2. To render an element with props `render(HelloWorld,{ props: { msg: 'Hello Vitest' } })`
-3. `const { container } = render(SignUp)` => `container` id equivalent to `document` in vanilla JavaScript . 
+3. `const { container } = render(SignUp)` => `container` is equivalent to `document` in vanilla JavaScript . 
 4. To render with global dependencies 
 ```php
 import { i18n } from '../src/locales/index.js'
