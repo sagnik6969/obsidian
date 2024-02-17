@@ -130,7 +130,7 @@ server.use(
         )
 ```
 => `msw` will use the given handler for the specific test and use default handler for other tests
-=> to to remove the above handler use the following code. => note 
+=> to to remove the above handler use the following code. 
 ```
 beforeEach(() => {
   server.resetHandlers()
