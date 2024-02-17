@@ -59,8 +59,11 @@ expect.extend(matchers);
 13. ` expect(requestBody).toStrictEqual({email: 'text@example.com'})`
 14. `expect(screen.getByAltText('image')).toHaveAttribute('src', 'base64-encoded-file')`
 
-#### `ToBe` vs `ToEqual`
-1. `ToBe` is used for asserting primitive types like string and numbers  `toEqual` is used to 
+#### `toBe` vs `toEqual`
+1. `ToBe` is used for asserting primitive types like string and numbers  `toEqual` is used to assert non primitive types like objects.
+#### `toEqual` vs `toStrictEqual`
+1. in `toStrictEqual` object types are checked to be equal in `toEqual` object types are not checked to Be equal
+2. 
 #### @testing-library/user-event
 1. `import userEvent from '@testing-library/user-event'`
 2. `const user = userEvent.setup()`
