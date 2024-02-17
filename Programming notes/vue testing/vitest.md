@@ -193,7 +193,7 @@ beforeEach(() => {
   // expect(axios.post).toHaveBeenCalledTimes(1) => this test will fail because axios is called twice in the 2 seperate tests.
 })
 ```
-1. `axios.post.mockResolvedValue({ data: {} })` => when `axios.post` is called it returns a promise which resolves to `{ data: {} }
+1. `axios.post.mockResolvedValue({ data: {} })` => when `axios.post` is called it returns a promise which resolves to `{ data: {} }`
 2. To mock the implementation of a function `axios.post.mockImplementation(() => {return 'sagnik'})`
 3. `axios.post.mockRejectedValueOnce({}).mockResolvedValue({ data: {} })` => first time it will reject the promise after that it will resolve the promise
 
@@ -203,7 +203,7 @@ vi.mocked(useI18n).mockReturnValue({
 })
 // the above and bellow code does exactly same work.
 // to mock a  function we first need to vi.mock('library name/path')
- useI18n.mockReturnValue({
+useI18n.mockReturnValue({
   t: (key) => en[key]
 })
 ```
