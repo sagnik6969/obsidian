@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "php testing/PHP Unit.md",
-                "mode": "preview",
+                "file": "Leravel/CSRF Prevention in laravel.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "php testing/PHP Unit.md",
+                "file": "Leravel/CSRF Prevention in laravel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "php testing/PHP Unit.md",
+                "file": "Leravel/CSRF Prevention in laravel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "php testing/PHP Unit.md"
+                "file": "Leravel/CSRF Prevention in laravel.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "6316cea1987b6a36",
   "lastOpenFiles": [
+    "php testing/PHP Unit.md",
+    "Leravel/CSRF Prevention in laravel.md",
     "Untitled.md",
     "Facebook clone/setup.md",
-    "php testing/PHP Unit.md",
     "vue testing/vitest.md",
     "Portfolio.md",
     "php testing",
@@ -176,7 +177,6 @@
     "SQL/section 14 Many to many.md",
     "SQL/section 13 One to many joins.md",
     "SQL/section 12 Constraints & alter table.md",
-    "Leravel/Old content.md",
     "attachments/Pasted image 20240118090039.png",
     "attachments/Pasted image 20240118090036.png",
     "attachments/Pasted image 20240118085719.png",
