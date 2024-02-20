@@ -9,4 +9,6 @@ When unauthorized commands are performed on the behalf of an authorized user. Fo
 document.forms[0].submit();
 </script>
 ```
-Since the cookie is automatically submitted to the website whenever we send a request. the cookies associated with `https://your-application.com` will be automatically submitted with 
+It will automatically send a post request to the backend for resetting users email address. Since the cookie associated with a website is automatically submitted whenever we send a request. the cookies associated with `https://your-application.com` will be automatically submitted with the request and your backend will consider it as legitimate request and malicious user will be able to successfully change users email address. To solve this laravel uses `csrf` token
+### 1. `CSRF` protection in SPAs
+To protect spas from `CSRF` attacks SPAs use `Cookie-to-heade` technique. for every user session laravel generates a unique `csrf` token. laravel store the encrypted version of the token in every response to the user. In addition  
