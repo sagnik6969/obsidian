@@ -352,3 +352,4 @@ return call_user_func($this->mailer_callable, $this->email, $message);
             ->andReturn(true);
         $this->assertTrue($user->notify('Hello'));
 ```
+**1**. 
