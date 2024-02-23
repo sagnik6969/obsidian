@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e79a624b61dfd270",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +158,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6316cea1987b6a36",
+  "active": "e79a624b61dfd270",
   "lastOpenFiles": [
     "Leravel/CSRF Prevention in laravel.md",
     "php testing/PHP Unit.md",
