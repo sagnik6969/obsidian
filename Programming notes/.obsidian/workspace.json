@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f5a392fde5d53040",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic paper/Proposed model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vue testing/Intro.md",
+                "file": "Academic paper/Proposed model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vue testing/Intro.md",
+                "file": "Academic paper/Proposed model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vue testing/Intro.md"
+                "file": "Academic paper/Proposed model.md"
               }
             }
           }
@@ -160,8 +172,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e79a624b61dfd270",
+  "active": "f5a392fde5d53040",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Academic paper/Proposed model.md",
+    "vue testing/Intro.md",
+    "Academic paper",
     "Leravel/CSRF Prevention in laravel.md",
     "php testing/PHP Unit.md",
     "Untitled.md",
@@ -170,7 +186,6 @@
     "Portfolio.md",
     "php testing",
     "vue testing/Untitled.md",
-    "vue testing/Intro.md",
     "Leravel/Documentation.md",
     "SQL/section 11 Comparison and logical operators.md",
     "Leravel/Exception.md",
@@ -188,8 +203,6 @@
     "SQL/section 15 Views, Modes, & more.md",
     "SQL/Micellenius.md",
     "SQL/section 14 Many to many.md",
-    "SQL/section 13 One to many joins.md",
-    "SQL/section 12 Constraints & alter table.md",
     "attachments/Pasted image 20240118090039.png",
     "attachments/Pasted image 20240118090036.png",
     "attachments/Pasted image 20240118085719.png",
@@ -206,7 +219,6 @@
     "Leravel",
     "Final sem exam 7th sem/Biology",
     "Final sem exam 7th sem/Music",
-    "Final sem exam 7th sem/ML",
-    "Final sem exam 7th sem"
+    "Final sem exam 7th sem/ML"
   ]
 }
