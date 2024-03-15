@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "65fc0d860597bec3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rcrm setup/Frontend.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rcrm setup.md",
+                "file": "rcrm setup/Frontend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rcrm setup.md",
+                "file": "rcrm setup/Frontend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rcrm setup.md"
+                "file": "rcrm setup/Frontend.md"
               }
             }
           }
@@ -184,10 +196,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f1bc96cabe44de4",
+  "active": "65fc0d860597bec3",
   "lastOpenFiles": [
-    "Academic paper/Proposed model.md",
     "rcrm setup.md",
+    "rcrm setup/Frontend.md",
+    "Untitled 2.md",
+    "rcrm setup",
+    "Academic paper/Proposed model.md",
     "Untitled 1.md",
     "vue testing/Intro.md",
     "Academic paper",
@@ -213,8 +228,6 @@
     "php/Bascis.md",
     "SQL/section 16 window function.md",
     "SQL/Instagram Database Clone.md",
-    "SQL/section 15 Views, Modes, & more.md",
-    "SQL/Micellenius.md",
     "attachments/Pasted image 20240118090039.png",
     "attachments/Pasted image 20240118090036.png",
     "attachments/Pasted image 20240118085719.png",
@@ -230,7 +243,6 @@
     "Final sem exam 7th sem/TOC",
     "Leravel",
     "Final sem exam 7th sem/Biology",
-    "Final sem exam 7th sem/Music",
-    "Final sem exam 7th sem/ML"
+    "Final sem exam 7th sem/Music"
   ]
 }
