@@ -22,3 +22,6 @@
 > A user of the recruit crm's app can't change the type of the custom field directly for already imported candidates. He need to request `recruit crm` team to change the custom fields. 
 
 ![[Pasted image 20240322091337.png]]
+> **slug** => slug is the last parameter of the URL.
+> note task and appointments are stored in same table. we separate them using type column. for notes type = 0. for tasks type = 1 and for appointments type = 2.
+> 
