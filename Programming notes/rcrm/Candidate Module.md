@@ -7,3 +7,9 @@
 > **Parser** => using recruit crm's resume parser.
 > **API and Zapier** => can be used to add candidate using google form.
 > **Hotlist** => we can create a hotlist of multiple candidates. for example if someone needs a java developer we can create a java developer hotlist.
+> **Resume formatting** => recruiter can format the candidate resume according to his needs.
+
+
+![[Pasted image 20240322081852.png]]
+> This is the page we go to when we click on the candidates button on the sidebar.
+> 
