@@ -31,4 +31,5 @@ It constants the list of columns in the candidate list page. The properties are 
 "dropdown_field": false,
 ```
 
-- whatever data we are getting from `service` `url` based on that `dropdown_value` and `dropdown_field` is set.
+- whatever data we are getting from `service` `url` based on that `dropdown_value` and `dropdown_field` is set. dropdown value is `id` and dropdown field is `name`.
+- 
