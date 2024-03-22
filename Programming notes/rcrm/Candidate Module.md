@@ -14,3 +14,7 @@
 > This is the page we go to when we click on the candidates button on the sidebar.
 > Here the state of the page includes which columns of the candidate will be visible to the user etc.
 > 
+![[Pasted image 20240322084800.png]]
+> we can view the above page from admin => candidate fields.
+
+![[Pasted image 20240322090127.png]]
