@@ -24,4 +24,11 @@ It constants the list of columns in the candidate list page. The properties are 
 - service => can be used to fetch the data in dropdown for advanced search
 ![[Pasted image 20240322222121.png]]
 - `data` => used to store additional info in json format which is not stored in db.
-- 
+- based on `service` and `data` dropdown is shown.
+
+```
+"dropdown_value": false,
+"dropdown_field": false,
+```
+
+- whatever data we are getting from `service` `url` based on that `dropdown_value` and `dropdown_field` is set.
