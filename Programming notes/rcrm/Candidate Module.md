@@ -18,3 +18,7 @@
 > we can view the above page from admin => candidate fields.
 
 ![[Pasted image 20240322090127.png]]
+![[Pasted image 20240322090721.png]]
+> A user of the recruit crm's app can't change the type of the custom field directly for already imported candidates. He need to request `recruit crm` team to change the custom fields. 
+
+![[Pasted image 20240322091337.png]]
