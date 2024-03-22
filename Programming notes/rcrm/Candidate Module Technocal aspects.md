@@ -25,11 +25,16 @@ It constants the list of columns in the candidate list page. The properties are 
 ![[Pasted image 20240322222121.png]]
 - `data` => used to store additional info in json format which is not stored in db.
 - based on `service` and `data` dropdown is shown.
-
 ```
 "dropdown_value": false,
 "dropdown_field": false,
 ```
-
 - whatever data we are getting from `service` `url` based on that `dropdown_value` and `dropdown_field` is set. dropdown value is `id` and dropdown field is `name`.
+```
+"label": "Off-Limit Status",
+"external_label": "Off-Limit Status",
+"longlabel": "Off-Limit Status",
+```
+- `label` => used for table headers.
+- `external_label` => used in external pages.
 - 
