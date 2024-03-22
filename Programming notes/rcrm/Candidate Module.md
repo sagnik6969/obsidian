@@ -38,3 +38,6 @@
 > `Nyma` server => recruit crm server.
 
 ![[Pasted image 20240322171748.png]]
+![[Pasted image 20240322175731.png]]
+> We have a common table for all type of hotlists.
+
