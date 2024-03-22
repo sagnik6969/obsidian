@@ -32,3 +32,9 @@
 ![[Pasted image 20240322094658.png]]
 > comm server => recruit crm's server
 > in `tblcalling` we store info regarding calls for example who is the caller which candidate is called etc.
+> 
+![[Pasted image 20240322170510.png]]
+> Recruit crm uses `Nylas` (external service) for its email services.
+> `Nyma` server => recruit crm server.
+
+![[Pasted image 20240322171748.png]]
