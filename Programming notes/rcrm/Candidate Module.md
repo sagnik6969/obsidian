@@ -1,0 +1,9 @@
+![[Pasted image 20240322080327.png]]
+![[Pasted image 20240322080526.png]]
+> In the above picture we have sources from where we add the candidate. In the bottom we have all the actions we can perform on the candidates.
+> **Extension** => candidates can be sourced from LinkedIn using chrome extension.
+> **website** => clients website
+> **Job bords** => different job Appling websites
+> **Parser** => using recruit crm's resume parser.
+> **API and Zapier** => can be used to add candidate using google form.
+> **Hotlist** => we can create a hotlist of multiple candidates. for example if someone needs a java developer we can create a java developer hotlist.
