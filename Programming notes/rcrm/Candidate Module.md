@@ -12,4 +12,5 @@
 
 ![[Pasted image 20240322081852.png]]
 > This is the page we go to when we click on the candidates button on the sidebar.
+> Here the state of the page includes which columns of the candidate will be visible to the user etc.
 > 
