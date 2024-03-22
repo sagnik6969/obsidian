@@ -25,3 +25,9 @@
 > **slug** => slug is the last parameter of the URL.
 > note task and appointments are stored in same table. we separate them using type column. for notes type = 0. for tasks type = 1 and for appointments type = 2.
 > 
+![[Pasted image 20240322093631.png]]
+> File paths are not stored in the database. we identify the files based on the entity and slug. we need to provide entity and slug to s3 and on basics of that s3 will return us the documents.
+> S3 does not allows us to create folders. so we we store folder structure on our end.
+> 
+![[Pasted image 20240322094658.png]]
+
