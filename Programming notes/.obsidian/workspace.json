@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rcrm/Candidate Module.md",
+                "file": "rcrm/Candidate Module Technocal aspects.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5,
-    "collapsed": true
+    "width": 250.5
   },
   "right": {
     "id": "6d8efcf62552782e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rcrm/Candidate Module.md",
+                "file": "rcrm/Candidate Module Technocal aspects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rcrm/Candidate Module.md",
+                "file": "rcrm/Candidate Module Technocal aspects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rcrm/Candidate Module.md"
+                "file": "rcrm/Candidate Module Technocal aspects.md"
               }
             }
           }
@@ -150,6 +149,8 @@
   },
   "active": "65fc0d860597bec3",
   "lastOpenFiles": [
+    "rcrm/Candidate Module Features.md",
+    "rcrm/Candidate Module Technocal aspects.md",
     "attachments/Pasted image 20240322190704.png",
     "attachments/Pasted image 20240322182712.png",
     "attachments/Pasted image 20240322175731.png",
@@ -160,9 +161,7 @@
     "attachments/Pasted image 20240322091337.png",
     "attachments/Pasted image 20240322090721.png",
     "attachments/Pasted image 20240322090127.png",
-    "attachments/Pasted image 20240322084800.png",
     "rcrm setup/Frontend.md",
-    "rcrm/Candidate Module.md",
     "Untitled",
     "rcrm",
     "rcrm setup.md",
