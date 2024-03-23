@@ -37,4 +37,11 @@ It constants the list of columns in the candidate list page. The properties are 
 ```
 - `label` => used for table headers.
 - `external_label` => used in external pages.
-- 
+
+```
+"allow_on_import" : true,
+"allow_on_export" : true,
+"allow_on_apply" : false
+```
+- `allow_on_import` => whether the field is allowed to be imported from resume or not.
+- `allow_on_apply` => whether the field is allowed to applied from external apply form 
