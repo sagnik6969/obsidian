@@ -45,3 +45,6 @@ It constants the list of columns in the candidate list page. The properties are 
 ```
 - `allow_on_import` => whether the field is allowed to be imported from resume or not.
 - `allow_on_apply` => whether the field is allowed to applied from external apply form 
+-  `hide_on_detail_page` => if true the field wont be visible on the detail page.
+- `is_bulk_editable` => is the filed is allowed to be updated in a bulk update.
+- 
