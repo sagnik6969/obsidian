@@ -73,5 +73,8 @@ It constants the list of columns in the candidate list page. The properties are 
 
 ### `ExternalPageRepositary.php`
 > Used to manage external pages.
+> `function applyUpdateCandidate` => handles => `apply to job`, `update profile request` and `talent pool request`.
+> if the request has a job slug then it is a applied candidate else it is a talent pool candidate.
+>  
 
 
