@@ -79,6 +79,7 @@ It constants the list of columns in the candidate list page. The properties are 
 
 `tallent pool page` => external page from where candidate can apply.
 
+### Candidate page setting in Admin  settings page.
 
 
 
