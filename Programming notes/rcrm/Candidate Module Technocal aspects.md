@@ -59,5 +59,8 @@ It constants the list of columns in the candidate list page. The properties are 
 - `$entity` => name of the table for which We are fetching columns.
 - 
 
-
+### `FormFieldReposetary.php`
+> used for add candidate forms. 
+> used to store / update frm fields.
+> 
 
