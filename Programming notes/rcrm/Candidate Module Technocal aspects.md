@@ -60,10 +60,14 @@ It constants the list of columns in the candidate list page. The properties are 
 - 
 
 ### `FormFieldReposetary.php`
+
 > used for add candidate forms. 
 > used to store / update form fields.
 > store data into `tbl_account_settings`
 
 > `entity type id` => represents different entities example. `candidate` , `contact`, `jobs` etc
-> In the database we store al entity custom fields in a single table => `tbl_extra_fields`. These custom fields are identified through  
+> In the database we store all entity custom fields in a single table => `tbl_extra_fields`. These custom fields are identified through `user_id` and `entity_type_id`.
+
+### `CandidateRepositary.php`
+`public function addCandidate` => used to add a new candidate.
 
