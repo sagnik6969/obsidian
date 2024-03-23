@@ -54,5 +54,10 @@ It constants the list of columns in the candidate list page. The properties are 
 ### `EntityColumns.php`
 > Here we fetch the updated settings and send them to frontend. It uses `candidate.json`
 
+- `detailPageOrder` => position of the column in details page.
+- `listPageOrder` => position of the column in the list page.
+- `$entity` => name of the table for which We are fetching columns.
+- 
+
 
 
