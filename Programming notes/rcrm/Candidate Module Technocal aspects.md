@@ -71,3 +71,7 @@ It constants the list of columns in the candidate list page. The properties are 
 ### `CandidateRepositary.php`
 `public function addCandidate` => used to add a new candidate.
 
+### `ExternalPageRepositary.php`
+> Used to manage external pages.
+
+
