@@ -75,6 +75,10 @@ It constants the list of columns in the candidate list page. The properties are 
 > Used to manage external pages.
 > `function applyUpdateCandidate` => handles => `apply to job`, `update profile request` and `talent pool request`.
 > if the request has a job slug then it is a applied candidate else it is a talent pool candidate.
->  
+> 
+
+`tallent pool page` => external page from where candidate can apply.
+
+
 
 
