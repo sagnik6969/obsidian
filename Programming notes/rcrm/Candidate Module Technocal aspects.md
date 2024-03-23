@@ -48,4 +48,11 @@ It constants the list of columns in the candidate list page. The properties are 
 -  `hide_on_detail_page` => if true the field wont be visible on the detail page.
 - `is_bulk_editable` => is the filed is allowed to be updated in a bulk update.
 
-> The file `candidate.json` has default data. if user modifies the default settings the changes are stored in database. 
+> The file `candidate.json` has default data. if user modifies the default settings the changes are stored in database.
+> 
+
+### `EntityColumns.php`
+> Here we fetch the updated settings and send them to frontend. It uses `candidate.json`
+
+
+
