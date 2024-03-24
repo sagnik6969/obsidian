@@ -57,6 +57,7 @@ It constants the list of columns in the candidate list page. The properties are 
 - `detailPageOrder` => position of the column in details page.
 - `listPageOrder` => position of the column in the list page.
 - `$entity` => name of the table for which We are fetching columns.
+- `eeocompliance` => means employer does not discriminate based on race & gender etc.
 - 
 
 ### `FormFieldReposetary.php`
