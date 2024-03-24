@@ -59,6 +59,7 @@ It constants the list of columns in the candidate list page. The properties are 
 - `$entity` => name of the table for which We are fetching columns.
 - `eeocompliance` => means employer does not discriminate based on race & gender etc.
 - `_jobAssociatedCustomFields` => appears to be a repetition.
+- [List And Details Page Rearrangement - Feature Requirements - Confluence (atlassian.net)](https://rcrm.atlassian.net/wiki/spaces/RC/pages/222626101/List+And+Details+Page+Rearrangement)
 
 ### `FormFieldReposetary.php`
 
