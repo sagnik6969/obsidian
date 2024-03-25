@@ -61,6 +61,9 @@ It constants the list of columns in the candidate list page. The properties are 
 - `_jobAssociatedCustomFields` => appears to be a repetition.
 - [List And Details Page Rearrangement - Feature Requirements - Confluence (atlassian.net)](https://rcrm.atlassian.net/wiki/spaces/RC/pages/222626101/List+And+Details+Page+Rearrangement)
 - `$accountId` => `accountId` of the owner.
+- `addcandidateformfields` => fields in add candidate form.
+- `addcandidateformsectionfields` => fields in sections in add candidate form (example education)
+- 
 - 
 
 ### `FormFieldReposetary.php`
