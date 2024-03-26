@@ -7,4 +7,6 @@
 5. https://www.geeksforgeeks.org/find-the-missing-number/
 6. https://www.geeksforgeeks.org/sorted-merge-one-array/
 7. https://www.geeksforgeeks.org/a-product-array-puzzle/ => without using division operation.
-8. 
+8. https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
+9. https://www.geeksforgeeks.org/given-a-sequence-of-words-print-all-anagrams-together/
+10. code marge sort

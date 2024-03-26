@@ -1,5 +1,7 @@
 ### OOPS
 - Inheritance and its Types.
+- polymorphism
+- 
 
 ### DBMS
 - 3-Layered Architecture of DBMS.
@@ -10,10 +12,13 @@
 - concurrent transactions
 - Rollbacks
 - ACID properties
+- boyce codd 12 rules
 ### CN
 - Function Of Data Link Layer.
 - protocols in the Transport layer and network layer.
 - Questions related to IP addresses and mac addresses
+- vpn
+- nat
 
 ### DSA Theory
 - What is Dynamic Programming?
@@ -32,3 +37,6 @@
 7. virtual memory
 9. processes and threads, differences between processes and threads.
 10. How will threads communicate and how are threads scheduled.
+11. paging
+12. fragmentation
+13. disk scheduling algo,

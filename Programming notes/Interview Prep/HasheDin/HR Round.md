@@ -15,4 +15,6 @@
 - what are you expecting from the job
 - what are your future plans
 - what are my hobbies and interests, etc.
-- 
+- Strengths and weakness
+2. Explain briefly one of your projects.
+4. Do you have any current offer in your hand
