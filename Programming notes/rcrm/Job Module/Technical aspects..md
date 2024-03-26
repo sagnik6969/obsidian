@@ -11,5 +11,7 @@
 - In `searchEntity.php` we only deal with the views like `viewCandidate`, `viewContact`, `viewDeals`, etc.
 
 ##### Add job
-1. `jobRepositar`
+1. `jobRepositary.php` => add job function.
+2. It is called through the `jobController.php`.
+3. here we store the values of default columns `tbl_jobs` and Va
 
