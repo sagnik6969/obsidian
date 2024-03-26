@@ -4,3 +4,5 @@ Write queries for:
 2. Fetch the posts to be displayed for a user.(only whom he follows is the important part here).
 
 ##### Create a database of any OTT platform I like.
+
+##### Develop a database schema and models for the Clubhouse application.

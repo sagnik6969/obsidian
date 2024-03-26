@@ -13,6 +13,7 @@
 - Rollbacks
 - ACID properties
 - boyce codd 12 rules
+- DML and DDL command in SQL,
 ### CN
 - Function Of Data Link Layer.
 - protocols in the Transport layer and network layer.

@@ -4,9 +4,11 @@
 2. Coin change Problem.
 3. https://www.geeksforgeeks.org/given-an-array-of-numbers-arrange-the-numbers-to-form-the-biggest-number/
 4. Detect loop or cycle in a linked list
-5. https://www.geeksforgeeks.org/find-the-missing-number/
+5. https://www.geeksforgeeks.org/find-the-missing-number/ follow up => find efficiently the 2 numbers that are missing from the array.
 6. https://www.geeksforgeeks.org/sorted-merge-one-array/
 7. https://www.geeksforgeeks.org/a-product-array-puzzle/ => without using division operation.
 8. https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
 9. https://www.geeksforgeeks.org/given-a-sequence-of-words-print-all-anagrams-together/
 10. code marge sort
+11. https://www.geeksforgeeks.org/calculate-sum-of-all-numbers-present-in-a-string/
+12. 
