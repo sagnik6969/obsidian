@@ -1,0 +1,5 @@
+- Education Background.
+- Where do you live.
+- Why `Hashedin` and what excites you to join Hashedin.
+- Two puzzles were given after this.
+- 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Prep/HasheDin/CS FUndementals.md",
+                "file": "Interview Prep/HasheDin/HR Round.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview Prep/HasheDin/CS FUndementals.md",
+                "file": "Interview Prep/HasheDin/HR Round.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview Prep/HasheDin/CS FUndementals.md",
+                "file": "Interview Prep/HasheDin/HR Round.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview Prep/HasheDin/CS FUndementals.md"
+                "file": "Interview Prep/HasheDin/HR Round.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "2d54a5cf25892bf9",
   "lastOpenFiles": [
-    "rcrm/Job Module/jobs.md",
+    "Interview Prep/HasheDin/SQL.md",
+    "Interview Prep/HasheDin/HR Round.md",
     "Interview Prep/HasheDin/CS FUndementals.md",
+    "Interview Prep/HasheDin/Coding questions.md",
+    "rcrm/Job Module/jobs.md",
     "Interview Prep/HasheDin",
     "Interview Prep/Untitled.md",
     "Interview Prep",
@@ -191,9 +194,6 @@
     "vue testing/Untitled.md",
     "courses/Leravel/Documentation.md",
     "courses/SQL/section 11 Comparison and logical operators.md",
-    "courses/Leravel/Exception.md",
-    "courses/Leravel/Middleware.md",
-    "courses/Leravel/Queues.md",
-    "courses/Leravel/Service Containers.md"
+    "courses/Leravel/Exception.md"
   ]
 }

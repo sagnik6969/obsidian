@@ -8,5 +8,8 @@
 
 ### CN
 - Function Of Data Link Layer.
-- 
+
+### DSA Theory
+- What is Dynamic Programming?
+- In which Scenarios do we use Dynamic Programming.
 
