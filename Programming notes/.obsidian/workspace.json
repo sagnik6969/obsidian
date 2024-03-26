@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rcrm/Job Module/jobs.md",
+                "file": "rcrm/Job Module/Technical aspects..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rcrm/Job Module/jobs.md",
+                "file": "rcrm/Job Module/Technical aspects..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rcrm/Job Module/jobs.md",
+                "file": "rcrm/Job Module/Technical aspects..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rcrm/Job Module/jobs.md"
+                "file": "rcrm/Job Module/Technical aspects..md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "2d54a5cf25892bf9",
   "lastOpenFiles": [
+    "rcrm/Job Module/jobs.md",
     "attachments/Pasted image 20240326211937.png",
     "rcrm/Job Module/Technical aspects..md",
-    "rcrm/Job Module/jobs.md",
     "Interview Prep/HasheDin/CS FUndementals.md",
     "Interview Prep/HasheDin/SQL.md",
     "Interview Prep/HasheDin/Technical round michleneous.md",
@@ -183,7 +183,6 @@
     "attachments/Pasted image 20240322175731.png",
     "attachments/Pasted image 20240322171748.png",
     "attachments/Pasted image 20240322170510.png",
-    "attachments/Pasted image 20240322094658.png",
     "rcrm",
     "rcrm/rcrm setup",
     "MAKAUT/Academic paper/Proposed model.md",
