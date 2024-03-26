@@ -8,5 +8,8 @@
 - similar to `candidate` in `entityColumns.php` we have a case for jobs also. If the user updates default table settings it will get stored in the database. In `entityColumns.php` we first fetch `jobs.json` the we try to fetch the settings from database which user has updated.
 ##### Job List page
 - for all cases where we fetch a list (candidate, contact, company, jobs). we use `searchEntity.php`.
-- 
+- In `searchEntity.php` we only deal with the views like `viewCandidate`, `viewContact`, `viewDeals`, etc.
+
+##### Add job
+1. `jobRepositar`
 
