@@ -1,1 +1,4 @@
-- All jo
+- All jobs are stored in `tbljobs`
+- `viewjob` => Is  a `sql` `view` => It contains all the tables required in frontend
+- `jobs_custom_fields_t` => stores custom fields for jobs
+- `job`
