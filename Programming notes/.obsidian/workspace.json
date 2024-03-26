@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rcrm/Job Module/jobs.md",
+                "file": "Interview Prep/HasheDin/CS FUndementals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rcrm/Job Module/jobs.md",
+                "file": "Interview Prep/HasheDin/CS FUndementals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rcrm/Job Module/jobs.md",
+                "file": "Interview Prep/HasheDin/CS FUndementals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rcrm/Job Module/jobs.md"
+                "file": "Interview Prep/HasheDin/CS FUndementals.md"
               }
             }
           }
@@ -149,8 +149,12 @@
   },
   "active": "2d54a5cf25892bf9",
   "lastOpenFiles": [
-    "rcrm/Job Module/Technical aspects..md",
     "rcrm/Job Module/jobs.md",
+    "Interview Prep/HasheDin/CS FUndementals.md",
+    "Interview Prep/HasheDin",
+    "Interview Prep/Untitled.md",
+    "Interview Prep",
+    "rcrm/Job Module/Technical aspects..md",
     "rcrm/rcrm setup/Frontend.md",
     "rcrm/Untitled.md",
     "MAKAUT",
@@ -184,16 +188,12 @@
     "courses/php testing/PHP Unit.md",
     "courses/vue testing/vitest.md",
     "Projects/Portfolio.md",
-    "courses/php testing",
     "vue testing/Untitled.md",
     "courses/Leravel/Documentation.md",
     "courses/SQL/section 11 Comparison and logical operators.md",
     "courses/Leravel/Exception.md",
     "courses/Leravel/Middleware.md",
     "courses/Leravel/Queues.md",
-    "courses/Facebook clone",
-    "courses/Leravel/Service Containers.md",
-    "courses/Leravel/Events.md",
-    "courses/Leravel/Topics.md"
+    "courses/Leravel/Service Containers.md"
   ]
 }
