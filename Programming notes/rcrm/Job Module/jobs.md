@@ -26,5 +26,8 @@ In recruit crm we have above 4 type of roles.
 - by clicking the link clients can view the candidate and also edit the candidate status and submit client feedback.
 - users can view client feedback in client feedback page.
 - `related deals` => If someone adds the job to any deal the the deal will be shown in related deal section.
-- 
+### Job Status
+- we can change the available job statuses in admin settings.
+- We can change the job status from admin page
+- list of all available job statuses are stored in `tbl_jobstatus`
 - 

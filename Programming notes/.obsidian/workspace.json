@@ -149,8 +149,11 @@
   },
   "active": "65fc0d860597bec3",
   "lastOpenFiles": [
-    "rcrm/Job Module/Technical aspects..md",
+    "rcrm/Untitled.md",
     "rcrm/Job Module/jobs.md",
+    "MAKAUT",
+    "Projects",
+    "rcrm/Job Module/Technical aspects..md",
     "attachments/Pasted image 20240326071523.png",
     "attachments/Pasted image 20240326070745.png",
     "rcrm/Candidate Module/Candidate Module Technocal aspects.md",
@@ -174,13 +177,13 @@
     "attachments/Pasted image 20240322094658.png",
     "rcrm",
     "rcrm/rcrm setup",
-    "Academic paper/Proposed model.md",
+    "MAKAUT/Academic paper/Proposed model.md",
     "courses/vue testing/Intro.md",
-    "Academic paper",
+    "MAKAUT/Academic paper",
     "courses/Leravel/CSRF Prevention in laravel.md",
     "courses/php testing/PHP Unit.md",
     "courses/vue testing/vitest.md",
-    "Portfolio.md",
+    "Projects/Portfolio.md",
     "courses/php testing",
     "vue testing/Untitled.md",
     "courses/Leravel/Documentation.md",
@@ -191,9 +194,6 @@
     "courses/Facebook clone",
     "courses/Leravel/Service Containers.md",
     "courses/Leravel/Events.md",
-    "courses/Leravel/Topics.md",
-    "courses/Leravel/Testing.md",
-    "courses/vue testing",
-    "courses/php"
+    "courses/Leravel/Topics.md"
   ]
 }
