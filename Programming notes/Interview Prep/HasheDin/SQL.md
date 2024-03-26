@@ -6,3 +6,8 @@ Write queries for:
 ##### Create a database of any OTT platform I like.
 
 ##### Develop a database schema and models for the Clubhouse application.
+
+
+### Extras
+1. dcl & Tcl queries
+2. 
