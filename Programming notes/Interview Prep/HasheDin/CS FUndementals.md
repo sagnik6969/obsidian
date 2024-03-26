@@ -29,5 +29,6 @@
 4. page fault
 5. I scheduling algorithms
 6. page replacement algorithms
-7. 
-9. 
+7. virtual memory
+9. processes and threads, differences between processes and threads.
+10. How will threads communicate and how are threads scheduled.

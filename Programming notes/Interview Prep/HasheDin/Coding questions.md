@@ -4,3 +4,7 @@
 2. Coin change Problem.
 3. https://www.geeksforgeeks.org/given-an-array-of-numbers-arrange-the-numbers-to-form-the-biggest-number/
 4. Detect loop or cycle in a linked list
+5. https://www.geeksforgeeks.org/find-the-missing-number/
+6. https://www.geeksforgeeks.org/sorted-merge-one-array/
+7. https://www.geeksforgeeks.org/a-product-array-puzzle/ => without using division operation.
+8. 

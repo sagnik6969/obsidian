@@ -10,3 +10,9 @@
 - Technology I worked.
 - famous things(places, food) about my city.
 - why Hashedin?
+- describe my personality with 3 adjectives and asked me to justify those. 
+- Why Hashedin, 
+- what are you expecting from the job
+- what are your future plans
+- what are my hobbies and interests, etc.
+- 
