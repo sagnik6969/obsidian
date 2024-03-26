@@ -18,5 +18,8 @@
 5. If the job has address then we use that address for radius search.
 6. if the job has secondary contacts then we also add some entries to `secondary_contacts` table.
 ##### Job Details
-
+- uses `jobRepositary` => `showJob` function.
+- `showJob` accepts the slug and based on the slug it fetches the job from `viewJob`.
+- In this function we also check for the access control 
+- 
 
