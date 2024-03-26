@@ -13,5 +13,10 @@
 ##### Add job
 1. `jobRepositary.php` => add job function.
 2. It is called through the `jobController.php`.
-3. here we store the values of default columns `tbl_jobs` and ``
+3. here we store the values of default columns `tbl_jobs` and the value of custom columns in `job_customcolumn` table.
+4. After saving the job if the job has job description file then we move that job to that particular job's slug location.
+5. If the job has address then we use that address for radius search.
+6. if the job has secondary contacts then we also add some entries to `secondary_contacts` table.
+##### Job Details
+
 
