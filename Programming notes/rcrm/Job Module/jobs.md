@@ -19,3 +19,8 @@ In recruit crm we have above 4 type of roles.
 - `post on job boards.` => when a new job is added it will get automatically get posted in free job boards. 
 ### Assigned candidates.
 - `All candidates` => All candidates which are assigned to a job. 
+- `visibility` => if the candidate is visible to the contact associated with the job.
+- `field shared with clients` => the columns which are shared with the clients.
+- In admin settings we can set global visibility for the columns.
+- 
+- 
