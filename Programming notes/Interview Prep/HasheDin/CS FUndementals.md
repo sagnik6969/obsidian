@@ -41,3 +41,6 @@
 11. paging
 12. fragmentation
 13. disk scheduling algo,
+
+
+`Upto Last Updated: 04 October 2021`
