@@ -37,4 +37,7 @@ In recruit crm we have above 4 type of roles.
 - To upload the jobs automatically to job boards you have to fill-up the fields which are required to post in job boards.
 - If I edit the job inline then the job will not get posted.
 - However if we update the job in update job from then the job will get posted.
-- 
+- To check whether the job is posted in the job board or not. => run the following raw query in admin => `raw database`
+![[Pasted image 20240326211937.png]]
+- when the job posting status column has value 4 that means the job is posted.
+- FOr a job to get posted in free job boards. it should be in open stage. And it should be updated in last 7 days f
