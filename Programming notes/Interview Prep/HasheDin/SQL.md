@@ -8,6 +8,3 @@ Write queries for:
 ##### Develop a database schema and models for the Clubhouse application.
 
 
-### Extras
-1. dcl & Tcl queries
-2. 
