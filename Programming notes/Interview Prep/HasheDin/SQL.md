@@ -2,3 +2,5 @@
 Write queries for: 
 1. Fetch recent photos of a user.
 2. Fetch the posts to be displayed for a user.(only whom he follows is the important part here).
+
+##### Create a database of any OTT platform I like.

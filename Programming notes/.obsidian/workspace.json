@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Prep/HasheDin/HR Round.md",
+                "file": "Interview Prep/HasheDin/CS FUndementals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview Prep/HasheDin/HR Round.md",
+                "file": "Interview Prep/HasheDin/CS FUndementals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview Prep/HasheDin/HR Round.md",
+                "file": "Interview Prep/HasheDin/CS FUndementals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview Prep/HasheDin/HR Round.md"
+                "file": "Interview Prep/HasheDin/CS FUndementals.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   "lastOpenFiles": [
     "Interview Prep/HasheDin/SQL.md",
     "Interview Prep/HasheDin/HR Round.md",
+    "Interview Prep/HasheDin/Technical round michleneous.md",
     "Interview Prep/HasheDin/CS FUndementals.md",
     "Interview Prep/HasheDin/Coding questions.md",
     "rcrm/Job Module/jobs.md",
@@ -193,7 +194,6 @@
     "Projects/Portfolio.md",
     "vue testing/Untitled.md",
     "courses/Leravel/Documentation.md",
-    "courses/SQL/section 11 Comparison and logical operators.md",
-    "courses/Leravel/Exception.md"
+    "courses/SQL/section 11 Comparison and logical operators.md"
   ]
 }
