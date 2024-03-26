@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rcrm/Candidate Module Technocal aspects.md",
+                "file": "rcrm/Job Module/jobs.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 371.5
   },
   "right": {
     "id": "6d8efcf62552782e",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rcrm/Candidate Module Technocal aspects.md",
+                "file": "rcrm/Job Module/jobs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rcrm/Candidate Module Technocal aspects.md",
+                "file": "rcrm/Job Module/jobs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rcrm/Candidate Module Technocal aspects.md"
+                "file": "rcrm/Job Module/jobs.md"
               }
             }
           }
@@ -149,10 +149,20 @@
   },
   "active": "65fc0d860597bec3",
   "lastOpenFiles": [
+    "rcrm/Candidate Module/Candidate Module Technocal aspects.md",
+    "rcrm/Job Module/jobs.md",
+    "rcrm/Job Module",
+    "courses",
+    "Untitled.md",
+    "Untitled 2.md",
+    "rcrm setup.md",
+    "Untitled 1.md",
+    "rcrm/rcrm setup/Frontend.md",
+    "rcrm/Candidate Module",
+    "courses/Facebook clone/setup.md",
     "attachments/Pasted image 20240322222121.png",
     "attachments/Pasted image 20240322220527.png",
-    "rcrm/Candidate Module Features.md",
-    "rcrm/Candidate Module Technocal aspects.md",
+    "rcrm/Candidate Module/Candidate Module Features.md",
     "attachments/Pasted image 20240322190704.png",
     "attachments/Pasted image 20240322182712.png",
     "attachments/Pasted image 20240322175731.png",
@@ -161,39 +171,29 @@
     "attachments/Pasted image 20240322094658.png",
     "attachments/Pasted image 20240322093631.png",
     "attachments/Pasted image 20240322091337.png",
-    "attachments/Pasted image 20240322090721.png",
-    "rcrm setup/Frontend.md",
-    "Untitled",
     "rcrm",
-    "rcrm setup.md",
-    "Untitled 2.md",
-    "rcrm setup",
+    "rcrm/rcrm setup",
     "Academic paper/Proposed model.md",
-    "Untitled 1.md",
-    "vue testing/Intro.md",
+    "courses/vue testing/Intro.md",
     "Academic paper",
-    "Leravel/CSRF Prevention in laravel.md",
-    "php testing/PHP Unit.md",
-    "Untitled.md",
-    "Facebook clone/setup.md",
-    "vue testing/vitest.md",
+    "courses/Leravel/CSRF Prevention in laravel.md",
+    "courses/php testing/PHP Unit.md",
+    "courses/vue testing/vitest.md",
     "Portfolio.md",
-    "php testing",
+    "courses/php testing",
     "vue testing/Untitled.md",
-    "Leravel/Documentation.md",
-    "SQL/section 11 Comparison and logical operators.md",
-    "Leravel/Exception.md",
-    "Leravel/Middleware.md",
-    "Leravel/Queues.md",
-    "Facebook clone",
-    "Leravel/Service Containers.md",
-    "Leravel/Events.md",
-    "Leravel/Topics.md",
-    "Leravel/Testing.md",
-    "Leravel/Extra.md",
-    "vue testing",
-    "php",
-    "Final sem exam 7th sem/TOC",
-    "Leravel"
+    "courses/Leravel/Documentation.md",
+    "courses/SQL/section 11 Comparison and logical operators.md",
+    "courses/Leravel/Exception.md",
+    "courses/Leravel/Middleware.md",
+    "courses/Leravel/Queues.md",
+    "courses/Facebook clone",
+    "courses/Leravel/Service Containers.md",
+    "courses/Leravel/Events.md",
+    "courses/Leravel/Topics.md",
+    "courses/Leravel/Testing.md",
+    "courses/Leravel/Extra.md",
+    "courses/vue testing",
+    "courses/php"
   ]
 }
