@@ -33,3 +33,5 @@ In recruit crm we have above 4 type of roles.
 - we also store custom job statuses in this table along with the `account_id`.
 
 ### Public job page settings
+- we can access this settings in admin section
+- 
