@@ -22,5 +22,6 @@
 - `showJob` accepts the slug and based on the slug it fetches the job from `viewJob`.
 - In this function we also check for the access control. 
 - with the response we also send previous job record and next job record to work with previous and next buttons.
-- `jobRepositary` => `getCandidatesByJob` => 
+- `jobRepositary` => `getCandidatesByJob` => To fetch the candidates assigned to a job.
+- 
 
