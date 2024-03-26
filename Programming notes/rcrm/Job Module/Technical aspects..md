@@ -1,4 +1,7 @@
 - All jobs are stored in `tbljobs`
 - `viewjob` => Is  a `sql` `view` => It contains all the tables required in frontend
 - `jobs_custom_fields_t` => stores custom fields for jobs
-- `job`
+- `job_secondery_contacts` => we store relation between job and contacts.
+- `jobs.json` => works similar to `candidates.json`. stores all default settings related to jobs table. 
+- When used changes the default settings in the jobs table the new settings gets saved in `tbl_datatable_settings` 
+- 
