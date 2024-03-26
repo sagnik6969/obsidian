@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rcrm/Job Module/jobs.md",
+                "file": "rcrm/Job Module/Technical aspects..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rcrm/Job Module/jobs.md",
+                "file": "rcrm/Job Module/Technical aspects..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rcrm/Job Module/jobs.md",
+                "file": "rcrm/Job Module/Technical aspects..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rcrm/Job Module/jobs.md"
+                "file": "rcrm/Job Module/Technical aspects..md"
               }
             }
           }
@@ -149,10 +149,11 @@
   },
   "active": "65fc0d860597bec3",
   "lastOpenFiles": [
+    "rcrm/Job Module/jobs.md",
+    "rcrm/Job Module/Technical aspects..md",
     "attachments/Pasted image 20240326071523.png",
     "attachments/Pasted image 20240326070745.png",
     "rcrm/Candidate Module/Candidate Module Technocal aspects.md",
-    "rcrm/Job Module/jobs.md",
     "rcrm/Job Module",
     "courses",
     "Untitled.md",
@@ -171,7 +172,6 @@
     "attachments/Pasted image 20240322171748.png",
     "attachments/Pasted image 20240322170510.png",
     "attachments/Pasted image 20240322094658.png",
-    "attachments/Pasted image 20240322093631.png",
     "rcrm",
     "rcrm/rcrm setup",
     "Academic paper/Proposed model.md",
