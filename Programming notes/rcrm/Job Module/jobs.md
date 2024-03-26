@@ -30,4 +30,6 @@ In recruit crm we have above 4 type of roles.
 - we can change the available job statuses in admin settings.
 - We can change the job status from admin page
 - list of all available job statuses are stored in `tbl_jobstatus`
-- 
+- we also store custom job statuses in this table along with the `account_id`.
+
+### Public job page settings
