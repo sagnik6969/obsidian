@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rcrm/Job Module/Technical aspects..md",
+                "file": "rcrm/Job Module/jobs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rcrm/Job Module/Technical aspects..md",
+                "file": "rcrm/Job Module/jobs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rcrm/Job Module/Technical aspects..md",
+                "file": "rcrm/Job Module/jobs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rcrm/Job Module/Technical aspects..md"
+                "file": "rcrm/Job Module/jobs.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "65fc0d860597bec3",
   "lastOpenFiles": [
-    "rcrm/Job Module/jobs.md",
     "rcrm/Job Module/Technical aspects..md",
+    "rcrm/Job Module/jobs.md",
     "attachments/Pasted image 20240326071523.png",
     "attachments/Pasted image 20240326070745.png",
     "rcrm/Candidate Module/Candidate Module Technocal aspects.md",

@@ -13,3 +13,9 @@ https://rcrm.atlassian.net/wiki/spaces/EN/pages/1899790341/Module+-+Jobs+For+Tec
 | Team Member            | Yes         | Everything               | Everything | No         | Owned Only       | Everything      |
 | Restricted Team Member | Yes         | Owned Only/ Collaborator | Owned Only | No         | Owned Only       | Everything      |
 In recruit crm we have above 4 type of roles.
+
+- We can change different settings in job application form in admin settings.
+- `default job application form visibility`. If checked candidates can apply to the job from outside.
+- `post on job boards.` => when a new job is added it will get automatically get posted in free job boards. 
+### Assigned candidates.
+- `All candidates` => All candidates which are assigned to a job. 

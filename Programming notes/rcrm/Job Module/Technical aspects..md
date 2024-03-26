@@ -4,4 +4,6 @@
 - `job_secondery_contacts` => we store relation between job and contacts.
 - `jobs.json` => works similar to `candidates.json`. stores all default settings related to jobs table. 
 - When used changes the default settings in the jobs table the new settings gets saved in `tbl_datatable_settings` 
+- `$router->post('/search/get', 'JobController@search');` => fetches the jobs table according to the table settings.
+- 
 - 
