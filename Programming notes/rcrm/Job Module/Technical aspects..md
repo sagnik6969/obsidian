@@ -6,3 +6,7 @@
 - When used changes the default settings in the jobs table the new settings gets saved in `tbl_datatable_settings` 
 - `$router->post('/search/get', 'JobController@search');` => fetches the jobs table according to the table settings.
 - similar to `candidate` in `entityColumns.php` we have a case for jobs also. If the user updates default table settings it will get stored in the database. In `entityColumns.php` we first fetch `jobs.json` the we try to fetch the settings from database which user has updated.
+##### Job List page
+- for all cases where we fetch a list (candidate, contact, company, jobs). we use `searchEntity.php`.
+- 
+
