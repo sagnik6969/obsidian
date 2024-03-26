@@ -34,4 +34,6 @@ In recruit crm we have above 4 type of roles.
 
 ### Public job page settings
 - we can access this settings in admin section
-- 
+- To upload the jobs automatically to job boards you have to fill-up the fields which are required to post in job boards.
+- If I edit the job inline then the job will not get posted.
+- How 
