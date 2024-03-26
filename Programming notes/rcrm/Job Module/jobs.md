@@ -22,5 +22,9 @@ In recruit crm we have above 4 type of roles.
 - `visibility` => if the candidate is visible to the contact associated with the job.
 - `field shared with clients` => the columns which are shared with the clients.
 - In admin settings we can set global visibility for the columns.
+- `submit candidates` => we can either submit a list of candidates or we can submit a link by clicking which contacts can view the candidate list.
+- by clicking the link clients can view the candidate and also edit the candidate status and submit client feedback.
+- users can view client feedback in client feedback page.
+- `related deals` => If someone adds the job to any deal the the deal will be shown in related deal section.
 - 
 - 
