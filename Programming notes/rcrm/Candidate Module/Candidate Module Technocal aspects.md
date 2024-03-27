@@ -115,7 +115,7 @@ It constants the list of columns in the candidate list page. The properties are 
 - This function accepts request params as an input.
 - it first checks if `columns` key exists in request header if not then it returns error response. This key contains settings of columns which is similar to `candidate.json`.
 - the next if statement checks `count($params) <= 1)` => not sure what it does.
-- Then we check for `$params['viewMore']` (I think if user is not satisfied with initial search results then he can click on view More button to fetch additional results. but i cant find this button On the frontend).
+- Then we check for `$params['viewMore']` (I think if user is not satisfied with initial search results then he can click on view More button to fetch additional results. but **I cant find this button On the frontend**).
 ###### If `$params['viewMore']` is true
 - we fetch all column settings from `entityColumns.php` and fetch the search result from `candidateModel => getViewMoreSearchedResult` and return the response.
 - 
