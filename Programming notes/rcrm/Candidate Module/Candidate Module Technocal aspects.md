@@ -120,6 +120,7 @@ It constants the list of columns in the candidate list page. The properties are 
 - We fetch all column settings from `entityColumns.php` and fetch the search result from `candidateModel => getViewMoreSearchedResult` and return the response.
 ###### else
 - first we check for `hotlist_id` column. `hotlist_id = null` if no hotlist is selected, `hotlist_id = -1`  if `Not In Any Hotlist` is selected. `hotlist_id = {id_of_the_hotlist}` if a specific hotlist is selected. 
+###### Next
+- It fetches appropriate `$candidatesQuery` (collection of candidates) based on the feature flags.
 - 
-
 
