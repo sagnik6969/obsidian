@@ -22,6 +22,11 @@
 - `showJob` accepts the slug and based on the slug it fetches the job from `viewJob`.
 - In this function we also check for the access control. 
 - with the response we also send previous job record and next job record to work with previous and next buttons.
+##### Assigned candidates
 - `jobRepositary` => `getCandidatesByJob` => To fetch the candidates assigned to a job.
-- 
+- here we check if the `assigned candidates` table is in list view or `canban` view. if `$page == 'widget'` then it is in list view else in `canban` view. Here widget means 1 row (I think).
+
+##### CV Library
+- It is a job board
+- `CvLibraryRepository.php`
 

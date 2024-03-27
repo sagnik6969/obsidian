@@ -1,7 +1,7 @@
 ### OOPS
 - Inheritance and its Types.
 - polymorphism
-- 
+-  
 
 ### DBMS
 - 3-Layered Architecture of DBMS.

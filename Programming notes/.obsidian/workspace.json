@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Prep/HasheDin/CS FUndementals.md",
+                "file": "rcrm/Job Module/Technical aspects..md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "right": {
     "id": "6d8efcf62552782e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview Prep/HasheDin/CS FUndementals.md",
+                "file": "rcrm/Job Module/Technical aspects..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview Prep/HasheDin/CS FUndementals.md",
+                "file": "rcrm/Job Module/Technical aspects..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview Prep/HasheDin/CS FUndementals.md"
+                "file": "rcrm/Job Module/Technical aspects..md"
               }
             }
           }
@@ -149,8 +150,8 @@
   },
   "active": "2d54a5cf25892bf9",
   "lastOpenFiles": [
-    "Interview Prep/HasheDin/To do.md",
     "Interview Prep/HasheDin/CS FUndementals.md",
+    "Interview Prep/HasheDin/To do.md",
     "Interview Prep/HasheDin/SQL.md",
     "rcrm/Job Module/Technical aspects..md",
     "rcrm/Job Module/jobs.md",
