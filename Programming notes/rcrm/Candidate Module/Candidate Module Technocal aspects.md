@@ -101,6 +101,8 @@ It constants the list of columns in the candidate list page. The properties are 
 - This function accepts request params as an input.
 - it first checks if `columns` key exists in request header if not then it returns error response. This key contains settings of columns which is similar to `candidate.json`.
 - the next if statement checks `count($params) <= 1)` => not sure what it does.
-- `$where = '';` => all the where conditions required to 
+- `$where = '';` => all the where conditions required to get count  of  all candidates is stored here.
+
+
 
 
