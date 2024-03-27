@@ -118,6 +118,7 @@ It constants the list of columns in the candidate list page. The properties are 
 - Then we check for `$params['viewMore']` (I think if user is not satisfied with initial search results then he can click on view More button to fetch additional results. but **I cant find this button On the frontend**).
 ###### If `$params['viewMore']` is true
 - we fetch all column settings from `entityColumns.php` and fetch the search result from `candidateModel => getViewMoreSearchedResult` and return the response.
-- 
+###### else
+
 
 
