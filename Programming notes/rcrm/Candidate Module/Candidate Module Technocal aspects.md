@@ -89,4 +89,11 @@ It constants the list of columns in the candidate list page. The properties are 
 ### Candidate page setting in Admin  settings page.
 
 
+## Routes
+##### `/v1/candidates/search/get`
+1. returns total candidate count and filtered candidate count.
+2. It no filter is applied then `total_candidate_count` = `filtered_candidate_count`
+3. first `count` function in `condidateController` is called.
+4. 
+
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rcrm/Job Module/Technical aspects..md",
+                "file": "rcrm/Candidate Module/Candidate Module Technocal aspects.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "right": {
     "id": "6d8efcf62552782e",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rcrm/Job Module/Technical aspects..md",
+                "file": "rcrm/Candidate Module/Candidate Module Technocal aspects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rcrm/Job Module/Technical aspects..md",
+                "file": "rcrm/Candidate Module/Candidate Module Technocal aspects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rcrm/Job Module/Technical aspects..md"
+                "file": "rcrm/Candidate Module/Candidate Module Technocal aspects.md"
               }
             }
           }
@@ -150,10 +149,10 @@
   },
   "active": "2d54a5cf25892bf9",
   "lastOpenFiles": [
+    "rcrm/Job Module/Technical aspects..md",
     "Interview Prep/HasheDin/CS FUndementals.md",
     "Interview Prep/HasheDin/To do.md",
     "Interview Prep/HasheDin/SQL.md",
-    "rcrm/Job Module/Technical aspects..md",
     "rcrm/Job Module/jobs.md",
     "attachments/Pasted image 20240326211937.png",
     "Interview Prep/HasheDin/Technical round michleneous.md",

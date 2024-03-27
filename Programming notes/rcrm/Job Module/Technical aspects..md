@@ -32,4 +32,4 @@
 - Weever we add the job and cv library settings are available in the user object.
 - When job is added successfully we will call `postJobToCvLibrart function`
 - CV library settings are stored in `tbl_cv_library_settings` in that table we store CV Library `username` `email` `password`  We use these credentials to authenticate with cv library and post the job. 
-- If the job is successfully posted cv library returns an id. We store this id in `tbl_jobs` table.
+- If the job is successfully posted cv library returns an id. We store this id in `tbl_jobs` table in the column `cv_job_posting_id`.
