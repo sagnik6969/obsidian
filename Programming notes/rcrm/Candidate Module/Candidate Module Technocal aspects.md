@@ -90,10 +90,17 @@ It constants the list of columns in the candidate list page. The properties are 
 
 
 ## Routes
-##### `/v1/candidates/search/get`
+#### `/v1/candidates/search/get`
 1. returns total candidate count and filtered candidate count.
 2. It no filter is applied then `total_candidate_count` = `filtered_candidate_count`
 3. first `count` function in `condidateController` is called.
-4. 
+4. in this function we perform request validation.
+5. then we call `candidateRepository => getCount` function. In this function actual business logic is performed.
+6. at last we format the response received from `candidateRepository => getCount` using `webAppGetRequestRespond` function. and finally return the response.
+##### `candidateRepository => getCount`
+- This function accepts request params as an input.
+- it first checks if `columns` key exists in request header if not then it returns error response. This key contains settings of columns which is similar to `candidate.json`.
+- the next if statement checks `count($params) <= 1)` => not sure what it does.
+- `$where = '';` => all the where conditions required to 
 
 
