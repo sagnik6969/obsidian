@@ -90,7 +90,7 @@ It constants the list of columns in the candidate list page. The properties are 
 
 
 ## Routes
-#### `/v1/candidates/search/get`
+#### `/v1/candidates/count/get`
 1. returns total candidate count and filtered candidate count.
 2. It no filter is applied then `total_candidate_count` = `filtered_candidate_count`
 3. first `count` function in `condidateController` is called.
@@ -104,5 +104,20 @@ It constants the list of columns in the candidate list page. The properties are 
 - `$where = '';` => all the where conditions required to get count  of  all candidates is stored here.
 
 
+#### `/v1/candidates/search/get`
+1. Returns list of filtered candidates. If no filter is applied then returns all candidates.
+2. it calls `CandidateController@search`
+3. here we validate the request and call `candidateRepositary => search` to get the search results. 
+4. after that we format the response using `webAppGetRequestRespond` and return the final response.
+
+##### `candidateRepositary => search`
+-  In this function actual business logic is performed.
+- This function accepts request params as an input.
+- it first checks if `columns` key exists in request header if not then it returns error response. This key contains settings of columns which is similar to `candidate.json`.
+- the next if statement checks `count($params) <= 1)` => not sure what it does.
+- Then we check for `$params['viewMore']` (I think if user is not satisfied with initial search results then he can click on view More button to fetch additional results. but i cant find this button On the frontend).
+###### If `$params['viewMore']` is true
+- we fetch all column settings from `entityColumns.php` and fetch the search result from `candidateModel => getViewMoreSearchedResult` and return the response.
+- 
 
 
