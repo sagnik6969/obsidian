@@ -117,8 +117,9 @@ It constants the list of columns in the candidate list page. The properties are 
 - the next if statement checks `count($params) <= 1)` => not sure what it does.
 - Then we check for `$params['viewMore']` (I think if user is not satisfied with initial search results then he can click on view More button to fetch additional results. but **I cant find this button On the frontend**).
 ###### If `$params['viewMore']` is true
-- we fetch all column settings from `entityColumns.php` and fetch the search result from `candidateModel => getViewMoreSearchedResult` and return the response.
+- We fetch all column settings from `entityColumns.php` and fetch the search result from `candidateModel => getViewMoreSearchedResult` and return the response.
 ###### else
-
+- first we check for `hotlist_id` column. `hotlist_id = null` if no hotlist is selected, `hotlist_id = -1`  if `Not In Any Hotlist` is selected. `hotlist_id = {id_of_the_hotlist}` if a specific hotlist is selected. 
+- 
 
 
