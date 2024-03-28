@@ -124,3 +124,124 @@ It constants the list of columns in the candidate list page. The properties are 
 - It fetches appropriate `$candidatesQuery` (collection of candidates) based on the feature flags.
 - 
 
+
+
+### Show Candidate
+- I will explain `showCandidate` function with this explanation you will be able to understand other functions also
+```php
+public function showCandidate($slug)
+{
+
+        $slug = rawurldecode($slug); // process the candidate slug
+        $candidate = Candidate::findBySlug($slug); 
+        // fetch the candidate from db 
+        // It does not nontain custom columns
+
+        if (!$candidate || $candidate->accountid != $this->user->accountid) {
+
+            return [
+                "message_type" => 'is-danger',
+                "message" => 'Candidate not found',
+                "data" => [],
+                "status" => 'fail',
+                "silent_progress" => false
+            ];
+        }
+        // checks if the woner of the candidate is the account the user is part of. 
+
+
+        // Access control for view company
+        if(Gate::denies('can-view', ["candidates", $candidate->ownerid])) {
+            return $this->accessDenied("View candidate action not allowed");
+        }
+        // checks whether the user can view the candidate using 
+
+  
+
+        // $candidate = $this->user->candidatesView()
+
+        //     ->where('slug', $slug)
+
+        //     ->first();
+
+  
+
+        $candidate->profilepicUrl = $candidate->profilepic;
+
+        $candidate->profilepic = encryptFileKey($candidate->profilepic);
+
+  
+
+        // Fetch custom column number from tblextrafields
+
+        $customColumnsData = ExtraFields::where(['accountid' => $this->user->accountid, 'entitytypeid' => Candidate::ENTITY_TYPE_ID, 'extrafieldtype' => 'file'])->get();
+
+        // foreach($customColumnsData as $customColumnData) {
+
+        //     $customColumn = 'custcolumn'.$customColumnData->columnid;
+
+        //     $candidate->$customColumn = encryptFileKey($candidate->$customColumn);
+
+  
+
+        // }
+
+  
+
+        // get previous user slug
+
+        $previousCandidateRecord = $this->user->candidates()
+
+            ->where('srno', '>', $candidate->srno)
+
+            ->orderBy('srno', 'ASC')->first();
+
+  
+
+        $previousCandidate = $previousCandidateRecord ? $previousCandidateRecord->slug : '';
+
+  
+
+        // get next user slug
+
+        $nextCandidateRecord =  $this->user->candidates()
+
+            ->where('srno', '<', $candidate->srno)
+
+            ->orderBy('srno', 'DESC')->first();
+
+  
+
+        $nextCandidate = $nextCandidateRecord ? $nextCandidateRecord->slug : '';
+
+  
+  
+
+        $candidateDetail = array(
+
+            'next' => $nextCandidate,
+
+            'previous' => $previousCandidate,
+
+            'candidate' => $candidate
+
+        );
+
+  
+
+        return [
+
+            "message_type" => 'is-success',
+
+            "message" => '',
+
+            "data" => $candidateDetail,
+
+            "status" => 'success',
+
+            "silent_progress" => true
+
+        ];
+
+    }
+```
