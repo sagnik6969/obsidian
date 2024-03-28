@@ -19,3 +19,10 @@ Segment table contains mainly two information about segment:
 1. Base: It is the base address of the segment
 2. Limit: It is the length of the segment.
 
+#### demand paging
+Demand paging in os is **a technique in which pages are loaded from disk into main memory only when they are needed, i.e., demanded by the program**.
+
+
+#### Virtual memory
+**enable a computer to compensate for physical memory shortages, temporarily transferring data from random access memory (RAM) to disk storage**.
+https://www.javatpoint.com/os-virtual-memory
