@@ -154,94 +154,58 @@ public function showCandidate($slug)
         if(Gate::denies('can-view', ["candidates", $candidate->ownerid])) {
             return $this->accessDenied("View candidate action not allowed");
         }
-        // checks whether the user can view the candidate using 
-
+        // checks whether the user can view the candidate using candidates->owner_id
+        // this case fails when candidate belongs to the same account but belongs to some other user
   
 
-        // $candidate = $this->user->candidatesView()
+        $candidate = $this->user->candidatesView()->where('slug', $slug)->first();
+        //candidatesView => abstruction of sql view
+        //it fetches all candidates along with custom columns.
 
-        //     ->where('slug', $slug)
-
-        //     ->first();
-
-  
 
         $candidate->profilepicUrl = $candidate->profilepic;
-
         $candidate->profilepic = encryptFileKey($candidate->profilepic);
-
+        //encryptFileKey => encrypts the url
   
 
         // Fetch custom column number from tblextrafields
-
         $customColumnsData = ExtraFields::where(['accountid' => $this->user->accountid, 'entitytypeid' => Candidate::ENTITY_TYPE_ID, 'extrafieldtype' => 'file'])->get();
-
-        // foreach($customColumnsData as $customColumnData) {
-
-        //     $customColumn = 'custcolumn'.$customColumnData->columnid;
-
-        //     $candidate->$customColumn = encryptFileKey($candidate->$customColumn);
-
-  
-
-        // }
+        foreach($customColumnsData as $customColumnData) {
+            $customColumn = 'custcolumn'.$customColumnData->columnid;
+            $candidate->$customColumn = encryptFileKey($candidate->$customColumn);
+        }
+       // the above loop is not used to fetch the custom columns (they are already fetched)
+       // it is used to used to encrypt the file urls.
 
   
 
         // get previous user slug
-
         $previousCandidateRecord = $this->user->candidates()
-
             ->where('srno', '>', $candidate->srno)
-
             ->orderBy('srno', 'ASC')->first();
 
-  
-
         $previousCandidate = $previousCandidateRecord ? $previousCandidateRecord->slug : '';
-
-  
-
         // get next user slug
-
         $nextCandidateRecord =  $this->user->candidates()
-
             ->where('srno', '<', $candidate->srno)
-
             ->orderBy('srno', 'DESC')->first();
-
-  
-
         $nextCandidate = $nextCandidateRecord ? $nextCandidateRecord->slug : '';
 
+// $previousCandidate and $nextCandidate will be used for previous and next buttons
   
   
-
         $candidateDetail = array(
-
             'next' => $nextCandidate,
-
             'previous' => $previousCandidate,
-
             'candidate' => $candidate
-
         );
-
-  
-
+        
         return [
-
             "message_type" => 'is-success',
-
             "message" => '',
-
             "data" => $candidateDetail,
-
             "status" => 'success',
-
             "silent_progress" => true
-
         ];
-
     }
 ```
