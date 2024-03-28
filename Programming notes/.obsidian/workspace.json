@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Prep/HasheDin/CS FUndementals.md",
+                "file": "Interview Prep/HasheDin/OS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview Prep/HasheDin/CS FUndementals.md",
+                "file": "Interview Prep/HasheDin/OS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview Prep/HasheDin/CS FUndementals.md",
+                "file": "Interview Prep/HasheDin/OS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview Prep/HasheDin/CS FUndementals.md"
+                "file": "Interview Prep/HasheDin/OS.md"
               }
             }
           }
@@ -149,11 +149,12 @@
   },
   "active": "2d54a5cf25892bf9",
   "lastOpenFiles": [
+    "Interview Prep/HasheDin/CS FUndementals.md",
+    "Interview Prep/HasheDin/OS.md",
     "Interview Prep/HasheDin/Technical round michleneous.md",
     "Interview Prep/HasheDin/Coding questions.md",
     "rcrm/Candidate Module/Candidate Module Technocal aspects.md",
     "rcrm/Job Module/Technical aspects..md",
-    "Interview Prep/HasheDin/CS FUndementals.md",
     "Interview Prep/HasheDin/To do.md",
     "Interview Prep/HasheDin/SQL.md",
     "rcrm/Job Module/jobs.md",
@@ -193,7 +194,6 @@
     "courses/php testing/PHP Unit.md",
     "courses/vue testing/vitest.md",
     "Projects/Portfolio.md",
-    "vue testing/Untitled.md",
-    "courses/Leravel/Documentation.md"
+    "vue testing/Untitled.md"
   ]
 }
