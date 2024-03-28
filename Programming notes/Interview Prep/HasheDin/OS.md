@@ -8,4 +8,6 @@
 - **Bounded Waiting**: A bound must exist on the number of times that other processes are allowed to enter their critical sections after a process has made a request to enter its critical section and before that request is granted.
 
 3. semaphores: https://www.geeksforgeeks.org/semaphores-in-process-synchronization/
-4. 
+
+#### Swapping
+Swapping is **a technique used by operating systems to move less frequently used memory pages from RAM to a hard disk**..
