@@ -11,3 +11,11 @@
 
 #### Swapping
 Swapping is **a technique used by operating systems to move less frequently used memory pages from RAM to a hard disk**..
+
+#### Segmentation
+In Operating Systems, Segmentation is a memory management technique in which the memory is divided into the variable size parts. Each part is known as a segment which can be allocated to a process. The details about each segment are stored in a table called a segment table. Segment table is stored in one (or many) of the segments.
+
+Segment table contains mainly two information about segment:
+1. Base: It is the base address of the segment
+2. Limit: It is the length of the segment.
+
