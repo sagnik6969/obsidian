@@ -47,5 +47,8 @@ In recruit crm we have above 4 type of roles.
 2. `Field name` => what the user sees
 3. `Field Label` => what the client sees.
 
-#### Lob application form => email triggers
-- in admin sett
+#### Job application form => email triggers
+- in admin settings => Job application form
+
+##### Placement and billing:
+When a candidate is moved to placed state. It will appear in placement and billing section.
