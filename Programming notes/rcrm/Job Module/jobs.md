@@ -42,3 +42,8 @@ In recruit crm we have above 4 type of roles.
 - when the job posting status column has value 4 that means the job is posted.
 - For a job to get posted in free job boards. it should be in open stage. And it should be updated in last 7 days for free plan and last 30 days for business plan.
 
+#### Fields shared with clients
+1. admin settings => fields shared with clients.
+2. `Field name` => what the user sees
+3. `Field Label` => what the client sees.
+4. 
