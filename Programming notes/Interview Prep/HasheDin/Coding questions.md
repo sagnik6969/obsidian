@@ -20,4 +20,8 @@
 2. https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 3. **the distance between the two pointers increases by a set amount after every iteration**. When the distance becomes the same as the length of the list, they meet because they are moving in a cycle.
 4. cycle detection in a directed graph
-5. 
+
+
+5. https://leetcode.com/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150
+6. https://leetcode.com/problems/jump-game-ii/description/?envType=study-plan-v2&envId=top-interview-150
+7. 
