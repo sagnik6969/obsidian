@@ -18,4 +18,5 @@
 #### Leetcode 
 1. https://leetcode.com/problems/product-of-array-except-self/
 2. https://leetcode.com/problems/search-in-rotated-sorted-array/description/
-3. 
+3. **the distance between the two pointers increases by a set amount after every iteration**. When the distance becomes the same as the length of the list, they meet because they are moving in a cycle.
+4. 
