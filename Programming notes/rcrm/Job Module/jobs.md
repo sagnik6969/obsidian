@@ -51,4 +51,6 @@ In recruit crm we have above 4 type of roles.
 - in admin settings => Job application form
 
 ##### Placement and billing:
-When a candidate is moved to placed state. It will appear in placement and billing section.
+- When a candidate is moved to placed state. It will appear in placement and billing section.
+- admin settings => customize invoice. => to customize the invoise.
+- 
