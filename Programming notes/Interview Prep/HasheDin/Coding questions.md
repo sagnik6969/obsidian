@@ -24,4 +24,7 @@
 
 5. https://leetcode.com/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150
 6. https://leetcode.com/problems/jump-game-ii/description/?envType=study-plan-v2&envId=top-interview-150
-7. 
+7. https://leetcode.com/problems/gas-station/?envType=study-plan-v2&envId=top-interview-150
+8. roman to int
+9. int to roman
+10. 
