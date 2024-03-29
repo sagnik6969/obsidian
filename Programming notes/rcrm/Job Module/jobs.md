@@ -46,4 +46,6 @@ In recruit crm we have above 4 type of roles.
 1. admin settings => fields shared with clients.
 2. `Field name` => what the user sees
 3. `Field Label` => what the client sees.
-4. 
+
+#### Lob application form => email triggers
+- in admin sett
