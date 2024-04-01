@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/Environment.md",
+                "file": "courses/Spring boot/Environment setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b1f812c14709d91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "courses/Spring boot/Environment setup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/Environment.md",
+                "file": "courses/Spring boot/Environment setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/Environment.md",
+                "file": "courses/Spring boot/Environment setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/Environment.md"
+                "file": "courses/Spring boot/Environment setup.md"
               }
             }
           }
@@ -147,11 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d54a5cf25892bf9",
+  "active": "5b1f812c14709d91",
   "lastOpenFiles": [
+    "attachments/Pasted image 20240402003423.png",
+    "attachments/Pasted image 20240402003336.png",
     "attachments/Pasted image 20240401232843.png",
     "Interview Prep/Hashedin (cleared 😊)/OS.md",
-    "courses/Spring boot/Environment.md",
+    "courses/Spring boot/Environment setup.md",
     "courses/Spring boot",
     "Interview Prep/HasheDin/Untitled.md",
     "Interview Prep/Hashedin (cleared 😊)/Coding questions.md",
@@ -189,8 +204,6 @@
     "attachments/Pasted image 20240322190704.png",
     "attachments/Pasted image 20240322182712.png",
     "attachments/Pasted image 20240322175731.png",
-    "attachments/Pasted image 20240322171748.png",
-    "attachments/Pasted image 20240322170510.png",
     "rcrm",
     "rcrm/rcrm setup",
     "MAKAUT/Academic paper/Proposed model.md",
