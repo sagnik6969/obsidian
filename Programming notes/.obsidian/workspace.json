@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/Environment setup.md",
+                "file": "courses/Spring boot/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/Environment setup.md",
+                "file": "courses/Spring boot/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/Environment setup.md",
+                "file": "courses/Spring boot/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/Environment setup.md"
+                "file": "courses/Spring boot/Basics.md"
               }
             }
           }
@@ -162,11 +162,13 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
+    "attachments/Pasted image 20240402022949.png",
+    "courses/Spring boot/Environment setup.md",
+    "courses/Spring boot/Basics.md",
     "attachments/Pasted image 20240402003423.png",
     "attachments/Pasted image 20240402003336.png",
     "attachments/Pasted image 20240401232843.png",
     "Interview Prep/Hashedin (cleared 😊)/OS.md",
-    "courses/Spring boot/Environment setup.md",
     "courses/Spring boot",
     "Interview Prep/HasheDin/Untitled.md",
     "Interview Prep/Hashedin (cleared 😊)/Coding questions.md",
@@ -203,10 +205,8 @@
     "rcrm/Candidate Module/Candidate Module Features.md",
     "attachments/Pasted image 20240322190704.png",
     "attachments/Pasted image 20240322182712.png",
-    "attachments/Pasted image 20240322175731.png",
     "rcrm",
     "rcrm/rcrm setup",
-    "MAKAUT/Academic paper/Proposed model.md",
-    "courses/vue testing/Intro.md"
+    "MAKAUT/Academic paper/Proposed model.md"
   ]
 }
