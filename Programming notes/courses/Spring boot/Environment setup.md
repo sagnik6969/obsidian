@@ -12,4 +12,10 @@ https://start.spring.io/ => to quickly create a spring project
 1. project => maven
 2. language => java
 3. group => `com.sagnik` => in place of `sagnik` write name of the company.
-4. Artifac
+4. Artifact = name = name of the artifact
+5. description ....
+6. dependencies => spring web
+
+=> next download the zip file => unzip it and open it with `intellij`.  `Intellij` will automatically download the dependencies. now run the main file => it will build the project and start the tomcat server.
+
+
