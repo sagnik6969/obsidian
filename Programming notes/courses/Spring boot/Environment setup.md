@@ -19,3 +19,7 @@ https://start.spring.io/ => to quickly create a spring project
 => next download the zip file => unzip it and open it with `intellij`.  `Intellij` will automatically download the dependencies. now run the main file => it will build the project and start the tomcat server.
 
 
+=> Inside `intelij` to create a folder => create a package
+=> to create a file => create a class.
+
+
