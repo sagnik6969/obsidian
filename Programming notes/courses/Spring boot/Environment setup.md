@@ -8,5 +8,8 @@ https://start.spring.io/ => to quickly create a spring project
 
 ![[Pasted image 20240402003336.png]]
 ![[Pasted image 20240402003423.png]]
-
-
+#### Spring Initializer
+1. project => maven
+2. language => java
+3. group => `com.sagnik` => in place of `sagnik` write name of the company.
+4. Artifac
