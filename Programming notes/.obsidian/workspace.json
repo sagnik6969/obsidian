@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Prep/HasheDin/OS.md",
+                "file": "courses/Spring boot/Environment.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview Prep/HasheDin/OS.md",
+                "file": "courses/Spring boot/Environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview Prep/HasheDin/OS.md",
+                "file": "courses/Spring boot/Environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview Prep/HasheDin/OS.md"
+                "file": "courses/Spring boot/Environment.md"
               }
             }
           }
@@ -149,20 +149,24 @@
   },
   "active": "2d54a5cf25892bf9",
   "lastOpenFiles": [
-    "Interview Prep/HasheDin/Coding questions.md",
-    "Interview Prep/HasheDin/SQL.md",
-    "Interview Prep/HasheDin/Remaining.md",
+    "attachments/Pasted image 20240401232843.png",
+    "Interview Prep/Hashedin (cleared 😊)/OS.md",
+    "courses/Spring boot/Environment.md",
+    "courses/Spring boot",
+    "Interview Prep/HasheDin/Untitled.md",
+    "Interview Prep/Hashedin (cleared 😊)/Coding questions.md",
+    "Interview Prep/Hashedin (cleared 😊)/SQL.md",
+    "Interview Prep/Hashedin (cleared 😊)/Remaining.md",
     "Interview Prep/HasheDin/Untitled 1.md",
-    "Interview Prep/HasheDin/OS.md",
-    "Interview Prep/HasheDin/CS FUndementals.md",
-    "Interview Prep/HasheDin/To do.md",
-    "Interview Prep/HasheDin/Technical round michleneous.md",
-    "Interview Prep/HasheDin/HR Round.md",
+    "Interview Prep/Hashedin (cleared 😊)/CS FUndementals.md",
+    "Interview Prep/Hashedin (cleared 😊)/To do.md",
+    "Interview Prep/Hashedin (cleared 😊)/Technical round michleneous.md",
+    "Interview Prep/Hashedin (cleared 😊)/HR Round.md",
     "rcrm/Job Module/jobs.md",
     "rcrm/Job Module/Technical aspects..md",
     "rcrm/Candidate Module/Candidate Module Technocal aspects.md",
     "attachments/Pasted image 20240326211937.png",
-    "Interview Prep/HasheDin",
+    "Interview Prep/Hashedin (cleared 😊)",
     "Interview Prep/Untitled.md",
     "Interview Prep",
     "rcrm/rcrm setup/Frontend.md",
@@ -190,10 +194,6 @@
     "rcrm",
     "rcrm/rcrm setup",
     "MAKAUT/Academic paper/Proposed model.md",
-    "courses/vue testing/Intro.md",
-    "MAKAUT/Academic paper",
-    "courses/Leravel/CSRF Prevention in laravel.md",
-    "courses/php testing/PHP Unit.md",
-    "courses/vue testing/vitest.md"
+    "courses/vue testing/Intro.md"
   ]
 }
