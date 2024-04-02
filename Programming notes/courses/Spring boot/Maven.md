@@ -27,6 +27,8 @@ Other approach is to use maven. Tell maven the projects you are working with (de
 1. project metadata (project name, version etc).
 2. dependencies => list of projects we depend on (spring, Hibernate etc)
 3. plugins => Additional custom tasks to run. (generate `junit` test report etc...)
+4. Output file type `JAR` , `WAR`
+5. 
 
 #### Project Coordinates.
 1. Project coordinates uniquely identifies a project.
@@ -40,4 +42,7 @@ Other approach is to use maven. Tell maven the projects you are working with (de
 <groupId>org.springframework.boot</groupId>  
 <artifactId>spring-boot-starter-web</artifactId>
 ```
+8. `<dependencies>` => stores coordinates of the dependencies for the project.
+9. `G.A.V` => Group Id , Artifact ID, Version.
+10. TO add a dependency to `pom.xml`. Visit https://central.sonatype.com and search for the dependency and copy the project coordinated and add them to `pom.xml`
 

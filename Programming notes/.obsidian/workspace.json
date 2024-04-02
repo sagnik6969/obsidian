@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/Maven.md",
+                "file": "courses/Spring boot/Spring Boot project structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/Maven.md",
+                "file": "courses/Spring boot/Spring Boot project structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/Maven.md",
+                "file": "courses/Spring boot/Spring Boot project structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/Maven.md"
+                "file": "courses/Spring boot/Spring Boot project structure.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
-    "courses/Spring boot/Basics.md",
     "courses/Spring boot/Maven.md",
+    "courses/Spring boot/Spring Boot project structure.md",
+    "courses/Spring boot/Basics.md",
     "attachments/Pasted image 20240402022949.png",
     "courses/Spring boot/Environment setup.md",
     "attachments/Pasted image 20240402003423.png",
@@ -206,7 +207,6 @@
     "rcrm/Candidate Module/Candidate Module Features.md",
     "attachments/Pasted image 20240322190704.png",
     "rcrm",
-    "rcrm/rcrm setup",
-    "MAKAUT/Academic paper/Proposed model.md"
+    "rcrm/rcrm setup"
   ]
 }

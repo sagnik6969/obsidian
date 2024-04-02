@@ -1,0 +1,1 @@
+1. Spring boot makes use of standard mevan directory structure
