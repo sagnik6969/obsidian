@@ -23,5 +23,21 @@ Other approach is to use maven. Tell maven the projects you are working with (de
 #### `POM.xml`
 - Project configuration file (similar to `package.json`)
 - located at the root of your project.
-- 
+- The pom file will contain 
+1. project metadata (project name, version etc).
+2. dependencies => list of projects we depend on (spring, Hibernate etc)
+3. plugins => Additional custom tasks to run. (generate `junit` test report etc...)
+
+#### Project Coordinates.
+1. Project coordinates uniquely identifies a project.
+2. similar to `gps` coordinate for your house.
+3. it consists of group id, artifact id, and version
+4. `<groupid>` => Name of the company group or organization. Convention is to use reverse domain name.
+5. `<artifactId>` => Name of the project. (Example: `tasklist`)
+6. `version` => A specific release version. If a project is under active development then: `1.0 snapshot`
+7. Example
+```xml
+<groupId>org.springframework.boot</groupId>  
+<artifactId>spring-boot-starter-web</artifactId>
+```
 
