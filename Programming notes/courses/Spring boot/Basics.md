@@ -12,5 +12,13 @@ public class FunRestController {
 3. `spring projects` => additional spring modules built on top of spring framework. for example 
 4. `spring security` => for security services.
 5. https://spring.io/projects
-6. 
 
+#### Maven
+- maven is a project management tool for your application
+- Most popular use of maven is for `build management` and `dependencies`
+#### What problems does maven solve ?
+when building your java project you may need additional jar files for example: Spring, Hibernate, JSON etc. One approach is to download those jar files manually and manually add then to your build path / class path.
+Other approach is to use maven. Tell maven the projects you are working with (dependencies)(For example spring hibernate etc.) Maven will go out and download JAR files for those projects for you.  And maven will make those jar files available during compilation and run. 
+#### How maven works ?
+- maven reads the project configuration file (similar to `package.json` in `nodejs`) . Then maven will check maven local repo in your computer (maven cache) to look for the required package. If the package is not available locally maven will go to internet and download those dependencies (`jar` files). And finally maven will save them to local repository (loca)
+- 
