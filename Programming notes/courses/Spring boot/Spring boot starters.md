@@ -19,4 +19,12 @@
 ### Spring Initializer
 1. In spring initializer, simply select **Spring web** dependency
 2. you will automatically get `spring-boot-starter-web` in `pom.xml`.
-3. 
+![[Pasted image 20240404175417.png]]
+### List of all Spring boot starters
+https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#using.build-systems.starters
+
+#### How do I know what is inside the starters.
+1. Most IDES have a dependency management / View feature. 
+2. for eclipse users open the `pom.xml` file select the tab `Dependency Hierarchy`
+3. Expand the desired starter.
+4. 
