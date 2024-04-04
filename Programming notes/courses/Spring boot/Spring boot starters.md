@@ -25,6 +25,9 @@ https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#using.buil
 
 #### How do I know what is inside the starters.
 1. Most IDES have a dependency management / View feature. 
-2. for eclipse users open the `pom.xml` file select the tab `Dependency Hierarchy`
-3. Expand the desired starter.
-4. 
+2. for `intellij` users open the `external libraries` in sidebar.
+
+#### Spring boot starter parent
+1. Spring boot provides `Starter Parent`.
+2. This is a special starter that provides Maven defaults.
+3. 
