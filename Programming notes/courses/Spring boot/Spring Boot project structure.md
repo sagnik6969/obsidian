@@ -6,4 +6,7 @@
 6. `pom.xml` => includes info that you entered at spring initializer website.
 7. `spring-boot-starter-web` => spring boot starters are a collection of maven dependencies. for example `spring-boot-starter-web`  consists of `spring-web`, `spring-webmvc`, `tomcat` etc) => it saves the developer from having to list all of the individual dependencies.
 ![[Pasted image 20240402223945.png]]
-
+### Application Properties
+1. By default spring boot load properties from a file called `application.properties`
+2. to change server port add `server.port = 8080` to `application.properties`
+3. 
