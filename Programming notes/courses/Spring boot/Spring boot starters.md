@@ -44,4 +44,4 @@ https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#using.buil
 - Use version on parent only
 - `spring-boot-starter-*` dependencies inherit version from parent
 - Default configuration of spring boot plugin.
-- 
+-  

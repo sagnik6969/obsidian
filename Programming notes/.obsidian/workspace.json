@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/Spring boot starters.md",
+                "file": "courses/Spring boot/Spring Boot Dev Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 371.5,
+    "collapsed": true
   },
   "right": {
     "id": "6d8efcf62552782e",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/Spring boot starters.md",
+                "file": "courses/Spring boot/Spring Boot Dev Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/Spring boot starters.md",
+                "file": "courses/Spring boot/Spring Boot Dev Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/Spring boot starters.md"
+                "file": "courses/Spring boot/Spring Boot Dev Tools.md"
               }
             }
           }
@@ -162,10 +163,11 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
+    "courses/Spring boot/Spring boot starters.md",
+    "courses/Spring boot/Spring Boot Dev Tools.md",
     "attachments/Pasted image 20240404184626.png",
     "attachments/Pasted image 20240404175417.png",
     "courses/Spring boot/Spring Boot project structure.md",
-    "courses/Spring boot/Spring boot starters.md",
     "attachments/Pasted image 20240404173442.png",
     "attachments/Pasted image 20240404172349.png",
     "attachments/Pasted image 20240402223945.png",
@@ -191,7 +193,6 @@
     "rcrm/Job Module/jobs.md",
     "rcrm/Job Module/Technical aspects..md",
     "rcrm/Candidate Module/Candidate Module Technocal aspects.md",
-    "attachments/Pasted image 20240326211937.png",
     "Interview Prep/Hashedin (cleared 😊)",
     "Interview Prep/Untitled.md",
     "Interview Prep",
