@@ -30,4 +30,12 @@ https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#using.buil
 #### Spring boot starter parent
 1. Spring boot provides `Starter Parent`.
 2. This is a special starter that provides Maven defaults.
-3. 
+3. Default compiler level.
+4. `UTF-8` source encoding.
+5. Others...
+6. TO override a default property in parent
+![[Pasted image 20240404184626.png]]
+7. For `spring-boot-starter-*` dependencies, no need to list versions 
+8. the version will automatically get inherited from starter parent.
+9. starter parent provides default configuration of spring boot plugin.
+### Benefits of the spring boot starter 
