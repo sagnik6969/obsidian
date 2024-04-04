@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/Spring Boot project structure.md",
+                "file": "courses/Spring boot/Spring boot starters.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/Spring Boot project structure.md",
+                "file": "courses/Spring boot/Spring boot starters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/Spring Boot project structure.md",
+                "file": "courses/Spring boot/Spring boot starters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/Spring Boot project structure.md"
+                "file": "courses/Spring boot/Spring boot starters.md"
               }
             }
           }
@@ -162,10 +162,13 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
+    "courses/Spring boot/Spring Boot project structure.md",
+    "courses/Spring boot/Spring boot starters.md",
+    "attachments/Pasted image 20240404173442.png",
+    "attachments/Pasted image 20240404172349.png",
     "attachments/Pasted image 20240402223945.png",
     "attachments/Pasted image 20240402223833.png",
     "courses/Spring boot/Maven.md",
-    "courses/Spring boot/Spring Boot project structure.md",
     "courses/Spring boot/Basics.md",
     "attachments/Pasted image 20240402022949.png",
     "courses/Spring boot/Environment setup.md",
@@ -195,7 +198,6 @@
     "MAKAUT",
     "Projects",
     "attachments/Pasted image 20240326071523.png",
-    "attachments/Pasted image 20240326070745.png",
     "rcrm/Job Module",
     "courses",
     "Untitled.md",
@@ -204,8 +206,6 @@
     "Untitled 1.md",
     "rcrm/Candidate Module",
     "courses/Facebook clone/setup.md",
-    "attachments/Pasted image 20240322222121.png",
-    "attachments/Pasted image 20240322220527.png",
     "rcrm",
     "rcrm/rcrm setup"
   ]

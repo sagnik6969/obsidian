@@ -9,4 +9,11 @@
 ### Application Properties
 1. By default spring boot load properties from a file called `application.properties`
 2. to change server port add `server.port = 8080` to `application.properties`
-3. 
+3. To use application properties defined in  `application.properties`
+![[Pasted image 20240404172349.png]]
+### Static
+1. By default spring boot will load static resources (`HTML`,`CSS`,`JS`,`Images`) from `/static` directory.
+
+> Do not use `/src/main/webapp` directory if you are going to package your app in `jar`. It will only work in `war`.
+
+![[Pasted image 20240404173442.png]]
