@@ -38,4 +38,10 @@ https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#using.buil
 7. For `spring-boot-starter-*` dependencies, no need to list versions 
 8. the version will automatically get inherited from starter parent.
 9. starter parent provides default configuration of spring boot plugin.
-### Benefits of the spring boot starter 
+### Benefits of the spring boot starter parent
+- Default maven configuration: Java version, UTF-encoding etc.
+- Dependency management
+- Use version on parent only
+- `spring-boot-starter-*` dependencies inherit version from parent
+- Default configuration of spring boot plugin.
+- 
