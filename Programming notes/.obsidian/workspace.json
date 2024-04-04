@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/Spring Boot Dev Tools.md",
+                "file": "courses/Spring boot/Spring boot actuator.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5,
-    "collapsed": true
+    "width": 371.5
   },
   "right": {
     "id": "6d8efcf62552782e",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/Spring Boot Dev Tools.md",
+                "file": "courses/Spring boot/Spring boot actuator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/Spring Boot Dev Tools.md",
+                "file": "courses/Spring boot/Spring boot actuator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/Spring Boot Dev Tools.md"
+                "file": "courses/Spring boot/Spring boot actuator.md"
               }
             }
           }
@@ -163,8 +162,9 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
-    "courses/Spring boot/Spring boot starters.md",
     "courses/Spring boot/Spring Boot Dev Tools.md",
+    "courses/Spring boot/Spring boot actuator.md",
+    "courses/Spring boot/Spring boot starters.md",
     "attachments/Pasted image 20240404184626.png",
     "attachments/Pasted image 20240404175417.png",
     "courses/Spring boot/Spring Boot project structure.md",
@@ -205,7 +205,6 @@
     "Untitled.md",
     "Untitled 2.md",
     "rcrm setup.md",
-    "Untitled 1.md",
     "rcrm/Candidate Module",
     "rcrm",
     "rcrm/rcrm setup"
