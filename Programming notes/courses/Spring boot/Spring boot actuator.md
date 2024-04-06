@@ -24,4 +24,5 @@
 #### List of all actuator endpoints
 1. https://docs.spring.io/spring-boot/docs/current/reference/html/actuator.html#actuator.endpoints
 2. to expose all endpoints `management.endpoints.web.exposure.include`
-3. `/actuator/mappings` => 
+3. `/actuator/mappings` => displays route lists.
+4. 
