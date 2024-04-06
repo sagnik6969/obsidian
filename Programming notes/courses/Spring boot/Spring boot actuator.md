@@ -19,4 +19,9 @@
 2. `/health` => health information about your application.
 3. By default only health endpoint is exposed.
 4. The `/info` endpoint can provide information about your application.
-5. TO expose info `management.endpoints.web.exposure.include=health`
+5. To expose info  in `application.properties` => `management.endpoints.web.exposure.include=health,info` and `management.info.env.enable=true`
+6. in `application.properties` everything following `info5.` will be available in `/info` endpoint.
+#### List of all actuator endpoints
+1. https://docs.spring.io/spring-boot/docs/current/reference/html/actuator.html#actuator.endpoints
+2. to expose all endpoints `management.endpoints.web.exposure.include`
+3. 9
