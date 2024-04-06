@@ -1,2 +1,3 @@
 - The process of outsourcing the construction and management of objects.
-- 
+- https://www.udemy.com/course/spring-hibernate-tutorial/learn/lecture/5165294#announcements
+- https://stackoverflow.com/questions/3058/what-is-inversion-of-control
