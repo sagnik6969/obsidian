@@ -9,6 +9,17 @@
 1. Create and manage objects (Inversion of control).
 2. Inject the object dependencies. (Dependency Injection).
 
-#### Dependency injection
+#### Spring Dependency injection
+1. works on dependency inversion principle.
+2. The client delegates to another object the responsibility of providing its dependencies.
 
-- 
+#### Spring dependency injection types
+1. There are multiple injection types available with spring.
+2. Constructor injection
+3. Setter injection
+#### Constructor Injection
+1. Use this when you have required dependencies
+2. This is recommended by spring.io development team.
+#### Setter Injection
+1. Use this when you have optional dependencies,
+2. 
