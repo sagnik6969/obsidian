@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/Running Spring Boot Using Commend Line.md",
+                "file": "courses/Spring boot/application.properties.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/Running Spring Boot Using Commend Line.md",
+                "file": "courses/Spring boot/application.properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/Running Spring Boot Using Commend Line.md",
+                "file": "courses/Spring boot/application.properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/Running Spring Boot Using Commend Line.md"
+                "file": "courses/Spring boot/application.properties.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
-    "courses/Spring boot/Spring security.md",
     "courses/Spring boot/Running Spring Boot Using Commend Line.md",
+    "courses/Spring boot/application.properties.md",
+    "courses/Spring boot/Spring security.md",
     "courses/Spring boot/Spring boot actuator.md",
     "courses/Spring boot/Spring Boot Dev Tools.md",
     "courses/Spring boot/Spring boot starters.md",
@@ -204,7 +205,6 @@
     "Projects",
     "rcrm/Job Module",
     "courses",
-    "Untitled.md",
     "rcrm/Candidate Module",
     "rcrm",
     "rcrm/rcrm setup"
