@@ -1,3 +1,6 @@
 - The process of outsourcing the construction and management of objects.
 - https://www.udemy.com/course/spring-hibernate-tutorial/learn/lecture/5165294#announcements
 - https://stackoverflow.com/questions/3058/what-is-inversion-of-control
+- spring containers are used to inversion of control.
+- to configure spring container we use java annotations or java source code.
+- 
