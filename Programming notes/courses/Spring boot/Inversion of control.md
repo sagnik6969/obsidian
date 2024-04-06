@@ -1,0 +1,2 @@
+- The process of outsourcing the construction and management of objects.
+- 
