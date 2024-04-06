@@ -32,4 +32,18 @@
 #### Development process: constructor injection
 1. Define the dependency interface and class
 2. Create demo rest controller.
-3. 
+3. create constructor in your class for injection.
+4. add `@GetMapping` for the3 endpoint.
+![[Pasted image 20240406184925.png]]
+#### `@component` annotation
+1. `@Component` marks a class as spring bein.
+2. spring bein is a regular java class that is managed by spring.
+3. `@Component` also makes the bein available for dependency injection.
+
+![[Pasted image 20240406185352.png]]
+![[Pasted image 20240406185422.png]]
+- `@AutoWired` annotation tells spring to inject the dependency.
+- If you have only one constructor then the `@AutoWired` is optional.
+- If there are multiple implementations of `Coach` interface then we need additional configurations to figure out which implementation to use. It will be discussed later.
+
+
