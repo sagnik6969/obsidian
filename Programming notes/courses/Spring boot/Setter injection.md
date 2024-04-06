@@ -1,0 +1,3 @@
+- inject dependencies by calling setter methods on your class.
+- works similar to constructor injection. using `@Autowired`
+- 

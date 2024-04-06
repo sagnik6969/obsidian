@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/Scanning for component classes.md",
+                "file": "courses/Spring boot/Setter injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/Scanning for component classes.md",
+                "file": "courses/Spring boot/Setter injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/Scanning for component classes.md",
+                "file": "courses/Spring boot/Setter injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/Scanning for component classes.md"
+                "file": "courses/Spring boot/Setter injection.md"
               }
             }
           }
@@ -162,10 +162,11 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
+    "courses/Spring boot/Inversion of control.md",
+    "courses/Spring boot/Setter injection.md",
+    "courses/Spring boot/Scanning for component classes.md",
     "attachments/Pasted image 20240406215844.png",
     "attachments/Pasted image 20240406214831.png",
-    "courses/Spring boot/Inversion of control.md",
-    "courses/Spring boot/Scanning for component classes.md",
     "courses/Spring boot/Spring Boot Dev Tools.md",
     "attachments/Pasted image 20240406185422.png",
     "attachments/Pasted image 20240406185352.png",
@@ -181,7 +182,6 @@
     "attachments/Pasted image 20240404173442.png",
     "attachments/Pasted image 20240404172349.png",
     "attachments/Pasted image 20240402223945.png",
-    "attachments/Pasted image 20240402223833.png",
     "courses/Spring boot/Maven.md",
     "courses/Spring boot/Basics.md",
     "courses/Spring boot/Environment setup.md",
