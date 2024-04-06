@@ -22,4 +22,14 @@
 2. This is recommended by spring.io development team.
 #### Setter Injection
 1. Use this when you have optional dependencies,
-2. 
+2. If the dependency is not provided Your app can provide reasonable default logic.
+
+#### Spring auto wiring
+1. For dependency injection spring can make use of auto wiring.
+2. Spring will look for a class that matches (matches by type: class or interface) and inject it automatically
+3. This works similar to service container in laravel.
+
+#### Development process: constructor injection
+1. Define the dependency interface and class
+2. Create demo rest controller.
+3. 
