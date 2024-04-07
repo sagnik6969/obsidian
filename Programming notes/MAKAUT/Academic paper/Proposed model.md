@@ -19,5 +19,8 @@ To Implement the proposed model we have developed a file upload system using the
 In the implementation multiple CSPs are running from different ports within a single machine. Following are different modules of the implementation.
 ##### 1. Key generation
 At first when a cloud service provider joins the blockchain network. It   generates a pair of public and private keys and stores them locally. The private key will be used to digitally sign the transaction. The public key will be used as an identity to the cloud service provider. By using the public key other CSPs will be able to Identify this cloud service provider. The public key will also be used by other CSPs to verify the digital signature of this CSP.
-##### Requesting blockchain from other CSPs
-When a cloud service provider joins the blockchain network It need to first get the existing blockchain. It requests the blockchain from one of the existing cloud service providers. After receiving the blockchain it verifies previous block hash of every blockchain. The previous block hash stored in every block must be equal to to the hash of the previous block. In case of genesis block the hash of the previous block should be empty strin
+##### 2. Requesting blockchain from other CSPs
+When a cloud service provider joins the blockchain network It need to first get the existing blockchain. It requests the blockchain from one of the existing cloud service providers. After receiving the blockchain it verifies previous block hash of every blockchain. The previous block hash stored in every block must be equal to to the hash of the previous block. In case of genesis block the hash of the previous block should be empty string. After that it verifies the digital signature of every transaction in each block. If the blockchain passes the verification process It is stored locally by the newly joined cloud service provider.
+
+##### 3. File upload workflow
+Every CSP has an http endpoint for uploading a file. 
