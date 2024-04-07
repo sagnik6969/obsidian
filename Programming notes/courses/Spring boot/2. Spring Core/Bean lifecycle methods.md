@@ -14,5 +14,9 @@
 #### Development process
 1. define methods for `init` and destroy.
 2. add annotations `@PostCOnstruct` and `PreDestroy`
-3. 
+
+#### Important notes
+- **For "prototype" scoped beans, Spring does not call the destroy method.**
+- Prototype beans are lazy by default. There is no need to use the @Lazy annotation for prototype scopes beans.
+
 
