@@ -6,3 +6,4 @@
      2. Or it is explicitly required.
 - Add the `@Lazy` annotation to a given class.
 - To specify that all beans should be lazy add `spring.main.lazy-initialization=true` to `application.properties` file.
+![[Pasted image 20240407085241.png]]
