@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/3. Hibernate & JPA.md",
+                "file": "MAKAUT/Academic paper/Proposed model.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/3. Hibernate & JPA.md",
+                "file": "MAKAUT/Academic paper/Proposed model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/3. Hibernate & JPA.md",
+                "file": "MAKAUT/Academic paper/Proposed model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/3. Hibernate & JPA.md"
+                "file": "MAKAUT/Academic paper/Proposed model.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
-    "courses/Spring boot/2. Spring Core/Configuring bean with java code.md",
+    "Projects/Portfolio.md",
     "courses/Spring boot/3. Hibernate & JPA.md",
+    "courses/Spring boot/2. Spring Core/Configuring bean with java code.md",
     "attachments/Pasted image 20240407110916.png",
     "attachments/Pasted image 20240407110849.png",
     "attachments/Pasted image 20240407110817.png",
@@ -200,7 +201,6 @@
     "Interview Prep/Hashedin (cleared 😊)/Coding questions.md",
     "Interview Prep/Hashedin (cleared 😊)/SQL.md",
     "Interview Prep/Hashedin (cleared 😊)/Remaining.md",
-    "Interview Prep/HasheDin/Untitled 1.md",
     "Interview Prep/Hashedin (cleared 😊)",
     "Interview Prep",
     "MAKAUT",
