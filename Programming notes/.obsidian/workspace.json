@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/2. Spring Core/Configuring bean with java code.md",
+                "file": "courses/Spring boot/3. Hibernate & JPA.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/2. Spring Core/Configuring bean with java code.md",
+                "file": "courses/Spring boot/3. Hibernate & JPA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/2. Spring Core/Configuring bean with java code.md",
+                "file": "courses/Spring boot/3. Hibernate & JPA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/2. Spring Core/Configuring bean with java code.md"
+                "file": "courses/Spring boot/3. Hibernate & JPA.md"
               }
             }
           }
@@ -162,12 +162,13 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
+    "courses/Spring boot/2. Spring Core/Configuring bean with java code.md",
+    "courses/Spring boot/3. Hibernate & JPA.md",
     "attachments/Pasted image 20240407110916.png",
     "attachments/Pasted image 20240407110849.png",
     "attachments/Pasted image 20240407110817.png",
     "attachments/Pasted image 20240407110631.png",
     "courses/Spring boot/2. Spring Core/Bean lifecycle methods.md",
-    "courses/Spring boot/2. Spring Core/Configuring bean with java code.md",
     "attachments/Pasted image 20240407101534.png",
     "attachments/Pasted image 20240407101305.png",
     "attachments/Pasted image 20240407100535.png",
@@ -178,7 +179,6 @@
     "courses/Spring boot/2. Spring Core",
     "courses/Spring boot/1. Starters",
     "courses/Spring boot/2. Spring Core/Lazy Initialization.md",
-    "attachments/Pasted image 20240407085241.png",
     "courses/Spring boot/2. Spring Core/Autowiring.md",
     "courses/Spring boot/2. Spring Core/Field injection.md",
     "courses/Spring boot/2. Spring Core/Setter injection.md",
