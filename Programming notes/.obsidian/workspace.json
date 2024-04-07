@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/2. Spring Core/Bean lifecycle methods.md",
+                "file": "courses/Spring boot/2. Spring Core/Configuring bean with java code.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/2. Spring Core/Bean lifecycle methods.md",
+                "file": "courses/Spring boot/2. Spring Core/Configuring bean with java code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/2. Spring Core/Bean lifecycle methods.md",
+                "file": "courses/Spring boot/2. Spring Core/Configuring bean with java code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/2. Spring Core/Bean lifecycle methods.md"
+                "file": "courses/Spring boot/2. Spring Core/Configuring bean with java code.md"
               }
             }
           }
@@ -162,11 +162,12 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
+    "courses/Spring boot/2. Spring Core/Bean lifecycle methods.md",
+    "courses/Spring boot/2. Spring Core/Configuring bean with java code.md",
     "attachments/Pasted image 20240407101534.png",
     "attachments/Pasted image 20240407101305.png",
     "attachments/Pasted image 20240407100535.png",
     "courses/Spring boot/2. Spring Core/Bean scopes.md",
-    "courses/Spring boot/2. Spring Core/Bean lifecycle methods.md",
     "attachments/Pasted image 20240407100453.png",
     "attachments/Pasted image 20240407094048.png",
     "attachments/Pasted image 20240407093745.png",
@@ -179,7 +180,6 @@
     "attachments/Pasted image 20240407080336.png",
     "attachments/Pasted image 20240406235307.png",
     "courses/Spring boot/2. Spring Core/Field injection.md",
-    "attachments/Pasted image 20240406232925.png",
     "courses/Spring boot/2. Spring Core/Setter injection.md",
     "courses/Spring boot/2. Spring Core/Inversion of control.md",
     "courses/Spring boot/2. Spring Core/Scanning for component classes.md",
