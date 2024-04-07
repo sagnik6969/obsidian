@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/2. Spring Core/Bean scopes.md",
+                "file": "courses/Spring boot/2. Spring Core/Bean lifecycle methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/2. Spring Core/Bean scopes.md",
+                "file": "courses/Spring boot/2. Spring Core/Bean lifecycle methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/2. Spring Core/Bean scopes.md",
+                "file": "courses/Spring boot/2. Spring Core/Bean lifecycle methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/2. Spring Core/Bean scopes.md"
+                "file": "courses/Spring boot/2. Spring Core/Bean lifecycle methods.md"
               }
             }
           }
@@ -162,12 +162,17 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
+    "attachments/Pasted image 20240407101534.png",
+    "attachments/Pasted image 20240407101305.png",
+    "attachments/Pasted image 20240407100535.png",
+    "courses/Spring boot/2. Spring Core/Bean scopes.md",
+    "courses/Spring boot/2. Spring Core/Bean lifecycle methods.md",
+    "attachments/Pasted image 20240407100453.png",
     "attachments/Pasted image 20240407094048.png",
     "attachments/Pasted image 20240407093745.png",
     "courses/Spring boot/2. Spring Core",
     "courses/Spring boot/1. Starters",
     "courses/Spring boot/2. Spring Core/Lazy Initialization.md",
-    "courses/Spring boot/2. Spring Core/Bean scopes.md",
     "attachments/Pasted image 20240407085241.png",
     "courses/Spring boot/2. Spring Core/Autowiring.md",
     "attachments/Pasted image 20240407080405.png",
@@ -178,11 +183,7 @@
     "courses/Spring boot/2. Spring Core/Setter injection.md",
     "courses/Spring boot/2. Spring Core/Inversion of control.md",
     "courses/Spring boot/2. Spring Core/Scanning for component classes.md",
-    "attachments/Pasted image 20240406215844.png",
-    "attachments/Pasted image 20240406214831.png",
     "courses/Spring boot/1. Starters/Spring Boot Dev Tools.md",
-    "attachments/Pasted image 20240406185422.png",
-    "attachments/Pasted image 20240406185352.png",
     "courses/Spring boot/1. Starters/application.properties.md",
     "courses/Spring boot/1. Starters/Running Spring Boot Using Commend Line.md",
     "courses/Spring boot/1. Starters/Spring security.md",
@@ -200,7 +201,6 @@
     "Interview Prep/Hashedin (cleared 😊)/Remaining.md",
     "Interview Prep/HasheDin/Untitled 1.md",
     "Interview Prep/Hashedin (cleared 😊)/CS FUndementals.md",
-    "Interview Prep/Hashedin (cleared 😊)/To do.md",
     "Interview Prep/Hashedin (cleared 😊)",
     "Interview Prep",
     "MAKAUT",
