@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/Lazy Initialization.md",
+                "file": "courses/Spring boot/Bean scopes.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/Lazy Initialization.md",
+                "file": "courses/Spring boot/Bean scopes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/Lazy Initialization.md",
+                "file": "courses/Spring boot/Bean scopes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/Lazy Initialization.md"
+                "file": "courses/Spring boot/Bean scopes.md"
               }
             }
           }
@@ -162,9 +162,10 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
+    "courses/Spring boot/Lazy Initialization.md",
+    "courses/Spring boot/Bean scopes.md",
     "attachments/Pasted image 20240407085241.png",
     "courses/Spring boot/Autowiring.md",
-    "courses/Spring boot/Lazy Initialization.md",
     "attachments/Pasted image 20240407080405.png",
     "attachments/Pasted image 20240407080336.png",
     "attachments/Pasted image 20240406235307.png",
@@ -184,7 +185,6 @@
     "courses/Spring boot/Spring security.md",
     "courses/Spring boot/Spring boot actuator.md",
     "courses/Spring boot/Spring boot starters.md",
-    "attachments/Pasted image 20240404184626.png",
     "courses/Spring boot/Spring Boot project structure.md",
     "courses/Spring boot/Maven.md",
     "courses/Spring boot/Basics.md",
