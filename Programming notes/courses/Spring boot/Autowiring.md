@@ -7,4 +7,5 @@
 ![[Pasted image 20240406235307.png]]
 - It accepts `beinid` as an argument.
 - `bein_id` is same as class name except the first character is in lower case.
+- For setter injection we can do similar things. (use `@Qualifier`)
 - 
