@@ -7,4 +7,8 @@
 #### What is a singleton ?
 - Spring container creates only one instance of the bean by default.
 - It is cashed in memory.
-- All dependency injections for the bean will refer the
+- All dependency injections for the bean will refer the same bean.
+
+#### To explicitly specify bean scopes
+![[Pasted image 20240407093745.png]]
+![[Pasted image 20240407094048.png]]

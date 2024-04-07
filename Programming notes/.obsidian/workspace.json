@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/Environment setup.md",
+                "file": "courses/Spring boot/1. Starters/Environment setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/Bean scopes.md",
+                "file": "courses/Spring boot/2. Spring Core/Bean scopes.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/Bean scopes.md",
+                "file": "courses/Spring boot/2. Spring Core/Bean scopes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/Bean scopes.md",
+                "file": "courses/Spring boot/2. Spring Core/Bean scopes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/Bean scopes.md"
+                "file": "courses/Spring boot/2. Spring Core/Bean scopes.md"
               }
             }
           }
@@ -162,33 +162,36 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
-    "courses/Spring boot/Lazy Initialization.md",
-    "courses/Spring boot/Bean scopes.md",
+    "attachments/Pasted image 20240407094048.png",
+    "attachments/Pasted image 20240407093745.png",
+    "courses/Spring boot/2. Spring Core",
+    "courses/Spring boot/1. Starters",
+    "courses/Spring boot/2. Spring Core/Lazy Initialization.md",
+    "courses/Spring boot/2. Spring Core/Bean scopes.md",
     "attachments/Pasted image 20240407085241.png",
-    "courses/Spring boot/Autowiring.md",
+    "courses/Spring boot/2. Spring Core/Autowiring.md",
     "attachments/Pasted image 20240407080405.png",
     "attachments/Pasted image 20240407080336.png",
     "attachments/Pasted image 20240406235307.png",
-    "courses/Spring boot/Field injection.md",
+    "courses/Spring boot/2. Spring Core/Field injection.md",
     "attachments/Pasted image 20240406232925.png",
-    "courses/Spring boot/Setter injection.md",
-    "courses/Spring boot/Inversion of control.md",
-    "courses/Spring boot/Scanning for component classes.md",
+    "courses/Spring boot/2. Spring Core/Setter injection.md",
+    "courses/Spring boot/2. Spring Core/Inversion of control.md",
+    "courses/Spring boot/2. Spring Core/Scanning for component classes.md",
     "attachments/Pasted image 20240406215844.png",
     "attachments/Pasted image 20240406214831.png",
-    "courses/Spring boot/Spring Boot Dev Tools.md",
+    "courses/Spring boot/1. Starters/Spring Boot Dev Tools.md",
     "attachments/Pasted image 20240406185422.png",
     "attachments/Pasted image 20240406185352.png",
-    "attachments/Pasted image 20240406184925.png",
-    "courses/Spring boot/application.properties.md",
-    "courses/Spring boot/Running Spring Boot Using Commend Line.md",
-    "courses/Spring boot/Spring security.md",
-    "courses/Spring boot/Spring boot actuator.md",
-    "courses/Spring boot/Spring boot starters.md",
-    "courses/Spring boot/Spring Boot project structure.md",
-    "courses/Spring boot/Maven.md",
-    "courses/Spring boot/Basics.md",
-    "courses/Spring boot/Environment setup.md",
+    "courses/Spring boot/1. Starters/application.properties.md",
+    "courses/Spring boot/1. Starters/Running Spring Boot Using Commend Line.md",
+    "courses/Spring boot/1. Starters/Spring security.md",
+    "courses/Spring boot/1. Starters/Spring boot actuator.md",
+    "courses/Spring boot/1. Starters/Spring boot starters.md",
+    "courses/Spring boot/1. Starters/Spring Boot project structure.md",
+    "courses/Spring boot/1. Starters/Maven.md",
+    "courses/Spring boot/1. Starters/Basics.md",
+    "courses/Spring boot/1. Starters/Environment setup.md",
     "Interview Prep/Hashedin (cleared 😊)/OS.md",
     "courses/Spring boot",
     "Interview Prep/HasheDin/Untitled.md",
@@ -198,15 +201,12 @@
     "Interview Prep/HasheDin/Untitled 1.md",
     "Interview Prep/Hashedin (cleared 😊)/CS FUndementals.md",
     "Interview Prep/Hashedin (cleared 😊)/To do.md",
-    "Interview Prep/Hashedin (cleared 😊)/Technical round michleneous.md",
     "Interview Prep/Hashedin (cleared 😊)",
     "Interview Prep",
     "MAKAUT",
     "Projects",
     "rcrm/Job Module",
     "courses",
-    "rcrm/Candidate Module",
-    "rcrm",
-    "rcrm/rcrm setup"
+    "rcrm/Candidate Module"
   ]
 }
