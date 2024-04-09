@@ -14,4 +14,7 @@
 #### Benefits of JPA
 - By having a standard api you are not locked to vendors implementation.
 - Maintain portable and flexible code by coding to JPA spec.
-- 
+- Can theoretically switch vendor implementations.
+- For example if vendor `ABC` stops supporting their product you can switch to vendor `xyz` without vendor lock in.
+![[Pasted image 20240409235153.png]]
+![[Pasted image 20240409235329.png]]
