@@ -18,3 +18,8 @@
 - For example if vendor `ABC` stops supporting their product you can switch to vendor `xyz` without vendor lock in.
 ![[Pasted image 20240409235153.png]]
 ![[Pasted image 20240409235329.png]]
+![[Pasted image 20240409235447.png]]
+
+#### How Hibernate / JPA related to JDBC
+- Hibernate / JPA uses `jdbc` for all database communication.
+- 
