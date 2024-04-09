@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAKAUT/Academic paper/Proposed model.md",
+                "file": "courses/Spring boot/3. Hibernate & JPA/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAKAUT/Academic paper/Proposed model.md",
+                "file": "courses/Spring boot/3. Hibernate & JPA/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAKAUT/Academic paper/Proposed model.md",
+                "file": "courses/Spring boot/3. Hibernate & JPA/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAKAUT/Academic paper/Proposed model.md"
+                "file": "courses/Spring boot/3. Hibernate & JPA/Introduction.md"
               }
             }
           }
@@ -162,8 +162,11 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
-    "Projects/Portfolio.md",
+    "MAKAUT/Academic paper/Proposed model.md",
+    "courses/Spring boot/3. Hibernate & JPA/Introduction.md",
+    "courses/Spring boot/3. Hibernate & JPA",
     "courses/Spring boot/3. Hibernate & JPA.md",
+    "Projects/Portfolio.md",
     "courses/Spring boot/2. Spring Core/Configuring bean with java code.md",
     "attachments/Pasted image 20240407110916.png",
     "attachments/Pasted image 20240407110849.png",
@@ -199,14 +202,11 @@
     "courses/Spring boot",
     "Interview Prep/HasheDin/Untitled.md",
     "Interview Prep/Hashedin (cleared 😊)/Coding questions.md",
-    "Interview Prep/Hashedin (cleared 😊)/SQL.md",
-    "Interview Prep/Hashedin (cleared 😊)/Remaining.md",
     "Interview Prep/Hashedin (cleared 😊)",
     "Interview Prep",
     "MAKAUT",
     "Projects",
     "rcrm/Job Module",
-    "courses",
-    "rcrm/Candidate Module"
+    "courses"
   ]
 }
