@@ -22,4 +22,5 @@
 
 #### How Hibernate / JPA related to JDBC
 - Hibernate / JPA uses `jdbc` for all database communication.
-- 
+
+
