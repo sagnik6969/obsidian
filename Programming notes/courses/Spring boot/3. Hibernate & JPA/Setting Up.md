@@ -6,4 +6,9 @@
 - You can then inject these in your app.
 
 #### Dependencies for JPA
-- MySql driver: mysql-connect
+- MySql driver: `myaql-connector-j`
+- Spring Data JPA: `spring-boot-starter-data-jpa`
+
+#### Spring boot auto configuration
+- Spring boot will automatically configure your data sources for you based on the entries from maven pom file.
+      
