@@ -26,4 +26,12 @@ public class CruddemoApplication {
 }
 ```
 - Code inside the function `commandLineRunner` will be automatically executed after all the beans are loaded into the application context.
-- 
+
+#### To turn off the following banner
+![[Pasted image 20240410093305.png]]
+- add `spring.main.banner-mode=off` to `application.properties`
+
+#### To reduce logging level 
+`logging.level.root=warn`
+
+
