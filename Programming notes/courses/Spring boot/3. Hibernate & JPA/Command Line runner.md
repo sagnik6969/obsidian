@@ -9,9 +9,19 @@ runner -> {
 ```
 #### Command line runner code
 ```java
-public CommandLineRunner commandLineRunner(){  
-    return runner -> {  
-    System.out.println("Hello world");  
-    };  
+@SpringBootApplication  
+public class CruddemoApplication {  
+  
+    public static void main(String[] args) {  
+       SpringApplication.run(CruddemoApplication.class, args);  
+    }  
+  
+    @Bean  
+    public CommandLineRunner commandLineRunner(){  
+       return runner -> {  
+       System.out.println("Hello world");  
+       };  
+    }  
+  
 }
 ```
