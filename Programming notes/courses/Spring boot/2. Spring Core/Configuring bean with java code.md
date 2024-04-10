@@ -6,5 +6,5 @@
 ![[Pasted image 20240407110631.png]]
 ![[Pasted image 20240407110849.png]]'![[Pasted image 20240407110916.png]]
 - The main use of `@bean` annotation is making an existing third party class available to spring.
-- 
-- 
+
+
