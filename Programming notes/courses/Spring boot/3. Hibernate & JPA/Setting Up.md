@@ -11,4 +11,9 @@
 
 #### Spring boot auto configuration
 - Spring boot will automatically configure your data sources for you based on the entries from maven pom file.
-      
+     1. JDBC Driver (`myaql-connector-j`)
+     2. Spring Data (ORM) (`spring-boot-starter-data-jpa`)
+- DB connection info from `application.properties`
+#### `application.properties` file
+![[Pasted image 20240410081956.png]]
+

@@ -1,0 +1,2 @@
+- `COnnandLineRunner` is hook that allows us to execute code after the spring beans have been loaded into the application context.
+- 

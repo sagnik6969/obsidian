@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/3. Hibernate & JPA/Setting Up.md",
+                "file": "courses/Spring boot/3. Hibernate & JPA/Command Line runner.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/3. Hibernate & JPA/Setting Up.md",
+                "file": "courses/Spring boot/3. Hibernate & JPA/Command Line runner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/3. Hibernate & JPA/Setting Up.md",
+                "file": "courses/Spring boot/3. Hibernate & JPA/Command Line runner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/3. Hibernate & JPA/Setting Up.md"
+                "file": "courses/Spring boot/3. Hibernate & JPA/Command Line runner.md"
               }
             }
           }
@@ -162,8 +162,10 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
-    "courses/Spring boot/3. Hibernate & JPA/Introduction.md",
     "courses/Spring boot/3. Hibernate & JPA/Setting Up.md",
+    "courses/Spring boot/3. Hibernate & JPA/Command Line runner.md",
+    "attachments/Pasted image 20240410081956.png",
+    "courses/Spring boot/3. Hibernate & JPA/Introduction.md",
     "attachments/Pasted image 20240409235447.png",
     "attachments/Pasted image 20240409235329.png",
     "attachments/Pasted image 20240409235153.png",
@@ -179,7 +181,6 @@
     "courses/Spring boot/2. Spring Core/Bean lifecycle methods.md",
     "attachments/Pasted image 20240407101534.png",
     "attachments/Pasted image 20240407101305.png",
-    "attachments/Pasted image 20240407100535.png",
     "courses/Spring boot/2. Spring Core/Bean scopes.md",
     "courses/Spring boot/2. Spring Core",
     "courses/Spring boot/1. Starters",
@@ -201,7 +202,6 @@
     "courses/Spring boot/1. Starters/Environment setup.md",
     "Interview Prep/Hashedin (cleared 😊)/OS.md",
     "courses/Spring boot",
-    "Interview Prep/HasheDin/Untitled.md",
     "Interview Prep/Hashedin (cleared 😊)",
     "Interview Prep",
     "MAKAUT",
