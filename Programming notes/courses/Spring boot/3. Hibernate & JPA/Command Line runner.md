@@ -25,3 +25,5 @@ public class CruddemoApplication {
   
 }
 ```
+- Code inside the function `commandLineRunner` will be automatically executed after all the beans are loaded into the application context.
+- 
