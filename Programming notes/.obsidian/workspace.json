@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rcrm/Candidate Module/Candidate Module Features.md",
+                "file": "rcrm/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rcrm/Candidate Module/Candidate Module Features.md",
+                "file": "rcrm/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rcrm/Candidate Module/Candidate Module Features.md",
+                "file": "rcrm/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rcrm/Candidate Module/Candidate Module Features.md"
+                "file": "rcrm/Untitled.md"
               }
             }
           }
@@ -162,6 +162,8 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
+    "rcrm/Candidate Module/Candidate Module Features.md",
+    "rcrm/Untitled.md",
     "courses/Spring boot/3. Hibernate & JPA/Command Line runner.md",
     "attachments/Pasted image 20240410093305.png",
     "courses/Spring boot/2. Spring Core/Configuring bean with java code.md",
@@ -199,7 +201,6 @@
     "courses/Spring boot/1. Starters/Spring Boot project structure.md",
     "courses/Spring boot/1. Starters/Maven.md",
     "courses/Spring boot/1. Starters/Basics.md",
-    "courses/Spring boot/1. Starters/Environment setup.md",
     "courses/Spring boot",
     "Interview Prep/Hashedin (cleared 😊)",
     "Interview Prep",
