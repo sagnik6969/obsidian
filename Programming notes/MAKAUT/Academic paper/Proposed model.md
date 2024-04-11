@@ -36,5 +36,5 @@ To verify the integrity of a file, the file can be requested from the cloud serv
 ##### Transaction verification
 To verify a transaction we need to verify the digital signature of the transaction. Every transaction contains the public key of the signer. The CSP which needs to verify the transaction can verify the transaction using the transaction data and the senders public key. 
 
-##### How to verify the blockchain
+##### blockchain verification
 To verify the blockchain at first in every  lock the stored previous block hash is matched with actual calculated previous block hash. If they do not match then data integrity has been compromised. If the the block passes this verification then Every transaction in every block is verified using the above mentioned transaction verification method.
