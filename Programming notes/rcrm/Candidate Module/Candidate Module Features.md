@@ -1,4 +1,5 @@
 ![[Pasted image 20240322080327.png]]
+
 ![[Pasted image 20240322080526.png]]
 > In the above picture we have sources from where we add the candidate. In the bottom we have all the actions we can perform on the candidates.
 > **Extension** => candidates can be sourced from LinkedIn using chrome extension.
