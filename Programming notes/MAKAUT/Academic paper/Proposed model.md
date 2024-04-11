@@ -25,6 +25,10 @@ When a cloud service provider joins the blockchain network It need to first get 
 ##### 3. File upload workflow
 Every CSP has an http endpoint for uploading a file. If an user want to upload a file It makes a post request to appropriate http endpoint. CSP first validates the file then it stores the file locally. 
 
-#### Transaction
-After that it creates a hash digest of the file. The hash digest of the file is required to verify the data integrity of the file. If the data integrity is compromised then If we calculate the hash digest and compare it with stored hash digest then they wont match.
+##### 4. Transaction
+After that it creates a hash digest of the file. The hash digest of the file is required to verify the data integrity of the file. After that a transaction is created for the file upload operation. The transaction contains file upload path. the public key of the csp where file is uploaded. and the hash digest of the file. The transaction is stored locally. 
 
+##### 5. Blockchain
+Once sufficient number of transactions are accumulated a block is created containing the transactions which are not yet stored in the blockchain. Then the block is broadcasted to other members of the cloud federation. Other members verify the previous block hash of the block and then they verify the digital signature of every transaction. The the block passes the verification process then the block is added to the local copy of blockchain.
+##### 6. To Verify The Integrity of a file
+To verify the integrity of a file, the file can be requested from the cloud service provider which stores the file. Then the hash digest of the file is fetched from blockchain. We store the file hash during the file upload operation in a transaction. 
