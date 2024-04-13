@@ -14,4 +14,35 @@
 2. Must have a public or protected no argument constructor.
 3. The class can have other constructors.
 4. If you don't declare a constructor you will get a no argument constructor for free.
-5. However If you declare a constructor with arguments you wont get a no argument constructor for free
+5. However If you declare a constructor with arguments you wont get a no argument constructor for free. In this case you have to explicitly declare a no argument constructor. 
+#### Java Annotations
+1. Step 1: Map class to database table.
+2. Step 2: Map fields to database columns.
+
+#### Step 1: Map class to database table
+```java
+@Entity
+@Table(name="student")
+public class Student{
+
+}
+```
+#### Step 2: Map fields to database columns
+```java
+@Entity
+@Table(name="student")
+public class Student{
+    @Id
+    @Column(name='id')
+    private int id;
+    
+    @Column(name='first_name')
+    private String firstName;
+    
+    
+}
+```
+
+#### `@Column` is optional
+- If not specified the column name is same name as java field.
+- 
