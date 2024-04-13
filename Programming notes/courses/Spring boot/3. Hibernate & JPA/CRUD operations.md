@@ -12,4 +12,8 @@ public Student findById(int id) {
     return entityManager.find(Student.class,id);  
 }
 ```
-> For read operation 
+> For read operation we don't need `@Transactional` annotation. Because we are not performing any create / update operation in the database.
+
+
+#### Full Coding
+###### 
