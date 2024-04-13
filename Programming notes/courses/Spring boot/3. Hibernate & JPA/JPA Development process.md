@@ -45,4 +45,9 @@ public class Student{
 
 #### `@Column` is optional
 - If not specified the column name is same name as java field.
+- This approach is not recommended.
+- Because if you refactor the java code it will not match existing database column.
+
+#### `@Table` annotation is optional
+- If you don't provide the table annotation then database table name is same as java class name.
 - 
