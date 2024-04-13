@@ -42,6 +42,8 @@
 ![[Pasted image 20240413140853.png]]
 #### `@Repositary` annotation
 - This is for annotating DAOs.
+- This allows spring to automatically register the DAO implementation thanks to component scanning.
+- Spring also provides translation to any JDBC related exceptions.
 ![[Pasted image 20240413141156.png]]
 - `@RestController` and `@Repository` are sub annotation of `@Component`
 - 
