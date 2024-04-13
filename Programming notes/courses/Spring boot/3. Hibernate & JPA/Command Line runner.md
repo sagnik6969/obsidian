@@ -26,6 +26,7 @@ public class CruddemoApplication {
 }
 ```
 - Code inside the function `commandLineRunner` will be automatically executed after all the beans are loaded into the application context.
+- The arguments of the function `commandLineRunner` will automatically dependency injected
 
 #### To turn off the following banner
 ![[Pasted image 20240410093305.png]]

@@ -54,5 +54,5 @@
 #### Important notes
 - `@Autowired` is optional if only one constructor.
 #### Data access object vs Entity
-- DAOs are used for things like saving and updating whares    
+- DAOs are used for things like saving and updating whares the Entity is used to provide an abstruction of the database (used to provide column names, table names etc).
 

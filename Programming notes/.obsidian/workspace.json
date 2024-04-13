@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/3. Hibernate & JPA/Save a java object to database.md",
+                "file": "courses/Spring boot/3. Hibernate & JPA/Command Line runner.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/3. Hibernate & JPA/Save a java object to database.md",
+                "file": "courses/Spring boot/3. Hibernate & JPA/Command Line runner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/3. Hibernate & JPA/Save a java object to database.md",
+                "file": "courses/Spring boot/3. Hibernate & JPA/Command Line runner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/3. Hibernate & JPA/Save a java object to database.md"
+                "file": "courses/Spring boot/3. Hibernate & JPA/Command Line runner.md"
               }
             }
           }
@@ -162,6 +162,7 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
+    "courses/Spring boot/3. Hibernate & JPA/Save a java object to database.md",
     "attachments/Pasted image 20240413182813.png",
     "attachments/Pasted image 20240413182512.png",
     "attachments/Pasted image 20240413141156.png",
@@ -169,7 +170,6 @@
     "attachments/Pasted image 20240413140427.png",
     "attachments/Pasted image 20240413140400.png",
     "courses/Spring boot/3. Hibernate & JPA/JPA Development process.md",
-    "courses/Spring boot/3. Hibernate & JPA/Save a java object to database.md",
     "attachments/Pasted image 20240413112828.png",
     "courses/Spring boot/3. Hibernate & JPA/Command Line runner.md",
     "courses/Spring boot/3. Hibernate & JPA/Setting Up.md",
@@ -185,7 +185,6 @@
     "attachments/Pasted image 20240410081956.png",
     "courses/Spring boot/3. Hibernate & JPA/Introduction.md",
     "attachments/Pasted image 20240409235447.png",
-    "attachments/Pasted image 20240409235329.png",
     "courses/Spring boot/3. Hibernate & JPA",
     "courses/Spring boot/3. Hibernate & JPA.md",
     "Projects/Portfolio.md",
