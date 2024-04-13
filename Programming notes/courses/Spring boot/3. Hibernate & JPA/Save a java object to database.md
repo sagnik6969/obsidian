@@ -44,7 +44,10 @@
 - This is for annotating DAOs.
 - This allows spring to automatically register the DAO implementation thanks to component scanning.
 - Spring also provides translation to any JDBC related exceptions.
+- Spring also provides translation of any JDBC related exception.
 ![[Pasted image 20240413141156.png]]
 - `@RestController` and `@Repository` are sub annotation of `@Component`
-- 
+![[Pasted image 20240413182512.png]]
+![[Pasted image 20240413182813.png]]
+
 
