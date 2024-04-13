@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAKAUT/Academic paper/Proposed model.md",
+                "file": "courses/Spring boot/3. Hibernate & JPA/JPA Development process.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAKAUT/Academic paper/Proposed model.md",
+                "file": "courses/Spring boot/3. Hibernate & JPA/JPA Development process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAKAUT/Academic paper/Proposed model.md",
+                "file": "courses/Spring boot/3. Hibernate & JPA/JPA Development process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAKAUT/Academic paper/Proposed model.md"
+                "file": "courses/Spring boot/3. Hibernate & JPA/JPA Development process.md"
               }
             }
           }
@@ -162,22 +162,23 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
+    "courses/Spring boot/3. Hibernate & JPA/Command Line runner.md",
+    "courses/Spring boot/3. Hibernate & JPA/Setting Up.md",
+    "courses/Spring boot/3. Hibernate & JPA/JPA Development process.md",
+    "MAKAUT/Academic paper/Proposed model.md",
     "rcrm/Candidate Module/Candidate Module Features.md",
     "rcrm/Untitled.md",
-    "courses/Spring boot/3. Hibernate & JPA/Command Line runner.md",
     "attachments/Pasted image 20240410093305.png",
     "courses/Spring boot/2. Spring Core/Configuring bean with java code.md",
     "courses/Spring boot/2. Spring Core/Bean lifecycle methods.md",
     "courses/Spring boot/2. Spring Core/Field injection.md",
     "courses/Spring boot/2. Spring Core/Autowiring.md",
     "courses/Spring boot/2. Spring Core/Bean scopes.md",
-    "courses/Spring boot/3. Hibernate & JPA/Setting Up.md",
     "attachments/Pasted image 20240410081956.png",
     "courses/Spring boot/3. Hibernate & JPA/Introduction.md",
     "attachments/Pasted image 20240409235447.png",
     "attachments/Pasted image 20240409235329.png",
     "attachments/Pasted image 20240409235153.png",
-    "MAKAUT/Academic paper/Proposed model.md",
     "courses/Spring boot/3. Hibernate & JPA",
     "courses/Spring boot/3. Hibernate & JPA.md",
     "Projects/Portfolio.md",
@@ -200,7 +201,6 @@
     "courses/Spring boot/1. Starters/Spring boot starters.md",
     "courses/Spring boot/1. Starters/Spring Boot project structure.md",
     "courses/Spring boot/1. Starters/Maven.md",
-    "courses/Spring boot/1. Starters/Basics.md",
     "courses/Spring boot",
     "Interview Prep/Hashedin (cleared 😊)",
     "Interview Prep",

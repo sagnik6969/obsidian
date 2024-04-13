@@ -32,6 +32,5 @@ public class CruddemoApplication {
 - add `spring.main.banner-mode=off` to `application.properties`
 
 #### To reduce logging level 
-`logging.level.root=warn`
-
+`logging.level.root=warn` => less output in the console. Will only show warning, custom logging and errors.
 
