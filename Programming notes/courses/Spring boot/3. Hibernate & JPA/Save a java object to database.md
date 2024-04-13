@@ -29,4 +29,20 @@
 - Choice depends on customer requirements and developer preference.
 - You can also use both of them in the same project.
 - For learning purpose learn entity manager first then learn JPA repository.
+
+#### Development process
+1. Define DAO interface
+2. Define DAO implementation and Inject the entity manager.
+4. Update the main app.
+![[Pasted image 20240413140400.png]]
+![[Pasted image 20240413140427.png]]
+
+#### `@Transactional` annotation
+- If we add transactional annotation before a function, spring automatically begins and ends the transaction for the JPA code inside the function.
+![[Pasted image 20240413140853.png]]
+#### `@Repositary` annotation
+- This is for annotating DAOs.
+![[Pasted image 20240413141156.png]]
+- `@RestController` and `@Repository` are sub annotation of `@Component`
 - 
+
