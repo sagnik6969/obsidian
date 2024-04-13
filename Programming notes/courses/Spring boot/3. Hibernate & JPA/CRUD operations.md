@@ -6,3 +6,10 @@ public void save(Student student){
 }
 ```
 #### Read
+```java
+@Override  
+public Student findById(int id) {  
+    return entityManager.find(Student.class,id);  
+}
+```
+> For read operation 
