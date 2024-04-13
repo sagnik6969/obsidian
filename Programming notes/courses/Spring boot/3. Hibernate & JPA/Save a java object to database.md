@@ -25,4 +25,8 @@
 - It is an alternative to `EntityManager`
 - We will discuss it later.
 - If you need low level control and flexibility use entity manager.
+- If you want high level abstraction you can use JPA repository.
+- Choice depends on customer requirements and developer preference.
+- You can also use both of them in the same project.
+- For learning purpose learn entity manager first then learn JPA repository.
 - 
