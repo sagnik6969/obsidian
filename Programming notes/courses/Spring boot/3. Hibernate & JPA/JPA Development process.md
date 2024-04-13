@@ -60,4 +60,5 @@ public class Student{
 - You can create your own primary key generation stratagy.
 - create implementation of `org.hibernate.id.IdentifierGenerator`
 - Override the method `public Serializable generate(...)`
-- 
+
+> You can automatically generate constructor, getter and setter methods 
