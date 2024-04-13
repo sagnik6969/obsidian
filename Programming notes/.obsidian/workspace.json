@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/3. Hibernate & JPA/CRUD operations.md",
+                "file": "courses/Spring boot/3. Hibernate & JPA/JPA Query language.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/3. Hibernate & JPA/CRUD operations.md",
+                "file": "courses/Spring boot/3. Hibernate & JPA/JPA Query language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/3. Hibernate & JPA/CRUD operations.md",
+                "file": "courses/Spring boot/3. Hibernate & JPA/JPA Query language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/3. Hibernate & JPA/CRUD operations.md"
+                "file": "courses/Spring boot/3. Hibernate & JPA/JPA Query language.md"
               }
             }
           }
@@ -162,8 +162,10 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
-    "courses/Spring boot/3. Hibernate & JPA/Command Line runner.md",
+    "attachments/Pasted image 20240413203228.png",
     "courses/Spring boot/3. Hibernate & JPA/CRUD operations.md",
+    "courses/Spring boot/3. Hibernate & JPA/JPA Query language.md",
+    "courses/Spring boot/3. Hibernate & JPA/Command Line runner.md",
     "courses/Spring boot/3. Hibernate & JPA/Save a java object to database.md",
     "attachments/Pasted image 20240413182813.png",
     "attachments/Pasted image 20240413182512.png",
@@ -199,8 +201,6 @@
     "courses/Spring boot/1. Starters/application.properties.md",
     "courses/Spring boot/1. Starters/Running Spring Boot Using Commend Line.md",
     "courses/Spring boot/1. Starters/Spring security.md",
-    "courses/Spring boot/1. Starters/Spring boot actuator.md",
-    "courses/Spring boot/1. Starters/Spring boot starters.md",
     "courses/Spring boot",
     "Interview Prep/Hashedin (cleared 😊)",
     "Interview Prep",
