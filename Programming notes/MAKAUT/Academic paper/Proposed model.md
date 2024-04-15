@@ -188,7 +188,10 @@ function verify(transaction)
 {
         try {
             publicKey = transaction.file_uploaded_by;
+            // public key of the csp which was responsible for storing the file.
             signature = transaction.digital_signature;
+            // digital signature of the csp which stored the file.
+           
             return verifyTransaction(json_encode({
                 'uploaded_file_path' => transaction.uploaded_file_path,
                 'file_uploaded_by' => transaction.file_uploaded_by,
@@ -198,8 +201,53 @@ function verify(transaction)
         } catch {
             return false;
  }
+function json_encode(array){
+// Converts an object or array to srting
+}
+
+function verifyTransaction(jsonString, publicKey, signature){
+// verifies the transaction using the transaction metadata , public key of the sender, and digital signature of the sender on the transation.
+
+if(
+the signature is valid
+) return true;
+return false;
+}
+
 ```
+
 ##### blockchain verification
 To verify the blockchain at first in every  lock the stored previous block hash is matched with actual calculated previous block hash. If they do not match then data integrity has been compromised. If the the block passes this verification then Every transaction in every block is verified using the above mentioned transaction verification method.
+```js
+function verifyBlockchain(blockchain) {
+    // Step 1: Iterate through each block in the blockchain
+    for each block in blockchain {
+        // Step 2: Verify the previous block hash of the current block
+        if (!verifyPreviousBlockHash(block)) {
+            return "Blockchain verification failed: Previous block hash mismatch";
+        }
+        
+        // Step 3: Verify every transaction in the current block
+        for each transaction in block.transactions {
+            if (!verifyTransaction(transaction)) {
+                return "Blockchain verification failed: Transaction verification failed";
+            }
+        }
+    }
+    
+    // Blockchain verification passed
+    return "Blockchain verification successful";
+}
 
+function verifyPreviousBlockHash(block) {
+    // Verify the previous block hash of the provided block
+    // Return true if verification succeeds, false otherwise
+}
+
+function verifyTransaction(transaction) {
+    // Verify the provided transaction using the transaction verification method
+    // Return true if verification succeeds, false otherwise
+}
+
+```
 
