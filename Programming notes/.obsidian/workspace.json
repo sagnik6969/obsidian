@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/3. Hibernate & JPA/JPA Query language.md",
+                "file": "MAKAUT/Academic paper/Proposed model.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/3. Hibernate & JPA/JPA Query language.md",
+                "file": "MAKAUT/Academic paper/Proposed model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/3. Hibernate & JPA/JPA Query language.md",
+                "file": "MAKAUT/Academic paper/Proposed model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/3. Hibernate & JPA/JPA Query language.md"
+                "file": "MAKAUT/Academic paper/Proposed model.md"
               }
             }
           }
@@ -162,11 +162,11 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
+    "courses/Spring boot/3. Hibernate & JPA/JPA Query language.md",
     "attachments/Pasted image 20240413203544.png",
     "attachments/Pasted image 20240413203341.png",
     "attachments/Pasted image 20240413203228.png",
     "courses/Spring boot/3. Hibernate & JPA/CRUD operations.md",
-    "courses/Spring boot/3. Hibernate & JPA/JPA Query language.md",
     "courses/Spring boot/3. Hibernate & JPA/Command Line runner.md",
     "courses/Spring boot/3. Hibernate & JPA/Save a java object to database.md",
     "attachments/Pasted image 20240413182813.png",
@@ -181,7 +181,6 @@
     "MAKAUT/Academic paper/Proposed model.md",
     "rcrm/Candidate Module/Candidate Module Features.md",
     "rcrm/Untitled.md",
-    "attachments/Pasted image 20240410093305.png",
     "courses/Spring boot/2. Spring Core/Configuring bean with java code.md",
     "courses/Spring boot/2. Spring Core/Bean lifecycle methods.md",
     "courses/Spring boot/2. Spring Core/Field injection.md",
