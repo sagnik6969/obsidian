@@ -66,6 +66,46 @@ function joinBlockchainNetwork() {
 ##### 3. File upload 
 Every CSP has an http endpoint for uploading a file. If an user want to upload a file It makes a post request to appropriate http endpoint. CSP first validates the file then it stores the file locally. 
 
+```php
+public function store(Request $request)
+    {
+        $request->validate([
+            'file' => 'required|file'
+        ]);
+        // validates the request
+
+  
+
+        $file = $request->file('file');
+        //extracts the file from the http request
+
+        $path = $file->store('/tests', 'public');
+        // Stores the file locally.
+
+
+        $fileContent = $file->getContent();
+        //get the contents of the file in form of string
+
+        $fileHash = Hash::make($fileContent);
+        // calculate hash digest for the file
+
+        $transaction = Transaction::createTransaction([
+            'uploaded_file_path' => url('storage/' . $path),
+            'file_uploaded_by' => 'sagnik',
+            'file_stored_by' => file_get_contents(base_path() . '/.block_chain_keys/public'),
+            'file_hash' => $fileHash,
+        ]);
+        // Create a transaction which will be stored inside a blockchain 
+        // The transaction contains the uploaded file path, the public key of the csp which stores the transaction. Hash digest of the file.
+
+
+        return $transaction;
+        // returns contents of the transaction in a json format.
+  
+
+    }
+```
+
 ##### 4. Transaction
 After that it creates a hash digest of the file. The hash digest of the file is required to verify the data integrity of the file. After that a transaction is created for the file upload operation. The transaction contains file upload path. the public key of the csp where file is uploaded. and the hash digest of the file. The transaction is stored locally. 
 
