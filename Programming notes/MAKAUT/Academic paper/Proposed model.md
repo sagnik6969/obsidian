@@ -111,6 +111,38 @@ After that it creates a hash digest of the file. The hash digest of the file is 
 
 ##### 5. Blockchain
 Once sufficient number of transactions are accumulated a block is created containing the transactions which are not yet stored in the blockchain. Then the block is broadcasted to other members of the cloud federation. Other members verify the previous block hash of the block and then they verify the digital signature of every transaction. The the block passes the verification process then the block is added to the local copy of blockchain.
+
+```js
+function handleBlockCreation(transactions) {
+    // Step 1: Create a new block containing the accumulated transactions
+    newBlock = createBlock(transactions);
+
+    // Step 2: Broadcast the new block to other members of the cloud federation
+    broadcastBlock(newBlock);
+
+    
+   // Step 3: Add the verified block to the local copy of the blockchain
+        addToLocalBlockchain(newBlock);
+        return "Block added to the blockchain";
+    
+}
+
+function createBlock(transactions) {
+    // Create a new block with the provided transactions
+    // Return the new block
+}
+
+function broadcastBlock(block) {
+    // Broadcast the provided block to other members of the cloud federation
+}
+
+
+function addToLocalBlockchain(block) {
+    // Add the provided block to the local copy of the blockchain
+}
+
+
+```
 ##### 6. To Verify The Integrity of a file
 To verify the integrity of a file, the file can be requested from the cloud service provider which stores the file. Then the hash digest of the file is fetched from blockchain. We store the file hash during the file upload operation in a transaction. And since the hash digest of of the file is stored in a blockchain it is preictally impossible to tamper. Since hash function is a one way function it is impossible to reverse engineer the file from the hash value. So if the data integrity is compromised it will be known to the end user.  
 
