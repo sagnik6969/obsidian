@@ -146,9 +146,59 @@ function addToLocalBlockchain(block) {
 ##### 6. To Verify The Integrity of a file
 To verify the integrity of a file, the file can be requested from the cloud service provider which stores the file. Then the hash digest of the file is fetched from blockchain. We store the file hash during the file upload operation in a transaction. And since the hash digest of of the file is stored in a blockchain it is preictally impossible to tamper. Since hash function is a one way function it is impossible to reverse engineer the file from the hash value. So if the data integrity is compromised it will be known to the end user.  
 
+```js
+function verifyFileIntegrity(fileId) {
+    // Step 1: Request the file from the cloud service provider
+    file = requestFileFromCSP(fileId);
+    
+    // Step 2: Fetch the hash digest of the file from the blockchain
+    fileHash = fetchFileHashFromBlockchain(fileId);
+
+    // Step 3: Calculate the hash digest of the retrieved file
+    calculatedHash = calculateHash(file);
+
+    // Step 4: Compare the fetched hash digest with the calculated hash digest
+    if (fileHash == calculatedHash) {
+        return "File integrity verified: The hash digests match";
+    } else {
+        return "File integrity compromised: The hash digests do not match";
+    }
+}
+
+function requestFileFromCSP(fileId) {
+    // Request the file with the specified ID from the cloud service provider
+    // Return the retrieved file
+}
+
+function fetchFileHashFromBlockchain(fileId) {
+    // Fetch the hash digest of the file with the specified ID from the blockchain
+    // Return the fetched hash digest
+}
+
+function calculateHash(file) {
+    // Calculate the hash digest of the provided file
+    // Return the calculated hash digest
+}
+```
 ##### Transaction verification
 To verify a transaction we need to verify the digital signature of the transaction. Every transaction contains the public key of the signer. The CSP which needs to verify the transaction can verify the transaction using the transaction data and the senders public key. 
+```php
 
+function verify(transaction)
+{
+        try {
+            publicKey = transaction.file_uploaded_by;
+            signature = transaction.digital_signature;
+            return verifyTransaction(json_encode({
+                'uploaded_file_path' => transaction.uploaded_file_path,
+                'file_uploaded_by' => transaction.file_uploaded_by,
+                'file_stored_by' => $transaction.file_stored_by,
+                'file_hash' => $transaction.file_hash,
+            }), publicKey,signature);
+        } catch {
+            return false;
+ }
+```
 ##### blockchain verification
 To verify the blockchain at first in every  lock the stored previous block hash is matched with actual calculated previous block hash. If they do not match then data integrity has been compromised. If the the block passes this verification then Every transaction in every block is verified using the above mentioned transaction verification method.
 
