@@ -23,7 +23,6 @@ At first when a cloud service provider joins the blockchain network. It   genera
 When a cloud service provider joins the blockchain network It need to first get the existing blockchain. It requests the blockchain from one of the existing cloud service providers. After receiving the blockchain it verifies previous block hash of every blockchain. The previous block hash stored in every block must be equal to to the hash of the previous block. In case of genesis block the hash of the previous block should be empty string. After that it verifies the digital signature of every transaction in each block. If the blockchain passes the verification process It is stored locally by the newly joined cloud service provider.
 
 ```kotlin
-
 function joinBlockchainNetwork() {
     // Step 1: Request existing blockchain
     blockchain = requestBlockchainFromExistingProvider();
