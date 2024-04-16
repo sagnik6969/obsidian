@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAKAUT/Academic paper/Proposed model.md",
+                "file": "rcrm/issues/Space after comma (,) between Skills.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAKAUT/Academic paper/Proposed model.md",
+                "file": "rcrm/issues/Space after comma (,) between Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAKAUT/Academic paper/Proposed model.md",
+                "file": "rcrm/issues/Space after comma (,) between Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAKAUT/Academic paper/Proposed model.md"
+                "file": "rcrm/issues/Space after comma (,) between Skills.md"
               }
             }
           }
@@ -162,6 +162,10 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
+    "rcrm/Untitled.md",
+    "rcrm/issues/Space after comma (,) between Skills.md",
+    "MAKAUT/Academic paper/Proposed model.md",
+    "rcrm/issues",
     "courses/Spring boot/3. Hibernate & JPA/JPA Query language.md",
     "attachments/Pasted image 20240413203544.png",
     "attachments/Pasted image 20240413203341.png",
@@ -178,9 +182,7 @@
     "courses/Spring boot/3. Hibernate & JPA/JPA Development process.md",
     "attachments/Pasted image 20240413112828.png",
     "courses/Spring boot/3. Hibernate & JPA/Setting Up.md",
-    "MAKAUT/Academic paper/Proposed model.md",
     "rcrm/Candidate Module/Candidate Module Features.md",
-    "rcrm/Untitled.md",
     "courses/Spring boot/2. Spring Core/Configuring bean with java code.md",
     "courses/Spring boot/2. Spring Core/Bean lifecycle methods.md",
     "courses/Spring boot/2. Spring Core/Field injection.md",
@@ -205,7 +207,6 @@
     "Interview Prep",
     "MAKAUT",
     "Projects",
-    "rcrm/Job Module",
-    "courses"
+    "rcrm/Job Module"
   ]
 }
