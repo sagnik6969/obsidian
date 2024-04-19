@@ -1,0 +1,2 @@
+- Similar to migrations in laravel.
+- 
