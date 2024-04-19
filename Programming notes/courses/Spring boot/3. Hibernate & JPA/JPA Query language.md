@@ -6,3 +6,4 @@
 ![[Pasted image 20240413203544.png]]
 ![[Pasted image 20240419104455.png]]
 ![[Pasted image 20240419104836.png]]
+- In update operation we should add `@Transactional` annotation.
