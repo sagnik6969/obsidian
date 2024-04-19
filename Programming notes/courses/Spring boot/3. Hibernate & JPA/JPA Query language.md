@@ -7,3 +7,5 @@
 ![[Pasted image 20240419104455.png]]
 ![[Pasted image 20240419104836.png]]
 - In update operation we should add `@Transactional` annotation.
+![[Pasted image 20240419151047.png]]
+![[Pasted image 20240419151127.png]]
