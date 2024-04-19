@@ -20,4 +20,6 @@
 - In general auto generation is not recommended for enterprise / Realtime applications because you can very easily drop production data if you are not careful.
 ###### SQL scripts are recommended because
 - Corporate dbas prefer SQL scripts for governance and code review.
-- 
+- SQL scripts can be customized and fine tuned for complex database design.
+- SQL scripts can be version controlled.
+- Can also work with schema migration tools such as liquibase and flyway.
