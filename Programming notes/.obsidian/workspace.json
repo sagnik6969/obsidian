@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/3. Hibernate & JPA/Creating table using java code.md",
+                "file": "courses/Spring boot/REST CRUD/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/3. Hibernate & JPA/Creating table using java code.md",
+                "file": "courses/Spring boot/REST CRUD/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/3. Hibernate & JPA/Creating table using java code.md",
+                "file": "courses/Spring boot/REST CRUD/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/3. Hibernate & JPA/Creating table using java code.md"
+                "file": "courses/Spring boot/REST CRUD/Introduction.md"
               }
             }
           }
@@ -162,10 +162,11 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
+    "courses/Spring boot/3. Hibernate & JPA/Creating table using java code.md",
+    "courses/Spring boot/REST CRUD/Introduction.md",
     "courses/Spring boot/REST CRUD",
     "attachments/Pasted image 20240419215215.png",
     "courses/Spring boot/3. Hibernate & JPA/JPA Query language.md",
-    "courses/Spring boot/3. Hibernate & JPA/Creating table using java code.md",
     "attachments/Pasted image 20240419151127.png",
     "attachments/Pasted image 20240419151047.png",
     "attachments/Pasted image 20240419104836.png",
@@ -206,7 +207,6 @@
     "Interview Prep/Hashedin (cleared 😊)",
     "Interview Prep",
     "MAKAUT",
-    "Projects",
-    "rcrm/Job Module"
+    "Projects"
   ]
 }
