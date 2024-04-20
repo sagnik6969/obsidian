@@ -12,3 +12,50 @@
 - JSON data being passed to rest controller is automatically converted to POJO.
 - Any java object being returned from rest controller is converted to json.
 - All this happens automatically behind the scenes thanks to `spring <=> jackson`
+
+#### Example
+```java
+@RestController  
+@RequestMapping("/api")  
+public class StudentRestController {  
+
+    @GetMapping("/students")  
+    List<Student> getStudents(){  
+        ArrayList<Student> students = new ArrayList<>();  
+        students.add(new Student("Sagnik","Jana"));  
+        students.add(new Student("BC","Jana"));  
+        return  students;  
+    }   
+}
+```
+
+#### student class
+```java
+public class Student {  
+    private String firstName;  
+    private String lastName;  
+  
+    public Student(){}  
+  
+    public Student(String firstName, String lastName) {  
+        this.firstName = firstName;  
+        this.lastName = lastName;  
+    }  
+  
+    public String getFirstName() {  
+        return firstName;  
+    }  
+  
+    public void setFirstName(String firstName) {  
+        this.firstName = firstName;  
+    }  
+  
+    public String getLastName() {  
+        return lastName;  
+    }  
+  
+    public void setLastName(String lastName) {  
+        this.lastName = lastName;  
+    }  
+}
+```
