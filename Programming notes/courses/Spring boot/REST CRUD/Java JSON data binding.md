@@ -4,5 +4,6 @@
 - Spring uses `jackson` project behind the scenes.
 - Jackson handles data binding between JSON and java POJOS.
 #### JSON to java POJO
-- Convert JSON to java POJO `=>` Call setter method on POJO.
+- Convert JSON to java POJO `=>` Call setter method on POJO. `=>` Jackson will do all this work behind the scenes.
+#### Java POJO to JSON
 - 
