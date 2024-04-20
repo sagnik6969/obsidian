@@ -23,3 +23,13 @@
 - SQL scripts can be customized and fine tuned for complex database design.
 - SQL scripts can be version controlled.
 - Can also work with schema migration tools such as liquibase and flyway.
+
+#### Environment configuration
+##### log sql statements  
+- `logging.level.org.hibernate.SQL=debug`
+- Output: `insert into student (email,first_name,last_name) values (?,?,?)`
+
+  
+##### log values for sql statements (the values which are used for params) 
+-  `logging.level.org.hibernate.orm.jdbc.bind=trace`
+- Output: `binding parameter (1:VARCHAR) <- [sag@gmail.com]`
