@@ -1,0 +1,3 @@
+- Data binding is the process of converting JSON data to a java POJO or to 
+- `POJO => ` Plan Old Java Object
+- 
