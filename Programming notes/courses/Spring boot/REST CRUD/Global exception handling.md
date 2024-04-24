@@ -12,4 +12,6 @@
 - `@ControllerAdvice` will preprocess requests going to controllers and postprocess responses coming out of controllers.
 
 #### Development process
+- Just cut and paste the `@ExceptionHandler` code from controller to `@ControllerAdvice`
+- The only difference is that this exception handler code will be available to all the controllers.
 - 
