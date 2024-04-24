@@ -1,0 +1,2 @@
+- The convention is to use plural for of the entity name as http endpoint name. Example: `/api/employees`.
+- 

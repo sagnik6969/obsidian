@@ -14,4 +14,32 @@
 #### Development process
 - Just cut and paste the `@ExceptionHandler` code from controller to `@ControllerAdvice`
 - The only difference is that this exception handler code will be available to all the controllers.
-- 
+
+#### Code
+```java
+package com.sagnik.restcrud.rest;  
+
+@ControllerAdvice  
+public class StudentRestExceptionHandler {  
+  
+    @ExceptionHandler  
+    ResponseEntity<StudentErrorResponse> handleException(StudentNotFoundException studentNotFoundException){  
+        StudentErrorResponse studentErrorResponse = new StudentErrorResponse();  
+        studentErrorResponse.setStatus(HttpStatus.NOT_FOUND.value());  
+        studentErrorResponse.setMessage(studentNotFoundException.getMessage());  
+        studentErrorResponse.setTimestamp(System.currentTimeMillis());  
+  
+        return  new ResponseEntity<StudentErrorResponse>(studentErrorResponse,HttpStatus.NOT_FOUND);  
+    }  
+  
+    @ExceptionHandler  
+    ResponseEntity<StudentErrorResponse> handleException(Exception e){  
+        StudentErrorResponse studentErrorResponse = new StudentErrorResponse();  
+        studentErrorResponse.setMessage(e.getMessage());  
+        studentErrorResponse.setStatus(HttpStatus.BAD_REQUEST.value());  
+        studentErrorResponse.setTimestamp(System.currentTimeMillis());  
+        return new ResponseEntity<>(studentErrorResponse,HttpStatus.BAD_REQUEST);  
+    }  
+}
+
+```
