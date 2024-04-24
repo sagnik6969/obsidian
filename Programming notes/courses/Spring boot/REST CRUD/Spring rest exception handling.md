@@ -10,5 +10,6 @@
 3. `jackson` will be responsible for converting the POJO to json. 
 #### Create a custom exception
 1. The custom exception will be used by rest service to throw an exception based on condition.
-
+2. Example: `StudentNotFoundException`
+3. 
  
