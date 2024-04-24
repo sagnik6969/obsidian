@@ -8,3 +8,5 @@ ResponseEntity<StudentErrorResponse> handleException(Exception e){
     return new ResponseEntity<>(studentErrorResponse,HttpStatus.BAD_REQUEST);  
 }
 ```
+- the `handleException` method will accept all type of exceptions
+- 
