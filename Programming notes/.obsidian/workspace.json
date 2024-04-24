@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/REST CRUD/Spring rest exception handling.md",
+                "file": "courses/Spring boot/REST CRUD/Handle any type of exception.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/REST CRUD/Spring rest exception handling.md",
+                "file": "courses/Spring boot/REST CRUD/Handle any type of exception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/REST CRUD/Spring rest exception handling.md",
+                "file": "courses/Spring boot/REST CRUD/Handle any type of exception.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/REST CRUD/Spring rest exception handling.md"
+                "file": "courses/Spring boot/REST CRUD/Handle any type of exception.md"
               }
             }
           }
@@ -162,9 +162,10 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
+    "courses/Spring boot/REST CRUD/Spring rest exception handling.md",
+    "courses/Spring boot/REST CRUD/Handle any type of exception.md",
     "courses/Spring boot/REST CRUD/Java JSON data binding.md",
     "courses/Spring boot/REST CRUD/Route params.md",
-    "courses/Spring boot/REST CRUD/Spring rest exception handling.md",
     "courses/Spring boot/REST CRUD/Spring Rest Controller.md",
     "courses/Spring boot/REST CRUD/Introduction.md",
     "courses/Spring boot/3. Hibernate & JPA/Creating table using java code.md",
@@ -202,7 +203,6 @@
     "courses/Spring boot/2. Spring Core",
     "courses/Spring boot/1. Starters",
     "courses/Spring boot/2. Spring Core/Lazy Initialization.md",
-    "courses/Spring boot/2. Spring Core/Setter injection.md",
     "courses/Spring boot",
     "Interview Prep/Hashedin (cleared 😊)",
     "Interview Prep",
