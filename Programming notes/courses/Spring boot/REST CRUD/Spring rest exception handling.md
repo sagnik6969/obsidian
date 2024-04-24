@@ -9,5 +9,6 @@
 2. We will define a java POJO.
 3. `jackson` will be responsible for converting the POJO to json. 
 #### Create a custom exception
-1. 
+1. The custom exception will be used by rest service to throw an exception based on condition.
+
  
