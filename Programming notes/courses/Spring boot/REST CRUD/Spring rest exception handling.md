@@ -11,5 +11,14 @@
 #### Create a custom exception
 1. The custom exception will be used by rest service to throw an exception based on condition.
 2. Example: `StudentNotFoundException`
-3. 
+#### Add exception handler method
+- Define exception handler method with `@ExceptionHandler` annotation from spring.
+- exception handler will return a response entity. 
+- response entity is just a wrapper for for HTTP response object.
+- Response entity provides fine grained control to specify
+     1. HTTP Status code
+     2. HTTP headers 
+     3. response body
+
+
  
