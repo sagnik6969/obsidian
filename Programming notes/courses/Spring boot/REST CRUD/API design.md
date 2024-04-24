@@ -8,4 +8,4 @@
 - These are rest anti patterns / bad practices.
 - Don't include action name in the endpoint.
 - Example: `api/employList`, `api/deleteEmployee` etc
-- instead use `GET to => api/employees, delete to => api/employees`
+- instead use `GET => api/employees, delete => api/employees`
