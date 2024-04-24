@@ -1,0 +1,3 @@
+- Exception handler code is only for a specific rest controller.
+- it cant be reused by other controller.
+- 

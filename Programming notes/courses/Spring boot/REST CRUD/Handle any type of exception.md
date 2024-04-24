@@ -9,4 +9,3 @@ ResponseEntity<StudentErrorResponse> handleException(Exception e){
 }
 ```
 - the `handleException` method will accept all type of exceptions
-- 
