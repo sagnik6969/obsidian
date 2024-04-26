@@ -34,5 +34,12 @@ Spring data JPA also has some advanced features like
 - Extending and adding custom queries with JPQL.
 - Query domain specific language (QDSL)
 - Defining custom methods (Low level coding)
-- 
 
+#### Coding
+```java
+public interface EmployeeRepository extends JpaRepository<Employee,Integer> {  
+    // THats it, no need to write any code  
+}
+```
+
+> Spring data jpa provides `@Transactional` annotations automatically. So we don't need to write it separately. 
