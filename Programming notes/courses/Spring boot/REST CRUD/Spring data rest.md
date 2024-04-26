@@ -33,3 +33,8 @@ For spring data rest you need only 3 items
 - Pagination sorting and searching.
 - Extending and adding custom queries with JPQL.
 - Query domain specific language. (Query DSL)
+#### Provide a base URL fer spring data rest
+- Add the following line to `application.properties`
+- `spring.data.rest.base-path=/api`
+> Note spring data rest always ids in URL. Which means for update operation you have to put the id in URL.
+> 

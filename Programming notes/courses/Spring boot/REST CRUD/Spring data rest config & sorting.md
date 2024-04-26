@@ -1,0 +1,2 @@
+- spring data rest creates rest end points by adding an *S* at the end of the entity name.
+- 
