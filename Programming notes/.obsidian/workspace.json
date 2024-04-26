@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/REST CRUD/Service layer.md",
+                "file": "courses/Spring boot/REST CRUD/Service Layer best practices.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/REST CRUD/Service layer.md",
+                "file": "courses/Spring boot/REST CRUD/Service Layer best practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/REST CRUD/Service layer.md",
+                "file": "courses/Spring boot/REST CRUD/Service Layer best practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/REST CRUD/Service layer.md"
+                "file": "courses/Spring boot/REST CRUD/Service Layer best practices.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
-    "courses/Spring boot/REST CRUD/Why Do we need service interface or DAO interface.md",
     "courses/Spring boot/REST CRUD/Service layer.md",
+    "courses/Spring boot/REST CRUD/Service Layer best practices.md",
+    "courses/Spring boot/REST CRUD/Why Do we need service interface or DAO interface.md",
     "courses/Spring boot/3. Hibernate & JPA/JPA Development process.md",
     "courses/Spring boot/3. Hibernate & JPA/Command Line runner.md",
     "courses/Spring boot/3. Hibernate & JPA/Setting Up.md",
@@ -199,7 +200,6 @@
     "courses/Spring boot/2. Spring Core/Bean lifecycle methods.md",
     "courses/Spring boot/2. Spring Core/Field injection.md",
     "courses/Spring boot/2. Spring Core/Autowiring.md",
-    "courses/Spring boot/2. Spring Core/Bean scopes.md",
     "courses/Spring boot/3. Hibernate & JPA",
     "courses/Spring boot/2. Spring Core",
     "courses/Spring boot/1. Starters",

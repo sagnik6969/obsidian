@@ -17,7 +17,7 @@
 
 ```java
 
-  
+@Service  
 public class EmployeeServiceImpl implements EmployeeService{  
   
     private final EmployeeDAO employeeDAO;  

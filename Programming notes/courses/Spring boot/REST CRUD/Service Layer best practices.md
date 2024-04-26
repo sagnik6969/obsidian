@@ -1,0 +1,2 @@
+- Best practice is to apply transactional boundaries in the service layer. 
+- Which means use `@Transactional` annotation in the service layer instead of DAO.
