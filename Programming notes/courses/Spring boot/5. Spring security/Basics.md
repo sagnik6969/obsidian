@@ -9,5 +9,7 @@
 - All java config: `@Configuration`
 - Advantage of this is that provides separation of concerns between application code and security.
 #### Programmatic security
-- Spring  securit 
+- Spring security provides an api for custom application coding. 
+- Provides greater customization for specific app requirements.
+- 
 
