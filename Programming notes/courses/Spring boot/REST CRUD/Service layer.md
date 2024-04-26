@@ -4,4 +4,11 @@
 - It follows **Service Facade** design pattern.
 - Intermediate layer for custom business logic.
 - Integrate data from multiple sources. (DAO / Repositories).
-- 
+
+> Spring provides `@service` annotation.
+> `@Service`, `@Repositary`, `@RestController` are sub annotations of `@Component`.
+
+#### Development Process
+- Define service interface.
+- Define service implementation.
+- Inject the employee DAO in service implementation.
