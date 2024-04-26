@@ -14,11 +14,25 @@ I wish we could tell spring
 - and spring will give you a crud implementation for free.
 - This helps to minimize boiler plate code.
 #### JPA repository
-- Spring data JPA provides the interface: JPA repository.
+- Spring data JPA provides the interface: `JPA repository`.
 - exposes methods (some by inheritance from parents).
 - `findAll()`
 - `findById()`
 - `save()`
 - `deleteById()`
 - etc
+#### Development process
+1. Extent JPA repository interface.
+2. Use your repository in your app.
+3. No need for an implementation class.
+![[Pasted image 20240426104848.png]]
+#### All methods in JPA repository
+https://docs.spring.io/spring-data/jpa/docs/current/api/org/springframework/data/jpa/repository/JpaRepository.html
+
+#### Advanced Features
+Spring data JPA also has some advanced features like
+- Extending and adding custom queries with JPQL.
+- Query domain specific language (QDSL)
+- Defining custom methods (Low level coding)
+- 
 
