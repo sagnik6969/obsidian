@@ -23,4 +23,13 @@ I wish I could tell spring: Create a rest API for me
 For spring data rest you need only 3 items
 1. Your entity: `Employee`
 2. JPA repository: `EmployeeRepository extends JpaRepository<Employee,Integer>`
-3. Maven POM dependency for `spring-boot-starter-data-rest` 
+3. Maven POM dependency for `spring-boot-starter-data-rest`
+#### HATEOAS
+1. Spring data rest endpoints are HATEOAS compliant.
+2. It is basically the metadata which comes with http response.
+3. For example REST response from: `GET => /employees/3`
+![[Pasted image 20240426125409.png]]
+#### Advanced Features
+- Pagination sorting and searching.
+- Extending and adding custom queries with JPQL.
+- Query domain specific language. (Query DSL)
