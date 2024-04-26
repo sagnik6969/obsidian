@@ -180,3 +180,6 @@ public class CruddemoApplication {
 }
 ```
 
+- `entityManager.marge` => can both save and update an entity. if id of the entity is 0 then it will save a new entity else it5 will update the existing entity.
+- 
+
