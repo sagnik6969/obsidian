@@ -12,3 +12,24 @@
 - Define service interface.
 - Define service implementation.
 - Inject the employee DAO in service implementation.
+
+#### Code
+
+```java
+
+  
+public class EmployeeServiceImpl implements EmployeeService{  
+  
+    private final EmployeeDAO employeeDAO;  
+  
+    @Autowired  
+    public EmployeeServiceImpl(EmployeeDAO employeeDAO){  
+        this.employeeDAO = employeeDAO;  
+    }  
+  
+    @Override  
+    public List<Employee> findAll() {  
+        return employeeDAO.findAll();  
+    }  
+}
+```
