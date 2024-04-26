@@ -8,3 +8,17 @@ I wish we could tell spring
      - Create a DAO for me
      - Plugin my entity type and primary key.
      - Give me all the basic crud features for free.
+
+#### Spring data JPA is the solution
+- Create a DAO and just plugin your entity type and primary key.
+- and spring will give you a crud implementation for free.
+- This helps to minimize boiler plate code.
+#### JPA repository
+- Spring data JPA provides the interface: JPA repository.
+- exposes methods (some by inheritance from parents).
+- `findAll()`
+- `findById()`
+- `save()`
+- `deleteById()`
+- etc
+
