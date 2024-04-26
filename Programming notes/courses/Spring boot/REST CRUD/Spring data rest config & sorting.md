@@ -18,4 +18,8 @@ public interface EmployeeRepository extends JpaRepository<Employee,Integer> {
 - `spring.data.rest.default-page-size=10` `=>` default size of page (In pagination)
 - `spring.data.rest.max-page-size` `=>` Maximum size of pages.
 #### Sorting
-- You can sort by 
+- You can sort by the property name of your entity.
+- Example: Sort by last name: `/employees?sort=lastName`
+- Sort by first name descending:  `/employees?sort=firstName,desc`
+- Sort by first name then last name in descending order `/employees?sort=firstName,lastName,desc`
+- 
