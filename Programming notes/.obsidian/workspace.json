@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/REST CRUD/Fetching Request Body.md",
+                "file": "courses/Spring boot/3. Hibernate & JPA/Spring Data JPA.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/REST CRUD/Fetching Request Body.md",
+                "file": "courses/Spring boot/3. Hibernate & JPA/Spring Data JPA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/REST CRUD/Fetching Request Body.md",
+                "file": "courses/Spring boot/3. Hibernate & JPA/Spring Data JPA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/REST CRUD/Fetching Request Body.md"
+                "file": "courses/Spring boot/3. Hibernate & JPA/Spring Data JPA.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
-    "courses/Spring boot/REST CRUD/API design.md",
     "courses/Spring boot/REST CRUD/Fetching Request Body.md",
+    "courses/Spring boot/3. Hibernate & JPA/Spring Data JPA.md",
+    "courses/Spring boot/REST CRUD/API design.md",
     "courses/Spring boot/REST CRUD/Global exception handling.md",
     "courses/Spring boot/REST CRUD/Handle any type of exception.md",
     "courses/Spring boot/REST CRUD/Spring rest exception handling.md",
@@ -199,7 +200,6 @@
     "rcrm/Candidate Module/Candidate Module Features.md",
     "courses/Spring boot/2. Spring Core/Configuring bean with java code.md",
     "courses/Spring boot/2. Spring Core/Bean lifecycle methods.md",
-    "courses/Spring boot/2. Spring Core/Field injection.md",
     "courses/Spring boot/3. Hibernate & JPA",
     "courses/Spring boot/2. Spring Core",
     "courses/Spring boot/1. Starters",
