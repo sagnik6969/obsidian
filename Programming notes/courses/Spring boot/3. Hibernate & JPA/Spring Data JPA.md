@@ -42,4 +42,4 @@ public interface EmployeeRepository extends JpaRepository<Employee,Integer> {
 }
 ```
 
-> Spring data jpa provides `@Transactional` annotations automatically. So we don't need to write it separately. 
+> Spring data JPA provides `@Transactional` annotations automatically. So we don't need to write it separately. 
