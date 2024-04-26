@@ -18,5 +18,10 @@
 3. Now when y6ou access your application spring security will prompt you to log in.
 4. Default username is `user`
 5. Default password is printed in the application logs.
-6. 
+6. Later on we will learn how to customize user id and password including storing them in the database.
+#### Configure Spring Security
+In `application.properties` file
+- `spring.security.user.name=scott` `=>` To update default username.
+- `spring.security.user.password=tiger` `=>` To update default password.
+- 
 
