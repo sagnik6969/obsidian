@@ -8,7 +8,7 @@
 #### Development process
 1. Create a spring security configuration class. (`@Configuration`)
 2. Add user, passwords and roles
-#### Create Spring Security Configuration
+#### 1. Create Spring Security Configuration
 ```java
 @Configuration
 public class DemoSecurityConfig {
@@ -18,5 +18,13 @@ public class DemoSecurityConfig {
 #### Spring security password storage:
 - In spring security passwords are stored using specific format.
 - `id{encodedPassword}`
-- 
+- id stores hashing algorithm used for password.
 
+| id     | Description               |
+| ------ | ------------------------- |
+| noop   | Plain text passwords.     |
+| bcrypt | one way hashing algorithm |
+- Example: `{noop}test123`
+
+
+#### 2. Add users passwords and roles

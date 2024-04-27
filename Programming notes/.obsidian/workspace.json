@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "@Configuration",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,7 +161,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b1f812c14709d91",
+  "active": "b954b9ba2bad1429",
   "lastOpenFiles": [
     "courses/Spring boot/5. Spring security/Basics.md",
     "courses/Spring boot/5. Spring security/Basic configuration.md",
