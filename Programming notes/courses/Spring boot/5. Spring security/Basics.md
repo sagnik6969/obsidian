@@ -23,5 +23,11 @@
 In `application.properties` file
 - `spring.security.user.name=scott` `=>` To update default username.
 - `spring.security.user.password=tiger` `=>` To update default password.
-- 
+#### Authentication & Authorization
+- In memory
+- JDBC
+- LDAP
+- Custom plugin
+- Others
+
 
