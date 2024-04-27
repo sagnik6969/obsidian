@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/5. Spring security/Restrict access based on roles.md",
+                "file": "courses/Spring boot/5. Spring security/Spring Security With User Accounts Stored in The Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 309.5
   },
   "right": {
     "id": "6d8efcf62552782e",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/5. Spring security/Restrict access based on roles.md",
+                "file": "courses/Spring boot/5. Spring security/Spring Security With User Accounts Stored in The Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/5. Spring security/Restrict access based on roles.md",
+                "file": "courses/Spring boot/5. Spring security/Spring Security With User Accounts Stored in The Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/5. Spring security/Restrict access based on roles.md"
+                "file": "courses/Spring boot/5. Spring security/Spring Security With User Accounts Stored in The Database.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
-    "courses/Spring boot/5. Spring security/Basic configuration.md",
     "courses/Spring boot/5. Spring security/Restrict access based on roles.md",
+    "courses/Spring boot/5. Spring security/Spring Security With User Accounts Stored in The Database.md",
+    "courses/Spring boot/5. Spring security/Basic configuration.md",
     "courses/Spring boot/2. Spring Core/Inversion of control.md",
     "courses/Spring boot/2. Spring Core/Scanning for component classes.md",
     "courses/Spring boot/2. Spring Core/Autowiring.md",
@@ -190,7 +191,6 @@
     "courses/Spring boot/4. REST CRUD/Service Layer best practices.md",
     "courses/Spring boot/4. REST CRUD/Service layer.md",
     "courses/Spring boot/4. REST CRUD/Why Do we need service interface or DAO interface.md",
-    "courses/Spring boot/3. Hibernate & JPA/JPA Development process.md",
     "courses/Spring boot/4. REST CRUD",
     "attachments/Pasted image 20240419215215.png",
     "attachments/Pasted image 20240419151127.png",
