@@ -5,9 +5,11 @@
 | john    | test123  | Employee                 |
 | mary    | test123  | Employee, Manager        |
 | susan   | test123  | Employee, Manager, Admin |
+
 #### Development process
 1. Create a spring security configuration class. (`@Configuration`)
 2. Add user, passwords and roles
+3. Remember `@Configuration` was also discussed in dependency injection.
 #### 1. Create Spring Security Configuration
 ```java
 @Configuration
