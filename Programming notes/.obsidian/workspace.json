@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/5. Spring security/Basics.md",
+                "file": "courses/Spring boot/5. Spring security/Basic configuration.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/5. Spring security/Basics.md",
+                "file": "courses/Spring boot/5. Spring security/Basic configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/5. Spring security/Basics.md",
+                "file": "courses/Spring boot/5. Spring security/Basic configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/5. Spring security/Basics.md"
+                "file": "courses/Spring boot/5. Spring security/Basic configuration.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
-    "courses/Spring boot/4. REST CRUD/Spring data rest config & sorting.md",
     "courses/Spring boot/5. Spring security/Basics.md",
+    "courses/Spring boot/5. Spring security/Basic configuration.md",
+    "courses/Spring boot/4. REST CRUD/Spring data rest config & sorting.md",
     "courses/Spring boot/5. Spring security",
     "courses/Spring boot/Untitled.md",
     "courses/Spring boot/4. REST CRUD/Spring data rest.md",
@@ -196,7 +197,6 @@
     "attachments/Pasted image 20240419104836.png",
     "attachments/Pasted image 20240419104455.png",
     "MAKAUT/Academic paper/Proposed model.md",
-    "rcrm/issues/Space after comma (,) between Skills.md",
     "rcrm/issues",
     "attachments/Pasted image 20240413203544.png",
     "attachments/Pasted image 20240413203341.png",
