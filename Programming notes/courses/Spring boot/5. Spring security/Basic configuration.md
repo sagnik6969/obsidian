@@ -63,7 +63,7 @@ public class DemoSecurityConfig {
   
 }
 ```
-> When you add
+> When you add `@Configuration` for spring security spring will ignore default username and password in `application.properties`
 #### Postman
 - In authentication tab select basic security
 - and then type username and password.
