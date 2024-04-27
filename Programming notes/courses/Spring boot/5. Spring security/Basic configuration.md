@@ -30,3 +30,41 @@ public class DemoSecurityConfig {
 
 
 #### 2. Add users passwords and roles
+```java  
+@Configuration  
+public class DemoSecurityConfig {  
+    @Bean  
+    public InMemoryUserDetailsManager inMemoryUserDetailsManager(){  
+        UserDetails john = User  
+                .builder()  
+                .username("john")  
+                .password("{noop}test123")  
+                .roles("EMPLOYEE")  
+                .build();  
+  
+        UserDetails mary = User  
+                .builder()  
+                .username("mary")  
+                .password("{noop}test123")  
+                .roles("EMPLOYEE","MANAGER")  
+                .build();  
+          
+        UserDetails susan = User  
+                .builder()  
+                .username("susan")  
+                .password("{noop}test123")  
+                .roles("EMPLOYEE","MANAGER","ADMIN")  
+                .build();  
+  
+        return new InMemoryUserDetailsManager(john,mary,susan);  
+  
+    }  
+  
+  
+}
+```
+> When you add
+#### Postman
+- In authentication tab select basic security
+- and then type username and password.
+
