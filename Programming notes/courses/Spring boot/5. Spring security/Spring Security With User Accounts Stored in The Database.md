@@ -18,3 +18,13 @@
 ##### authorities
 - username `varchar(50)`
 - authority `varchar(50)`
+#### Step 1: Develop SQL Script To Setup The Database Table
+```sql
+CREATE TABLE users (
+   username varchar(50) NOT NULL,
+   password varchar(50) NOT NULL,
+   enabled tinyint NOT NULL,
+   PRIMARY KEY (username)
+);
+```
+
