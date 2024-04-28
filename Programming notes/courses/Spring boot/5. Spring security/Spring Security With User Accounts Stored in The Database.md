@@ -20,13 +20,28 @@
 - authority `varchar(50)`
 #### Step 1: Develop SQL Script To Setup The Database Table
 ```sql
-CREATE TABLE users (
-   username varchar(50) NOT NULL,
-   password varchar(50) NOT NULL,
-   enabled tinyint NOT NULL,
-   PRIMARY KEY (username)
-);
+--  
+-- Table structure for table `users`  
+--   
+CREATE TABLE `users` (  
+  `username` varchar(50) NOT NULL,  
+  `password` varchar(50) NOT NULL,  
+  `enabled` tinyint NOT NULL,  
+  PRIMARY KEY (`username`)  
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;  
+--  
+-- Table structure for table `authorities`  
+--  
+CREATE TABLE `authorities` (  
+  `username` varchar(50) NOT NULL,  
+  `authority` varchar(50) NOT NULL,  
+  UNIQUE KEY `authorities_idx_1` (`username`,`authority`),  
+  CONSTRAINT `authorities_ibfk_1` FOREIGN KEY (`username`) REFERENCES `users` (`username`)  
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;  
 ```
+#### Step 2: Update Spring security to use JDBC
+![[Pasted image 20240428193054.png]]
 
+> Note for the authorities table. Authority should be prefixed with `ROLE_` for example if role name is admin it should be `ROLE_ADMIN`
 
 
