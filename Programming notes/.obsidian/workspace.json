@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/5. Spring security/Spring Security With User Accounts Stored in The Database.md",
+                "file": "courses/Spring boot/5. Spring security/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/5. Spring security/Spring Security With User Accounts Stored in The Database.md",
+                "file": "courses/Spring boot/5. Spring security/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/5. Spring security/Spring Security With User Accounts Stored in The Database.md",
+                "file": "courses/Spring boot/5. Spring security/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/5. Spring security/Spring Security With User Accounts Stored in The Database.md"
+                "file": "courses/Spring boot/5. Spring security/Untitled.md"
               }
             }
           }
@@ -162,9 +162,10 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
+    "courses/Spring boot/5. Spring security/Spring Security With User Accounts Stored in The Database.md",
+    "courses/Spring boot/5. Spring security/Untitled.md",
     "attachments/Pasted image 20240428193054.png",
     "courses/Spring boot/5. Spring security/Restrict access based on roles.md",
-    "courses/Spring boot/5. Spring security/Spring Security With User Accounts Stored in The Database.md",
     "courses/Spring boot/5. Spring security/Basic configuration.md",
     "courses/Spring boot/2. Spring Core/Inversion of control.md",
     "courses/Spring boot/2. Spring Core/Scanning for component classes.md",
@@ -200,7 +201,6 @@
     "rcrm/issues",
     "attachments/Pasted image 20240413203544.png",
     "attachments/Pasted image 20240413203341.png",
-    "attachments/Pasted image 20240413203228.png",
     "courses/Spring boot/3. Hibernate & JPA",
     "courses/Spring boot/2. Spring Core",
     "courses/Spring boot/1. Starters",
