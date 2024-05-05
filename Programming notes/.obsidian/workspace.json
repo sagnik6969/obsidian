@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/5. Spring security/Hashing Passwords.md",
+                "file": "courses/HTML/HTML Tags.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/5. Spring security/Hashing Passwords.md",
+                "file": "courses/HTML/HTML Tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/5. Spring security/Hashing Passwords.md",
+                "file": "courses/HTML/HTML Tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/5. Spring security/Hashing Passwords.md"
+                "file": "courses/HTML/HTML Tags.md"
               }
             }
           }
@@ -162,9 +162,12 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
+    "courses/HTML/Intro.md",
+    "courses/HTML/HTML Tags.md",
+    "courses/Spring boot/5. Spring security/Hashing Passwords.md",
+    "courses/HTML",
     "courses/Spring boot/5. Spring security/Restrict access based on roles.md",
     "courses/Spring boot/5. Spring security/Spring Security With User Accounts Stored in The Database.md",
-    "courses/Spring boot/5. Spring security/Hashing Passwords.md",
     "courses/Spring boot/5. Spring security/Basic configuration.md",
     "courses/Spring boot/5. Spring security/Basics.md",
     "attachments/Pasted image 20240428193054.png",
@@ -190,8 +193,6 @@
     "courses/Spring boot/4. REST CRUD/Spring rest exception handling.md",
     "courses/Spring boot/4. REST CRUD/Route params.md",
     "courses/Spring boot/3. Hibernate & JPA/CRUD operations.md",
-    "courses/Spring boot/4. REST CRUD/Service Layer best practices.md",
-    "courses/Spring boot/4. REST CRUD/Service layer.md",
     "courses/Spring boot/4. REST CRUD",
     "attachments/Pasted image 20240419215215.png",
     "attachments/Pasted image 20240419151127.png",
@@ -206,7 +207,6 @@
     "courses/Spring boot/1. Starters",
     "courses/Spring boot",
     "Interview Prep/Hashedin (cleared 😊)",
-    "Interview Prep",
-    "MAKAUT"
+    "Interview Prep"
   ]
 }
