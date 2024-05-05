@@ -19,7 +19,7 @@ public class DemoSecurityConfig {
 ```
 #### Spring security password storage:
 - In spring security passwords are stored using specific format.
-- `id{encodedPassword}`
+- `{id}encodedPassword`
 - id stores hashing algorithm used for password.
 
 | id     | Description               |

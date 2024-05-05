@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/5. Spring security/Untitled.md",
+                "file": "courses/Spring boot/5. Spring security/Hashing Passwords.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/5. Spring security/Untitled.md",
+                "file": "courses/Spring boot/5. Spring security/Hashing Passwords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/5. Spring security/Untitled.md",
+                "file": "courses/Spring boot/5. Spring security/Hashing Passwords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/5. Spring security/Untitled.md"
+                "file": "courses/Spring boot/5. Spring security/Hashing Passwords.md"
               }
             }
           }
@@ -162,11 +162,12 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
-    "courses/Spring boot/5. Spring security/Spring Security With User Accounts Stored in The Database.md",
-    "courses/Spring boot/5. Spring security/Untitled.md",
-    "attachments/Pasted image 20240428193054.png",
     "courses/Spring boot/5. Spring security/Restrict access based on roles.md",
+    "courses/Spring boot/5. Spring security/Spring Security With User Accounts Stored in The Database.md",
+    "courses/Spring boot/5. Spring security/Hashing Passwords.md",
     "courses/Spring boot/5. Spring security/Basic configuration.md",
+    "courses/Spring boot/5. Spring security/Basics.md",
+    "attachments/Pasted image 20240428193054.png",
     "courses/Spring boot/2. Spring Core/Inversion of control.md",
     "courses/Spring boot/2. Spring Core/Scanning for component classes.md",
     "courses/Spring boot/2. Spring Core/Autowiring.md",
@@ -174,7 +175,6 @@
     "courses/Spring boot/2. Spring Core/Bean lifecycle methods.md",
     "courses/Spring boot/2. Spring Core/Configuring bean with java code.md",
     "courses/Spring boot/2. Spring Core/Lazy Initialization.md",
-    "courses/Spring boot/5. Spring security/Basics.md",
     "courses/Spring boot/4. REST CRUD/Spring data rest config & sorting.md",
     "courses/Spring boot/5. Spring security",
     "courses/Spring boot/Untitled.md",

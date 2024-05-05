@@ -1,0 +1,3 @@
+- Spring security team recommends using the popular bCrypt algorithm for hashing passwords.
+- It also adds random salt to the hashed password for additional protection.
+- 
