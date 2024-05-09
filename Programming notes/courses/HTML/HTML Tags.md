@@ -71,3 +71,19 @@ Hierarchical structure of HTML elements is known as DOM tree.
 </dl>
 
 
+##### Quotes
+```
+<blockquote>
+<p>Failure is the piller of success</p>
+<cite> -- Sagnik Jana </cite> 
+</blockquote>
+```
+- `blockquote` and `cite` is mainly used for semantics. It is used to tell the browser that the contents wrapped inside this element is a quote
+- For normal quotes `<q>` element can be used.
+```html
+<P> Sagnik said that <q> failure is the piller of success </q> </p>
+```
+
+##### Inline elements
+- `q`,`strong`,`b`,`i`,`em`
+- These are ment for wrapping arround phrases of content that are inline with some other content
