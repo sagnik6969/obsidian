@@ -83,7 +83,46 @@ Hierarchical structure of HTML elements is known as DOM tree.
 ```html
 <P> Sagnik said that <q> failure is the piller of success </q> </p>
 ```
+- The main difference between `q` and `blockquote` is `q` is inline while `blockquote` is block level element.
 
 ##### Inline elements
 - `q`,`strong`,`b`,`i`,`em`
-- These are ment for wrapping arround phrases of content that are inline with some other content
+- These are meant for wrapping around phrases of content that are inline within some other content.
+##### Block elements
+- `blockquote`,`p`,`ul`
+- These elements each start a new block.
+
+##### Dates & Times
+- HTML `time` element is used to specify both date and time.
+- `<time>May 8</time>`
+- `<time>May 8, 2025</time>`
+- the whole point of this tag is tell the browser that the text wrapped inside this element is a time.
+- The text between opening and closing tag will be displayed in the web page.
+- `<time datetime="2025-05-08">May 8</time>` the `datetime` attribute is used to tell the computer the actual date and time and the text inside the opening and closing tags are displayed to the user.
+- `<time datetime="2025-05-08 19:00">May 8, 7pm</time>` => to specify date and time both
+##### Code
+- `<code></code>` tag is used to display code in an html page.
+- It is an inline element.
+##### HTML entities
+- `&lt;` `=>` will print `<`
+- `&gt;` `=>` will print `>`
+
+> By default HTML will ignore all the whitespaces.
+
+##### Br
+- `<br>` is used to add a line break
+- No closing tag.
+##### Pre
+- To tell the browser to not ignore whitespaces.
+- `<pre>poem .......</pre>`
+##### Subscript
+- `H<sub>2</sub>O`
+- H<sub>2</sub>O
+##### Superscript
+- `5<sup>2</sup>`
+- 5<sup>2</sup>
+#### Small
+- Tells the browser that the text inside is of little importance.
+- Example: Copyright information.
+- It also makes the text six=ze small by default.
+- `<small>@ 2019 ABC inc</small>`
