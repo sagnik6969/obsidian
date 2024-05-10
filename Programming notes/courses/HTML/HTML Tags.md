@@ -106,6 +106,10 @@ Hierarchical structure of HTML elements is known as DOM tree.
 ##### HTML entities
 - `&lt;` `=>` will print `<`
 - `&gt;` `=>` will print `>`
+- `&copy;` `=>` for copyright symbol.
+- `&star;` `=>` for star symbol.
+- `&nbsp;` `=>` for non breaking space line will not break in this space.
+- Sometimes typing directly `>` or `<` will work. But sometimes when the browser confuses them with html tag they wont work.
 
 > By default HTML will ignore all the whitespaces.
 

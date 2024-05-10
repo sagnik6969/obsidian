@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/HTML/Attributes.md",
+                "file": "courses/HTML/HTML Tags.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/HTML/Attributes.md",
+                "file": "courses/HTML/HTML Tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/HTML/Attributes.md",
+                "file": "courses/HTML/HTML Tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/HTML/Attributes.md"
+                "file": "courses/HTML/HTML Tags.md"
               }
             }
           }
@@ -160,10 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "783539bd3ab8abbc",
+  "active": "5b1f812c14709d91",
   "lastOpenFiles": [
-    "courses/HTML/HTML Tags.md",
     "courses/HTML/Attributes.md",
+    "courses/HTML/HTML Tags.md",
     "courses/HTML/Intro.md",
     "courses/Spring boot/5. Spring security/Hashing Passwords.md",
     "courses/HTML",
