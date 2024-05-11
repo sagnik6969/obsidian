@@ -34,7 +34,76 @@ To calculate the width and height manually the browser needs to load to image fi
 ``` 
 - `srcset` attribute is used to alternat sources for images for different screen sizes.
 - `2x 3x etc` are resolutions.
-
+- The browser displays different images based on pixel density of the screen.
+- 
 #### Responsive width
 - Using different images based on device width.
-- 
+- The browser will consider the width of the viewport to choose different images.
+```html
+<img 
+	 src="img-480.jpg" 
+	 height="360" 
+	 width="480"
+	 srcset="
+	 img-480.jph 480w,
+	 img-960.jpg 960w,
+	 img-1440.jpg 1440w,
+	 img-1920.jpg 1920w
+	 "
+	 >
+```
+- `480w` `=>` 480 pixels wide.
+- This wont pick the based on the html layout. It will assume that the image need to be 100% of the viewport width and choose the image according to that. This is done in this way because the browser needs to make decision which image to download as soon as possible (before CSS has been processed).
+- If we know that the size of the image is lot smaller than the device width then we need to give the browser more info about the width like bellow.
+```html
+<img 
+	 src="img-480.jpg" 
+	 height="360" 
+	 width="480"
+	 srcset="
+	 img-480.jph 480w,
+	 img-960.jpg 960w,
+	 img-1440.jpg 1440w,
+	 img-1920.jpg 1920w
+	 "
+	 sizes="
+	 (max-width: 480px) 240px,
+	 (max-width: 960px) 480px,
+	 (max-width: 1440px) 960px,
+	 1920px
+	 "
+	 >
+```
+#### Responsive picture
+- Show different images based on screen size. 
+- For example in larger screen size we want to show the whole dog. For smaller screen size we want to show only the face of the dog.
+- For this we need `picture` element.
+```html
+<picture>
+<source media="(min-width:600px)" srcset="img1.png">
+<source srcset="img2.png"> 
+<img 
+	 src="img-480.jpg" 
+	 height="360" 
+	 width="480"
+	 >
+</picture>
+```
+- When the viewport is 600px or larger the full image loads. 
+- Else the cropped version of the image loads.
+- The  `srcset` attribute in `source` tag works same way in `img` tag.
+
+#### Caption
+- Used to describe the image.
+```
+<figure>
+<img 
+	 src="img-480.jpg" 
+	 height="360" 
+	 width="480"
+	 >
+<figcaption>Image description</figcaption>
+</figure>
+```
+- This is beneficial for Search engine optimization.
+
