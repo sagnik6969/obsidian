@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/HTML/Links.md",
+                "file": "courses/HTML/Image.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/HTML/Links.md",
+                "file": "courses/HTML/Image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/HTML/Links.md",
+                "file": "courses/HTML/Image.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/HTML/Links.md"
+                "file": "courses/HTML/Image.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
-    "courses/HTML/HTML Tags.md",
     "courses/HTML/Links.md",
+    "courses/HTML/Image.md",
+    "courses/HTML/HTML Tags.md",
     "courses/HTML/Attributes.md",
     "courses/HTML/Intro.md",
     "courses/Spring boot/5. Spring security/Hashing Passwords.md",
@@ -192,7 +193,6 @@
     "courses/Spring boot/4. REST CRUD/API design.md",
     "courses/Spring boot/4. REST CRUD/Global exception handling.md",
     "courses/Spring boot/4. REST CRUD/Handle any type of exception.md",
-    "courses/Spring boot/4. REST CRUD/Spring rest exception handling.md",
     "courses/Spring boot/4. REST CRUD",
     "attachments/Pasted image 20240419215215.png",
     "attachments/Pasted image 20240419151127.png",
