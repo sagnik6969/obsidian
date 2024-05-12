@@ -54,4 +54,25 @@ Alt text
 - `default` attribute tells the browser that this attribute you want to use by default when user turns on captions.
 - `kind="Descriptions"` `=>` the `vtt` file describes the video. Useful for blind people.
 - `kind=chapters` `=>` the `vtt` file lists the chapters of the video. Similar to you tube chapters.
-- 
+
+#### Embedding other media through `Iframes`
+- Earlier we have mentioned that `video` tag is not used directly. Instead code copied from a video hosting service is used for displaying video in a webpage.
+- **Embedding** is taking content from one site into the body of the page of another site.
+- There are all kind of things you can embed.
+- You can embed map from google maps.
+- You can embed code demo from code pen.
+- You can embed video from you tube.
+- It is common to embed something complex from a service that takes care of all the hard parts.
+- For example `Iframe` from you tube
+```html
+<iframe 
+		width="560" 
+		height="315" 
+		src="https://www.youtube.com/embed/6RpiG6vOmuU?si=Y0Aonv9s-htvqTGu&amp;controls=0"
+		title="YouTube video player" 
+		frameborder="0" 
+		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+		referrerpolicy="strict-origin-when-cross-origin" 
+		allowfullscreen>
+</iframe>
+``` 
