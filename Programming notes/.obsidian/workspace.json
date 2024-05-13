@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/HTML/HTML page.md",
+                "file": "rcrm/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/HTML/HTML page.md",
+                "file": "rcrm/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/HTML/HTML page.md",
+                "file": "rcrm/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/HTML/HTML page.md"
+                "file": "rcrm/Untitled.md"
               }
             }
           }
@@ -160,17 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b1f812c14709d91",
+  "active": "fea84f889c040fd4",
   "lastOpenFiles": [
-    "courses/HTML/Generic Elements div & span.md",
+    "courses/HTML/HTML Tags.md",
+    "courses/HTML/Intro.md",
     "courses/HTML/HTML page.md",
+    "courses/HTML/Generic Elements div & span.md",
     "courses/HTML/Supporting languages.md",
     "courses/HTML/Media.md",
     "courses/HTML/Image.md",
     "courses/HTML/Links.md",
-    "courses/HTML/HTML Tags.md",
     "courses/HTML/Attributes.md",
-    "courses/HTML/Intro.md",
     "courses/Spring boot/5. Spring security/Hashing Passwords.md",
     "courses/HTML",
     "courses/Spring boot/5. Spring security/Restrict access based on roles.md",
