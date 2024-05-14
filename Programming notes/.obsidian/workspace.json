@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rcrm/Untitled.md",
+                "file": "courses/HTML/HTML page.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rcrm/Untitled.md",
+                "file": "courses/HTML/HTML page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rcrm/Untitled.md",
+                "file": "courses/HTML/HTML page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rcrm/Untitled.md"
+                "file": "courses/HTML/HTML page.md"
               }
             }
           }
@@ -160,8 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fea84f889c040fd4",
+  "active": "5b1f812c14709d91",
   "lastOpenFiles": [
+    "MAKAUT/Academic paper/Proposed model.md",
+    "rcrm/Untitled.md",
+    "courses/Spring boot/1. Starters/Environment setup.md",
     "courses/HTML/HTML Tags.md",
     "courses/HTML/Intro.md",
     "courses/HTML/HTML page.md",
@@ -188,10 +191,7 @@
     "courses/Spring boot/4. REST CRUD/Spring data rest config & sorting.md",
     "courses/Spring boot/5. Spring security",
     "courses/Spring boot/Untitled.md",
-    "courses/Spring boot/4. REST CRUD/Spring data rest.md",
     "attachments/Pasted image 20240426125409.png",
-    "courses/Spring boot/4. REST CRUD/Rest crud coding.md",
-    "courses/Spring boot/3. Hibernate & JPA/Spring Data JPA.md",
     "attachments/Pasted image 20240426104848.png",
     "courses/Spring boot/4. REST CRUD",
     "attachments/Pasted image 20240419215215.png",
