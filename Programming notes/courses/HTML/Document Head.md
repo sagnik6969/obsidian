@@ -1,0 +1,3 @@
+- Meta elements goes inside the head
+- `meta` elements contains metadata about the website.
+- 

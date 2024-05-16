@@ -16,4 +16,3 @@
 ```
 - `<head>` contains metadata about the page. The contents of the head element wont be displayed in the page.
 - `<body>` contains the information and content that will be displayed on the page.
-- 
