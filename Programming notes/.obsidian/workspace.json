@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/HTML/Document Head.md",
+                "file": "courses/HTML/Structuring content.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/HTML/Document Head.md",
+                "file": "courses/HTML/Structuring content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/HTML/Document Head.md",
+                "file": "courses/HTML/Structuring content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/HTML/Document Head.md"
+                "file": "courses/HTML/Structuring content.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
-    "courses/HTML/HTML page.md",
     "courses/HTML/Document Head.md",
+    "courses/HTML/Structuring content.md",
+    "courses/HTML/HTML page.md",
     "courses/Spring boot/3. Hibernate & JPA/Why Do we need service interface or DAO interface.md",
     "courses/Spring boot/4. REST CRUD/Spring data rest config & sorting.md",
     "courses/Spring boot/5. Spring security/Basics.md",
@@ -187,7 +188,6 @@
     "courses/Spring boot/1. Starters/Maven.md",
     "courses/Spring boot/1. Starters/Basics.md",
     "courses/Spring boot/1. Starters/Environment setup.md",
-    "courses/Spring boot/2. Spring Core/Configuring bean with java code.md",
     "courses/HTML",
     "attachments/Pasted image 20240428193054.png",
     "courses/Spring boot/5. Spring security",
