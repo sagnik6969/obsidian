@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/HTML/Structuring content.md",
+                "file": "courses/CORE JAVA/Generics.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/HTML/Structuring content.md",
+                "file": "courses/CORE JAVA/Generics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/HTML/Structuring content.md",
+                "file": "courses/CORE JAVA/Generics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/HTML/Structuring content.md"
+                "file": "courses/CORE JAVA/Generics.md"
               }
             }
           }
@@ -162,8 +162,13 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
-    "courses/HTML/Document Head.md",
+    "courses/HTML/HTML Tables.md",
+    "courses/CORE JAVA/Generics.md",
+    "courses/CORE JAVA",
+    "courses/Untitled.md",
+    "courses/HTML/Form.md",
     "courses/HTML/Structuring content.md",
+    "courses/HTML/Document Head.md",
     "courses/HTML/HTML page.md",
     "courses/Spring boot/3. Hibernate & JPA/Why Do we need service interface or DAO interface.md",
     "courses/Spring boot/4. REST CRUD/Spring data rest config & sorting.md",
@@ -184,10 +189,6 @@
     "courses/Spring boot/1. Starters/application.properties.md",
     "courses/Spring boot/1. Starters/Running Spring Boot Using Commend Line.md",
     "courses/Spring boot/1. Starters/Spring security.md",
-    "courses/Spring boot/1. Starters/Spring boot actuator.md",
-    "courses/Spring boot/1. Starters/Maven.md",
-    "courses/Spring boot/1. Starters/Basics.md",
-    "courses/Spring boot/1. Starters/Environment setup.md",
     "courses/HTML",
     "attachments/Pasted image 20240428193054.png",
     "courses/Spring boot/5. Spring security",
@@ -206,7 +207,6 @@
     "courses/Spring boot/2. Spring Core",
     "courses/Spring boot/1. Starters",
     "courses/Spring boot",
-    "Interview Prep/Hashedin (cleared 😊)",
-    "Interview Prep"
+    "Interview Prep/Hashedin (cleared 😊)"
   ]
 }
