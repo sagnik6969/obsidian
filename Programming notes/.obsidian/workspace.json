@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/CORE JAVA/Generics.md",
+                "file": "courses/CORE JAVA/Functional interface & Lambda Expression.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/CORE JAVA/Generics.md",
+                "file": "courses/CORE JAVA/Functional interface & Lambda Expression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/CORE JAVA/Generics.md",
+                "file": "courses/CORE JAVA/Functional interface & Lambda Expression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/CORE JAVA/Generics.md"
+                "file": "courses/CORE JAVA/Functional interface & Lambda Expression.md"
               }
             }
           }
@@ -162,8 +162,12 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
-    "courses/HTML/HTML Tables.md",
+    "courses/Spring boot/2. Spring Core/Configuring bean with java code.md",
+    "courses/CORE JAVA/Functional interface & Lambda Expression.md",
+    "courses/Spring boot/5. Spring security/Restrict access based on roles.md",
+    "courses/Spring boot/5. Spring security/Basic configuration.md",
     "courses/CORE JAVA/Generics.md",
+    "courses/HTML/HTML Tables.md",
     "courses/CORE JAVA",
     "courses/Untitled.md",
     "courses/HTML/Form.md",
@@ -173,8 +177,6 @@
     "courses/Spring boot/3. Hibernate & JPA/Why Do we need service interface or DAO interface.md",
     "courses/Spring boot/4. REST CRUD/Spring data rest config & sorting.md",
     "courses/Spring boot/5. Spring security/Basics.md",
-    "courses/Spring boot/5. Spring security/Basic configuration.md",
-    "courses/Spring boot/5. Spring security/Restrict access based on roles.md",
     "courses/Spring boot/5. Spring security/Spring Security With User Accounts Stored in The Database.md",
     "courses/Spring boot/5. Spring security/Hashing Passwords.md",
     "courses/Spring boot/3. Hibernate & JPA/Introduction.md",
@@ -187,8 +189,6 @@
     "courses/Spring boot/3. Hibernate & JPA/Creating table using java code.md",
     "courses/Spring boot/3. Hibernate & JPA/Spring Data JPA.md",
     "courses/Spring boot/1. Starters/application.properties.md",
-    "courses/Spring boot/1. Starters/Running Spring Boot Using Commend Line.md",
-    "courses/Spring boot/1. Starters/Spring security.md",
     "courses/HTML",
     "attachments/Pasted image 20240428193054.png",
     "courses/Spring boot/5. Spring security",
