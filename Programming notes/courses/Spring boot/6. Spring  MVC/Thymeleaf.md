@@ -1,0 +1,6 @@
+- Works just like `views` in laravel.
+- Can do server side rendering.
+- We need to to include the dependency in maven pom file.
+- `thymeleaf` files are stored in `resources/templates` directory
+- templates will have `.html` extention.
+- 
