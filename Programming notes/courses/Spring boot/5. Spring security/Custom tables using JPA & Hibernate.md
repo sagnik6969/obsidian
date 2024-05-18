@@ -1,0 +1,1 @@
+https://www.luv2code.com/downloads/udemy-spring-boot-3/bonus-spring-boot-rest-security-jpa-hibernate-bcrypt/bonus-lecture-spring-boot-rest-security-jpa-hibernate-bcrypt.pdf
