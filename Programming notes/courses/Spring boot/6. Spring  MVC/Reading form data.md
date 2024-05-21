@@ -50,4 +50,18 @@ public  String processFormVersion2(HttpServletRequest request, Model model){
 <p th:text="'message = ' + ${message}"></p>
 ```
 
+##### Reading form data Using `@RequestParam` annotation 
+- It is an alternative to previous method
+```java
+@RequestMapping("/processFormVersion3")  
+public  String processFormVersion3(@RequestParam("studentName") String studentName, Model model){  
+  
+    String result = "Hi! " + studentName.toUpperCase();  
+    model.addAttribute("message",result);  
+    return  "helloworld2";  
+  
+}
+```
+
+
 
