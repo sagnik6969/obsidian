@@ -12,3 +12,4 @@
 | -------------------------------------------- | -------------------- |
 | Has a max character limit of 1000 charactors | No character limit   |
 | Cant send binary data                        | Can send binary data |
+| Can bookmark url                             | Cant bookmark url    |
