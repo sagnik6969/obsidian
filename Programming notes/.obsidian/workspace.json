@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/6. Spring  MVC/What IS MVC.md",
+                "file": "courses/Spring boot/6. Spring  MVC/Reading form data.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/6. Spring  MVC/What IS MVC.md",
+                "file": "courses/Spring boot/6. Spring  MVC/Reading form data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/6. Spring  MVC/What IS MVC.md",
+                "file": "courses/Spring boot/6. Spring  MVC/Reading form data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/6. Spring  MVC/What IS MVC.md"
+                "file": "courses/Spring boot/6. Spring  MVC/Reading form data.md"
               }
             }
           }
@@ -163,8 +163,8 @@
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
     "courses/Spring boot/6. Spring  MVC/Untitled.md",
-    "courses/Spring boot/6. Spring  MVC/Reading form data.md",
     "courses/Spring boot/6. Spring  MVC/What IS MVC.md",
+    "courses/Spring boot/6. Spring  MVC/Reading form data.md",
     "courses/Spring boot/6. Spring  MVC/Adding CSS Thymeleaf.md",
     "courses/Spring boot/6. Spring  MVC/Thymeleaf.md",
     "courses/Spring boot/5. Spring security/Custom tables using JPA & Hibernate.md",
