@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/6. Spring  MVC/@RequestMapping Vs @GetMapping.md",
+                "file": "courses/Spring boot/6. Spring  MVC/Handling form requests using Java objects & Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/6. Spring  MVC/@RequestMapping Vs @GetMapping.md",
+                "file": "courses/Spring boot/6. Spring  MVC/Handling form requests using Java objects & Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/6. Spring  MVC/@RequestMapping Vs @GetMapping.md",
+                "file": "courses/Spring boot/6. Spring  MVC/Handling form requests using Java objects & Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/6. Spring  MVC/@RequestMapping Vs @GetMapping.md"
+                "file": "courses/Spring boot/6. Spring  MVC/Handling form requests using Java objects & Models.md"
               }
             }
           }
@@ -162,9 +162,24 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
-    "courses/Spring boot/1. Starters/Environment setup.md",
     "courses/Spring boot/6. Spring  MVC/@RequestMapping Vs @GetMapping.md",
+    "courses/Spring boot/6. Spring  MVC/Handling form requests using Java objects & Models.md",
+    "courses/Spring boot/4. REST CRUD/Rest crud coding.md",
     "courses/Spring boot/6. Spring  MVC/Reading form data.md",
+    "courses/Spring boot/4. REST CRUD/Fetching Request Body.md",
+    "courses/Spring boot/4. REST CRUD/Service Layer best practices.md",
+    "courses/Spring boot/4. REST CRUD/Service layer.md",
+    "courses/Spring boot/4. REST CRUD/API design.md",
+    "courses/Spring boot/4. REST CRUD/Global exception handling.md",
+    "courses/Spring boot/4. REST CRUD/Handle any type of exception.md",
+    "courses/Spring boot/4. REST CRUD/Spring rest exception handling.md",
+    "courses/Spring boot/4. REST CRUD/Route params.md",
+    "courses/Spring boot/4. REST CRUD/Java JSON data binding.md",
+    "courses/Spring boot/4. REST CRUD/Spring Rest Controller.md",
+    "courses/Spring boot/4. REST CRUD/Introduction.md",
+    "courses/Spring boot/4. REST CRUD/Spring data rest config & sorting.md",
+    "courses/Spring boot/4. REST CRUD/Spring data rest.md",
+    "courses/Spring boot/1. Starters/Environment setup.md",
     "courses/Spring boot/6. Spring  MVC/What IS MVC.md",
     "courses/Spring boot/6. Spring  MVC/Adding CSS Thymeleaf.md",
     "courses/Spring boot/6. Spring  MVC/Thymeleaf.md",
@@ -174,22 +189,7 @@
     "courses/Spring boot/5. Spring security/Hashing Passwords.md",
     "courses/Spring boot/5. Spring security/Restrict access based on roles.md",
     "courses/Spring boot/5. Spring security/Spring Security With User Accounts Stored in The Database.md",
-    "courses/Spring boot/5. Spring security/Basic configuration.md",
-    "courses/Spring boot/2. Spring Core/Configuring bean with java code.md",
-    "courses/Spring boot/2. Spring Core/Bean lifecycle methods.md",
-    "courses/Spring boot/2. Spring Core/Bean scopes.md",
-    "courses/CORE JAVA/Functional interface & Lambda Expression.md",
-    "courses/CORE JAVA/Generics.md",
-    "courses/HTML/HTML Tables.md",
     "courses/CORE JAVA",
-    "courses/Untitled.md",
-    "courses/HTML/Form.md",
-    "courses/HTML/Structuring content.md",
-    "courses/HTML/Document Head.md",
-    "courses/HTML/HTML page.md",
-    "courses/Spring boot/3. Hibernate & JPA/Why Do we need service interface or DAO interface.md",
-    "courses/Spring boot/4. REST CRUD/Spring data rest config & sorting.md",
-    "courses/Spring boot/5. Spring security/Basics.md",
     "courses/HTML",
     "attachments/Pasted image 20240428193054.png",
     "courses/Spring boot/5. Spring security",
