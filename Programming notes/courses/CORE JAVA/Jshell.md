@@ -1,0 +1,2 @@
+- It is a command line tool for java (similar to python or node).
+- To start jshell simply rum `jshell` in the terminal
