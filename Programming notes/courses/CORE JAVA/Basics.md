@@ -12,6 +12,8 @@ public class HelloWorld {
 - The `println` function calls `toString()` function of an object
 - `Strings` are immutable in java.
 - `s.toUpperCase()`
-- 
+- `interfaces` forces a class to have certain methods and properties.
+- `c instance of Dog` => to check whether object c is instance of class Dog.
+- `new Random().nextInt()` => to generate a random integer.
 - 
 - 

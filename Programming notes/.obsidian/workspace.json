@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/1. Starters/Running Spring Boot Using Commend Line.md",
+                "file": "courses/CORE JAVA/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/1. Starters/Running Spring Boot Using Commend Line.md",
+                "file": "courses/CORE JAVA/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/1. Starters/Running Spring Boot Using Commend Line.md",
+                "file": "courses/CORE JAVA/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/1. Starters/Running Spring Boot Using Commend Line.md"
+                "file": "courses/CORE JAVA/Basics.md"
               }
             }
           }
@@ -162,6 +162,7 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
+    "courses/Spring boot/1. Starters/Running Spring Boot Using Commend Line.md",
     "courses/Spring boot/1. Starters/Spring security.md",
     "courses/Spring boot/1. Starters/Spring boot actuator.md",
     "courses/Spring boot/1. Starters/Spring Boot Dev Tools.md",
@@ -187,7 +188,6 @@
     "courses/Spring boot/4. REST CRUD/Spring rest exception handling.md",
     "courses/Spring boot/4. REST CRUD/Route params.md",
     "courses/Spring boot/4. REST CRUD/Spring Rest Controller.md",
-    "courses/Spring boot/4. REST CRUD/Introduction.md",
     "courses/Spring boot/6. Spring  MVC",
     "courses/CORE JAVA",
     "courses/HTML",
