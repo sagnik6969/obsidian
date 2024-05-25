@@ -8,3 +8,10 @@ public class HelloWorld {
     }
 }
 ```
+
+- The `println` function calls `toString()` function of an object
+- `Strings` are immutable in java.
+- `s.toUpperCase()`
+- 
+- 
+- 

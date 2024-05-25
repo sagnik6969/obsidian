@@ -8,3 +8,7 @@ command: `java -jar myApp.jar`
 - we can use this plugin to package our application into an executable jar or war file.
 - to package our application into jar / war file `./mvnw package`
 - to run our application `./mvnw spring-boot:run`
+- `Scanner sc = new Scanner(System.in);` => `System.in` tells java where to look for inputs.
+- `rand` => used to generate random number
+- `Math` => `pow`,`max`,`min`
+- 

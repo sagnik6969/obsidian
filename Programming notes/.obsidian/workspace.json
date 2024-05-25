@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/CORE JAVA/Basics.md",
+                "file": "courses/Spring boot/1. Starters/Running Spring Boot Using Commend Line.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/CORE JAVA/Basics.md",
+                "file": "courses/Spring boot/1. Starters/Running Spring Boot Using Commend Line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/CORE JAVA/Basics.md",
+                "file": "courses/Spring boot/1. Starters/Running Spring Boot Using Commend Line.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/CORE JAVA/Basics.md"
+                "file": "courses/Spring boot/1. Starters/Running Spring Boot Using Commend Line.md"
               }
             }
           }
@@ -162,8 +162,16 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
-    "courses/CORE JAVA/Generics.md",
+    "courses/Spring boot/1. Starters/Spring security.md",
+    "courses/Spring boot/1. Starters/Spring boot actuator.md",
+    "courses/Spring boot/1. Starters/Spring Boot Dev Tools.md",
+    "courses/Spring boot/1. Starters/Spring boot starters.md",
+    "courses/Spring boot/1. Starters/Spring Boot project structure.md",
+    "courses/Spring boot/1. Starters/Maven.md",
+    "courses/Spring boot/1. Starters/Basics.md",
+    "courses/Spring boot/1. Starters/Environment setup.md",
     "courses/CORE JAVA/Basics.md",
+    "courses/CORE JAVA/Generics.md",
     "courses/CORE JAVA/Jshell.md",
     "courses/Spring boot/4. REST CRUD/Java JSON data binding.md",
     "courses/Spring boot/6. Spring  MVC/Handling form requests using Java objects & Models.md",
@@ -180,15 +188,7 @@
     "courses/Spring boot/4. REST CRUD/Route params.md",
     "courses/Spring boot/4. REST CRUD/Spring Rest Controller.md",
     "courses/Spring boot/4. REST CRUD/Introduction.md",
-    "courses/Spring boot/4. REST CRUD/Spring data rest config & sorting.md",
-    "courses/Spring boot/4. REST CRUD/Spring data rest.md",
-    "courses/Spring boot/1. Starters/Environment setup.md",
-    "courses/Spring boot/6. Spring  MVC/What IS MVC.md",
-    "courses/Spring boot/6. Spring  MVC/Adding CSS Thymeleaf.md",
-    "courses/Spring boot/6. Spring  MVC/Thymeleaf.md",
-    "courses/Spring boot/5. Spring security/Custom tables using JPA & Hibernate.md",
     "courses/Spring boot/6. Spring  MVC",
-    "courses/Spring boot/5. Spring security/JDBC Auth - Custom Tables.md",
     "courses/CORE JAVA",
     "courses/HTML",
     "attachments/Pasted image 20240428193054.png",
