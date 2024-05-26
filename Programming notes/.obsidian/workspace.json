@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/CORE JAVA/Basics.md",
+                "file": "courses/SQL/Normal Forms.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/CORE JAVA/Basics.md",
+                "file": "courses/SQL/Normal Forms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/CORE JAVA/Basics.md",
+                "file": "courses/SQL/Normal Forms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/CORE JAVA/Basics.md"
+                "file": "courses/SQL/Normal Forms.md"
               }
             }
           }
@@ -162,6 +162,8 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
+    "courses/CORE JAVA/Basics.md",
+    "courses/SQL/Normal Forms.md",
     "courses/Spring boot/1. Starters/Running Spring Boot Using Commend Line.md",
     "courses/Spring boot/1. Starters/Spring security.md",
     "courses/Spring boot/1. Starters/Spring boot actuator.md",
@@ -171,7 +173,6 @@
     "courses/Spring boot/1. Starters/Maven.md",
     "courses/Spring boot/1. Starters/Basics.md",
     "courses/Spring boot/1. Starters/Environment setup.md",
-    "courses/CORE JAVA/Basics.md",
     "courses/CORE JAVA/Generics.md",
     "courses/CORE JAVA/Jshell.md",
     "courses/Spring boot/4. REST CRUD/Java JSON data binding.md",
@@ -187,7 +188,6 @@
     "courses/Spring boot/4. REST CRUD/Handle any type of exception.md",
     "courses/Spring boot/4. REST CRUD/Spring rest exception handling.md",
     "courses/Spring boot/4. REST CRUD/Route params.md",
-    "courses/Spring boot/4. REST CRUD/Spring Rest Controller.md",
     "courses/Spring boot/6. Spring  MVC",
     "courses/CORE JAVA",
     "courses/HTML",
