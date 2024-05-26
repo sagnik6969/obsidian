@@ -16,4 +16,18 @@
 - Process of intentionally duplicating the information in the table, in violation of normalization rules.
 - This is done to improve performance.
 - Denormalization is done after normalizing a database.
+
+#### Indexes
+- Primary key is by default an index.
+- If me mark a column as index. It is quicker to use where clause on that column.
+- Increases time while inserting and decreases time while searching using where. 
+#### Transactions
+#### Stored Procedures
+- Are a series of commands stored in the database.
+- Allow us to reuse long and detailed queries instead of writing them for each use.
+- Provide a safe way to deal with sensitive data.
+- In some cases access to sensitive data only available through stored procedures.
+#### Extra
+- Relational database cant store graph data.
+- Microsoft access is mainly used in desktop workstations.
 - 
