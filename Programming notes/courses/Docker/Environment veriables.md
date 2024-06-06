@@ -1,0 +1,3 @@
+- To add environment variables to docker container.
+- `docker run -it -e key=value key=value <image_name>`
+- 

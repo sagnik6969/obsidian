@@ -1,0 +1,3 @@
+- Support a server is running inside a docker container. To expose the port so that it can be accessible from outside.
+- `docker run -it -p 1025:1025 <image_name>` `=>` to map the port `1025` of the container to the outside port.
+- 

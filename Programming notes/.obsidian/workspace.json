@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Docker/Basics.md",
+                "file": "courses/Docker/Dockrise an app.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Docker/Basics.md",
+                "file": "courses/Docker/Dockrise an app.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Docker/Basics.md",
+                "file": "courses/Docker/Dockrise an app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Docker/Basics.md"
+                "file": "courses/Docker/Dockrise an app.md"
               }
             }
           }
@@ -162,8 +162,11 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
-    "hub.docker.com.md",
     "courses/Docker/Basics.md",
+    "courses/Docker/Dockrise an app.md",
+    "courses/Docker/Port Mapping.md",
+    "courses/Docker/Environment veriables.md",
+    "hub.docker.com.md",
     "courses/SQL/Normal Forms.md",
     "courses/Docker",
     "courses/CORE JAVA/Basics.md",
@@ -186,9 +189,6 @@
     "courses/Spring boot/4. REST CRUD/Fetching Request Body.md",
     "courses/Spring boot/4. REST CRUD/Service Layer best practices.md",
     "courses/Spring boot/4. REST CRUD/Service layer.md",
-    "courses/Spring boot/4. REST CRUD/API design.md",
-    "courses/Spring boot/4. REST CRUD/Global exception handling.md",
-    "courses/Spring boot/4. REST CRUD/Handle any type of exception.md",
     "courses/Spring boot/6. Spring  MVC",
     "courses/CORE JAVA",
     "courses/HTML",
