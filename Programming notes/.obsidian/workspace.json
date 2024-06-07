@@ -162,8 +162,9 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
-    "courses/Docker/Basics.md",
+    "courses/Docker/How to use docker for local development.md",
     "courses/Docker/Dockrise an app.md",
+    "courses/Docker/Basics.md",
     "courses/Docker/Port Mapping.md",
     "courses/Docker/Environment veriables.md",
     "hub.docker.com.md",
@@ -188,7 +189,6 @@
     "courses/Spring boot/6. Spring  MVC/Reading form data.md",
     "courses/Spring boot/4. REST CRUD/Fetching Request Body.md",
     "courses/Spring boot/4. REST CRUD/Service Layer best practices.md",
-    "courses/Spring boot/4. REST CRUD/Service layer.md",
     "courses/Spring boot/6. Spring  MVC",
     "courses/CORE JAVA",
     "courses/HTML",
