@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Docker/Volume.md",
+                "file": "courses/Docker/Deploy a docker-compose Application.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Docker/Volume.md",
+                "file": "courses/Spring boot/1. Starters/Environment setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Docker/Volume.md",
+                "file": "courses/Spring boot/1. Starters/Environment setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Docker/Volume.md"
+                "file": "courses/Spring boot/1. Starters/Environment setup.md"
               }
             }
           }
@@ -160,11 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b1f812c14709d91",
+  "active": "2d54a5cf25892bf9",
   "lastOpenFiles": [
+    "courses/Docker/Deploy a docker-compose Application.md",
+    "courses/Docker/Local development env with docker.md",
+    "courses/Docker/Volume.md",
     "courses/Docker/Example Dockerfile.md",
     "courses/Docker/Example docker-compose.md",
-    "courses/Docker/Volume.md",
     "courses/Docker/Dockerfile commands.md",
     "courses/Docker/Dockrise a react java mySql app.md",
     "courses/Spring boot/4. REST CRUD/Spring data rest config & sorting.md",
@@ -186,8 +187,6 @@
     "courses/Spring boot/6. Spring  MVC/Reading form data.md",
     "courses/Spring boot/6. Spring  MVC/Handling form requests using Java objects & Models.md",
     "courses/Docker/How to use docker for local development.md",
-    "courses/Docker/Dockrise an app.md",
-    "courses/Docker/Basics.md",
     "courses/Docker",
     "courses/Spring boot/6. Spring  MVC",
     "courses/CORE JAVA",
