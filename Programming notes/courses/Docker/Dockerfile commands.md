@@ -3,7 +3,7 @@
 - `RUN` `=>` Used to run a specific command
 - `CMD` `=>` Specifies a command that need to be executed when a docker container starts.
 - `ENTRYPOINT` `=>` Used to set executables which will always run when the container is initiated. Unlike CMD command, this cant be overridden.
-- `WORKDIR` `=>` TO specify6 a working directory inside the container.
+- `WORKDIR` `=>` TO specify a working directory inside the container.
 - `COPY` `=>` to copy file for folder from your local machine to docker container.
 - `ADD` `=>` Similar to `COPY`. It also allows you to copy data from URL or a tar file. 
 - `EXPOSE` `=>` Specifies that the container is listening to a specific port in the network.
