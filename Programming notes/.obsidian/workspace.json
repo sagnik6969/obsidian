@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/4. REST CRUD/Spring data rest config & sorting.md",
+                "file": "courses/Docker/Example Dockerfile.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/4. REST CRUD/Spring data rest config & sorting.md",
+                "file": "courses/Docker/Example Dockerfile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/4. REST CRUD/Spring data rest config & sorting.md",
+                "file": "courses/Docker/Example Dockerfile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/4. REST CRUD/Spring data rest config & sorting.md"
+                "file": "courses/Docker/Example Dockerfile.md"
               }
             }
           }
@@ -162,6 +162,11 @@
   },
   "active": "5b1f812c14709d91",
   "lastOpenFiles": [
+    "courses/Docker/Example docker-compose.md",
+    "courses/Docker/Example Dockerfile.md",
+    "courses/Docker/Dockrise a react java mySql app.md",
+    "courses/Docker/Dockerfile commands.md",
+    "courses/Spring boot/4. REST CRUD/Spring data rest config & sorting.md",
     "courses/Spring boot/4. REST CRUD/Spring data rest.md",
     "courses/Spring boot/4. REST CRUD/Rest crud coding.md",
     "courses/Spring boot/4. REST CRUD/Fetching Request Body.md",
@@ -179,15 +184,10 @@
     "courses/Spring boot/6. Spring  MVC/@RequestMapping Vs @GetMapping.md",
     "courses/Spring boot/6. Spring  MVC/Reading form data.md",
     "courses/Spring boot/6. Spring  MVC/Handling form requests using Java objects & Models.md",
-    "courses/Docker/Dockrise a react java mySql app.md",
     "courses/Docker/How to use docker for local development.md",
-    "courses/Docker/Dockerfile commands.md",
     "courses/Docker/Dockrise an app.md",
     "courses/Docker/Basics.md",
     "courses/Docker/Port Mapping.md",
-    "courses/Docker/Environment veriables.md",
-    "hub.docker.com.md",
-    "courses/SQL/Normal Forms.md",
     "courses/Docker",
     "courses/Spring boot/6. Spring  MVC",
     "courses/CORE JAVA",

@@ -1,3 +1,4 @@
+- https://www.youtube.com/watch?v=Z44UJUXsOGA
 - `FROM` `=>` Used to specify a base image
 - `RUN` `=>` Used to run a specific command
 - `CMD` `=>` Specifies a command that need to be executed when a docker container starts.
@@ -5,4 +6,7 @@
 - `WORKDIR` `=>` TO specify6 a working directory inside the container.
 - `COPY` `=>` to copy file for folder from your local machine to docker container.
 - `ADD` `=>` Similar to `COPY`. It also allows you to copy data from URL or a tar file. 
-- 
+- `EXPOSE` `=>` Specifies that the container is listening to a specific port in the network.
+- `LABEL` `=>` To add metadata to a docker image. It is a key value pair.
+- `VOLUME` `=>` To mount a volume to docker container from the host file system.
+- `ENV` used to set environment variables with key and value.
