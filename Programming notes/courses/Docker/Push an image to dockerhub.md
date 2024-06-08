@@ -1,0 +1,3 @@
+- Create a repo in `hub.docker.com`
+- Create an image with the same name as the repo
+- `docker push image_name`

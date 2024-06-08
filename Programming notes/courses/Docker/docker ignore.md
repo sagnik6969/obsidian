@@ -1,0 +1,3 @@
+- `.dockerignore` `=>` works similar to `.gitignore`
+- To ignore node modules add : `node_modules/`
+- 
