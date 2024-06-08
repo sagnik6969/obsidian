@@ -8,7 +8,8 @@
 - Docker will run all the containers specified in `Docker-compose.yml`
 - `docker compose up -d` `=>` To run docker compose in background.
 - To stop the containers `docker compose down`
-- 
+- instead of `image` we can provide path to a docker file using `build`
+- To tell docker rebuild the `build`s `=>` `docker compose up --build`
 #### Example of `docker-compose.yml`
 ```yml
 version: "3.8" # version of docker-compose

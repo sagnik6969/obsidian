@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Docker/Dockrise an app.md",
+                "file": "courses/Docker/Docker compose.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Docker/Dockrise an app.md",
+                "file": "courses/Docker/Docker compose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Docker/Dockrise an app.md",
+                "file": "courses/Docker/Docker compose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Docker/Dockrise an app.md"
+                "file": "courses/Docker/Docker compose.md"
               }
             }
           }
@@ -161,17 +161,18 @@
   },
   "active": "2d54a5cf25892bf9",
   "lastOpenFiles": [
+    "courses/Docker/Example docker-compose.md",
+    "courses/Docker/docker ignore.md",
+    "courses/Docker/Spring development using docker.md",
+    "courses/Docker/Dockrise an app.md",
     "courses/Docker/Dockrise a react java mySql app.md",
     "courses/Docker/Local development env with docker.md",
     "courses/Docker/Deploy a docker-compose Application.md",
     "courses/Docker/Docker compose.md",
-    "courses/Docker/Example docker-compose.md",
     "courses/Docker/Multi stage builds in docker.md",
     "courses/Docker/Volume.md",
-    "courses/Docker/docker ignore.md",
     "courses/Docker/Docker Networking.md",
     "courses/Docker/Push an image to dockerhub.md",
-    "courses/Docker/Dockrise an app.md",
     "courses/Docker/How to use docker for local development.md",
     "courses/Docker/Dockerfile commands.md",
     "courses/Docker/Example Dockerfile.md",
@@ -186,7 +187,6 @@
     "courses/Spring boot/1. Starters/Maven.md",
     "courses/Spring boot/1. Starters/Basics.md",
     "courses/Spring boot/1. Starters/Environment setup.md",
-    "courses/Spring boot/4. REST CRUD/Spring data rest config & sorting.md",
     "courses/Docker",
     "courses/Spring boot/6. Spring  MVC",
     "courses/CORE JAVA",
