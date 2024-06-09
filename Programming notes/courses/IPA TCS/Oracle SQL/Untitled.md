@@ -1,0 +1,5 @@
+![[Pasted image 20240609134401.png]]
+DDL
+DCL
+DML
+TCL
