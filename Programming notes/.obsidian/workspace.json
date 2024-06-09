@@ -159,12 +159,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fea84f889c040fd4",
+  "active": "2d54a5cf25892bf9",
   "lastOpenFiles": [
+    "attachments/Pasted image 20240609195635.png",
+    "attachments/Pasted image 20240609195408.png",
+    "courses/SQL/section 12 Constraints & alter table.md",
+    "courses/SQL/section 11 Comparison and logical operators.md",
+    "courses/IPA TCS/Oracle SQL/Untitled.md",
+    "attachments/Pasted image 20240609190040.png",
+    "attachments/Pasted image 20240609185659.png",
+    "attachments/Pasted image 20240609184918.png",
     "courses/IPA TCS",
     "attachments/Pasted image 20240609134401.png",
     "courses/Docker/Docker compose.md",
-    "courses/IPA TCS/Oracle SQL/Untitled.md",
     "courses/IPA TCS/Oracle SQL",
     "courses/Docker/Example docker-compose.md",
     "courses/Docker/docker ignore.md",
@@ -187,8 +194,6 @@
     "courses/Spring boot/1. Starters/Spring boot actuator.md",
     "courses/Spring boot/1. Starters/Spring Boot Dev Tools.md",
     "courses/Spring boot/1. Starters/Spring boot starters.md",
-    "courses/Spring boot/1. Starters/Spring Boot project structure.md",
-    "courses/Spring boot/1. Starters/Maven.md",
     "courses/Docker",
     "courses/Spring boot/6. Spring  MVC",
     "courses/CORE JAVA",
@@ -200,12 +205,7 @@
     "courses/Spring boot/4. REST CRUD",
     "attachments/Pasted image 20240419215215.png",
     "attachments/Pasted image 20240419151127.png",
-    "attachments/Pasted image 20240419151047.png",
-    "attachments/Pasted image 20240419104836.png",
-    "attachments/Pasted image 20240419104455.png",
     "rcrm/issues",
-    "attachments/Pasted image 20240413203544.png",
-    "courses/Spring boot/3. Hibernate & JPA",
-    "courses/Spring boot/2. Spring Core"
+    "courses/Spring boot/3. Hibernate & JPA"
   ]
 }
