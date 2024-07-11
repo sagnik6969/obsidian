@@ -1,0 +1,9 @@
+- First will analyze on weakly time frame
+- Then on daily time frame
+- Then 4 hours
+- Then 15 minutes
+- Then 5 minutes 
+- **4 hour time frame** is very important in forex trading
+- In this analysis we need to draw trend line.
+- Draw support and resistance in different time frames.
+- 

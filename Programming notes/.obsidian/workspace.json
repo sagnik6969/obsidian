@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forex trading/Technical analysis.md",
+                "file": "Forex trading/Market structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forex trading/Technical analysis.md",
+                "file": "Forex trading/Market structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forex trading/Technical analysis.md",
+                "file": "Forex trading/Market structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forex trading/Technical analysis.md"
+                "file": "Forex trading/Market structure.md"
               }
             }
           }
@@ -186,8 +186,11 @@
   },
   "active": "c57fd02037f14adb",
   "lastOpenFiles": [
-    "Forex trading/Lot size.md",
+    "attachments/Pasted image 20240711124920.png",
+    "Forex trading/Price action.md",
+    "Forex trading/Market structure.md",
     "Forex trading/Technical analysis.md",
+    "Forex trading/Lot size.md",
     "Forex trading/Pips.md",
     "Forex trading/Currency pairs.md",
     "Forex trading",
@@ -223,9 +226,6 @@
     "courses/Docker/How to use docker for local development.md",
     "courses/Docker/Dockerfile commands.md",
     "courses/Docker/Example Dockerfile.md",
-    "courses/Docker/Environment veriables.md",
-    "courses/Docker/Basics.md",
-    "courses/Spring boot/1. Starters/Running Spring Boot Using Commend Line.md",
     "courses/Docker",
     "courses/Spring boot/6. Spring  MVC",
     "courses/CORE JAVA",
