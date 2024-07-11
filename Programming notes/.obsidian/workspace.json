@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forex trading/Market structure.md",
+                "file": "Forex trading/Candle stick pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forex trading/Market structure.md",
+                "file": "Forex trading/Candle stick pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forex trading/Market structure.md",
+                "file": "Forex trading/Candle stick pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forex trading/Market structure.md"
+                "file": "Forex trading/Candle stick pattern.md"
               }
             }
           }
@@ -186,9 +186,12 @@
   },
   "active": "c57fd02037f14adb",
   "lastOpenFiles": [
+    "attachments/Pasted image 20240711211532.png",
+    "attachments/Pasted image 20240711211518.png",
+    "Forex trading/Market structure.md",
+    "Forex trading/Candle stick pattern.md",
     "attachments/Pasted image 20240711124920.png",
     "Forex trading/Price action.md",
-    "Forex trading/Market structure.md",
     "Forex trading/Technical analysis.md",
     "Forex trading/Lot size.md",
     "Forex trading/Pips.md",
@@ -207,9 +210,7 @@
     "courses/IPA TCS/Oracle SQL/Untitled.md",
     "attachments/Pasted image 20240609190040.png",
     "attachments/Pasted image 20240609185659.png",
-    "attachments/Pasted image 20240609184918.png",
     "courses/IPA TCS",
-    "attachments/Pasted image 20240609134401.png",
     "courses/Docker/Docker compose.md",
     "courses/IPA TCS/Oracle SQL",
     "courses/Docker/Example docker-compose.md",
@@ -225,7 +226,6 @@
     "courses/Docker/Push an image to dockerhub.md",
     "courses/Docker/How to use docker for local development.md",
     "courses/Docker/Dockerfile commands.md",
-    "courses/Docker/Example Dockerfile.md",
     "courses/Docker",
     "courses/Spring boot/6. Spring  MVC",
     "courses/CORE JAVA",
