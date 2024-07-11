@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "783141e18e749d0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recepies/Chicken.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c57fd02037f14adb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forex trading/Technical analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5b1f812c14709d91",
             "type": "leaf",
             "state": {
@@ -31,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/IPA TCS/Oracle SQL/Untitled.md",
+                "file": "Forex trading/Technical analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/IPA TCS/Oracle SQL/Untitled.md",
+                "file": "Forex trading/Technical analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/IPA TCS/Oracle SQL/Untitled.md"
+                "file": "Forex trading/Technical analysis.md"
               }
             }
           }
@@ -159,8 +184,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d54a5cf25892bf9",
+  "active": "c57fd02037f14adb",
   "lastOpenFiles": [
+    "Forex trading/Lot size.md",
+    "Forex trading/Technical analysis.md",
+    "Forex trading/Pips.md",
+    "Forex trading/Currency pairs.md",
+    "Forex trading",
+    "recepies/Chicken.md",
+    "recepies",
     "attachments/Pasted image 20240610122532.png",
     "attachments/Pasted image 20240610121556.png",
     "attachments/Pasted image 20240610114827.png",
@@ -194,18 +226,11 @@
     "courses/Docker/Environment veriables.md",
     "courses/Docker/Basics.md",
     "courses/Spring boot/1. Starters/Running Spring Boot Using Commend Line.md",
-    "courses/Spring boot/1. Starters/Spring security.md",
-    "courses/Spring boot/1. Starters/Spring boot actuator.md",
-    "courses/Spring boot/1. Starters/Spring Boot Dev Tools.md",
-    "courses/Spring boot/1. Starters/Spring boot starters.md",
     "courses/Docker",
     "courses/Spring boot/6. Spring  MVC",
     "courses/CORE JAVA",
     "courses/HTML",
-    "attachments/Pasted image 20240428193054.png",
     "courses/Spring boot/5. Spring security",
-    "courses/Spring boot/4. REST CRUD",
-    "rcrm/issues",
-    "courses/Spring boot/3. Hibernate & JPA"
+    "courses/Spring boot/4. REST CRUD"
   ]
 }

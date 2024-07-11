@@ -1,0 +1,4 @@
+- `EURO USD`
+- `EURO` primary currency
+- `USD` Secondary currency
+- 
