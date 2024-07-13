@@ -1,0 +1,5 @@
+- Resistance is supply zone
+- Support is demand zone
+- Resistance is a line while supply zone is a rectangle. there is no other difference. 
+- When the graph breaks supply zone it becomes demand zone.
+- 

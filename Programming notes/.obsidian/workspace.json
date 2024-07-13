@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forex trading/Support and resistence.md",
+                "file": "Forex trading/Trend analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forex trading/Support and resistence.md",
+                "file": "Forex trading/Trend analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forex trading/Support and resistence.md",
+                "file": "Forex trading/Trend analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forex trading/Support and resistence.md"
+                "file": "Forex trading/Trend analysis.md"
               }
             }
           }
@@ -186,8 +186,15 @@
   },
   "active": "c57fd02037f14adb",
   "lastOpenFiles": [
-    "Forex trading/Candle stick pattern.md",
+    "attachments/Pasted image 20240713090001.png",
+    "attachments/Pasted image 20240713085551.png",
+    "attachments/Pasted image 20240713085545.png",
+    "attachments/Pasted image 20240713085357.png",
+    "attachments/Pasted image 20240713083503.png",
+    "Forex trading/Supply Demand Zone.md",
+    "Forex trading/Trend analysis.md",
     "Forex trading/Support and resistence.md",
+    "Forex trading/Candle stick pattern.md",
     "attachments/Pasted image 20240711211532.png",
     "attachments/Pasted image 20240711211518.png",
     "Forex trading/Market structure.md",
@@ -203,13 +210,9 @@
     "attachments/Pasted image 20240610122532.png",
     "attachments/Pasted image 20240610121556.png",
     "attachments/Pasted image 20240610114827.png",
-    "attachments/Pasted image 20240610114556.png",
-    "attachments/Pasted image 20240609195635.png",
-    "attachments/Pasted image 20240609195408.png",
     "courses/SQL/section 12 Constraints & alter table.md",
     "courses/SQL/section 11 Comparison and logical operators.md",
     "courses/IPA TCS/Oracle SQL/Untitled.md",
-    "attachments/Pasted image 20240609190040.png",
     "courses/IPA TCS",
     "courses/Docker/Docker compose.md",
     "courses/IPA TCS/Oracle SQL",
@@ -223,9 +226,6 @@
     "courses/Docker/Multi stage builds in docker.md",
     "courses/Docker/Volume.md",
     "courses/Docker/Docker Networking.md",
-    "courses/Docker/Push an image to dockerhub.md",
-    "courses/Docker/How to use docker for local development.md",
-    "courses/Docker/Dockerfile commands.md",
     "courses/Docker",
     "courses/Spring boot/6. Spring  MVC",
     "courses/CORE JAVA",
