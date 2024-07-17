@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forex trading/Trend analysis.md",
+                "file": "courses/KYT.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forex trading/Trend analysis.md",
+                "file": "courses/KYT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forex trading/Trend analysis.md",
+                "file": "courses/KYT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forex trading/Trend analysis.md"
+                "file": "courses/KYT.md"
               }
             }
           }
@@ -186,6 +186,8 @@
   },
   "active": "c57fd02037f14adb",
   "lastOpenFiles": [
+    "Forex trading/Trend analysis.md",
+    "courses/KYT.md",
     "attachments/Pasted image 20240713104359.png",
     "attachments/Pasted image 20240713103442.png",
     "attachments/Pasted image 20240713103354.png",
@@ -195,13 +197,11 @@
     "attachments/Pasted image 20240713085357.png",
     "attachments/Pasted image 20240713083503.png",
     "Forex trading/Supply Demand Zone.md",
-    "Forex trading/Trend analysis.md",
     "Forex trading/Support and resistence.md",
     "Forex trading/Candle stick pattern.md",
     "attachments/Pasted image 20240711211532.png",
     "attachments/Pasted image 20240711211518.png",
     "Forex trading/Market structure.md",
-    "attachments/Pasted image 20240711124920.png",
     "Forex trading/Price action.md",
     "Forex trading/Technical analysis.md",
     "Forex trading/Lot size.md",
