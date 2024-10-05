@@ -1,5 +1,6 @@
 ![[Pasted image 20240401232843.png]]
 
+
 ### Spring Initializer
 https://start.spring.io/ => to quickly create a spring project
 
