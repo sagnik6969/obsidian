@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/KYT.md",
+                "file": "courses/Spring boot/1. Starters/Running Spring Boot Using Commend Line.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/KYT.md",
+                "file": "courses/Spring boot/1. Starters/Running Spring Boot Using Commend Line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/KYT.md",
+                "file": "courses/Spring boot/1. Starters/Running Spring Boot Using Commend Line.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/KYT.md"
+                "file": "courses/Spring boot/1. Starters/Running Spring Boot Using Commend Line.md"
               }
             }
           }
@@ -198,17 +198,17 @@
   },
   "active": "c57fd02037f14adb",
   "lastOpenFiles": [
-    "courses/Spring boot/1. Starters/Running Spring Boot Using Commend Line.md",
-    "courses/KYT.md",
-    "courses/Docker/Deploy a docker-compose Application.md",
     "courses/Spring boot/1. Starters/Spring security.md",
     "courses/Spring boot/1. Starters/Spring boot actuator.md",
+    "courses/Spring boot/1. Starters/Running Spring Boot Using Commend Line.md",
+    "courses/Spring boot/1. Starters/Environment setup.md",
+    "courses/KYT.md",
+    "courses/Docker/Deploy a docker-compose Application.md",
     "courses/Spring boot/1. Starters/Spring Boot Dev Tools.md",
     "courses/Spring boot/1. Starters/Spring boot starters.md",
     "courses/Spring boot/1. Starters/Spring Boot project structure.md",
     "courses/Spring boot/1. Starters/Maven.md",
     "courses/Spring boot/1. Starters/Basics.md",
-    "courses/Spring boot/1. Starters/Environment setup.md",
     "courses/Spring boot/2. Spring Core/Inversion of control.md",
     "courses/Spring boot/6. Spring  MVC/What IS MVC.md",
     "courses/Spring boot/6. Spring  MVC/Adding CSS Thymeleaf.md",
