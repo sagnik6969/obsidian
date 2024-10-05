@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/1. Starters/Spring security.md",
+                "file": "courses/Spring boot/1. Starters/Running Spring Boot Using Commend Line.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/1. Starters/Spring security.md",
+                "file": "courses/KYT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/1. Starters/Spring security.md",
+                "file": "courses/KYT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/1. Starters/Spring security.md"
+                "file": "courses/KYT.md"
               }
             }
           }
@@ -196,8 +196,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99708de8c77a3c8d",
+  "active": "c57fd02037f14adb",
   "lastOpenFiles": [
+    "courses/Spring boot/1. Starters/Running Spring Boot Using Commend Line.md",
+    "courses/KYT.md",
+    "courses/Docker/Deploy a docker-compose Application.md",
+    "courses/Spring boot/1. Starters/Spring security.md",
     "courses/Spring boot/1. Starters/Spring boot actuator.md",
     "courses/Spring boot/1. Starters/Spring Boot Dev Tools.md",
     "courses/Spring boot/1. Starters/Spring boot starters.md",
@@ -210,7 +214,6 @@
     "courses/Spring boot/6. Spring  MVC/Adding CSS Thymeleaf.md",
     "courses/Spring boot/6. Spring  MVC/Thymeleaf.md",
     "Forex trading/Trend analysis.md",
-    "courses/KYT.md",
     "attachments/Pasted image 20240713104359.png",
     "attachments/Pasted image 20240713103442.png",
     "attachments/Pasted image 20240713103354.png",
@@ -233,9 +236,6 @@
     "Forex trading",
     "recepies/Chicken.md",
     "recepies",
-    "courses/SQL/section 12 Constraints & alter table.md",
-    "courses/SQL/section 11 Comparison and logical operators.md",
-    "courses/IPA TCS/Oracle SQL/Untitled.md",
     "courses/IPA TCS",
     "courses/IPA TCS/Oracle SQL",
     "courses/Docker",
