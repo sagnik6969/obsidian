@@ -35,6 +35,7 @@
 3. create constructor in your class for injection.
 4. add `@GetMapping` for the3 endpoint.
 ![[Pasted image 20240406184925.png]]
+
 #### `@component` annotation
 1. `@Component` marks a class as spring bein.
 2. spring bein is a regular java class that is managed by spring.

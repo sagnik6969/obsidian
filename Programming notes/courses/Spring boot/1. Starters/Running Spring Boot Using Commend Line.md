@@ -11,4 +11,3 @@ command: `java -jar myApp.jar`
 - `Scanner sc = new Scanner(System.in);` => `System.in` tells java where to look for inputs.
 - `rand` => used to generate random number
 - `Math` => `pow`,`max`,`min`
-- 
