@@ -22,4 +22,3 @@ public interface EmployeeRepository extends JpaRepository<Employee,Integer> {
 - Example: Sort by last name: `/employees?sort=lastName`
 - Sort by first name descending:  `/employees?sort=firstName,desc`
 - Sort by first name then last name in descending order `/employees?sort=firstName,lastName,desc`
-- 
