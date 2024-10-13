@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/5. Spring security/Basics.md",
+                "file": "courses/Spring boot/3. Hibernate & JPA/Save a java object to database.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/5. Spring security/Basics.md",
+                "file": "courses/Spring boot/3. Hibernate & JPA/Save a java object to database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/5. Spring security/Basics.md",
+                "file": "courses/Spring boot/3. Hibernate & JPA/Save a java object to database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/5. Spring security/Basics.md"
+                "file": "courses/Spring boot/3. Hibernate & JPA/Save a java object to database.md"
               }
             }
           }
@@ -198,32 +198,32 @@
   },
   "active": "c57fd02037f14adb",
   "lastOpenFiles": [
-    "courses/Spring boot/5. Spring security/Basic configuration.md",
-    "courses/Spring boot/5. Spring security/Basics.md",
-    "courses/Spring boot/4. REST CRUD/Spring data rest config & sorting.md",
-    "courses/Spring boot/4. REST CRUD/Spring data rest.md",
-    "courses/Spring boot/4. REST CRUD/Rest crud coding.md",
-    "courses/Spring boot/4. REST CRUD/Fetching Request Body.md",
-    "courses/Spring boot/4. REST CRUD/Service Layer best practices.md",
-    "courses/Spring boot/4. REST CRUD/Service layer.md",
-    "courses/Spring boot/4. REST CRUD/API design.md",
-    "courses/Spring boot/4. REST CRUD/Spring rest exception handling.md",
-    "courses/Spring boot/4. REST CRUD/Route params.md",
-    "courses/Spring boot/4. REST CRUD/Java JSON data binding.md",
-    "courses/Spring boot/4. REST CRUD/Spring Rest Controller.md",
-    "courses/Spring boot/4. REST CRUD/Introduction.md",
-    "courses/Spring boot/3. Hibernate & JPA/Spring Data JPA.md",
-    "courses/Spring boot/3. Hibernate & JPA/Why Do we need service interface or DAO interface.md",
-    "courses/Spring boot/3. Hibernate & JPA/Creating table using java code.md",
-    "courses/Spring boot/3. Hibernate & JPA/JPA Query language.md",
-    "courses/Spring boot/3. Hibernate & JPA/CRUD operations.md",
-    "courses/Spring boot/3. Hibernate & JPA/Save a java object to database.md",
     "courses/Spring boot/3. Hibernate & JPA/JPA Development process.md",
     "courses/Spring boot/3. Hibernate & JPA/Command Line runner.md",
     "courses/Spring boot/3. Hibernate & JPA/Setting Up.md",
     "courses/Spring boot/3. Hibernate & JPA/Introduction.md",
     "courses/Spring boot/2. Spring Core/Configuring bean with java code.md",
     "courses/Spring boot/2. Spring Core/Bean lifecycle methods.md",
+    "courses/Spring boot/2. Spring Core/Bean scopes.md",
+    "courses/Spring boot/2. Spring Core/Lazy Initialization.md",
+    "courses/Spring boot/2. Spring Core/Autowiring.md",
+    "courses/Spring boot/2. Spring Core/Field injection.md",
+    "courses/Spring boot/2. Spring Core/Setter injection.md",
+    "courses/Spring boot/2. Spring Core/Scanning for component classes.md",
+    "courses/Spring boot/2. Spring Core/Inversion of control.md",
+    "courses/Spring boot/1. Starters/application.properties.md",
+    "courses/Spring boot/1. Starters/Running Spring Boot Using Commend Line.md",
+    "courses/Spring boot/1. Starters/Spring security.md",
+    "courses/Spring boot/1. Starters/Spring boot actuator.md",
+    "courses/Spring boot/1. Starters/Spring Boot Dev Tools.md",
+    "courses/Spring boot/1. Starters/Spring boot starters.md",
+    "courses/Spring boot/1. Starters/Spring Boot project structure.md",
+    "courses/Spring boot/1. Starters/Maven.md",
+    "courses/Spring boot/1. Starters/Basics.md",
+    "courses/Spring boot/5. Spring security/Basics.md",
+    "courses/Spring boot/5. Spring security/Basic configuration.md",
+    "courses/Spring boot/4. REST CRUD/Spring data rest config & sorting.md",
+    "courses/Spring boot/4. REST CRUD/Spring data rest.md",
     "attachments/Pasted image 20240713104359.png",
     "attachments/Pasted image 20240713103442.png",
     "attachments/Pasted image 20240713103354.png",
