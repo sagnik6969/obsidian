@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Spring boot/3. Hibernate & JPA/Save a java object to database.md",
+                "file": "courses/Spring boot/5. Spring security/Restrict access based on roles.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/Spring boot/3. Hibernate & JPA/Save a java object to database.md",
+                "file": "courses/Spring boot/5. Spring security/Restrict access based on roles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/Spring boot/3. Hibernate & JPA/Save a java object to database.md",
+                "file": "courses/Spring boot/5. Spring security/Restrict access based on roles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/Spring boot/3. Hibernate & JPA/Save a java object to database.md"
+                "file": "courses/Spring boot/5. Spring security/Restrict access based on roles.md"
               }
             }
           }
@@ -198,6 +198,14 @@
   },
   "active": "c57fd02037f14adb",
   "lastOpenFiles": [
+    "courses/Spring boot/5. Spring security/Basic configuration.md",
+    "courses/Spring boot/5. Spring security/Basics.md",
+    "courses/Spring boot/5. Spring security/Hashing Passwords.md",
+    "courses/Spring boot/5. Spring security/Spring Security With User Accounts Stored in The Database.md",
+    "courses/Spring boot/5. Spring security/Restrict access based on roles.md",
+    "courses/Spring boot/5. Spring security/JDBC Auth - Custom Tables.md",
+    "courses/Spring boot/5. Spring security/Custom tables using JPA & Hibernate.md",
+    "courses/Spring boot/3. Hibernate & JPA/Save a java object to database.md",
     "courses/Spring boot/3. Hibernate & JPA/JPA Development process.md",
     "courses/Spring boot/3. Hibernate & JPA/Command Line runner.md",
     "courses/Spring boot/3. Hibernate & JPA/Setting Up.md",
@@ -216,14 +224,6 @@
     "courses/Spring boot/1. Starters/Spring security.md",
     "courses/Spring boot/1. Starters/Spring boot actuator.md",
     "courses/Spring boot/1. Starters/Spring Boot Dev Tools.md",
-    "courses/Spring boot/1. Starters/Spring boot starters.md",
-    "courses/Spring boot/1. Starters/Spring Boot project structure.md",
-    "courses/Spring boot/1. Starters/Maven.md",
-    "courses/Spring boot/1. Starters/Basics.md",
-    "courses/Spring boot/5. Spring security/Basics.md",
-    "courses/Spring boot/5. Spring security/Basic configuration.md",
-    "courses/Spring boot/4. REST CRUD/Spring data rest config & sorting.md",
-    "courses/Spring boot/4. REST CRUD/Spring data rest.md",
     "attachments/Pasted image 20240713104359.png",
     "attachments/Pasted image 20240713103442.png",
     "attachments/Pasted image 20240713103354.png",
