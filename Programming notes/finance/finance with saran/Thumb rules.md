@@ -1,2 +1,3 @@
 - Invest in the starting of the month and spend the remaining amount throughout the month.
+- Never invest in large cap funds in India. Instead invest on index funds.
 - 
