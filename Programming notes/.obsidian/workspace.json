@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "finance/finance with saran/Financial goals.md",
+                "file": "finance/finance with saran/Finance sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Financial goals"
+              "title": "Finance sheet"
             }
           },
           {
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "finance/finance with saran/Financial goals.md",
+                "file": "finance/finance with saran/Finance sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Financial goals"
+              "title": "Backlinks for Finance sheet"
             }
           },
           {
@@ -195,12 +195,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "finance/finance with saran/Financial goals.md",
+                "file": "finance/finance with saran/Finance sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Financial goals"
+              "title": "Outgoing links from Finance sheet"
             }
           },
           {
@@ -222,10 +222,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "finance/finance with saran/Financial goals.md"
+                "file": "finance/finance with saran/Finance sheet.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Financial goals"
+              "title": "Outline of Finance sheet"
             }
           }
         ],
@@ -248,12 +248,14 @@
   },
   "active": "29763d791895716f",
   "lastOpenFiles": [
+    "attachments/Pasted image 20241224111104.png",
+    "finance/finance with saran/Financial goals.md",
+    "finance/finance with saran/Finance sheet.md",
     "attachments/Pasted image 20241224101656.png",
     "attachments/Pasted image 20241224101541.png",
     "attachments/Pasted image 20241224101421.png",
     "attachments/Pasted image 20241224101027.png",
     "finance/finance with saran/Asset allocation.md",
-    "finance/finance with saran/Financial goals.md",
     "attachments/Pasted image 20241224094906.png",
     "attachments/Pasted image 20241224094559.png",
     "finance/finance with saran/Rules for buying a car or bike.md",
@@ -265,7 +267,6 @@
     "attachments/Pasted image 20241224080655.png",
     "finance/finance with saran/Miths.md",
     "attachments/Pasted image 20241224075918.png",
-    "attachments/Pasted image 20241224075710.png",
     "finance/finance with saran",
     "Untitled",
     "finance",
@@ -286,7 +287,6 @@
     "courses/Spring boot/2. Spring Core/Bean scopes.md",
     "courses/Spring boot/2. Spring Core/Lazy Initialization.md",
     "courses/Spring boot/2. Spring Core/Autowiring.md",
-    "courses/Spring boot/2. Spring Core/Field injection.md",
     "Forex trading",
     "recepies",
     "courses/IPA TCS",

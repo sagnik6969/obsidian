@@ -12,7 +12,7 @@
 ### asset allocation for different kind of goals
 ![[Pasted image 20241224101541.png]]
 
-### Key takeways
+### Key takeaways
 ![[Pasted image 20241224101656.png]]
 
 
