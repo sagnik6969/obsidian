@@ -62,6 +62,20 @@
             }
           },
           {
+            "id": "29763d791895716f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "finance/finance with saran/Financial goals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Financial goals"
+            }
+          },
+          {
             "id": "99708de8c77a3c8d",
             "type": "leaf",
             "state": {
@@ -90,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -162,6 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "finance/finance with saran/Financial goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +186,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Financial goals"
             }
           },
           {
@@ -180,12 +195,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/IPA TCS/Oracle SQL/Untitled.md",
+                "file": "finance/finance with saran/Financial goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Financial goals"
             }
           },
           {
@@ -207,10 +222,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/IPA TCS/Oracle SQL/Untitled.md"
+                "file": "finance/finance with saran/Financial goals.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Financial goals"
             }
           }
         ],
@@ -231,8 +246,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33cf9904ea3694f5",
+  "active": "29763d791895716f",
   "lastOpenFiles": [
+    "attachments/Pasted image 20241224101656.png",
+    "attachments/Pasted image 20241224101541.png",
+    "attachments/Pasted image 20241224101421.png",
+    "attachments/Pasted image 20241224101027.png",
+    "finance/finance with saran/Asset allocation.md",
+    "finance/finance with saran/Financial goals.md",
+    "attachments/Pasted image 20241224094906.png",
+    "attachments/Pasted image 20241224094559.png",
+    "finance/finance with saran/Rules for buying a car or bike.md",
+    "attachments/Pasted image 20241224091952.png",
+    "finance/finance with saran/Thumb rules.md",
+    "finance/finance with saran/Calculate fu money.md",
+    "attachments/Pasted image 20241224084215.png",
+    "finance/finance with saran/Why start early.md",
+    "attachments/Pasted image 20241224080655.png",
+    "finance/finance with saran/Miths.md",
+    "attachments/Pasted image 20241224075918.png",
+    "attachments/Pasted image 20241224075710.png",
+    "finance/finance with saran",
+    "Untitled",
+    "finance",
     "courses/Spring boot/5. Spring security/Restrict access based on roles.md",
     "courses/Spring boot/5. Spring security/Basic configuration.md",
     "courses/Spring boot/5. Spring security/Basics.md",
@@ -251,33 +287,12 @@
     "courses/Spring boot/2. Spring Core/Lazy Initialization.md",
     "courses/Spring boot/2. Spring Core/Autowiring.md",
     "courses/Spring boot/2. Spring Core/Field injection.md",
-    "courses/Spring boot/2. Spring Core/Setter injection.md",
-    "courses/Spring boot/2. Spring Core/Scanning for component classes.md",
-    "courses/Spring boot/2. Spring Core/Inversion of control.md",
-    "courses/Spring boot/1. Starters/application.properties.md",
-    "courses/Spring boot/1. Starters/Running Spring Boot Using Commend Line.md",
-    "courses/Spring boot/1. Starters/Spring security.md",
-    "courses/Spring boot/1. Starters/Spring boot actuator.md",
-    "courses/Spring boot/1. Starters/Spring Boot Dev Tools.md",
-    "attachments/Pasted image 20240713104359.png",
-    "attachments/Pasted image 20240713103442.png",
-    "attachments/Pasted image 20240713103354.png",
-    "attachments/Pasted image 20240713090001.png",
-    "attachments/Pasted image 20240713085551.png",
-    "attachments/Pasted image 20240713085545.png",
-    "attachments/Pasted image 20240713085357.png",
-    "attachments/Pasted image 20240713083503.png",
-    "attachments/Pasted image 20240711211532.png",
-    "attachments/Pasted image 20240711211518.png",
     "Forex trading",
     "recepies",
     "courses/IPA TCS",
     "courses/IPA TCS/Oracle SQL",
     "courses/Docker",
     "courses/Spring boot/6. Spring  MVC",
-    "courses/CORE JAVA",
-    "courses/HTML",
-    "courses/Spring boot/5. Spring security",
-    "courses/Spring boot/4. REST CRUD"
+    "courses/CORE JAVA"
   ]
 }

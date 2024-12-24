@@ -1,0 +1,2 @@
+- Invest in the starting of the month and spend the remaining amount throughout the month.
+- 
