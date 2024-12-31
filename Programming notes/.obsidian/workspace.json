@@ -76,6 +76,18 @@
             }
           },
           {
+            "id": "6aa33a74fdedbac5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
             "id": "99708de8c77a3c8d",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -246,7 +258,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29763d791895716f",
+  "active": "6aa33a74fdedbac5",
   "lastOpenFiles": [
     "attachments/Pasted image 20241224195217.png",
     "finance/finance with saran/Financial goals.md",
