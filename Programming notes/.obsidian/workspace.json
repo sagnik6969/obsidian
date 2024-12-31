@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "finance/finance with saran/Midcap funds.md",
+                "file": "finance/finance with saran/Emergency fund.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Midcap funds"
+              "title": "Emergency fund"
             }
           },
           {
@@ -262,6 +262,13 @@
   },
   "active": "6aa33a74fdedbac5",
   "lastOpenFiles": [
+    "finance/finance with saran/Debt funds.md",
+    "finance/finance with saran/Emergency fund.md",
+    "attachments/Pasted image 20241231205948.png",
+    "attachments/Pasted image 20241231204652.png",
+    "attachments/Pasted image 20241231203928.png",
+    "attachments/Pasted image 20241231203853.png",
+    "attachments/Pasted image 20241231203749.png",
     "finance/finance with saran/Midcap funds.md",
     "attachments/Pasted image 20241224195217.png",
     "finance/finance with saran/Financial goals.md",
@@ -274,12 +281,7 @@
     "attachments/Pasted image 20241224101656.png",
     "attachments/Pasted image 20241224101541.png",
     "attachments/Pasted image 20241224101421.png",
-    "attachments/Pasted image 20241224101027.png",
-    "attachments/Pasted image 20241224094906.png",
-    "attachments/Pasted image 20241224094559.png",
-    "attachments/Pasted image 20241224091952.png",
     "finance/finance with saran/Calculate fu money.md",
-    "attachments/Pasted image 20241224084215.png",
     "finance/finance with saran/Why start early.md",
     "finance/finance with saran/Miths.md",
     "finance/finance with saran",
@@ -299,8 +301,6 @@
     "courses/Spring boot/3. Hibernate & JPA/Introduction.md",
     "courses/Spring boot/2. Spring Core/Configuring bean with java code.md",
     "courses/Spring boot/2. Spring Core/Bean lifecycle methods.md",
-    "courses/Spring boot/2. Spring Core/Bean scopes.md",
-    "courses/Spring boot/2. Spring Core/Lazy Initialization.md",
     "Forex trading",
     "recepies",
     "courses/IPA TCS",
