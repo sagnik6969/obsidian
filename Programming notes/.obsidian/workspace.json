@@ -79,12 +79,14 @@
             "id": "6aa33a74fdedbac5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "finance/finance with saran/Midcap funds.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "Midcap funds"
             }
           },
           {
@@ -260,6 +262,7 @@
   },
   "active": "6aa33a74fdedbac5",
   "lastOpenFiles": [
+    "finance/finance with saran/Midcap funds.md",
     "attachments/Pasted image 20241224195217.png",
     "finance/finance with saran/Financial goals.md",
     "finance/finance with saran/Best index funds.md",
@@ -278,7 +281,6 @@
     "finance/finance with saran/Calculate fu money.md",
     "attachments/Pasted image 20241224084215.png",
     "finance/finance with saran/Why start early.md",
-    "attachments/Pasted image 20241224080655.png",
     "finance/finance with saran/Miths.md",
     "finance/finance with saran",
     "Untitled",
