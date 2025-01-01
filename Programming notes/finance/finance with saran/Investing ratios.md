@@ -1,0 +1,2 @@
+- Atleast invest 20% of your income.
+- 
