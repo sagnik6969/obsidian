@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "finance/finance with saran/Finance sheet.md",
+                "file": "finance/finance with saran/Small cap funds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Finance sheet"
+              "title": "Small cap funds"
             }
           },
           {
@@ -262,23 +262,24 @@
   },
   "active": "6aa33a74fdedbac5",
   "lastOpenFiles": [
+    "finance/finance with saran/Midcap funds.md",
+    "finance/finance with saran/Small cap funds.md",
+    "finance/finance with saran/Best index funds.md",
     "finance/finance with saran/Emergency fund.md",
-    "finance/finance with saran/When to exit equity mutual fund.md",
     "finance/finance with saran/Investing ratios.md",
+    "finance/finance with saran/Financial goals.md",
+    "finance/finance with saran/Finance sheet.md",
+    "finance/finance with saran/When to exit equity mutual fund.md",
     "finance/finance with saran/Debt funds.md",
     "attachments/Pasted image 20241231205948.png",
     "attachments/Pasted image 20241231204652.png",
     "attachments/Pasted image 20241231203928.png",
     "attachments/Pasted image 20241231203853.png",
     "attachments/Pasted image 20241231203749.png",
-    "finance/finance with saran/Midcap funds.md",
     "attachments/Pasted image 20241224195217.png",
-    "finance/finance with saran/Financial goals.md",
-    "finance/finance with saran/Best index funds.md",
     "finance/finance with saran/Asset allocation.md",
     "finance/finance with saran/Rules for buying a car or bike.md",
     "finance/finance with saran/Thumb rules.md",
-    "finance/finance with saran/Finance sheet.md",
     "attachments/Pasted image 20241224111104.png",
     "attachments/Pasted image 20241224101656.png",
     "attachments/Pasted image 20241224101541.png",
@@ -300,7 +301,6 @@
     "courses/Spring boot/3. Hibernate & JPA/JPA Development process.md",
     "courses/Spring boot/3. Hibernate & JPA/Command Line runner.md",
     "courses/Spring boot/3. Hibernate & JPA/Setting Up.md",
-    "courses/Spring boot/3. Hibernate & JPA/Introduction.md",
     "Forex trading",
     "recepies",
     "courses/IPA TCS",

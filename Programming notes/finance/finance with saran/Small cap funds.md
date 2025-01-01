@@ -1,0 +1,1 @@
+1. Only tata small cap fund (No brainer)
